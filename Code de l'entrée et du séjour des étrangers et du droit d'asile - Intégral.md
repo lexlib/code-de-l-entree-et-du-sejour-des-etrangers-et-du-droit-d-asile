@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-01-28
 ## Contenu: 
   - [Partie législative (art. L111-10 à L626-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-10)](#2)
@@ -226,8 +226,8 @@ présent code sont applicables dans les départements d'outre-mer.
 "Art. L. 831-1-1 du code du travail.
 
 "Nul ne peut, directement ou par personne interposée, engager, conserver à son service ou employer pour quelque durée que ce
-soit un étranger non muni du titre l'autorisant à exercer une activité salariée dans la collectivité territoriale de Saint-
-Pierre-et-Miquelon. Les conditions de délivrance de cette autorisation de travail sont fixées par voie réglementaire.
+soit un étranger non muni du titre l'autorisant à exercer une activité salariée à Saint-Pierre-et-Miquelon. Les conditions de
+délivrance de cette autorisation de travail sont fixées par voie réglementaire.
 
 "Art. L. 831-2 du code du travail.
 
@@ -244,7 +244,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+  - Ordonnance n°2005-57 du 26 janvier 2005 - art. 1 () JORF 28 janvier 2005
 
 _Cité par_:
 
