@@ -1,0 +1,387 @@
+# Code de l'entrée et du séjour des étrangers et du droit d'asile  
+Version Consolidée au 2005-01-19
+## Contenu: 
+  - [Partie législative (art. L111-10 à L626-1)](#1)
+    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-10)](#2)
+      - [TITRE Ier : GÉNÉRALITÉS (art. L111-10)](#3)
+        - [Chapitre unique (art. L111-10)](#4)
+    - [LIVRE II : L'ENTRÉE EN FRANCE (art. L211-6 à L211-8)](#5)
+      - [TITRE Ier : CONDITIONS D'ADMISSION (art. L211-6 à L211-8)](#6)
+        - [Chapitre Ier : Documents exigés (art. L211-6 à L211-8)](#7)
+          - [Section 3 : Justificatif d'hébergement (art. L211-6 à L211-8)](#8)
+    - [LIVRE III : LE SÉJOUR EN FRANCE (art. L322-1)](#9)
+      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. L322-1)](#10)
+        - [Chapitre II : Exercice d'une activité professionnelle (art. L322-1)](#11)
+          - [Section 1 : Activité professionnelle salariée (art. L322-1)](#12)
+    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. L421-2 à L421-3)](#13)
+      - [TITRE II : INSTRUCTION DES DEMANDES (art. L421-2 à L421-3)](#14)
+        - [Chapitre unique (art. L421-2 à L421-3)](#15)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L626-1)](#16)
+      - [TITRE II : SANCTIONS (art. L626-1)](#17)
+        - [Chapitre VI : Dispositions diverses. (art. L626-1)](#18)
+# Partie législative<a id=1></a>
+
+## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
+
+### TITRE Ier : GÉNÉRALITÉS<a id=3></a>
+
+#### Chapitre unique<a id=4></a>
+
+###### Article L111-10
+
+Chaque année, le Gouvernement dépose devant le Parlement un rapport sur les orientations pluriannuelles de la politique
+d'immigration.
+
+Ce rapport indique et commente :
+
+a) Le nombre des différents titres de séjour accordés et celui des demandes rejetées et des renouvellements refusés ;
+
+b) Le nombre d'étrangers admis au titre du regroupement familial ;
+
+c) Le nombre d'étrangers ayant obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire, ainsi que celui des
+demandes rejetées ;
+
+d) Le nombre d'attestations d'accueil présentées pour validation et le nombre d'attestations d'accueil validées ;
+
+e) Le nombre d'étrangers ayant fait l'objet de mesures d'éloignement effectives comparé à celui des décisions prononcées ;
+
+f) Les moyens et le nombre de procédures, ainsi que leur coût, mis en oeuvre pour lutter contre l'entrée et le séjour
+irrégulier des étrangers ;
+
+g) Les moyens mis en oeuvre et les résultats obtenus dans le domaine de la lutte contre les trafics de main-d'oeuvre
+étrangère ;
+
+h) Les actions entreprises avec les pays d'origine pour mettre en oeuvre une politique d'immigration fondée sur le
+codéveloppement et le partenariat ;
+
+i) Les actions entreprises au niveau national en vue de lutter contre les discriminations et de favoriser l'intégration des
+étrangers en situation régulière.
+
+Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière
+sur le territoire français.
+
+L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration, l'Agence nationale de l'accueil
+des étrangers et des migrations et la Commission nationale de contrôle des centres et locaux de rétention et des zones
+d'attente joignent leurs observations au rapport.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Décret n°2005-544 du 26 mai 2005 - art. 1 (V)
+  - Loi n°2011-525 du 17 mai 2011 - art. 69 (VD)
+  - Loi n°2016-274 du 7 mars 2016 - art. 42
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-25 (VT)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L313-14 (V)
+  - Code du travail - art. R5223-22 (V)
+  - Code du travail - art. R5223-29 (Ab)
+
+
+## LIVRE II : L'ENTRÉE EN FRANCE<a id=5></a>
+
+### TITRE Ier : CONDITIONS D'ADMISSION<a id=6></a>
+
+#### Chapitre Ier : Documents exigés<a id=7></a>
+
+##### Section 3 : Justificatif d'hébergement<a id=8></a>
+
+###### Article L211-6
+
+A la demande du maire, des agents spécialement habilités des services de la commune chargés des affaires sociales ou du
+logement ou l'Agence nationale de l'accueil des étrangers et des migrations peuvent procéder à des vérifications sur place.
+Les agents qui sont habilités à procéder à ces vérifications ne peuvent pénétrer chez l'hébergeant qu'après s'être assurés du
+consentement, donné par écrit, de celui-ci. En cas de refus de l'hébergeant, les conditions d'un accueil dans des conditions
+normales de logement sont réputées non remplies.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 5-3, al. 9
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (M)
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R211-17 (V)
+
+
+###### Article L211-8
+
+Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de
+l'accueil des étrangers et des migrations, d'une taxe d'un montant de 15 Euros acquittée par l'hébergeant. Cette taxe est
+recouvrée comme en matière de droit de timbre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 5-3, al. 14
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (M)
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+
+## LIVRE III : LE SÉJOUR EN FRANCE<a id=9></a>
+
+### TITRE II : LES CONDITIONS DU SÉJOUR<a id=10></a>
+
+#### Chapitre II : Exercice d'une activité professionnelle<a id=11></a>
+
+##### Section 1 : Activité professionnelle salariée<a id=12></a>
+
+###### Article L322-1
+
+Pour exercer en France une activité professionnelle salariée, les étrangers doivent se conformer aux dispositions des
+articles L. 341-1 à L. 341-4, L. 341-8, L. 831-1, L. 831-1-1 et L. 831-2 du code du travail ci-après reproduites.
+
+" Art. L. 341-1 du code du travail.
+
+"Les dispositions du présent titre sont applicables sous réserve, le cas échéant, de celles des traités, conventions ou
+accords régulièrement ratifiés ou approuvés et publiés, et notamment des traités instituant les communautés européennes ainsi
+que de celles des actes des autorités de ces communautés pris pour l'application desdits traités.
+
+"Art. L. 341-2 du code du travail.
+
+"Pour entrer en France en vue d'y exercer une profession salariée, l'étranger doit présenter, outre les documents et visas
+exigés par les conventions internationales et les règlements en vigueur, un contrat de travail visé par l'autorité
+administrative ou une autorisation de travail et un certificat médical.
+
+"Art. L. 341-3 du code du travail.
+
+"Le contrat de travail temporaire régi par le chapitre IV du titre II du livre Ier du présent code ne peut pas être assimilé
+au contrat de travail prévu à l'article précédent et qui permet l'entrée en France d'un étranger pour exercer une activité
+salariée.
+
+"Un contrat de travail temporaire ne peut permettre à un étranger d'obtenir en vue du premier exercice d'une activité
+salariée en France le titre prévu à l'article L. 341-6 lorsque la possession de celui-ci est exigée en vertu de traités ou
+d'accords internationaux.
+
+"Sous réserve des accords internationaux, il est interdit à une entreprise de travail temporaire de mettre à la disposition
+de quelque personne que ce soit des travailleurs étrangers si la prestation de service doit s'effectuer hors du territoire
+français.
+
+"Art. L. 341-4 du code du travail.
+
+"Un étranger ne peut exercer une activité professionnelle salariée en France sans avoir obtenu au préalable l'autorisation
+mentionnée à l'article L. 341-2.
+
+"Cette autorisation est délivrée dans des conditions qui sont fixées par un décret en Conseil d'Etat, sous réserve des
+dispositions applicables en vertu des troisième et quatrième alinéas du présent article.
+
+"L'autorisation de travail peut être délivrée à un étranger qui demande l'attribution de la carte de séjour temporaire sous
+la forme de la mention "salarié" apposée sur cette carte. Elle habilite cet étranger à exercer les activités professionnelles
+indiquées sur cette carte dans les zones qui y sont mentionnées.
+
+"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une carte de résident qui lui confère le droit
+d'exercer sur l'ensemble du territoire de la France métropolitaine toute activité professionnelle salariée de son choix dans
+le cadre de la législation en vigueur."
+
+"Art. L. 341-8 du code du travail.
+
+"Le renouvellement des autorisations de travail prévues à l'article L. 341-2 donne lieu à la perception au profit de l'Agence
+nationale de l'accueil des étrangers et des migrations d'une taxe dont le montant et les modalités de perception sont fixés
+par décret.
+
+"La participation de l'Etat aux frais d'introduction des familles de travailleurs étrangers et les sommes versées par les
+employeurs à l'Agence nationale de l'accueil des étrangers et des migrations à titre de remboursement forfaitaire des frais
+d'introduction des travailleurs étrangers sont réduites en fonction du rendement de ladite taxe.
+
+"Cette taxe n'est acquittée qu'une fois par période d'un an.
+
+"Les dispositions du premier alinéa du présent article ne sont pas applicables aux réfugiés politiques placés sous la
+protection de l'Office français de protection des réfugiés et apatrides, aux bénéficiaires du droit d'asile et aux rapatriés.
+
+"Art. L. 831-1 du code du travail.
+
+"Les dispositions du chapitre Ier du titre IV du livre III, à l'exception du quatrième alinéa de l'article L. 341-4, du
+présent code sont applicables dans les départements d'outre-mer.
+
+"Art. L. 831-1-1 du code du travail.
+
+"Nul ne peut, directement ou par personne interposée, engager, conserver à son service ou employer pour quelque durée que ce
+soit un étranger non muni du titre l'autorisant à exercer une activité salariée dans la collectivité territoriale de Saint-
+Pierre-et-Miquelon. Les conditions de délivrance de cette autorisation de travail sont fixées par voie réglementaire.
+
+"Art. L. 831-2 du code du travail.
+
+"L'autorisation de travail peut être délivrée à un étranger sous la forme d'une carte de résident qui lui confère le droit
+d'exercer, sur le territoire du département dans lequel elle a été délivrée, toute activité professionnelle salariée de son
+choix dans le cadre de la législation en vigueur."
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile L341-2
+  - Code du travail - art. L341-8 (M)
+  - Code du travail - art. L831-1 (M)
+  - Code du travail - art. L831-1-1 (M)
+  - Code du travail - art. L831-2 (M)
+  - Code du travail L341-1 à L341-4, L341-8, L831-1, L831-1-1, L831-2
+
+
+## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=13></a>
+
+### TITRE II : INSTRUCTION DES DEMANDES<a id=14></a>
+
+#### Chapitre unique<a id=15></a>
+
+###### Article L421-2
+
+Pour procéder à la vérification des conditions de logement et de ressources, le maire examine les pièces justificatives
+requises dont la liste est déterminée par décret. Des agents spécialement habilités des services de la commune chargés des
+affaires sociales ou du logement, ou, à la demande du maire, des agents de l'Agence nationale de l'accueil des étrangers et
+des migrations peuvent pénétrer dans le logement. Ils doivent s'assurer au préalable du consentement écrit de son occupant.
+En cas de refus de l'occupant, les conditions de logement permettant le regroupement familial sont réputées non remplies.
+Lorsque ces vérifications n'ont pas pu être effectuées parce que le demandeur ne disposait pas encore du logement nécessaire
+au moment de la demande, le regroupement familial peut être autorisé si les autres conditions sont remplies et après que le
+maire a vérifié sur pièces les caractéristiques du logement et la date à laquelle le demandeur en aura la disposition.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe II, al. 2
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L421-3 (V)
+
+
+###### Article L421-3
+
+A l'issue de l'instruction, le maire émet un avis motivé. Cet avis est réputé favorable à l'expiration d'un délai de deux
+mois à compter de la communication du dossier par l'autorité administrative. Le dossier est transmis à l'Agence nationale de
+l'accueil des étrangers et des migrations qui peut demander à ses agents de procéder, s'ils ne l'ont déjà fait, à des
+vérifications sur place dans les conditions prévues à l'article L. 421-2.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe II, al. 3
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Décret n°2005-253 du 17 mars 2005 - art. 10 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R421-18 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L421-2 (MMN)
+
+
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=16></a>
+
+### TITRE II : SANCTIONS<a id=17></a>
+
+#### Chapitre VI : Dispositions diverses.<a id=18></a>
+
+###### Article L626-1
+
+Sans préjudice des poursuites judiciaires qui pourront être engagées à son encontre et de la contribution spéciale au
+bénéfice de l'Agence nationale de l'accueil des étrangers et des migrations prévue à l'article L. 341-7 du code du travail,
+l'employeur qui aura occupé un travailleur étranger en situation de séjour irrégulier acquittera une contribution forfaitaire
+représentative des frais de réacheminement de l'étranger dans son pays d'origine.
+
+Le montant total des sanctions pécuniaires pour l'emploi d'un étranger en situation de séjour irrégulier ne peut excéder le
+montant des sanctions pénales prévues par les deux premiers alinéas de l'article L. 364-3 et par l'article L. 364-10 du code
+du travail ou, si l'employeur entre dans le champ d'application de ces articles, le montant des sanctions pénales prévues par
+le chapitre II du présent titre.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 21 quinquiès
+
+_Codifié par_:
+
+  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
+  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+
+_Modifié par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+
+_Cité par_:
+
+  - Décret n°2020-163 du 26 février 2020 (V)
+  - Code de justice administrative - art. R312-16 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R626-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R626-2 (V)
+  - Code du travail - art. L8254-2 (V)
+  - Code du travail - art. L8271-17 (V)
+  - Code du travail - art. R5223-24 (Ab)
+  - Code du travail - art. R5223-35 (M)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile L364-3
+  - Code du travail - art. L341-7 (Ab)
+  - Code du travail - art. L364-10 (M)
+
+
