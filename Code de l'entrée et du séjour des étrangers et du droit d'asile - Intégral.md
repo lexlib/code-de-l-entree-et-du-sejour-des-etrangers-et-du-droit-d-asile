@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L831-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -238,9 +238,9 @@ Version Consolidée au 2006-12-27
     - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R553-17)](#235)
       - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-2)](#236)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1)](#237)
-        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-2)](#238)
+        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-3)](#238)
           - [Section 1 : Procédure administrative (art. R512-1)](#239)
-          - [Section 2 : Procédure contentieuse (art. R512-2)](#240)
+          - [Section 2 : Procédure contentieuse (art. R512-2 à R512-3)](#240)
         - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-2)](#241)
           - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#242)
           - [Section 2 : Assignation à résidence. (art. R513-2)](#243)
@@ -17927,6 +17927,27 @@ _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L776-1, L776-2, R776-1
   - Code de justice administrative R776-1 à R776-20
+
+
+###### Article R512-3
+
+Les modalités selon lesquelles les juridictions administratives examinent les recours en annulation formés contre les
+décisions de refus de séjour assorties d'une obligation de quitter le territoire français obéissent aux règles définies par
+le chapitre V du titre VII du livre VII du code de justice administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1708 du 23 décembre 2006 - art. 2 () JORF 29 décembre 2006
+
+_Abrogé par_:
+
+  - Décret n°2011-819 du 8 juillet 2011 - art. 2
 
 
 #### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=241></a>
