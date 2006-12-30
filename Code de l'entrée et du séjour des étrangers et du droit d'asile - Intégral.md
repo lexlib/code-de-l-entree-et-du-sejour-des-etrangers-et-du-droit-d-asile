@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-12-29
+Version Consolidée au 2006-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L831-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -183,155 +183,156 @@ Version Consolidée au 2006-12-29
           - [Section 3 : Conditions d'accès des associations humanitaires (art. R*223-12 à R223-14)](#180)
     - [LIVRE III : LE SÉJOUR EN FRANCE (art. R311-1 à D331-14)](#181)
       - [TITRE Ier : LES TITRES DE SÉJOUR (art. R311-1 à R317-3)](#182)
-        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-18)](#183)
+        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-30)](#183)
           - [Section 1 : Dispositions relatives aux documents de séjour (art. R311-1 à R311-18)](#184)
             - [Sous-section 1 : Demandes de titre de séjour (art. R311-1 à R311-3)](#185)
             - [Sous-section 2 : Récépissé des demandes (art. R311-4 à R311-9)](#186)
             - [Sous-section 3 : Délivrance du titre de séjour (art. R311-10 à R311-13)](#187)
             - [Sous-section 4 : Retrait du titre de séjour (art. R311-14 à R311-16)](#188)
             - [Sous-section 5 : Restitution du titre de séjour (art. R311-17 à R311-18)](#189)
-        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#190)
-        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-36)](#191)
-          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#192)
-          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34)](#193)
-            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#194)
-            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#195)
-            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique". (art. R313-11 à R313-13)](#196)
-            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#197)
-            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19)](#198)
-            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#199)
-              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22)](#200)
-              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#201)
-            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-33 à R313-34)](#202)
-          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-36)](#203)
-        - [Chapitre IV : La carte de résident (art. R314-1 à R314-3)](#204)
-          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#205)
-            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1)](#206)
-            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#207)
-          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#208)
-        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#209)
-      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#210)
-        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à D321-21)](#211)
-          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#212)
-          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#213)
-            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#214)
-            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#215)
-        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#216)
-          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#217)
-          - [Section 2 : Autres activités professionnelles (art. R322-3)](#218)
-      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#219)
-        - [Chapitre unique (art. D331-1 à D331-14)](#220)
-          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#221)
-          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#222)
-    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#223)
-      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#224)
-        - [Chapitre unique (art. R411-1 à R411-6)](#225)
-      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#226)
-        - [Chapitre unique (art. R421-1 à R421-29)](#227)
-          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#228)
-          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#229)
-          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#230)
-          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#231)
-          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#232)
-      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#233)
-        - [Chapitre unique (art. R431-1)](#234)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R553-17)](#235)
-      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-2)](#236)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1)](#237)
-        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-3)](#238)
-          - [Section 1 : Procédure administrative (art. R512-1)](#239)
-          - [Section 2 : Procédure contentieuse (art. R512-2 à R512-3)](#240)
-        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-2)](#241)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#242)
-          - [Section 2 : Assignation à résidence. (art. R513-2)](#243)
-      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#244)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#245)
-        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-8)](#246)
-        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-6)](#247)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#248)
-          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-6)](#249)
-        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#250)
-      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R531-9)](#251)
-        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-9)](#252)
-          - [Section 1 : Autorités administratives compétentes (art. R*531-2 à R531-4)](#253)
-          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#254)
-      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#255)
-      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R553-17)](#256)
-        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#257)
-        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-19)](#258)
-          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#259)
-          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#260)
-          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#261)
-            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#262)
-            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#263)
-          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-19)](#264)
-        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#265)
-          - [Section 1 : Lieux de rétention (art. R553-1 à R553-10)](#266)
-            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#267)
-            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#268)
-            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-10)](#269)
-          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-14)](#270)
-          - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-17)](#271)
-    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. D611-1 à R626-4)](#272)
-      - [TITRE Ier : CONTRÔLES (art. D611-1 à R611-19)](#273)
-        - [Chapitre unique (art. D611-1 à R611-19)](#274)
-          - [Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France. (art. D611-1 à D611-7)](#275)
-          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-17)](#276)
-          - [Section 3 : Dispositions diverses. (art. R611-18 à R611-19)](#277)
-      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#278)
-        - [Chapitre Ier : Entrée et séjour irréguliers. (art. R621-1)](#279)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#280)
-          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#281)
-          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#282)
-          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#283)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#284)
-    - [LIVRE VII : LE DROIT D'ASILE (art. R721-1 à R765-1)](#285)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-5)](#286)
-        - [Chapitre Ier : Missions (art. R721-1)](#287)
-        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#288)
-          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#289)
-          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#290)
-          - [Section 3 : La mission de liaison avec le ministère de l'intérieur. (art. R722-7)](#291)
-          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#292)
-        - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#293)
-      - [TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS (art. R732-1 à R733-23)](#294)
-        - [Chapitre II : Organisation (art. R732-1 à R732-5)](#295)
-        - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#296)
-          - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#297)
-          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-6 à R733-20)](#298)
-            - [Sous-section 1 : Compétence de la commission. (art. R733-6)](#299)
-            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#300)
-            - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#301)
-            - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#302)
-          - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#303)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R741-1 à R742-6)](#304)
-        - [Chapitre Ier : Admission au séjour. (art. R741-1 à R741-2)](#305)
-        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#306)
-      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#307)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#308)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#309)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#310)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#311)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#312)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#313)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#314)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#315)
-        - [Chapitre unique (art. R811-1 à R811-16)](#316)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#317)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#318)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#319)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#320)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#321)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#322)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#323)
-      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#324)
-        - [Chapitre unique. (art. R831-1)](#325)
-  - [Annexes (art. Annexe 6.1 à Annexe 6.5)](#326)
-    - [Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.1)](#327)
-    - [Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.2)](#328)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#329)
-    - [Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15 (art. Annexe 6.4)](#330)
-    - [Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.5)](#331)
+          - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. R311-19 à R311-30)](#190)
+        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#191)
+        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-36)](#192)
+          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#193)
+          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34)](#194)
+            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#195)
+            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#196)
+            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique". (art. R313-11 à R313-13)](#197)
+            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#198)
+            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19)](#199)
+            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#200)
+              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22)](#201)
+              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#202)
+            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-33 à R313-34)](#203)
+          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-36)](#204)
+        - [Chapitre IV : La carte de résident (art. R314-1 à R314-3)](#205)
+          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#206)
+            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1)](#207)
+            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#208)
+          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#209)
+        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#210)
+      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#211)
+        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à D321-21)](#212)
+          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#213)
+          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#214)
+            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#215)
+            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#216)
+        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#217)
+          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#218)
+          - [Section 2 : Autres activités professionnelles (art. R322-3)](#219)
+      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#220)
+        - [Chapitre unique (art. D331-1 à D331-14)](#221)
+          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#222)
+          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#223)
+    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#224)
+      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#225)
+        - [Chapitre unique (art. R411-1 à R411-6)](#226)
+      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#227)
+        - [Chapitre unique (art. R421-1 à R421-29)](#228)
+          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#229)
+          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#230)
+          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#231)
+          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#232)
+          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#233)
+      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#234)
+        - [Chapitre unique (art. R431-1)](#235)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R553-17)](#236)
+      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-2)](#237)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1)](#238)
+        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-3)](#239)
+          - [Section 1 : Procédure administrative (art. R512-1)](#240)
+          - [Section 2 : Procédure contentieuse (art. R512-2 à R512-3)](#241)
+        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-2)](#242)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#243)
+          - [Section 2 : Assignation à résidence. (art. R513-2)](#244)
+      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#245)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#246)
+        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-8)](#247)
+        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-6)](#248)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#249)
+          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-6)](#250)
+        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#251)
+      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R531-9)](#252)
+        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-9)](#253)
+          - [Section 1 : Autorités administratives compétentes (art. R*531-2 à R531-4)](#254)
+          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#255)
+      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#256)
+      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R553-17)](#257)
+        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#258)
+        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-19)](#259)
+          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#260)
+          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#261)
+          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#262)
+            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#263)
+            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#264)
+          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-19)](#265)
+        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#266)
+          - [Section 1 : Lieux de rétention (art. R553-1 à R553-10)](#267)
+            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#268)
+            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#269)
+            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-10)](#270)
+          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-14)](#271)
+          - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-17)](#272)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. D611-1 à R626-4)](#273)
+      - [TITRE Ier : CONTRÔLES (art. D611-1 à R611-19)](#274)
+        - [Chapitre unique (art. D611-1 à R611-19)](#275)
+          - [Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France. (art. D611-1 à D611-7)](#276)
+          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-17)](#277)
+          - [Section 3 : Dispositions diverses. (art. R611-18 à R611-19)](#278)
+      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#279)
+        - [Chapitre Ier : Entrée et séjour irréguliers. (art. R621-1)](#280)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#281)
+          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#282)
+          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#283)
+          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#284)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#285)
+    - [LIVRE VII : LE DROIT D'ASILE (art. R721-1 à R765-1)](#286)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-5)](#287)
+        - [Chapitre Ier : Missions (art. R721-1)](#288)
+        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#289)
+          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#290)
+          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#291)
+          - [Section 3 : La mission de liaison avec le ministère de l'intérieur. (art. R722-7)](#292)
+          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#293)
+        - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#294)
+      - [TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS (art. R732-1 à R733-23)](#295)
+        - [Chapitre II : Organisation (art. R732-1 à R732-5)](#296)
+        - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#297)
+          - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#298)
+          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-6 à R733-20)](#299)
+            - [Sous-section 1 : Compétence de la commission. (art. R733-6)](#300)
+            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#301)
+            - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#302)
+            - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#303)
+          - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#304)
+      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R741-1 à R742-6)](#305)
+        - [Chapitre Ier : Admission au séjour. (art. R741-1 à R741-2)](#306)
+        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#307)
+      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#308)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#309)
+        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#310)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#311)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#312)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#313)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#314)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#315)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#316)
+        - [Chapitre unique (art. R811-1 à R811-16)](#317)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#318)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#319)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#320)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#321)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#322)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#323)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#324)
+      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#325)
+        - [Chapitre unique. (art. R831-1)](#326)
+  - [Annexes (art. Annexe 6.1 à Annexe 6.5)](#327)
+    - [Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.1)](#328)
+    - [Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.2)](#329)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#330)
+    - [Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15 (art. Annexe 6.4)](#331)
+    - [Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.5)](#332)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -14827,7 +14828,394 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D331-8 (V)
 
 
-#### Chapitre II : La commission du titre de séjour<a id=190></a>
+##### Section 2 : Dispositions relatives à l'intégration dans la société française<a id=190></a>
+
+###### Article R311-19
+
+I. - Le contrat d'accueil et d'intégration prévu à l'article L. 311-9 est souscrit par l'étranger mentionné au premier alinéa
+de cet article, sous réserve qu'il ne soit pas ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie à
+l'accord sur l'Espace économique européen ou de la Confédération suisse et qu'il remplisse les conditions requises pour
+l'obtention :
+
+a) D'une carte de séjour temporaire portant la mention "scientifique" délivrée en application de l'article L. 313-8, sur
+présentation d'un contrat à durée indéterminée ;
+
+b) D'une carte de séjour temporaire portant la mention "profession artistique et culturelle" délivrée en application de
+l'article L. 313-9, sur présentation d'un contrat à durée indéterminée ;
+
+c) D'une carte de séjour temporaire autorisant l'exercice d'une activité professionnelle délivrée en application de l'article
+L. 313-10, à l'exception des cartes portant les mentions "travailleur saisonnier" ou "travailleur temporaire" ;
+
+d) D'une carte de séjour temporaire portant la mention "vie privée et familiale" délivrée en application de l'article L.
+313-11, à l'exception des étrangers visés au 11° de cet article, ainsi que des articles L. 313-13 et L. 316-1 ;
+
+e) D'une carte de séjour portant la mention "compétences et talents" délivrée en application de l'article L. 315-1 ;
+
+f) D'une carte de résident délivrée en application des dispositions des articles L. 314-8 et L. 314-11, lorsque l'étranger
+n'a pas signé le contrat d'accueil et d'intégration à un autre titre.
+
+II. - Le contrat d'accueil et d'intégration peut également être souscrit par l'étranger qui n'a pas signé de contrat
+d'accueil et d'intégration lorsqu'il a été admis pour la première fois au séjour en France, conformément au cinquième alinéa
+de l'article L. 311-9, sous réserve qu'il séjourne régulièrement en France sous le couvert d'un des titres mentionnés aux a à
+f du I du présent article.
+
+III. - Est dispensé de la signature d'un contrat d'accueil et d'intégration l'étranger mentionné au quatrième alinéa de
+l'article L. 311-9, sur présentation d'une attestation établie par le chef de l'établissement d'enseignement secondaire
+français à l'étranger dans lequel il a effectué sa scolarité pendant au moins trois ans, dès lors que cet établissement
+figure sur la liste mentionnée à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires
+français à l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30 (Ab)
+
+
+###### Article R311-20
+
+Le contrat d'accueil et d'intégration est établi par l'Agence nationale de l'accueil des étrangers et des migrations et signé
+par le préfet qui a accordé le titre de séjour. Toutefois, lorsque l'étranger est entré régulièrement en France entre l'âge
+de 16 ans et l'âge de 18 ans, le contrat est signé par le préfet de son lieu de résidence.
+
+Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'agence à l'étranger au cours d'un
+entretien individuel. A l'issue de cet entretien, il est signé par l'étranger et, le cas échéant, par son représentant légal
+admis régulièrement au séjour en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-23 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
+
+
+###### Article R311-21
+
+L'Agence nationale de l'accueil des étrangers et des migrations organise et finance les formations et les prestations
+dispensées dans le cadre du contrat d'accueil et d'intégration et mentionnées à l'article L. 311-9, à l'exception du bilan de
+compétences professionnelles. A cet effet, elle assure l'inscription de l'étranger aux formations et veille à son assiduité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 1er juillet 2016 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. R349-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+
+
+###### Article R311-22
+
+La formation civique mentionnée à l'article L. 311-9 comporte la présentation des institutions françaises et des valeurs de
+la République, notamment en ce qui concerne l'égalité entre les hommes et les femmes, la laïcité, l'état de droit, les
+libertés fondamentales, la sûreté des personnes et des biens ainsi que l'exercice de la citoyenneté que permet notamment
+l'accès obligatoire et gratuit à l'éducation. Un arrêté du ministre chargé de l'intégration fixe la durée maximale et
+minimale nécessaire à cette formation. La participation de l'étranger à cette formation est sanctionnée par une attestation
+nominative établie par l'Agence nationale de l'accueil des étrangers et des migrations et remise à l'étranger par l'organisme
+ayant assuré la formation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-29 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (Ab)
+
+
+###### Article R311-23
+
+Au cours de l'entretien mentionné à l'article R. 311-20, l'Agence nationale de l'accueil des étrangers et des migrations
+apprécie le niveau de connaissances en français de l'étranger en utilisant un test de connaissances orales et écrites en
+langue française, fixé par un arrêté du ministre chargé de l'intégration, permettant d'évaluer les capacités d'expression et
+de compréhension concernant les actes de la vie courante.
+
+Lorsque l'étranger obtient à ce test des résultats égaux ou supérieurs à un niveau déterminé par l'arrêté, il se voit
+remettre une attestation ministérielle de dispense de formation linguistique. Mention en est portée sur le document prévu à
+l'article R. 311-29. Ce document atteste, à la date de l'entretien, du niveau satisfaisant de maîtrise de la langue française
+prévu par l'article L. 311-9 ainsi que de la connaissance suffisante de la langue française prévue par l'article L. 314-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Arrêté du 1er juillet 2016 - art. 1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-24 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-2 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-3 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-20 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-29 (V)
+
+
+###### Article R311-24
+
+Lorsque le niveau mentionné à l'article R. 311-23 n'est pas atteint, le contrat d'accueil et d'intégration impose à
+l'étranger de suivre une formation destinée à l'apprentissage de la langue française. Un organisme susceptible d'assurer
+cette formation est proposé par l'agence. La durée de la formation linguistique prescrite est établie en fonction des besoins
+révélés par les résultats du test et des capacités d'apprentissage de l'intéressé. Sa durée ne peut être supérieure à quatre
+cents heures.
+
+L'assiduité de l'étranger est attestée par un certificat nominatif établi par l'Agence nationale de l'accueil des étrangers
+et des migrations à l'issue de la formation prescrite, au vu des informations transmises par l'organisme ayant assuré cette
+formation. Cette attestation est remise à l'étranger par l'Agence nationale de l'accueil des étrangers et des migrations.
+
+Les compétences en français acquises dans le cadre de cette formation linguistique sont validées par le diplôme initial de
+langue française prévu à l'article D. 338-23 du code de l'éducation et attribué à l'issue d'un examen comportant des épreuves
+écrites et orales. L'obtention du diplôme atteste du niveau satisfaisant de maîtrise de la langue française prévu par
+l'article L. 311-9 ainsi que de la connaissance suffisante de la langue française prévue par l'article L. 314-2.
+
+L'étranger signataire du contrat ne peut bénéficier qu'une seule fois de la gratuité de l'examen conduisant à la délivrance
+du diplôme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Décret n°2016-253 du 2 mars 2016 - art. 1
+  - Arrêté du 1er juillet 2016 - art. 2 (V)
+  - Arrêté du 1er juillet 2016 - art. 3 (V)
+  - Code de l'action sociale et des familles - art. R349-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-29 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-3 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-9 (Ab)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-30 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-23 (V)
+  - Code de l'éducation - art. D338-23 (V)
+
+
+###### Article R311-25
+
+L'étranger bénéficie de la session d'information sur la vie en France mentionnée à l'article L. 311-9, modulée en fonction de
+ses besoins. Cette session doit apporter au signataire des connaissances concernant la vie pratique en France et l'accès aux
+services publics, notamment la formation et l'emploi, le logement, la santé, la petite enfance et ses modes de garde, l'école
+et l'orientation scolaire, ainsi que la vie associative. Un arrêté du ministre chargé de l'intégration fixe la durée maximale
+et minimale nécessaire à cette formation. A l'issue de la session, l'étranger reçoit de l'Agence nationale de l'accueil des
+étrangers et des migrations une attestation d'assiduité, au vu des informations transmises par l'organisme qui a assuré cette
+session d'information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-29 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+
+
+###### Article R311-26
+
+Dès lors qu'il est inscrit comme demandeur d'emploi, l'étranger signataire du contrat d'accueil et d'intégration peut
+bénéficier, à sa demande et sur prescription de l'Agence nationale pour l'emploi qui en assure le financement, d'un bilan de
+compétences approfondi tenant compte de sa situation personnelle et de son expérience professionnelle. Cette prestation est
+destinée à lui permettre de construire ou réorienter son projet d'accès à l'emploi.
+
+**Nota:**
+
+Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
+vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
+première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+
+###### Article R311-27
+
+Le contrat d'accueil et d'intégration est conclu pour une durée d'un an. Sous réserve que l'étranger ait obtenu le
+renouvellement de son titre de séjour, le contrat peut être prolongé par le préfet sur proposition de l'Agence nationale de
+l'accueil des étrangers et des migrations dans la limite d'une année supplémentaire. La prorogation est de droit et le
+contrat est renouvelé par tacite reconduction lorsque la formation linguistique prescrite et dûment suivie est en cours
+d'exécution à l'échéance de la première année du contrat. Le contrat peut également être prolongé lorsque la formation a été
+différée pour un motif reconnu légitime. La mention, le motif ainsi que la durée de la prorogation sont portés au contrat. La
+clôture du contrat intervient dans le mois suivant le terme de la durée prescrite de formation, que les compétences
+linguistiques acquises aient été validées ou non, ou, au plus tard, un jour franc après la date prévue pour la session de
+l'examen conduisant à la délivrance du diplôme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-14 (Ab)
+
+
+###### Article R311-28
+
+Le contrat peut être résilié par le préfet sur proposition de l'Agence nationale de l'accueil des étrangers et des migrations
+lorsque celle-ci constate que l'étranger, sans motif légitime, ne participe pas ou plus à une formation prescrite. Le préfet
+informe l'étranger de son intention de résilier le contrat et le met à même de présenter ses observations dans le délai d'un
+mois. Il indique les motifs de la résiliation envisagée et en précise les conséquences au regard des dispositions relatives
+au premier renouvellement de la carte de séjour prévues par l'article L. 311-9 ainsi qu'à l'appréciation de la condition
+d'intégration républicaine dans la société française prévue à l'article L. 314-2. L'attestation prévue à l'article R. 311-29
+porte mention de cette résiliation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-29 (V)
+
+
+###### Article R311-29
+
+Au terme de la durée du contrat, l'Agence nationale de l'accueil des étrangers et des migrations vérifie la réalisation des
+engagements souscrits par l'étranger au vu notamment des attestations d'assiduité aux sessions de formation et, le cas
+échéant, des éléments fournis par l'étranger.
+
+Le contrat d'accueil et d'intégration est respecté dès lors que les actions de formation ou d'information qu'il prévoit ont
+été suivies par l'étranger signataire et attestées ou validées dans les conditions prévues aux articles R. 311-22, R. 311-24
+et R. 311-25.
+
+L'Agence nationale de l'accueil des étrangers et des migrations délivre à l'étranger une attestation nominative récapitulant
+si les actions prévues au contrat ont été suivies ainsi que, s'il y a lieu, les modalités de leur validation. L'attestation
+nominative est transmise par l'agence au préfet du lieu de résidence de l'étranger, qui est informé de cette transmission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-23 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-28 (Ab)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-22 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-24 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-25 (V)
+
+
+###### Article R311-30
+
+La connaissance suffisante de la langue française requise, en application du dernier alinéa de l'article L. 341-2 du code du
+travail, pour l'étranger appartenant à l'une des catégories mentionnées aux a, b, c et e du I de l'article R. 311-19 est
+attestée ou validée dans les conditions prévues aux articles R. 311-23 et R. 311-24, dès l'entrée en France de l'intéressé ou
+dans les deux années suivant son installation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2006-1791 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-19 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-23 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. R311-24 (V)
+  - Code du travail - art. L341-2 (M)
+
+
+#### Chapitre II : La commission du titre de séjour<a id=191></a>
 
 ###### Article R312-1
 
@@ -14983,9 +15371,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre III : La carte de séjour temporaire<a id=191></a>
+#### Chapitre III : La carte de séjour temporaire<a id=192></a>
 
-##### Section 1 : Dispositions générales<a id=192></a>
+##### Section 1 : Dispositions générales<a id=193></a>
 
 ###### Article R313-1
 
@@ -15138,9 +15526,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L313-4 (M)
 
 
-##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=193></a>
+##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=194></a>
 
-##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=194></a>
+##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=195></a>
 
 ###### Article R313-6
 
@@ -15161,7 +15549,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
 
 
-##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=195></a>
+##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=196></a>
 
 ###### Article R313-7
 
@@ -15264,7 +15652,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
 
 
-##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".<a id=196></a>
+##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".<a id=197></a>
 
 ###### Article R313-11
 
@@ -15335,7 +15723,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-12 (M)
 
 
-##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=197></a>
+##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=198></a>
 
 ###### Article R313-14
 
@@ -15366,7 +15754,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
 
 
-##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=198></a>
+##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=199></a>
 
 ###### Article R313-15
 
@@ -15481,7 +15869,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-18 (Ab)
 
 
-##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=199></a>
+##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=200></a>
 
 ###### Article R313-21
 
@@ -15504,7 +15892,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
 
 
-##### Paragraphe 1 : Dispositions générales<a id=200></a>
+##### Paragraphe 1 : Dispositions générales<a id=201></a>
 
 ###### Article R313-20
 
@@ -15567,7 +15955,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-##### Paragraphe 2 : Commission médicale régionale<a id=201></a>
+##### Paragraphe 2 : Commission médicale régionale<a id=202></a>
 
 ###### Article R313-23
 
@@ -15768,7 +16156,7 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 
-##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=202></a>
+##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=203></a>
 
 ###### Article R313-33
 
@@ -15832,7 +16220,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=203></a>
+##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=204></a>
 
 ###### Article R313-35
 
@@ -15905,11 +16293,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-8 (M)
 
 
-#### Chapitre IV : La carte de résident<a id=204></a>
+#### Chapitre IV : La carte de résident<a id=205></a>
 
-##### Section 2 : Délivrance de la carte de résident<a id=205></a>
+##### Section 2 : Délivrance de la carte de résident<a id=206></a>
 
-##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=206></a>
+##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=207></a>
 
 ###### Article R314-1
 
@@ -15964,7 +16352,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L117-1 (M)
 
 
-##### Sous-section 2 : Délivrance de plein droit<a id=207></a>
+##### Sous-section 2 : Délivrance de plein droit<a id=208></a>
 
 ###### Article R314-2
 
@@ -16014,7 +16402,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
 
 
-##### Section 3 : Renouvellement de la carte de résident<a id=208></a>
+##### Section 3 : Renouvellement de la carte de résident<a id=209></a>
 
 ###### Article R314-3
 
@@ -16050,7 +16438,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L314-7 (M)
 
 
-#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=209></a>
+#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=210></a>
 
 ###### Article R317-1
 
@@ -16149,11 +16537,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
 
 
-### TITRE II : LES CONDITIONS DU SÉJOUR<a id=210></a>
+### TITRE II : LES CONDITIONS DU SÉJOUR<a id=211></a>
 
-#### Chapitre Ier : Conditions de circulation<a id=211></a>
+#### Chapitre Ier : Conditions de circulation<a id=212></a>
 
-##### Section 1 : Dispositions générales<a id=212></a>
+##### Section 1 : Dispositions générales<a id=213></a>
 
 ###### Article R*321-3
 
@@ -16298,9 +16686,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R522-6 (V)
 
 
-##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=213></a>
+##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=214></a>
 
-##### Sous-section 1 : Le titre d'identité républicain<a id=214></a>
+##### Sous-section 1 : Le titre d'identité républicain<a id=215></a>
 
 ###### Article D321-9
 
@@ -16408,7 +16796,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=215></a>
+##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=216></a>
 
 ###### Article D321-16
 
@@ -16530,9 +16918,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Exercice d'une activité professionnelle<a id=216></a>
+#### Chapitre II : Exercice d'une activité professionnelle<a id=217></a>
 
-##### Section 1 : Activité professionnelle salariée<a id=217></a>
+##### Section 1 : Activité professionnelle salariée<a id=218></a>
 
 ###### Article R322-1
 
@@ -16570,7 +16958,7 @@ _Cite_:
   - Code du travail R830-1 à R830-5
 
 
-##### Section 2 : Autres activités professionnelles<a id=218></a>
+##### Section 2 : Autres activités professionnelles<a id=219></a>
 
 ###### Article R322-3
 
@@ -16593,11 +16981,11 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 15
 
 
-### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=219></a>
+### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=220></a>
 
-#### Chapitre unique<a id=220></a>
+#### Chapitre unique<a id=221></a>
 
-##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=221></a>
+##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=222></a>
 
 ###### Article D331-1
 
@@ -16734,7 +17122,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 2 : Restitution des titres de séjour et de travail<a id=222></a>
+##### Section 2 : Restitution des titres de séjour et de travail<a id=223></a>
 
 ###### Article D331-8
 
@@ -16873,11 +17261,11 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=223></a>
+## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=224></a>
 
-### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=224></a>
+### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=225></a>
 
-#### Chapitre unique<a id=225></a>
+#### Chapitre unique<a id=226></a>
 
 ###### Article R411-1
 
@@ -17048,11 +17436,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-27 (V)
 
 
-### TITRE II : INSTRUCTION DES DEMANDES<a id=226></a>
+### TITRE II : INSTRUCTION DES DEMANDES<a id=227></a>
 
-#### Chapitre unique<a id=227></a>
+#### Chapitre unique<a id=228></a>
 
-##### Section 1 : Demandes de regroupement familial<a id=228></a>
+##### Section 1 : Demandes de regroupement familial<a id=229></a>
 
 ###### Article R421-1
 
@@ -17211,7 +17599,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R421-5 (V)
 
 
-##### Section 2 : Réception des demandes<a id=229></a>
+##### Section 2 : Réception des demandes<a id=230></a>
 
 ###### Article R421-7
 
@@ -17287,7 +17675,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 3 : Vérification des conditions du regroupement familial<a id=230></a>
+##### Section 3 : Vérification des conditions du regroupement familial<a id=231></a>
 
 ###### Article R421-11
 
@@ -17503,7 +17891,7 @@ _Créé par_:
   - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
-##### Section 4 : Décision du préfet<a id=231></a>
+##### Section 4 : Décision du préfet<a id=232></a>
 
 ###### Article R421-20
 
@@ -17577,7 +17965,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 5 : Contrôle médical et introduction en France<a id=232></a>
+##### Section 5 : Contrôle médical et introduction en France<a id=233></a>
 
 ###### Article R421-25
 
@@ -17664,9 +18052,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R421-27 (M)
 
 
-### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=233></a>
+### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=234></a>
 
-#### Chapitre unique<a id=234></a>
+#### Chapitre unique<a id=235></a>
 
 ###### Article R431-1
 
@@ -17692,11 +18080,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L431-1 (V)
 
 
-## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=235></a>
+## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=236></a>
 
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=236></a>
+### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=237></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=237></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=238></a>
 
 ###### Article R511-1
 
@@ -17723,9 +18111,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
 
 
-#### Chapitre II : Procédure administrative et contentieuse<a id=238></a>
+#### Chapitre II : Procédure administrative et contentieuse<a id=239></a>
 
-##### Section 1 : Procédure administrative<a id=239></a>
+##### Section 1 : Procédure administrative<a id=240></a>
 
 ###### Article R512-1
 
@@ -17747,7 +18135,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1 à L511-3
 
 
-##### Section 2 : Procédure contentieuse<a id=240></a>
+##### Section 2 : Procédure contentieuse<a id=241></a>
 
 ###### Article R512-2
 
@@ -17926,9 +18314,9 @@ _Abrogé par_:
   - Décret n°2011-819 du 8 juillet 2011 - art. 2
 
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=241></a>
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=242></a>
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=242></a>
+##### Section 1 : Décision fixant le pays de renvoi<a id=243></a>
 
 ###### Article R513-1
 
@@ -17942,7 +18330,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 2 : Assignation à résidence.<a id=243></a>
+##### Section 2 : Assignation à résidence.<a id=244></a>
 
 ###### Article R513-2
 
@@ -17962,9 +18350,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L513-4, L511-1 à L511-3
 
 
-### TITRE II : L'EXPULSION<a id=244></a>
+### TITRE II : L'EXPULSION<a id=245></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=245></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=246></a>
 
 ###### Article R521-1
 
@@ -17983,7 +18371,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
 
 
-#### Chapitre II : Procédure administrative<a id=246></a>
+#### Chapitre II : Procédure administrative<a id=247></a>
 
 ###### Article R*522-2
 
@@ -18161,9 +18549,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre III : Exécution des arrêtés d'expulsion<a id=247></a>
+#### Chapitre III : Exécution des arrêtés d'expulsion<a id=248></a>
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=248></a>
+##### Section 1 : Décision fixant le pays de renvoi<a id=249></a>
 
 ###### Article R*523-2
 
@@ -18219,7 +18607,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-2
 
 
-##### Section 2 : Assignation à résidence<a id=249></a>
+##### Section 2 : Assignation à résidence<a id=250></a>
 
 ###### Article R*523-5
 
@@ -18287,7 +18675,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-5
 
 
-#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=250></a>
+#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=251></a>
 
 ###### Article R524-1
 
@@ -18326,11 +18714,11 @@ _Cité par_:
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
 
 
-### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=251></a>
+### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=252></a>
 
-#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=252></a>
+#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=253></a>
 
-##### Section 1 : Autorités administratives compétentes<a id=253></a>
+##### Section 1 : Autorités administratives compétentes<a id=254></a>
 
 ###### Article R*531-2
 
@@ -18407,7 +18795,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=254></a>
+##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=255></a>
 
 ###### Article R531-5
 
@@ -18516,7 +18904,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=255></a>
+### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=256></a>
 
 ###### Article R*541-1
 
@@ -18540,9 +18928,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L541-1 (M)
 
 
-### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=256></a>
+### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=257></a>
 
-#### Chapitre Ier : Placement en rétention<a id=257></a>
+#### Chapitre Ier : Placement en rétention<a id=258></a>
 
 ###### Article R551-1
 
@@ -18641,9 +19029,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L553-1 (V)
 
 
-#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=258></a>
+#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=259></a>
 
-##### Section 1 : Première saisine du juge des libertés et de la détention<a id=259></a>
+##### Section 1 : Première saisine du juge des libertés et de la détention<a id=260></a>
 
 ###### Article R552-1
 
@@ -18824,7 +19212,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=260></a>
+##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=261></a>
 
 ###### Article R552-11
 
@@ -18843,9 +19231,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L552-8 (V)
 
 
-##### Section 3 : Voies de recours<a id=261></a>
+##### Section 3 : Voies de recours<a id=262></a>
 
-##### Sous-section 1 : Appel<a id=262></a>
+##### Sous-section 1 : Appel<a id=263></a>
 
 ###### Article R552-12
 
@@ -18948,7 +19336,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-23 (V)
 
 
-##### Sous-section 2 : Pourvoi en cassation<a id=263></a>
+##### Sous-section 2 : Pourvoi en cassation<a id=264></a>
 
 ###### Article R552-16
 
@@ -18962,7 +19350,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=264></a>
+##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=265></a>
 
 ###### Article R552-17
 
@@ -19020,11 +19408,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-20 (V)
 
 
-#### Chapitre III : Conditions de la rétention<a id=265></a>
+#### Chapitre III : Conditions de la rétention<a id=266></a>
 
-##### Section 1 : Lieux de rétention<a id=266></a>
+##### Section 1 : Lieux de rétention<a id=267></a>
 
-##### Sous-section 1 : Centres de rétention administrative<a id=267></a>
+##### Sous-section 1 : Centres de rétention administrative<a id=268></a>
 
 ###### Article R553-1
 
@@ -19151,7 +19539,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 2 : Locaux de rétention administrative<a id=268></a>
+##### Sous-section 2 : Locaux de rétention administrative<a id=269></a>
 
 ###### Article R553-5
 
@@ -19203,7 +19591,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R553-7 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=269></a>
+##### Sous-section 3 : Dispositions communes<a id=270></a>
 
 ###### Article R553-7
 
@@ -19290,7 +19678,7 @@ _Cité par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 28 (V)
 
 
-##### Section 2 : Droits des étrangers retenus<a id=270></a>
+##### Section 2 : Droits des étrangers retenus<a id=271></a>
 
 ###### Article R553-11
 
@@ -19379,7 +19767,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R551-3 (M)
 
 
-##### Section 3 : Demandes d'asile formulées par des étrangers retenus.<a id=271></a>
+##### Section 3 : Demandes d'asile formulées par des étrangers retenus.<a id=272></a>
 
 ###### Article R553-15
 
@@ -19468,13 +19856,13 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (VD)
 
 
-## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=272></a>
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=273></a>
 
-### TITRE Ier : CONTRÔLES<a id=273></a>
+### TITRE Ier : CONTRÔLES<a id=274></a>
 
-#### Chapitre unique<a id=274></a>
+#### Chapitre unique<a id=275></a>
 
-##### Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France.<a id=275></a>
+##### Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France.<a id=276></a>
 
 ###### Article D611-1
 
@@ -19656,7 +20044,7 @@ _Abrogé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=276></a>
+##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=277></a>
 
 ###### Article R611-8
 
@@ -19897,7 +20285,7 @@ _Abrogé par_:
   - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 
-##### Section 3 : Dispositions diverses.<a id=277></a>
+##### Section 3 : Dispositions diverses.<a id=278></a>
 
 ###### Article R611-18
 
@@ -19969,9 +20357,9 @@ _Nouveaux textes_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-26 (V)
 
 
-### TITRE II : SANCTIONS<a id=278></a>
+### TITRE II : SANCTIONS<a id=279></a>
 
-#### Chapitre Ier : Entrée et séjour irréguliers.<a id=279></a>
+#### Chapitre Ier : Entrée et séjour irréguliers.<a id=280></a>
 
 ###### Article R621-1
 
@@ -19991,9 +20379,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=280></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=281></a>
 
-##### Section 1 : Procédure<a id=281></a>
+##### Section 1 : Procédure<a id=282></a>
 
 ###### Article R*625-2
 
@@ -20094,7 +20482,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R625-3 (V)
 
 
-##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=282></a>
+##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=283></a>
 
 ###### Article R625-5
 
@@ -20256,7 +20644,7 @@ _Abrogé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 36
 
 
-##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=283></a>
+##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=284></a>
 
 ###### Article R625-13
 
@@ -20321,7 +20709,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre VI : Dispositions diverses<a id=284></a>
+#### Chapitre VI : Dispositions diverses<a id=285></a>
 
 ###### Article R626-1
 
@@ -20413,11 +20801,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R321-1 à R321-5
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=285></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=286></a>
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=286></a>
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=287></a>
 
-#### Chapitre Ier : Missions<a id=287></a>
+#### Chapitre Ier : Missions<a id=288></a>
 
 ###### Article R721-1
 
@@ -20431,9 +20819,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Organisation<a id=288></a>
+#### Chapitre II : Organisation<a id=289></a>
 
-##### Section 1 : Le conseil d'administration de l'office<a id=289></a>
+##### Section 1 : Le conseil d'administration de l'office<a id=290></a>
 
 ###### Article R722-1
 
@@ -20547,7 +20935,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 2 : Le directeur général de l'office<a id=290></a>
+##### Section 2 : Le directeur général de l'office<a id=291></a>
 
 ###### Article R722-4
 
@@ -20636,7 +21024,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
 
 
-##### Section 3 : La mission de liaison avec le ministère de l'intérieur.<a id=291></a>
+##### Section 3 : La mission de liaison avec le ministère de l'intérieur.<a id=292></a>
 
 ###### Article R722-7
 
@@ -20668,7 +21056,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-5 (V)
 
 
-##### Section 4 : Opérations comptables et financières<a id=292></a>
+##### Section 4 : Opérations comptables et financières<a id=293></a>
 
 ###### Article R722-8
 
@@ -20719,7 +21107,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre III : Examen des demandes d'asile.<a id=293></a>
+#### Chapitre III : Examen des demandes d'asile.<a id=294></a>
 
 ###### Article R723-1
 
@@ -20877,9 +21265,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS<a id=294></a>
+### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS<a id=295></a>
 
-#### Chapitre II : Organisation<a id=295></a>
+#### Chapitre II : Organisation<a id=296></a>
 
 ###### Article R732-1
 
@@ -20969,9 +21357,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-34 (V)
 
 
-#### Chapitre III : Examen des recours<a id=296></a>
+#### Chapitre III : Examen des recours<a id=297></a>
 
-##### Section 1 : Dispositions générales<a id=297></a>
+##### Section 1 : Dispositions générales<a id=298></a>
 
 ###### Article R733-1
 
@@ -21023,9 +21411,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R*733-34-6 (V)
 
 
-##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=298></a>
+##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=299></a>
 
-##### Sous-section 1 : Compétence de la commission.<a id=299></a>
+##### Sous-section 1 : Compétence de la commission.<a id=300></a>
 
 ###### Article R733-6
 
@@ -21053,7 +21441,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-9 (V)
 
 
-##### Sous-section 2 : Présentation des recours<a id=300></a>
+##### Sous-section 2 : Présentation des recours<a id=301></a>
 
 ###### Article R733-5
 
@@ -21150,7 +21538,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-6 (V)
 
 
-##### Sous-section 3 : Instruction<a id=301></a>
+##### Sous-section 3 : Instruction<a id=302></a>
 
 ###### Article R733-10
 
@@ -21262,7 +21650,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 4 : Jugement.<a id=302></a>
+##### Sous-section 4 : Jugement.<a id=303></a>
 
 ###### Article R733-16
 
@@ -21375,7 +21763,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.<a id=303></a>
+##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.<a id=304></a>
 
 ###### Article R733-21
 
@@ -21439,9 +21827,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=304></a>
+### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=305></a>
 
-#### Chapitre Ier : Admission au séjour.<a id=305></a>
+#### Chapitre Ier : Admission au séjour.<a id=306></a>
 
 ###### Article R741-1
 
@@ -21524,7 +21912,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
 
 
-#### Chapitre II : Durée du maintien sur le territoire français.<a id=306></a>
+#### Chapitre II : Durée du maintien sur le territoire français.<a id=307></a>
 
 ###### Article R742-1
 
@@ -21752,7 +22140,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-### TITRE V : DISPOSITIONS DIVERSES.<a id=307></a>
+### TITRE V : DISPOSITIONS DIVERSES.<a id=308></a>
 
 ###### Article R751-1
 
@@ -21776,9 +22164,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=308></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=309></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=309></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=310></a>
 
 ###### Article R761-1
 
@@ -21907,7 +22295,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-6 (V)
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=310></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=311></a>
 
 ###### Article R762-1
 
@@ -22050,7 +22438,7 @@ _Cité par_:
   - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (VD)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=311></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=312></a>
 
 ###### Article R763-1
 
@@ -22190,7 +22578,7 @@ _Cité par_:
   - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=312></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=313></a>
 
 ###### Article R764-1
 
@@ -22325,7 +22713,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-6 (V)
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=313></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=314></a>
 
 ###### Article R765-1
 
@@ -22364,13 +22752,13 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=314></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=315></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=315></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=316></a>
 
-#### Chapitre unique<a id=316></a>
+#### Chapitre unique<a id=317></a>
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=317></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=318></a>
 
 ###### Article R811-1
 
@@ -22495,9 +22883,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=318></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=319></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=319></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=320></a>
 
 ###### Article R811-5
 
@@ -22601,7 +22989,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=320></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=321></a>
 
 ###### Article R811-10
 
@@ -22669,7 +23057,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=321></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=322></a>
 
 ###### Article R811-13
 
@@ -22718,7 +23106,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 3 : Dispositions diverses<a id=322></a>
+##### Section 3 : Dispositions diverses<a id=323></a>
 
 ###### Article R811-15
 
@@ -22767,7 +23155,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=323></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=324></a>
 
 ###### Article R821-1
 
@@ -22785,9 +23173,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=324></a>
+### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=325></a>
 
-#### Chapitre unique.<a id=325></a>
+#### Chapitre unique.<a id=326></a>
 
 ###### Article R831-1
 
@@ -22805,9 +23193,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R313-23 à R313-32
 
 
-# Annexes<a id=326></a>
+# Annexes<a id=327></a>
 
-## Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=327></a>
+## Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=328></a>
 
 ###### Article Annexe 6.1
 
@@ -22858,7 +23246,7 @@ _Abrogé par_:
   - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
 
 
-## Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=328></a>
+## Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=329></a>
 
 ###### Article Annexe 6.2
 
@@ -22955,7 +23343,7 @@ _Abrogé par_:
   - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
 
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=329></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=330></a>
 
 ###### Article Annexe 6.3
 
@@ -23001,7 +23389,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15<a id=330></a>
+## Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15<a id=331></a>
 
 ###### Article Annexe 6.4
 
@@ -23058,7 +23446,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
 
 
-## Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=331></a>
+## Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=332></a>
 
 ###### Article Annexe 6.5
 
