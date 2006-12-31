@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L831-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -74,8 +74,8 @@ Version Consolidée au 2006-12-31
     - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L561-2)](#71)
       - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE (art. L511-1 à L514-2)](#72)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière. (art. L511-1 à L511-4)](#73)
-        - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-5)](#74)
-        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière. (art. L513-2 à L513-4)](#75)
+        - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-4)](#74)
+        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière. (art. L513-1 à L513-4)](#75)
         - [Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe. (art. L514-1 à L514-2)](#76)
       - [TITRE II : L'EXPULSION (art. L521-1 à L524-4)](#77)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. L521-1 à L521-4)](#78)
@@ -471,13 +471,12 @@ _Cite_:
 
 ###### Article L111-6
 
-Par dérogation aux dispositions du deuxième alinéa de l'article 47 du code civil, les autorités chargées de l'application des
-livres Ier à VI et VIII du présent code peuvent demander aux agents diplomatiques ou consulaires français la légalisation ou
-la vérification de tout acte d'état civil étranger en cas de doute sur l'authenticité de ce document.
+La vérification de tout acte d'état civil étranger est effectuée dans les conditions définies par l'article 47 du code civil.
 
-Les agents diplomatiques ou consulaires peuvent également, de leur propre initiative, procéder à la légalisation ou la
-vérification de tout acte d'état civil étranger en cas de doute sur l'authenticité de ce document, lorsqu'ils sont saisis
-d'une demande de visa ou d'une demande de transcription d'un acte d'état civil.
+**Nota:**
+
+NOTA : Loi 2006-911 du 24 juillet 2006 art. 115 : L'article 30 de la présente loi entre en vigueur à compter d'une date fixée
+en Conseil d'Etat et au plus tard le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -490,16 +489,17 @@ _Codifié par_:
   - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
+_Modifié par_:
+
+  - Loi n°2006-911 du 24 juillet 2006 - art. 30 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007 au plus tard
+  - Loi n°2006-1376 du 14 novembre 2006 - art. 7 () JORF 15 novembre 2006
+
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-4 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R752-2 (VD)
   - Code de la santé publique - art. L1133-4 (V)
   - Code pénal - art. 226-28 (V)
-
-_Cite_:
-
-  - Code civil - art. 47 (M)
 
 
 ###### Article L111-7
@@ -6295,46 +6295,48 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
 
 
-###### Article L512-5
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.<a id=75></a>
 
-Le jugement du président du tribunal administratif ou de son délégué est susceptible d'appel dans un délai d'un mois devant
-le président de la section du contentieux du Conseil d'Etat ou un conseiller d'Etat délégué par lui. Cet appel n'est pas
-suspensif.
+###### Article L513-1
 
-A compter d'une date fixée par décret en Conseil d'Etat, cet appel sera interjeté, dans les mêmes conditions, devant le
-président de la cour administrative d'appel territorialement compétente ou un membre de cette cour désigné par lui. Le même
-décret fixe les modalités d'application de cette disposition.
+L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le président du tribunal administratif ou le magistrat
+désigné à cette fin dans le délai prévu au premier alinéa de l'article L. 512-2 ou qui n'a pas fait l'objet d'une annulation
+dans les conditions fixées au même article (1) peut être exécuté d'office par l'administration.
 
 **Nota:**
 
-NOTA : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur à
+(1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur à
 compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+
+La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 45-2658 1945-11-02 art. 22 bis, paragraphe IV
+  - Ordonnance 45-2658 1945-11-02 art. 26 bis, al. 1, ecqc la reconduite à la frontière
 
 _Codifié par_:
 
   - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
   - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+  - Loi n°2006-911 du 24 juillet 2006 - art. 62 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
-  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (M)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
 
+_Cite_:
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.<a id=75></a>
+  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
+
 
 ###### Article L513-2
 
@@ -7102,8 +7104,8 @@ _Cite_:
 
 ###### Article L531-1
 
-Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-2 à L. 512-5, L. 513-1 et L. 531-3, l'étranger
-non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se conformer aux
+Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-2 à L. 512-4 (1), L. 513-1 et L. 531-3,
+l'étranger non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se conformer aux
 dispositions des articles L. 211-1, L. 211-2, L. 311-1 et L. 311-2 peut être remis aux autorités compétentes de l'Etat membre
 qui l'a admis à entrer ou à séjourner sur son territoire, ou dont il provient directement, en application des dispositions
 des conventions internationales conclues à cet effet avec les Etats membres de l'Union européenne.
@@ -7113,6 +7115,13 @@ administrative définie par décret en Conseil d'Etat.
 
 Cette décision peut être exécutée d'office par l'administration après que l'étranger a été mis en mesure de présenter des
 observations et d'avertir ou de faire avertir son consulat, un conseil ou toute personne de son choix.
+
+**Nota:**
+
+(1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur à
+compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+
+La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7140,6 +7149,7 @@ _Codifié par_:
 
 _Cite_:
 
+  - Loi n°2006-911 2006-07-24
   - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L211-2 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L213-2 (M)
@@ -7148,7 +7158,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L311-2 (M)
   - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
   - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L213-2, L213-3, L511-1 à L511-3, L512-2 à L512-5, L513-1, L531-3, L211-1, L211-2, L311-1, L311-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile L213-2, L213-3, L511-1 à L511-3, L512-2 à L512-4, L513-1, L531-3, L211-1, L211-2, L311-1, L311-2, 117
+
+_Modifié par_:
+
+  - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article L531-2
@@ -18142,145 +18156,146 @@ _Cite_:
 
 Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre des arrêtés
 préfectoraux de reconduite à la frontière obéissent aux règles définies par les articles R. 776-1 à R. 776-20 du code de
-justice administrative, ci-après reproduits :
+justice administrative, ci-après reproduits : 
 
-"Art. R. 776-1 du code de justice administrative :
+" Art.R. 776-1 du code de justice administrative : 
 
-"Les dispositions suivantes sont seules applicables à la présentation, à l'instruction et au jugement des recours en
-annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 776-2.
+" Les dispositions suivantes sont seules applicables à la présentation, à l'instruction et au jugement des recours en
+annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 776-2. 
 
-"Art. R. 776-2 du code de justice administrative :
+" Art.R. 776-2 du code de justice administrative : 
 
-"Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
-commissaire du Gouvernement.
+" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
+commissaire du Gouvernement. 
 
-"Art. R. 776-2-1 du code de justice administrative :
+" Art.R. 776-2-1 du code de justice administrative : 
 
-"Le président du tribunal administratif ou le magistrat qu'il délègue peut, par ordonnance :
+" Le président du tribunal administratif ou le magistrat qu'il délègue peut, par ordonnance : 
 
-"1° Donner acte des désistements ;
+" 1° Donner acte des désistements ; 
 
-"2° Constater qu'il n'y a pas lieu de statuer sur un recours ;
+" 2° Constater qu'il n'y a pas lieu de statuer sur un recours ; 
 
-"3° Rejeter les recours entachés d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance.
+" 3° Rejeter les recours entachés d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance. 
 
-"Art. R. 776-3 du code de justice administrative :
+" Art.R. 776-3 du code de justice administrative : 
 
-"Le tribunal administratif territorialement compétent est celui dans le ressort duquel a son siège le préfet qui a pris la
-décision.
+" Le tribunal administratif territorialement compétent est celui dans le ressort duquel a son siège le préfet qui a pris la
+décision. 
 
-"Toutefois, lorsque le recours est formé par un étranger placé dans un centre de rétention administrative, le tribunal
+" Toutefois, lorsque le recours est formé par un étranger placé dans un centre de rétention administrative, le tribunal
 administratif compétent est celui dans le ressort duquel est situé le centre où se trouve le requérant lors de l'introduction
-de sa requête.
+de sa requête. 
 
-"Lorsque le président d'un tribunal administratif est saisi de conclusions dirigées contre un arrêté de reconduite à la
+" Lorsque le président d'un tribunal administratif est saisi de conclusions dirigées contre un arrêté de reconduite à la
 frontière qu'il estime ressortir à la compétence du président d'un autre tribunal administratif, il lui transmet le dossier
-sans délai et par tous moyens.
+sans délai et par tous moyens. 
 
-"Art. R. 776-4 du code de justice administrative :
+" Art.R. 776-4 du code de justice administrative : 
 
-"La requête doit contenir les nom et adresse du requérant ainsi que l'exposé des faits et des motifs pour lesquels
-l'annulation est demandée. Elle est présentée en un seul exemplaire.
+" La requête doit contenir les nom et adresse du requérant ainsi que l'exposé des faits et des motifs pour lesquels
+l'annulation est demandée. Elle est présentée en un seul exemplaire. 
 
-"La décision attaquée est produite par l'administration.
+" La décision attaquée est produite par l'administration. 
 
-"Art. R. 776-5 du code de justice administrative :
+" Art.R. 776-5 du code de justice administrative : 
 
-"Les requêtes mentionnées à l'article R. 776-1 peuvent être présentées sans ministère d'avocat.
+" Les requêtes mentionnées à l'article R. 776-1 peuvent être présentées sans ministère d'avocat. 
 
-"L'étranger peut, dès le dépôt de sa requête, demander qu'un avocat soit désigné d'office ; le président du tribunal
+" L'étranger peut, dès le dépôt de sa requête, demander qu'un avocat soit désigné d'office ; le président du tribunal
 administratif en informe aussitôt le bâtonnier de l'ordre des avocats près le tribunal de grande instance dans le ressort
-duquel se tiendra l'audience. Le bâtonnier effectue la désignation sans délai.
+duquel se tiendra l'audience. Le bâtonnier effectue la désignation sans délai. 
 
-"Art. R. 776-6 du code de justice administrative :
+" Art.R. 776-6 du code de justice administrative : 
 
-"La requête doit être enregistrée au greffe du tribunal administratif dans les délais visés à l'article L. 776-1.
+" La requête doit être enregistrée au greffe du tribunal administratif dans les délais visés à l'article L. 776-1. 
 
-"Toutefois, si, au moment de la notification de l'arrêté, l'étranger est retenu par l'autorité administrative, sa requête
+" Toutefois, si, au moment de la notification de l'arrêté, l'étranger est retenu par l'autorité administrative, sa requête
 peut valablement être déposée dans ce même délai soit auprès de ladite autorité administrative, soit au greffe du tribunal
-devant lequel il comparaît en vue de la prorogation de sa rétention administrative.
+devant lequel il comparaît en vue de la prorogation de sa rétention administrative. 
 
-"Dans le cas prévu à l'alinéa précédent, mention du dépôt est faite sur un registre ouvert à cet effet. Un récépissé
-indiquant la date et l'heure du dépôt est délivré au requérant.
+" Dans le cas prévu à l'alinéa précédent, mention du dépôt est faite sur un registre ouvert à cet effet. Un récépissé
+indiquant la date et l'heure du dépôt est délivré au requérant. 
 
-"L'autorité qui a reçu la requête la transmet sans délai et par tous moyens au président du tribunal administratif.
+" L'autorité qui a reçu la requête la transmet sans délai et par tous moyens au président du tribunal administratif. 
 
-"Art. R. 776-7 du code de justice administrative :
+" Art.R. 776-7 du code de justice administrative : 
 
-"A son arrivée au greffe, la requête est inscrite sur un registre d'ordre spécial tenu par le greffier en chef. Elle est, en
-outre, marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et l'heure de leur arrivée.
+" A son arrivée au greffe, la requête est marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et
+l'heure de leur arrivée. 
 
-"Art. R. 776-8 du code de justice administrative :
+" Art.R. 776-8 du code de justice administrative : 
 
-"L'Etat est représenté en défense par le préfet qui a pris l'arrêté attaqué. Dès le dépôt de la requête, le président du
-tribunal administratif lui transmet copie de celle-ci et des pièces qui y sont jointes.
+" L'Etat est représenté en défense par le préfet qui a pris l'arrêté attaqué. Dès le dépôt de la requête, le président du
+tribunal administratif lui transmet copie de celle-ci et des pièces qui y sont jointes. 
 
-"Art. R. 776-9 du code de justice administrative :
+" Art.R. 776-9 du code de justice administrative : 
 
-"Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à
-partir de l'heure d'enregistrement de la requête au greffe du tribunal.
+" Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à
+partir de l'heure d'enregistrement de la requête au greffe du tribunal. 
 
-"Art. R. 776-10 du code de justice administrative :
+" Art.R. 776-10 du code de justice administrative : 
 
-"Les parties doivent être averties par tous moyens de la date, de l'heure et du lieu de l'audience.
+" Les parties doivent être averties par tous moyens de la date, de l'heure et du lieu de l'audience. 
 
-"Art. R. 776-11 du code de justice administrative :
+" Art.R. 776-11 du code de justice administrative : 
 
-"Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le demande, le président nomme un interprète
+" Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le demande, le président nomme un interprète
 qui doit prêter serment d'apporter son concours à la justice en son honneur et en sa conscience. Cette demande peut être
-formulée dès le dépôt de la requête introductive d'instance.
+formulée dès le dépôt de la requête introductive d'instance. 
 
-"Art. R. 776-12 du code de justice administrative :
+" Art.R. 776-12 du code de justice administrative : 
 
-"Jusqu'au moment où l'affaire est appelée, les parties peuvent présenter des conclusions ou observations écrites.
+" Jusqu'au moment où l'affaire est appelée, les parties peuvent présenter des conclusions ou observations écrites. 
 
-"Art. R. 776-13 du code de justice administrative :
+" Art.R. 776-13 du code de justice administrative : 
 
-"Après le rapport fait par le président du tribunal administratif ou son délégué, les parties peuvent présenter en personne
+" Après le rapport fait par le président du tribunal administratif ou son délégué, les parties peuvent présenter en personne
 ou par un avocat des observations orales. Elles peuvent également produire des documents à l'appui de leurs conclusions. Si
 ces documents apportent des éléments nouveaux, le magistrat demande à l'autre partie de les examiner et de lui faire part à
-l'audience de ses observations.
+l'audience de ses observations. 
 
-"Sans préjudice de l'article R. 776-8, les observations orales peuvent être présentées au nom de l'Etat par le préfet du
+" Sans préjudice de l'article R. 776-8, les observations orales peuvent être présentées au nom de l'Etat par le préfet du
 département dans lequel est situé le centre de rétention administrative où se trouve l'étranger lors de l'introduction de son
-recours et, si le centre de rétention administrative est situé à Paris, par le préfet de police.
+recours et, si le centre de rétention administrative est situé à Paris, par le préfet de police. 
 
-"Art. R. 776-14 du code de justice administrative :
+" Art.R. 776-14 du code de justice administrative : 
 
-"Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative ou s'il
-l'était lorsqu'il a formé son recours.
+" Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative ou s'il
+l'était lorsqu'il a formé son recours. 
 
-"Art. R. 776-15 du code de justice administrative :
+" Art.R. 776-15 du code de justice administrative : 
 
-"Le jugement comporte, sous réserve des dispositions du présent chapitre, les mentions prévues aux articles R. 776-3 et R.
-741-6.
+" Le jugement comporte, sous réserve des dispositions du présent chapitre, les mentions prévues aux articles R. 776-3 et R.
+741-6. 
 
-"Art. R. 776-16 du code de justice administrative :
+" Art.R. 776-16 du code de justice administrative : 
 
-"La minute du jugement est signée par le magistrat qui l'a rendu.
+" La minute du jugement est signée par le magistrat qui l'a rendu. 
 
-"Art. R. 776-17 du code de justice administrative :
+" Art.R. 776-17 du code de justice administrative : 
 
-"Le dispositif du jugement prononcé dans les conditions prévues à l'article R. 776-14, assorti de la formule exécutoire
-prévue à l'article R. 751-1, est communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt réception.
+" Le dispositif du jugement prononcé dans les conditions prévues à l'article R. 776-14, assorti de la formule exécutoire
+prévue à l'article R. 751-1, est communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt réception. 
 
-"S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous moyens aux parties qui en accusent réception.
+" S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous moyens aux parties qui en accusent
+réception. 
 
-"La notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée.
+" La notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée. 
 
-"Art. R. 776-18 du code de justice administrative :
+" Art.R. 776-18 du code de justice administrative : 
 
-"Les frais d'interprète sont liquidés dans les conditions prévues par l'article R. 122 du code de procédure pénale.
+" Les frais d'interprète sont liquidés dans les conditions prévues par l'article R. 122 du code de procédure pénale. 
 
-"Art. R. 776-19 du code de justice administrative :
+" Art.R. 776-19 du code de justice administrative : 
 
-"Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
-administrative d'appel ou un magistrat délégué par lui.
+" Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
+administrative d'appel ou un magistrat délégué par lui. Cet appel n'est pas suspensif. 
 
-"Art. R. 776-20 du code de justice administrative :
+" Art.R. 776-20 du code de justice administrative : 
 
-"Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification a été faite à
-cette partie dans les conditions prévues à l'article R. 776-17, troisième alinéa."
+" Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification a été faite
+à cette partie dans les conditions prévues à l'article R. 776-17, troisième alinéa. "
 
 **Liens relatifs à cet article**
 
@@ -18288,10 +18303,37 @@ _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+_Modifié par_:
+
+  - Décret n°2006-1708 du 23 décembre 2006 - art. 10 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2006-1708 du 23 décembre 2006 - art. 9 () JORF 29 décembre 2006 en vigueur le 1er janvier 2007
+
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L776-1, L776-2, R776-1
-  - Code de justice administrative R776-1 à R776-20
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-10 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-11 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-12 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-13 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-14 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-15 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-16 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-17 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-18 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-19 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-2 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-2-1 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-20 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-3 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-4 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-5 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-6 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-7 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-8 (V)
+  - PILOTE_SUIVEUR: Code de justice administrative. - art. R776-9 (V)
 
 
 ###### Article R512-3
