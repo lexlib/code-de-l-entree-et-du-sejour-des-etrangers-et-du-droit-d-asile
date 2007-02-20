@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-01-25
+Version Consolidée au 2007-02-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L831-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -6123,7 +6123,8 @@ _Cite_:
 L'étranger qui fait l'objet d'un refus de séjour, d'un refus de délivrance ou de renouvellement de titre de séjour ou d'un
 retrait de titre de séjour, de récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour assorti d'une
 obligation de quitter le territoire français mentionnant le pays de destination peut, dans le délai d'un mois suivant la
-notification, demander l'annulation de ces décisions au tribunal administratif. Son recours suspend l'exécution de
+notification, demander l'annulation de ces décisions au tribunal administratif. Il peut demander le bénéfice de l'aide
+juridictionnelle au plus tard lors de l'introduction de sa requête en annulation. Son recours suspend l'exécution de
 l'obligation de quitter le territoire français sans pour autant faire obstacle au placement en rétention administrative dans
 les conditions prévues au titre V du présent livre.
 
@@ -6191,7 +6192,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 57 () JORF 25 juillet 2006
+  - Loi n°2007-210 du 19 février 2007 - art. 7 (V)
 
 _Nouveaux textes_:
 
