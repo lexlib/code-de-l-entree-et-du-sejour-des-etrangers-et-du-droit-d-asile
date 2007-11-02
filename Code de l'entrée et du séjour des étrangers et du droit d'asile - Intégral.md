@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-10-31
+Version Consolidée au 2007-11-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L831-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -162,7 +162,7 @@ Version Consolidée au 2007-10-31
         - [Chapitre Ier : Documents exigés (art. R211-1 à R211-33)](#159)
           - [Section 1 : Généralités (art. R211-1 à R211-3)](#160)
           - [Section 2 : Visa (art. R211-4 à R211-10)](#161)
-            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4)](#162)
+            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4 à R211-4-1)](#162)
             - [Sous-section 2 : Recours contre les refus de visa (art. D211-5 à R211-10)](#163)
           - [Section 3 : Justificatif d'hébergement (art. R211-11 à R211-26)](#164)
             - [Sous-section 1 : Souscription des attestations d'accueil (art. R211-11 à R211-15)](#165)
@@ -294,7 +294,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#223)
       - [TITRE Ier : CONTRÔLES (art. D611-1 à R611-26)](#290)
         - [Chapitre unique (art. D611-1 à R611-26)](#291)
           - [Section 1 : Système informatisé de gestion des dossiers des ressortissants étrangers en France. (art. D611-1 à D611-7)](#292)
-          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-17)](#293)
+          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#293)
           - [Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises (art. R611-18 à R611-24)](#294)
           - [Section 4 : Dispositions diverses. (art. R611-25 à R611-26)](#295)
       - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#296)
@@ -345,13 +345,9 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#223)
       - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#341)
       - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#342)
         - [Chapitre unique. (art. R831-1)](#343)
-  - [Annexes (art. Annexe 6.1 à Annexe 6.6)](#344)
-    - [Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.1)](#345)
-    - [Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.2)](#346)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#347)
-    - [Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15 (art. Annexe 6.4)](#348)
-    - [Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.5)](#349)
-    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#350)
+  - [Annexes (art. Annexe 6.3 à Annexe 6.6)](#344)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#345)
+    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#346)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -13606,11 +13602,19 @@ _Codifié par_:
 Un arrêté pris conjointement par le ministre de l'intérieur et le ministre des affaires étrangères détermine la nature des
 documents prévus au 1° de l'article L. 211-1 sous le couvert desquels les étrangers sont admis à franchir la frontière.
 
+L'admission sur le territoire français d'un étranger porteur d'un visa peut être subordonnée à un examen de ses empreintes
+digitales, aux fins de comparaison avec les données enregistrées dans le traitement automatisé mentionné à l'article L. 611-6
+lors de la présentation de la demande de visa.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 1 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -13618,10 +13622,6 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-3 (VD)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
 
 
 ###### Article R211-2
@@ -13681,6 +13681,26 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+
+###### Article R211-4-1
+
+La personne qui sollicite la délivrance d'un visa est tenue de produire une photographie d'identité et de se prêter au relevé
+de ses empreintes digitales, aux fins d'enregistrement dans le traitement automatisé mentionné à l'article L. 611-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Créé par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 1 () JORF 3 novembre 2007
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-6 (V)
 
 
 ##### Sous-section 2 : Recours contre les refus de visa<a id=163></a>
@@ -22700,24 +22720,34 @@ _Abrogé par_:
 
 ###### Article R611-8
 
-Est autorisée, par application de l'article L. 611-6, la création, à titre expérimental, d'un traitement automatisé de
-données à caractère personnel relevant du ministère de l'intérieur.
+Est autorisée la création, sur le fondement de l'article L. 611-6, d'un traitement automatisé de données à caractère
+personnel dénommé VISABIO, relevant du ministère des affaires étrangères et du ministère chargé de l'immigration.
 
-La finalité de ce traitement est de mieux garantir le droit au séjour des personnes en situation régulière et de lutter
-contre l'entrée et le séjour irréguliers des étrangers en France, en prévenant les fraudes documentaires et les usurpations
-d'identité, en améliorant la vérification de l'authenticité des visas ainsi que celle de l'identité des étrangers, lors des
-contrôles aux frontières extérieures des Etats parties à la convention du 19 juin 1990 d'application de l'accord signé à
-Schengen le 14 juin 1985 réalisés aux points de contrôle français mentionnés à l'annexe 6.1 du présent code, et en
-facilitant, sur le territoire national, les vérifications d'identité opérées, en application de l'article 78-3 du code de
-procédure pénale, par les services de police mentionnés à l'annexe 6.5 du présent code.
+Ce traitement a pour finalité de mieux garantir le droit au séjour des personnes en situation régulière et de lutter contre
+l'entrée et le séjour irréguliers des étrangers en France, en prévenant les fraudes documentaires et les usurpations
+d'identité. Il vise :
 
-L'expérimentation est autorisée pour une durée de trois ans à compter du 26 novembre 2004. Il est procédé à son évaluation.
+1° A améliorer les conditions de délivrance des visas en permettant de déceler les demandes présentées par la même personne
+sous plusieurs identités ;
+
+2° A améliorer la vérification de l'authenticité des visas ainsi que de l'identité de leurs détenteurs aux points de contrôle
+français aux frontières extérieures des Etats parties à la convention signée à Schengen le 19 juin 1990 et aux frontières des
+territoires non européens de la République française ;
+
+3° A faciliter, sur le territoire national, les vérifications d'identité opérées, en application de l'article 78-3 du code de
+procédure pénale, par les services de la police et de la gendarmerie nationales ;
+
+4° A faciliter la vérification par les services mentionnés au 3° de l'authenticité des visas et de la régularité du séjour.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -22729,8 +22759,8 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du  - art. L611-6 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L611-6, annexe 6
   - CODE DE PROCEDURE PENALE - art. 78-3 (M)
+  - Convention 1990-06-19 signée à Schengen
 
 
 ###### Article R611-9
@@ -22738,12 +22768,24 @@ _Cite_:
 Les données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-8 sont :
 
 1° Les images numérisées de la photographie et des empreintes digitales des dix doigts des demandeurs de visas, collectées
-par les chancelleries consulaires et les consulats mentionnés à l'annexe 6.2 du présent code ;
+par les chancelleries consulaires et les consulats français équipés du dispositif requis.
 
-2° Les données à caractère personnel énumérées à l'annexe 6.3 du présent code et communiquées automatiquement par le
-traitement automatisé de données à caractère personnel dénommé Réseau mondial visas 2, dans les conditions prévues par
-l'article 5 de l'arrêté du 22 août 2001 modifié portant création d'un traitement automatisé d'informations nominatives
-relatif à la délivrance des visas dans les postes consulaires.
+Les empreintes digitales des mineurs de six ans ne sont pas collectées.
+
+L'impossibilité de collecte totale ou partielle des empreintes digitales sera mentionnée dans le traitement.
+
+Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir de l'image numérisée de la photographie.
+
+2° Les données énumérées à l'annexe 6-3 communiquées automatiquement par le traitement automatisé de données à caractère
+personnel dénommé Réseau mondial visas, dans les conditions prévues par l'article 5 de l'arrêté du 22 août 2001 modifié
+portant création d'un traitement automatisé d'informations nominatives relatif à la délivrance des visas dans les postes
+consulaires, lors de la demande et de la délivrance d'un visa.
+
+3° Des données recueillies ultérieurement lors des entrées et sorties du détenteur de visa : date de première entrée, date de
+dernière entrée et date de sortie.
+
+Les données mentionnées aux 1° et 2° peuvent également être enregistrées par les services chargés du contrôle aux frontières
+ou par les services préfectoraux lorsqu'ils sont conduits à instruire des demandes de visa.
 
 **Liens relatifs à cet article**
 
@@ -22751,11 +22793,15 @@ _Cite_:
 
   - Arrêté 2001-08-22 art. 5
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-8, annexe 6
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-8, annexe 6-3
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -22766,15 +22812,18 @@ _Cité par_:
 ###### Article R611-10
 
 Les données à caractère personnel mentionnées au 1° de l'article R. 611-9 peuvent également être collectées par les
-chancelleries consulaires et les consulats des Etats membres de l'Union européenne présents dans les pays mentionnés à
-l'annexe 6.2, à la condition que la collecte desdites données présente un niveau de protection et des garanties équivalents à
-ceux du droit interne.
+chancelleries consulaires et les consulats des Etats membres de l'Union européenne, à la condition que la collecte présente
+un niveau de protection et des garanties équivalents à ceux du droit interne.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -22784,15 +22833,12 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-9 (M)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-9, annexe 6
 
 
 ###### Article R611-11
 
-La durée de conservation des données à caractère personnel mentionnées à l'article R. 611-9 est de deux ans à compter de leur
-inscription pour les demandes de visas uniformes de court séjour, et de cinq ans à compter de leur inscription pour les
-demandes de visas de long séjour et les refus de visas sous réserve de l'engagement de la procédure de création du traitement
-automatisé prévu à l'article L. 611-6.
+La durée de conservation des données à caractère personnel mentionnées à l'article R. 611-9 est de cinq ans à compter de leur
+inscription.
 
 **Liens relatifs à cet article**
 
@@ -22800,9 +22846,12 @@ _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L611-6 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-9 (M)
 
 
@@ -22811,27 +22860,39 @@ _Cite_:
 I. - Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R.
 611-8 sont :
 
-1° Les agents des chancelleries consulaires et des consulats français mentionnés à l'annexe 6.2, individuellement désignés et
-spécialement habilités par le chef de poste diplomatique ou consulaire ;
+1° Les agents du ministère des affaires étrangères et du ministère chargé de l'immigration participant à l'instruction des
+demandes de visa, individuellement désignés et spécialement habilités par le ministre dont ils relèvent ;
 
-2° Les agents du ministère de l'intérieur, individuellement désignés et spécialement habilités par le directeur central de la
-police aux frontières ;
+2° Les agents des préfectures compétents en matière de délivrance et de prorogation des visas, individuellement désignés et
+spécialement habilités par le préfet ;
 
-3° Les officiers de police judiciaire des services de la police nationale mentionnés à l'annexe 6.5, individuellement
-désignés et spécialement habilités par le préfet de police ou le commissaire central concerné, pour des missions de
-vérification d'identité prévues par les articles 78-2 et 78-3 du code de procédure pénale.
+3° Les agents du ministère de l'intérieur et du ministère chargé du budget, individuellement désignés et spécialement
+habilités par le chef du service de la police nationale ou des douanes chargé du contrôle aux frontières ;
 
-II. - Peuvent également accéder aux données enregistrées dans le traitement prévu à l'article R. 611-8 dans les conditions
-fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant
-dispositions diverses relatives à la sécurité et aux contrôles transfrontaliers :
+4° Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et
+spécialement habilités par le préfet de police, le directeur départemental de sécurité publique ou le commandant du
+groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant de la direction centrale de la
+police judiciaire ou de la direction générale de la gendarmerie nationale, pour des missions de vérification d'identité
+prévues par l'article 78-3 du code de procédure pénale.
 
-- les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
-nationale chargés des missions de prévention et de répression des actes de terrorisme ;
+II. - Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police
+judiciaire des services de la police et de la gendarmerie nationales individuellement désignés et spécialement habilités dans
+les conditions prévues au 4° du I peuvent accéder aux données à caractère personnel enregistrées dans le traitement
+automatisé, à l'exclusion des images numérisées des empreintes digitales.
 
-- les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
-terrorisme.
+III. - Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les
+conditions fixées aux articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 :
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+1° Les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
+nationale chargés des missions de prévention et de répression des actes de terrorisme, individuellement désignés et
+spécialement habilités respectivement par le directeur général de la police nationale et le directeur général de la
+gendarmerie nationale ;
+
+2° Les agents des services de renseignement du ministère de la défense, chargés des missions de prévention des actes de
+terrorisme, individuellement désignés et spécialement habilités par le directeur général de la sécurité extérieure, le
+directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
+
+IV. - Les dispositions du III sont applicables jusqu'au 31 décembre 2008.
 
 **Liens relatifs à cet article**
 
@@ -22839,8 +22900,6 @@ _Cite_:
 
   - Loi n°2006-64 2006-01-23 art. 9, art. 33
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile R611-8, annexe 6
-  - CODE DE PROCEDURE PENALE - art. 78-2 (M)
   - CODE DE PROCEDURE PENALE - art. 78-3 (M)
 
 _Codifié par_:
@@ -22849,7 +22908,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2007-86 du 23 janvier 2007 - art. 3 () JORF 25 janvier 2007
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -22859,10 +22918,10 @@ _Cité par_:
 
 ###### Article R611-13
 
-Le droit d'accès et de rectification prévu par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés s'exerce auprès du ministère des affaires étrangères (direction des Français à
-l'étranger et des étrangers en France), du ministère de l'intérieur (direction centrale de la police aux frontières) ainsi
-que de la chancellerie consulaire ou du consulat où la demande de visa a été déposée.
+Les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978, s'exercent
+auprès du ministère de l'intérieur (direction centrale de la police aux frontières), du ministère des affaires étrangères
+(direction des Français à l'étranger et des étrangers en France), du ministère chargé de l'immigration ou du service où la
+demande de visa a été déposée.
 
 **Liens relatifs à cet article**
 
@@ -22875,37 +22934,44 @@ _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+
 
 ###### Article R611-14
 
-Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
-aux libertés ne s'applique pas au présent traitement.
+Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susmentionnée ne s'applique pas au présent traitement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 38 (M)
+  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+
 
 ###### Article R611-15
 
-Afin de faciliter l'authentification du détenteur de visa aux postes frontières, un composant électronique contenant les
-données à caractère personnel mentionnées à l'annexe 6.4 du présent code ainsi que les images numérisées de deux empreintes
-digitales et de la photographie du titulaire du visa, peut, à titre expérimental, être associé à la vignette visa prévue par
-le règlement (CE) n° 1683/95 du Conseil du 29 mai 1995 et délivré aux ressortissants étrangers sollicitant un visa afin de
-séjourner en France ou sur le territoire d'un autre Etat partie à la convention signée à Schengen le 19 juin 1990 par les
-chancelleries consulaires et les consulats mentionnés à l'annexe 6.2 du présent code.
+Il est procédé tous les trois ans, par les ministères mentionnés à l'article R. 611-8, à une évaluation du traitement VISABIO
+donnant lieu à un rapport communiqué à la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
 
 _Cité par_:
 
@@ -22913,45 +22979,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile annexe 6
-
-
-###### Article R611-16
-
-Dans le cas où le composant électronique mentionné à l'article R. 611-15 est une puce sans contact, celle-ci devra comporter
-des sécurités suffisantes pour prémunir le titulaire du visa contre les risques d'intrusion et de détournement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. R611-15 (M)
-
-
-###### Article R611-17
-
-Lors de la délivrance du visa, les chancelleries consulaires et les consulats remettent au titulaire du visa une copie sur
-papier des données nominatives enregistrées dans le composant électronique. Le titulaire du visa exerce son droit de
-rectification pour les données à caractère personnel contenues dans ce composant à la chancellerie consulaire ou au consulat
-ayant délivré le visa.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+  - Code de l'entrée et du séjour des étrangers et du  - art. R611-8 (M)
 
 
 ##### Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises<a id=294></a>
@@ -26136,155 +26164,7 @@ _Cite_:
 
 # Annexes<a id=344></a>
 
-## Annexe 6.1 mentionnée à l'article R. 611-8 LISTE DES POINTS DE CONTRÔLE FRANçAIS AUX FRONTIÈRES EXTÉRIEURES DES ÉTATS PARTIES À LA CONVENTION SIGNÉE À SCHENGEN LE 19 JUIN 1990 Où PEUVENT ÊTRE UTILISÉES À TITRE EXPÉRIMENTAL LES DONNÉES À CARACTÈRE PERSONNEL DU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=345></a>
-
-###### Article Annexe 6.1
-
-1° Aéroport de Roissy.
-
-2° Aéroport d'Orly.
-
-3° Aéroport de Genève.
-
-4° Postes aux frontières terrestres entre la France et la Suisse.
-
-5° Aéroport de Lyon - Saint-Exupéry.
-
-6° Aéroport de Marseille-Provence.
-
-7° Port de Marseille-Joliette.
-
-8° Aéroport de Bâle-Mulhouse.
-
-9° Aéroport de Bordeaux-Mérignac.
-
-10° Aéroport de Lille-Lesquin.
-
-11° Aéroport de Nantes-Atlantique.
-
-12° Aéroport de Nice-Côte d'Azur.
-
-13° Aéroport de Strasbourg-Entzheim.
-
-14° Aéroport de Toulouse-Blagnac.
-
-15° Gare maritime de Sète.
-
-16° Service de la police aux frontières et port d'Ajaccio.
-
-17° Service départemental de la police aux frontières de La Rochelle.
-
-18° Poste de Waterloo-Station.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
-
-
-## Annexe 6.2 mentionnée à l'article R. 611-9 LISTE DES CHANCELLERIES CONSULAIRES ET DES CONSULATS FRANçAIS Où PEUVENT ÊTRE COLLECTÉES LES DONNÉES À CARACTÈRE PERSONNEL TRANSMISES AU TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=346></a>
-
-###### Article Annexe 6.2
-
-1° Agadir (Royaume du Maroc).
-
-2° Alger (République algérienne démocratique et populaire).
-
-3° Amman (Royaume hachémite de Jordanie).
-
-4° Ankara (République de Turquie).
-
-5° Annaba (République algérienne démocratique et populaire).
-
-6° Bamako (République du Mali).
-
-7° Bombay (République de l'Inde).
-
-8° Brazzaville (République du Congo).
-
-9° Bujumbura (République du Burundi).
-
-10° Casablanca (Royaume du Maroc).
-
-11° Chisinau (République de Moldavie).
-
-12° Colombo (République démocratique socialiste de Sri Lanka).
-
-13° Cotonou (République du Bénin).
-
-14° Dakar (République du Sénégal).
-
-15° Damas (République arabe syrienne).
-
-16° Douala (République du Cameroun).
-
-17° Fès (Royaume du Maroc).
-
-18° Genève (Confédération suisse).
-
-19° Islamabad (République islamique du Pakistan).
-
-20° Istanbul (République de Turquie).
-
-21° Kigali (République rwandaise).
-
-22° Kinshasa (République du Congo).
-
-23° Lagos (République fédérale du Nigeria).
-
-24° Le Caire (République arabe d'Egypte).
-
-25° Lomé (République togolaise).
-
-26° Marrakech (Royaume du Maroc).
-
-27° Minsk (République de Belarus).
-
-28° Moroni (République fédérale islamique des Comores).
-
-29° Niamey (République du Niger).
-
-30° Nouakchott (République islamique de Mauritanie).
-
-31° Ouagadougou (Burkina Faso).
-
-32° Rabat (Royaume du Maroc).
-
-33° Saint-Louis (République du Sénégal).
-
-34° San Francisco (Etats-Unis d'Amérique).
-
-35° Shanghai (République populaire de Chine).
-
-36° Tanger (Royaume du Maroc).
-
-37° Tbilissi (République de Géorgie).
-
-38° Tripoli (Grande Jamahiriya arabe libyenne populaire et socialiste).
-
-39° Tunis (République tunisienne).
-
-40° Washington (Etats-Unis d'Amérique).
-
-41° Yaoundé (République du Cameroun).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
-
-
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=347></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=345></a>
 
 ###### Article Annexe 6.3
 
@@ -26330,89 +26210,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## Annexe 6.4 mentionnée à l'article R. 611-15 LISTE DES DONNÉES À CARACTÈRE PERSONNEL POUVANT ÊTRE INSCRITES DANS LE COMPOSANT ÉLECTRONIQUE MENTIONNÉ À L'ARTICLE R. 611-15<a id=348></a>
-
-###### Article Annexe 6.4
-
-Les données à caractère personnel qui peuvent être inscrites dans le composant électronique sont celles imprimées sur la
-vignette visa, conformément aux annexes 10 et 13 des instructions consulaires communes adressées aux représentations
-diplomatiques et consulaires de carrière, prises en application de la convention signée à Schengen le 19 juin 1990.
-
-Ces données sont :
-
-1° Le type de visa ;
-
-2° L'Etat émetteur du visa ;
-
-3° Les nom, prénom(s), date de naissance, sexe et nationalité du bénéficiaire du visa ;
-
-4° Le numéro de la vignette utilisée ;
-
-5° La validité territoriale du visa délivré : Schengen ou France ;
-
-6° La date de début de validité du visa : date prévue du premier passage (transit aéroportuaire), du premier transit ou de la
-première entrée (court séjour ou long séjour) ;
-
-7° La date de fin de validité du visa : date prévue du dernier passage (transit aéroportuaire), du dernier retour (transit ou
-court séjour) ou de fin du séjour (court séjour ou long séjour) ;
-
-8° La durée de séjour accordée : durée maximale d'un transit ou durée totale de séjour (court séjour) ;
-
-9° Le nombre de passages (transit aéroportuaire) ou d'entrées accordé (transit ou court séjour) ;
-
-10° Le numéro perforé ou imprimé sur le document de voyage ;
-
-11° La date et le lieu de délivrance du visa ;
-
-12° La durée de validité du visa dans le cas particulier d'un visa de circulation valable de 1 à 5 ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-13-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R321-22 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
-
-
-## Annexe 6.5 mentionnée à l'article R. 611-8 LISTE DES SERVICES DE LA POLICE NATIONALE DONT LES OFFICIERS DE POLICE JUDICIAIRE INDIVIDUELLEMENT DÉSIGNÉS ET SPÉCIALEMENT HABILITÉS PEUVENT CONSULTER LES DONNÉES À CARACTÈRE PERSONNEL ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=349></a>
-
-###### Article Annexe 6.5
-
-Circonscriptions de sécurité publique dépendant de l'autorité :
-
-1° Du préfet de police ;
-
-2° Du commissaire central de Lille ;
-
-3° Du commissaire central de Lyon ;
-
-4° Du commissaire central de Marseille.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 4 () JORF 3 novembre 2007
-
-
-## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=350></a>
+## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=346></a>
 
 ###### Article Annexe 6.6
 
