@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2007-12-31
+Version Consolidée au 2008-03-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -142,11 +142,11 @@ Version Consolidée au 2007-12-31
     - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#139)
   - [Partie réglementaire (art. R111-1 à R831-1)](#140)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#141)
-      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-32)](#142)
-        - [Chapitre unique (art. R111-1 à R111-32)](#143)
+      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-31)](#142)
+        - [Chapitre unique (art. R111-1 à R111-31)](#143)
           - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12)](#144)
           - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-24)](#145)
-          - [Section 3 : Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente (art. R111-25 à R111-32)](#146)
+          - [Section 3 : Commission nationale de contrôle des centres et locaux de rétention et des zones d'attente (art. R111-25 à R111-31)](#146)
       - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#147)
         - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#148)
           - [Section 1 : Entrée en France (art. R121-1 à R121-2)](#149)
@@ -286,10 +286,10 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#225)
             - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#282)
           - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-19)](#283)
         - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#284)
-          - [Section 1 : Lieux de rétention (art. R553-1 à R553-10)](#285)
+          - [Section 1 : Lieux de rétention (art. R553-1 à R553-9)](#285)
             - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#286)
             - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#287)
-            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-10)](#288)
+            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-9)](#288)
           - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-14)](#289)
           - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-17)](#290)
     - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. D611-1 à R626-4)](#291)
@@ -13013,35 +13013,45 @@ _Abrogé par_:
 ###### Article R111-25
 
 La Commission nationale de contrôle des centres et locaux de rétention administrative et des zones d'attente est une
-commission consultative, placée auprès du ministre de l'intérieur, chargée de veiller au respect des droits des étrangers
-maintenus dans ces lieux en application des articles L. 221-1 ou L. 551-1 et au respect des normes relatives à l'hygiène, la
-salubrité, la sécurité, l'équipement et l'aménagement de ces lieux.
+commission consultative, placée auprès du ministre chargé de l'immigration, chargée de veiller au respect des droits des
+étrangers maintenus dans ces lieux en application des articles L. 221-1 ou L. 551-1 et au respect des normes relatives à
+l'hygiène, la salubrité, la sécurité, l'équipement et l'aménagement de ces lieux. 
 
 La commission effectue des missions sur place et peut faire des recommandations au Gouvernement en vue de l'amélioration des
-conditions matérielles et humaines de maintien en rétention ou en zone d'attente.
+conditions matérielles et humaines de maintien en rétention ou en zone d'attente. 
 
-Elle peut être consultée par le ministre de l'intérieur sur toute question ou projet intéressant les centres et locaux de
-rétention administrative et les zones d'attente.
+Elle peut être consultée par le ministre chargé de l'immigration sur toute question ou projet intéressant les centres et
+locaux de rétention administrative et les zones d'attente. 
 
-Elle remet ses observations au ministre de l'intérieur en vue de les joindre au rapport sur les orientations pluriannuelles
-de la politique d'immigration du Gouvernement que celui-ci dépose chaque année devant le Parlement conformément aux
-dispositions de l'article L. 111-10.
+Elle remet ses observations au ministre chargé de l'immigration en vue de les joindre au rapport sur les orientations
+pluriannuelles de la politique d'immigration du Gouvernement que celui-ci dépose chaque année devant le Parlement
+conformément aux dispositions de l'article L. 111-10.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
 _Cité par_:
 
   - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-10
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L221-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+
 
 ###### Article R111-26
 
 La commission est présidée par un magistrat, en activité ou honoraire, de la Cour de cassation d'un grade au moins égal à
-celui de conseiller, nommé sur la proposition du premier président de la Cour de cassation.
+celui de conseiller, nommé sur la proposition du premier président de la Cour de cassation. 
 
 Elle comprend en outre :
 
@@ -13056,23 +13066,27 @@ justice ;
 
 - deux représentants d'associations humanitaires, nommés sur la proposition du ministre de l'intérieur ;
 
-- un représentant du ministre de l'intérieur ;
+- un représentant du ministre chargé de l'immigration ;
 
-- un représentant du ministre chargé des affaires sociales.
+- un représentant du ministre chargé des affaires sociales. 
 
-Les membres de la commission sont nommés par décret. Leur mandat est de deux ans. Il est renouvelable.
+Les membres de la commission sont nommés par décret. Leur mandat est de deux ans. Il est renouvelable. 
 
 Les parlementaires membres de la commission cessent d'y exercer leurs fonctions lorsqu'ils cessent d'appartenir à l'assemblée
-au titre de laquelle ils ont été désignés.
+au titre de laquelle ils ont été désignés. 
 
 Si, en cours de mandat, un membre de la commission cesse d'y exercer ses fonctions, le mandat de son successeur est limité à
 la période restant à courir. Le mandat de ce dernier est renouvelable.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
 
 ###### Article R111-27
@@ -13083,39 +13097,48 @@ Elle se réunit sur convocation de son président au moins une fois par an.
 
 En début d'année, elle fixe le calendrier des contrôles et désigne les lieux qui en feront l'objet. Un même lieu peut faire
 l'objet de plusieurs contrôles au cours d'une même année. En outre, des missions de contrôle peuvent être effectuées en
-dehors du calendrier, lorsque la commission estime que les circonstances le justifient. Le ministre de l'intérieur, le
-ministre de la justice, le ministre de la défense et le ministre chargé des affaires sociales sont informés du calendrier des
-visites. Ils sont préalablement informés des visites hors calendrier. Toutefois, le préfet territorialement compétent pour le
-centre ou pour le local de rétention administrative ou pour la zone d'attente peut faire connaître à la commission
-l'impossibilité de réaliser la visite au moment envisagé, pour des motifs graves d'ordre public ou de sécurité publique.
+dehors du calendrier, lorsque la commission estime que les circonstances le justifient. Le ministre chargé de l'immigration,
+le ministre de l'intérieur, le ministre de la justice, le ministre de la défense et le ministre chargé des affaires sociales
+sont informés du calendrier des visites. Ils sont préalablement informés des visites hors calendrier. Toutefois, le préfet
+territorialement compétent pour le centre ou pour le local de rétention administrative ou pour la zone d'attente peut faire
+connaître à la commission l'impossibilité de réaliser la visite au moment envisagé, pour des motifs graves d'ordre public ou
+de sécurité publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
 
 ###### Article R111-28
 
 Lors des visites sur place, les membres de la commission ont libre accès à l'ensemble des locaux où sont maintenus ou retenus
-les étrangers en situation irrégulière.
+les étrangers en situation irrégulière. 
 
 Au cours de leurs missions de contrôle, les membres de la commission prennent les contacts qu'ils estiment utiles avec les
 autorités administratives et judiciaires ainsi qu'avec toute personne, même extérieure à l'établissement, susceptible de leur
 apporter des informations utiles. Ils peuvent également s'entretenir confidentiellement avec les étrangers se trouvant dans
-ces lieux.
+ces lieux. 
 
 A l'issue de chaque visite, la commission établit un rapport, le cas échéant assorti de recommandations, concernant
 l'exercice des droits des étrangers placés dans le centre, le local de rétention administrative ou dans la zone d'attente
 visités, ainsi que le respect des normes relatives à l'hygiène, à la salubrité, à la sécurité, à l'équipement et à
-l'aménagement de ces lieux. Le rapport est adressé au ministre de l'intérieur.
+l'aménagement de ces lieux. Le rapport est adressé     au ministre de l'intérieur et au ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
 _Cité par_:
 
@@ -13145,9 +13168,9 @@ _Abrogé par_:
 ###### Article R111-30
 
 Si la commission estime que des faits dont elle a connaissance à l'occasion de l'exercice de sa mission constituent un
-manquement à la déontologie, elle rend compte au ministre de l'intérieur ou au ministre de la défense qui peuvent saisir les
-corps ou commissions de contrôle en vue de faire les vérifications ou enquêtes relevant de leurs attributions. La commission
-est informée des suites données.
+manquement à la déontologie, elle rend compte au ministre chargé de l'immigration ainsi que, selon le cas, au ministre de
+l'intérieur ou au ministre de la défense qui peuvent saisir les corps ou commissions de contrôle en vue de faire les
+vérifications ou enquêtes relevant de leurs attributions. La commission est informée des suites données. 
 
 Tout membre de la commission est soumis à l'obligation de discrétion professionnelle pour les faits et documents dont il a
 connaissance en cette qualité, sous réserve des éléments nécessaires à l'établissement des rapports prévus aux articles R.
@@ -13155,47 +13178,40 @@ connaissance en cette qualité, sous réserve des éléments nécessaires à l'�
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-28
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-31
 
 
 ###### Article R111-31
 
-La commission remet chaque année au ministre de l'intérieur un rapport relatif aux conditions matérielles et humaines de
-rétention et de maintien en zone d'attente des étrangers. Le rapport est accompagné, le cas échéant, de propositions
-d'aménagement de ces lieux et de modification de la réglementation qui y est applicable et entrant dans les domaines de sa
-compétence.
+La commission remet chaque année     au ministre de l'intérieur et au ministre chargé de l'immigration un rapport relatif aux
+conditions matérielles et humaines de rétention et de maintien en zone d'attente des étrangers. Le rapport est accompagné, le
+cas échéant, de propositions d'aménagement de ces lieux et de modification de la réglementation qui y est applicable et
+entrant dans les domaines de sa compétence.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2008-246 du 12 mars 2008 - art. 17 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-30 (VT)
-
-
-###### Article R111-32
-
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au budget du ministère de
-l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2008-223 du 6 mars 2008 - art. 28 (V)
-
-_Cité par_:
-
-  - Décret n°2008-223 du 6 mars 2008 - art. 28 (V)
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=147></a>
@@ -13343,22 +13359,22 @@ _Cite_:
 
 ###### Article R121-5
 
-Une attestation, conforme au modèle fixé par arrêté conjoint du ministre de l'intérieur et du ministre chargé des affaires
-sociales, est remise immédiatement par le maire aux ressortissants qui se soumettent à l'obligation d'enregistrement prévue à
-l'article L. 121-2. Cette attestation n'établit pas un droit au séjour. Sa possession ne peut en aucun cas constituer une
-condition préalable à l'exercice d'un droit ou à l'accomplissement d'une autre formalité administrative.
+Une attestation, conforme au modèle fixé par arrêté du ministre chargé de l'immigration, est remise immédiatement par le
+maire aux ressortissants qui se soumettent à l'obligation d'enregistrement prévue à l'article L. 121-2. Cette attestation
+n'établit pas un droit au séjour. Sa possession ne peut en aucun cas constituer une condition préalable à l'exercice d'un
+droit ou à l'accomplissement d'une autre formalité administrative. 
 
 Le maire communique au préfet et, à Paris, au préfet de police copie des attestations qu'il a délivrées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 7
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2007-371 du 21 mars 2007 - art. 1 () JORF 22 mars 2007
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
 
 
 ##### Section 4 : Maintien du droit au séjour<a id=152></a>
@@ -14113,8 +14129,8 @@ _Codifié par_:
 
 ###### Article R211-1
 
-Un arrêté pris conjointement par le ministre de l'intérieur et le ministre des affaires étrangères détermine la nature des
-documents prévus au 1° de l'article L. 211-1 sous le couvert desquels les étrangers sont admis à franchir la frontière.
+Un arrêté du ministre chargé de l'immigration détermine la nature des documents prévus au 1° de l'article L. 211-1 sous le
+couvert desquels les étrangers sont admis à franchir la frontière. 
 
 L'admission sur le territoire français d'un étranger porteur d'un visa peut être subordonnée à un examen de ses empreintes
 digitales, aux fins de comparaison avec les données enregistrées dans le traitement automatisé mentionné à l'article L. 611-6
@@ -14122,13 +14138,9 @@ lors de la présentation de la demande de visa.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 1 () JORF 3 novembre 2007
+  - Décret n°2008-223 du 6 mars 2008 - art. 8
 
 _Cité par_:
 
@@ -14136,6 +14148,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-3 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-6
 
 
 ###### Article R211-2
@@ -14221,15 +14238,16 @@ _Cite_:
 
 ###### Article D211-5
 
-Une commission placée auprès du ministre des affaires étrangères est chargée d'examiner les recours contre les décisions de
-refus de visa d'entrée en France prises par les autorités diplomatiques ou consulaires. La saisine de cette commission est un
-préalable obligatoire à l'exercice d'un recours contentieux, à peine d'irrecevabilité de ce dernier.
+Une commission placée auprès du ministre des affaires étrangères et du ministre chargé de l'immigration est chargée
+d'examiner les recours contre les décisions de refus de visa d'entrée en France prises par les autorités diplomatiques ou
+consulaires. La saisine de cette commission est un préalable obligatoire à l'exercice d'un recours contentieux, à peine
+d'irrecevabilité de ce dernier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 _Cité par_:
 
@@ -14267,7 +14285,7 @@ La commission comprend, en outre :
 
 2° Un représentant du ministre des affaires étrangères ;
 
-3° Un représentant du ministre chargé de la population et des migrations ;
+3° Un représentant du ministre chargé de l'immigration ;
 
 4° Un représentant du ministre de l'intérieur.
 
@@ -14276,34 +14294,36 @@ chacun d'eux, un premier et un second suppléants sont nommés dans les mêmes c
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ###### Article D211-8
 
-Les autorités diplomatiques ou consulaires et les services du ministère des affaires étrangères fournissent à la commission,
-sur sa demande, les informations utiles à l'examen des recours dont elle est saisie.
+Les autorités diplomatiques ou consulaires, les services du ministère des affaires étrangères et les services du ministère
+chargé de l'immigration fournissent à la commission, sur sa demande, les informations utiles à l'examen des recours dont elle
+est saisie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ###### Article D211-9
 
-La commission peut soit rejeter le recours, soit recommander au ministre des affaires étrangères d'accorder le visa demandé.
+La commission peut soit rejeter le recours, soit recommander    au ministre des affaires étrangères et au ministre chargé de
+l'immigration d'accorder le visa demandé. 
 
 Le président de la commission peut rejeter, sans réunir la commission, les recours manifestement irrecevables ou mal fondés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 _Cité par_:
 
@@ -14312,13 +14332,14 @@ _Cité par_:
 
 ###### Article R211-10
 
-Les modalités de fonctionnement de la commission sont définies par arrêté du ministre des affaires étrangères.
+Les modalités de fonctionnement de la commission sont définies par arrêté conjoint du ministre des affaires étrangères et du
+ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 9
 
 
 ##### Section 3 : Justificatif d'hébergement<a id=166></a>
@@ -14328,23 +14349,23 @@ _Codifié par_:
 ###### Article R211-11
 
 L'attestation d'accueil prévue à l'article L. 211-3 pour les séjours à caractère familial ou privé est conforme à un modèle
-défini par arrêté du ministre de l'intérieur. Elle indique :
+défini par arrêté du ministre chargé de l'immigration. Elle indique : 
 
-1° L'identité du signataire et, s'il agit comme représentant d'une personne morale, sa qualité ;
+1° L'identité du signataire et, s'il agit comme représentant d'une personne morale, sa qualité ; 
 
-2° Le lieu d'accueil de l'étranger ;
+2° Le lieu d'accueil de l'étranger ; 
 
-3° L'identité et la nationalité de la personne accueillie ;
+3° L'identité et la nationalité de la personne accueillie ; 
 
-4° Les dates d'arrivée et de départ prévues ;
+4° Les dates d'arrivée et de départ prévues ; 
 
-5° Le lien de parenté, s'il y a lieu, du signataire de l'attestation d'accueil avec la personne accueillie ;
+5° Le lien de parenté, s'il y a lieu, du signataire de l'attestation d'accueil avec la personne accueillie ; 
 
-6° Les attestations d'accueil antérieurement signées par l'hébergeant, s'il y a lieu ;
+6° Les attestations d'accueil antérieurement signées par l'hébergeant, s'il y a lieu ; 
 
-7° Les caractéristiques du lieu d'hébergement ;
+7° Les caractéristiques du lieu d'hébergement ; 
 
-8° L'engagement de l'hébergeant de subvenir aux frais de séjour de l'étranger.
+8° L'engagement de l'hébergeant de subvenir aux frais de séjour de l'étranger. 
 
 L'attestation précise également si l'étranger envisage de satisfaire lui-même à l'obligation d'assurance prévue à l'article
 L. 211-1 ou si, conformément à l'article L. 211-9, l'obligation sera satisfaite par une assurance souscrite à son profit par
@@ -14352,13 +14373,19 @@ la personne qui se propose de l'héberger.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R212-2 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-9
 
 
 ###### Article R211-12
@@ -14867,17 +14894,13 @@ L'étranger assujetti à l'obligation de déclaration doit être en mesure de ju
 l'autorité, qu'il a satisfait à cette obligation, par la production de ce récépissé.
 
 Les modalités d'application du présent article, et notamment les mentions de la déclaration et son lieu de souscription, sont
-fixées par arrêté du ministre de l'intérieur.
+fixées par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
+  - Décret n°2008-223 du 6 mars 2008 - art. 10
 
 
 #### Chapitre II : Dispenses<a id=176></a>
@@ -14983,25 +15006,30 @@ son siège social et, selon les cas, la référence des statuts de l'association
 registre du commerce et des sociétés ou au registre des métiers. Il précise la nature et les dates du séjour humanitaire ou
 de l'échange culturel. Il produit enfin, d'une part, un document attestant qu'il est personnellement invité par l'organisme
 précité dans le cadre de ce séjour à caractère humanitaire ou de cet échange culturel et, d'autre part, si l'étranger n'est
-pas hébergé par l'organisme lui-même, le nom et l'adresse de la personne physique ou morale assurant son hébergement.
+pas hébergé par l'organisme lui-même, le nom et l'adresse de la personne physique ou morale assurant son hébergement. 
 
 Si l'organisme mentionné à l'alinéa précédent est agréé, l'étranger peut être dispensé de présenter l'attestation d'accueil
 au vu de la seule invitation mentionnée à cet alinéa. L'agrément est délivré, s'agissant des organismes à caractère
-humanitaire, par un arrêté du ministre de l'intérieur, du ministre chargé des affaires sociales, du ministre des affaires
-étrangères et du ministre chargé de la santé et, s'agissant des organismes à caractère culturel, par un arrêté du ministre de
-l'intérieur, du ministre des affaires étrangères et du ministre chargé de la culture. L'organisme agréé, s'il n'assure pas
-lui-même l'hébergement de l'étranger, est tenu de communiquer au préfet du département dans lequel l'étranger sera hébergé
-ou, à Paris, au préfet de police, le nom et l'adresse de la personne physique ou morale assurant son hébergement.
+humanitaire, par un arrêté du ministre chargé de l'immigration, du ministre de l'intérieur, du ministre chargé des affaires
+sociales, du ministre des affaires étrangères et du ministre chargé de la santé et, s'agissant des organismes à caractère
+culturel, par un arrêté du ministre chargé de l'immigration, du ministre de l'intérieur, du ministre des affaires étrangères
+et du ministre chargé de la culture. L'organisme agréé, s'il n'assure pas lui-même l'hébergement de l'étranger, est tenu de
+communiquer au préfet du département dans lequel l'étranger sera hébergé ou, à Paris, au préfet de police le nom et l'adresse
+de la personne physique ou morale assurant son hébergement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 11
 
 _Cité par_:
 
   - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R212-2
 
 
 ###### Article R212-4
@@ -15066,13 +15094,13 @@ trois mois ;
 
 2° Ou s'il est titulaire d'un titre de séjour en cours de validité, d'une durée supérieure ou égale à un an, qui a été
 délivré par un Etat partie à la convention signée à Schengen le 19 juin 1990 ; toutefois, la déclaration doit être souscrite
-par les résidents d'Etats tiers qui sont désignés par arrêté du ministre de l'intérieur et de la sécurité publique.
+par les résidents d'Etats tiers qui sont désignés par arrêté du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 12
 
 _Cité par_:
 
@@ -15134,15 +15162,19 @@ _Cite_:
 ###### Article R212-9
 
 Après l'enregistrement au secrétariat de la commission et la vérification que la demande contient les renseignements et
-documents prévus à l'article R. 212-8, la demande est communiquée sans délai au ministre de l'intérieur qui présente ses
-observations à la commission. Elle peut être communiquée, en même temps, au ministre chargé de la recherche qui présente ses
-observations.
+documents prévus à l'article R. 212-8, la demande est communiquée sans délai au ministre chargé de l'immigration qui présente
+ses observations à la commission. Elle peut être communiquée, en même temps, au ministre chargé de la recherche qui présente
+ses observations.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R212-8
 
 
 ###### Article R212-10
@@ -15169,14 +15201,18 @@ _Cite_:
 La commission formule un avis motivé sur la prise en considération de la demande au regard des conditions énoncées au 3° de
 l'article L. 212-2.
 
-Cet avis est transmis au ministre de l'intérieur. Le ministre de l'intérieur statue et informe de sa décision le ministre
-chargé de la recherche et le ministre des affaires étrangères pour qu'il la notifie à l'intéressé.
+Cet avis est transmis au ministre chargé de l'immigration. Le ministre chargé de l'immigration statue et informe de sa
+décision le ministre chargé de la recherche et le ministre des affaires étrangères pour qu'il la notifie à l'intéressé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L212-2
 
 
 #### Chapitre III : Refus d'entrée<a id=181></a>
@@ -15184,13 +15220,13 @@ _Codifié par_:
 ###### Article R*213-3
 
 L'autorité administrative compétente pour prendre la décision mentionnée à l'article R. 213-2 de refuser l'entrée en France à
-un étranger demandant à bénéficier du droit d'asile est le ministre de l'intérieur.
+un étranger demandant à bénéficier du droit d'asile est le ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -15431,14 +15467,18 @@ _Cite_:
 
 ###### Article R*223-4
 
-L'autorité administrative compétente pour délivrer ou retirer l'agrément mentionné à l'article R. 223-3 est le ministre de
-l'intérieur.
+L'autorité administrative compétente pour délivrer ou retirer l'agrément mentionné à l'article R. 223-3 est le ministre
+chargé de l'asile.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 3
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R223-3
 
 
 ###### Article R223-2
@@ -15487,17 +15527,17 @@ _Cité par_:
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants agréés ont accès à chaque zone
 d'attente sur présentation de leur carte nominative et sous réserve des nécessités de l'ordre public et de la sécurité des
-transports.
+transports. 
 
 Les modalités pratiques de cet accès, notamment la périodicité des visites, sont arrêtées d'un commun accord entre le délégué
-du Haut-Commissariat des Nations unies pour les réfugiés et le ministre de l'intérieur de manière à permettre l'exercice
-effectif de sa mission par le Haut-Commissariat des Nations unies pour les réfugiés.
+du Haut-Commissariat des Nations unies pour les réfugiés et le    ministre chargé de l'asile  de manière à permettre
+l'exercice effectif de sa mission par le Haut-Commissariat des Nations unies pour les réfugiés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 3
 
 
 ###### Article R223-6
@@ -15519,28 +15559,34 @@ _Codifié par_:
 
 ###### Article R223-7
 
-Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre de l'intérieur,
-avec le délégué du Haut-Commissariat des Nations unies pour les réfugiés, ses représentants agréés et les services de l'Etat
-concernés.
+Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre chargé de
+l'asile, avec le délégué du Haut-Commissariat des Nations unies pour les réfugiés, ses représentants agréés et les services
+de l'Etat concernés.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 3
 
 
 ##### Section 3 : Conditions d'accès des associations humanitaires<a id=190></a>
 
 ###### Article R*223-12
 
-L'autorité administrative mentionnée aux articles R. 223-8, R. 223-9 et R. 223-11 est le ministre de l'intérieur.
+L'autorité administrative mentionnée aux articles R. 223-8, R. 223-9 et R. 223-11 est le ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R223-11 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R223-9 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R223-8
 
 
 ###### Article R223-8
@@ -15658,15 +15704,15 @@ _Codifié par_:
 
 ###### Article R223-14
 
-Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre de l'intérieur,
-avec les présidents des associations habilitées, leurs représentants agréés et les services de l'Etat concernés. Le compte
-rendu de cette réunion, établi conjointement, est rendu public.
+Une réunion est organisée annuellement sur le fonctionnement des zones d'attente, à l'initiative du ministre chargé de
+l'immigration, avec les présidents des associations habilitées, leurs représentants agréés et les services de l'Etat
+concernés. Le compte rendu de cette réunion, établi conjointement, est rendu public.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
 ## LIVRE III : LE SÉJOUR EN FRANCE<a id=191></a>
@@ -17407,20 +17453,16 @@ _Cité par_:
 ###### Article R313-13
 
 La liste et les modalités d'agrément des organismes délivrant la convention d'accueil ainsi que le modèle type de cette
-convention sont établis par arrêté du ministre de l'intérieur et du ministre chargé de l'enseignement supérieur et de la
-recherche.
+convention sont établis par arrêté du    ministre chargé de l'immigration  et du ministre chargé de l'enseignement supérieur
+et de la recherche. 
 
 Cette convention atteste que le scientifique bénéficie de ressources suffisantes pour couvrir ses frais de séjour en France.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-373 du 21 mars 2007 - art. 19 () JORF 22 mars 2007
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -17539,26 +17581,23 @@ _Cité par_:
 ###### Article R313-16-1
 
 L'étranger qui envisage de créer une activité ou une entreprise doit présenter à l'appui de sa demande les justificatifs
-permettant d'évaluer la viabilité économique du projet.
+permettant d'évaluer la viabilité économique du projet. 
 
 L'étranger qui envisage de participer à une activité ou une entreprise existante doit présenter les justificatifs permettant
 de s'assurer de son effectivité et d'apprécier la capacité de cette activité ou de cette société à lui procurer des
-ressources au moins équivalentes au salaire minimum de croissance correspondant à un emploi à temps plein.
+ressources au moins équivalentes au salaire minimum de croissance correspondant à un emploi à temps plein. 
 
-Dans tous les cas, l'étranger doit justifier qu'il respecte la réglementation en vigueur dans le domaine d'activité en cause.
+Dans tous les cas, l'étranger doit justifier qu'il respecte la réglementation en vigueur dans le domaine d'activité en
+cause. 
 
-Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la liste des pièces justificatives que
-l'étranger doit produire.
+Un arrêté du    ministre chargé de l'immigration  et du ministre chargé des finances fixe la liste des pièces justificatives
+que l'étranger doit produire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Créé par_:
-
-  - Décret n°2007-912 du 15 mai 2007 - art. 2 () JORF 16 mai 2007
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -17811,22 +17850,21 @@ _Cite_:
 
 Pour l'application du 11° de l'article L. 313-11, le préfet délivre la carte de séjour temporaire au vu d'un avis émis par le
 médecin inspecteur départemental de santé publique compétent au regard du lieu de résidence de l'intéressé et, à Paris, par
-le médecin, chef du service médical de la préfecture de police.
+le médecin, chef du service médical de la préfecture de police. 
 
-L'avis est émis dans les conditions fixées par arrêté du ministre chargé de la population et des migrations, du ministre
-chargé de la santé et du ministre de l'intérieur, au vu, d'une part, d'un rapport médical établi par un médecin agréé ou un
-praticien hospitalier et, d'autre part, des informations disponibles sur les possibilités de traitement dans le pays
-d'origine de l'intéressé. Quand la commission médicale régionale a été saisie dans les conditions prévues à l'article R.
-313-26, l'avis mentionne cette saisine.
+L'avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé
+au vu, d'une part, d'un rapport médical établi par un médecin agréé ou un médecin praticien hospitalier et, d'autre part, des
+informations disponibles sur les possibilités de traitement dans le pays d'origine de l'intéressé. Quand la commission
+médicale régionale a été saisie dans les conditions prévues à l'article R. 313-26, l'avis mentionne cette saisine. 
 
 L'étranger mentionné au 11° de l'article L. 313-11 qui ne remplirait pas la condition de résidence habituelle peut recevoir
 une autorisation provisoire de séjour renouvelable pendant la durée du traitement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 13
 
 _Cité par_:
 
@@ -17841,6 +17879,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R521-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 
 
 ###### Article R313-22-1
@@ -18364,64 +18406,66 @@ _Cite_:
 ###### Article R313-36-1
 
 L'étranger qui sollicite le renouvellement de la carte de séjour temporaire délivrée au titre des dispositions du 2° de
-l'article L. 313-10 doit justifier qu'il continue de satisfaire aux conditions requises par lesdites dispositions.
+l'article L. 313-10 doit justifier qu'il continue de satisfaire aux conditions requises par lesdites dispositions. 
 
 L'étranger admis au séjour pour créer une activité ou une entreprise produit à cet effet tout document établissant qu'il a
 réalisé son projet et que les ressources qu'il en tire sont d'un niveau équivalent au salaire minimum de croissance
-correspondant à un emploi à temps plein.
+correspondant à un emploi à temps plein. 
 
 L'étranger qui participe à une activité ou à une entreprise existante produit tout document établissant que les ressources
-qu'il en tire atteignent un niveau équivalent au salaire minimum de croissance correspondant à un emploi à temps plein.
+qu'il en tire atteignent un niveau équivalent au salaire minimum de croissance correspondant à un emploi à temps plein. 
 
-Un arrêté du ministre de l'intérieur et du ministre chargé des finances fixe la liste des pièces justificatives que
+Un arrêté du ministre chargé de l'immigration et du ministre chargé des finances fixe la liste des pièces justificatives que
 l'étranger doit produire à l'appui de sa demande.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Créé par_:
-
-  - Décret n°2007-912 du 15 mai 2007 - art. 4 () JORF 16 mai 2007
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R833-1 (V)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+
 
 ###### Article R313-37
 
-L'étranger admis à résider en France sous couvert de la carte de séjour temporaire portant la mention "étudiant" qui en
+L'étranger admis à résider en France sous couvert de la carte de séjour temporaire portant la mention " étudiant " qui en
 sollicite le renouvellement dans les conditions prévues à l'article L. 313-4 présente, outre les pièces mentionnées à
-l'article R. 313-35 :
+l'article R. 313-35 : 
 
-1° La justification qu'il dispose des moyens d'existence prévus au 1° de l'article R. 313-7 ;
+1° La justification qu'il dispose des moyens d'existence prévus au 1° de l'article R. 313-7 ; 
 
 2° Un certificat d'inscription dans un cursus de formation sanctionné par la délivrance d'un diplôme conférant le grade de
-master et figurant sur la liste établie par arrêté du ministre de l'intérieur et du ministre chargé de l'enseignement
-supérieur ;
+master et figurant sur la liste établie par arrêté du ministre chargé de l'immigration et du ministre chargé de
+l'enseignement supérieur ; 
 
-L'étranger titulaire de la carte de séjour temporaire portant la mention "étudiant" d'une durée de validité supérieure à un
+L'étranger titulaire de la carte de séjour temporaire portant la mention " étudiant " d'une durée de validité supérieure à un
 an transmet chaque année à l'autorité administrative qui l'a délivrée, par courrier avec demande d'avis de réception, une
 attestation de réussite à l'examen ou d'admission à l'année supérieure.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Créé par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 28 () JORF 22 mars 2007
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Arrêté du 12 mai 2011 - art. 2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-7
 
 
 ###### Article R313-38
@@ -19667,13 +19711,13 @@ _Codifié par_:
 ###### Article D321-12
 
 Le titre d'identité républicain est établi suivant un modèle défini par arrêté conjoint du garde des sceaux, ministre de la
-justice, du ministre de l'intérieur et du ministre des affaires étrangères.
+justice, du ministre de l'intérieur et du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ###### Article D321-13
@@ -19804,13 +19848,14 @@ _Cite_:
 
 ###### Article D321-19
 
-Le document de circulation pour étranger mineur est établi suivant un modèle défini par arrêté du ministre de l'intérieur.
+Le document de circulation pour étranger mineur est établi suivant un modèle défini par arrêté conjoint du ministre de
+l'intérieur et du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ###### Article D321-20
@@ -20040,13 +20085,13 @@ _Codifié par_:
 ###### Article D331-7
 
 Les modalités d'évaluation et de versement de l'aide publique prise en charge par l'Etat sont déterminées par arrêté conjoint
-du ministre chargé des affaires sociales et de l'emploi et du ministre chargé des finances.
+du ministre chargé de l'immigration et du ministre chargé des finances.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ##### Section 2 : Restitution des titres de séjour et de travail<a id=240></a>
@@ -20371,19 +20416,19 @@ _Cité par_:
 
 ###### Article R421-1
 
-La demande de regroupement familial est formulée sur un imprimé dont le modèle est établi par arrêté conjoint du ministre
-chargé de l'intégration et du ministre de l'intérieur.
+La demande de regroupement familial est formulée sur un imprimé dont le modèle est établi par arrêté du ministre chargé de
+l'immigration. 
 
-Elle comporte l'engagement du demandeur :
+Elle comporte l'engagement du demandeur : 
 
 1° De permettre à des agents des services de la commune où doit résider la famille, chargés des affaires sociales ou du
 logement, spécialement habilités à cet effet, ainsi qu'aux agents de l'Agence nationale de l'accueil des étrangers et des
 migrations l'entrée dans le logement prévu pour accueillir la famille aux fins de vérification des conditions de logement ou,
 si le logement n'est pas encore disponible, de mettre le maire de la commune en mesure de procéder à cette vérification sur
-pièces ;
+pièces ; 
 
 2° De verser à l'Agence nationale de l'accueil des étrangers et des migrations la redevance forfaitaire mentionnée à
-l'article R. 421-29 ;
+l'article R. 421-29 ; 
 
 3° De participer, ainsi que sa famille, aux réunions d'information et aux entretiens d'accueil organisés par l'Agence
 nationale de l'accueil des étrangers et des migrations et les services sociaux spécialisés pour faciliter l'installation et
@@ -20391,9 +20436,13 @@ l'intégration de la famille.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 14
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-29
 
 
 ###### Article R421-2
@@ -20536,14 +20585,14 @@ _Cite_:
 Le ressortissant étranger présente sa demande personnellement dans le département du lieu de résidence prévu pour l'accueil
 de la famille auprès du service de l'Etat désigné par le préfet. Dans certains départements, la réception des demandes est
 confiée aux services de l'Agence nationale de l'accueil des étrangers et des migrations par un arrêté conjoint du ministre
-chargé de l'intégration et du ministre de l'intérieur. Dans ce cas, le préfet territorialement compétent ou, à Paris, le
+chargé de l'immigration et du ministre de l'intérieur. Dans ce cas, le préfet territorialement compétent ou, à Paris, le
 préfet de police est immédiatement informé du dépôt de la demande.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 15
 
 _Cité par_:
 
@@ -20709,17 +20758,13 @@ _Modifié par_:
 ###### Article R421-16
 
 La vérification sur place des conditions de logement donne lieu à l'établissement d'un compte rendu, dont le modèle est
-établi par arrêté conjoint du ministre chargé de l'intégration et du ministre de l'intérieur.
+établi par arrêté du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 14
 
 
 ###### Article R421-17
@@ -21730,13 +21775,21 @@ _Cité par_:
 L'autorité administrative compétente pour prendre, en application de l'article L. 531-2, la décision de remettre aux
 autorités compétentes d'un Etat membre de l'Union européenne un demandeur d'asile qui se présente à la frontière et dont
 l'examen de la demande relève de la responsabilité de cet Etat, en application des dispositions des conventions
-internationales conclues à cet effet avec les Etats membres de l'Union européenne, est le ministre de l'intérieur.
+internationales conclues à cet effet avec les Etats membres de l'Union européenne, est le ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
 
 
 ###### Article R531-1
@@ -22575,16 +22628,13 @@ _Cité par_:
 
 ###### Article R553-1
 
-Les centres de rétention administrative sont créés sur proposition du ministre de l'intérieur, par arrêté conjoint des
-ministres de l'intérieur, de la justice, de la défense et du ministre chargé des affaires sociales. Cet arrêté mentionne
-l'adresse du centre et précise, d'une part, si sa surveillance en est confiée à la police nationale ou à la gendarmerie
-nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles.
+Les centres de rétention administrative sont créés, sur proposition du ministre chargé de l'immigration, par arrêté conjoint
+du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur, du ministre de la
+justice et du ministre de la défense. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en
+est confiée à la police nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir
+des familles.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 _Cité par_:
 
@@ -22600,23 +22650,31 @@ _Cité par_:
   - Arrêté du 1er mars 2018 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R551-2 (VD)
 
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 16
+
 
 ###### Article R553-2
 
 Les centres de rétention administrative sont placés sous la responsabilité du préfet territorialement compétent et, à Paris,
 du préfet de police, qui désigne par arrêté le chef du centre, après accord du directeur général de la police nationale ou du
 directeur général de la gendarmerie nationale. Cet arrêté désigne aussi, le cas échéant, dans des conditions définies par
-arrêté conjoint des ministres de l'intérieur, de la justice et de la défense, le responsable de la gestion hôtelière et le
-responsable de la gestion des dossiers administratifs des étrangers admis au centre.
+arrêté conjoint du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de la défense, le responsable
+de la gestion hôtelière et le responsable de la gestion des dossiers administratifs des étrangers admis au centre. 
 
 Le chef de centre est responsable de l'ordre et de la sécurité du centre et de la tenue du registre mentionné à l'article L.
 553-1. Il a autorité sur l'ensemble des personnes qui concourent au fonctionnement du centre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 17
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L553-1
 
 
 ###### Article R553-3
@@ -22677,25 +22735,24 @@ _Cite_:
 
 ###### Article R553-4
 
-Dans chaque centre de rétention, un règlement intérieur, dont le modèle est fixé par arrêté conjoint des ministres de
-l'intérieur et de la défense, organise la vie quotidienne, dans des conditions conformes à la dignité et la sécurité de ses
-occupants. Il rappelle notamment les droits et devoirs des étrangers retenus, ainsi que les modalités pratiques d'exercice
-par ces derniers de leurs droits. Il mentionne notamment les conditions dans lesquelles s'exerce la circulation des étrangers
-dans le centre, notamment l'accès aux espaces à l'air libre.
+Dans chaque centre de rétention, un règlement intérieur, dont le modèle est fixé par arrêté conjoint du ministre chargé de
+l'immigration, du ministre de l'intérieur et du ministre de la défense, organise la vie quotidienne, dans des conditions
+conformes à la dignité et à la sécurité de ses occupants. Il rappelle notamment les droits et devoirs des étrangers retenus,
+ainsi que les modalités pratiques d'exercice par ces derniers de leurs droits. Il mentionne notamment les conditions dans
+lesquelles s'exerce la circulation des étrangers dans le centre, notamment l'accès aux espaces à l'air libre.
 
 Le règlement intérieur est établi par le chef de centre et approuvé par le préfet territorialement compétent.
 
-Il est traduit dans les langues les plus couramment utilisées désignées par un arrêté conjoint des ministres de l'intérieur
-et de la défense.
+Il est traduit dans les langues les plus couramment utilisées désignées par un arrêté du ministre chargé de l'immigration.
 
 Un exemplaire en langue française et traduit dans les langues prévues à l'alinéa précédent est affiché dans les parties
 communes du centre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 18
 
 
 ##### Sous-section 2 : Locaux de rétention administrative<a id=287></a>
@@ -22773,26 +22830,33 @@ _Cité par_:
 ###### Article R553-8
 
 Dans les conditions prévues aux articles R. 553-3 et R. 553-6, des locaux et des moyens matériels adaptés doivent permettre
-au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention.
+au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention. 
 
 Les conditions dans lesquelles le service public hospitalier intervient au bénéfice des personnes retenues, en application
 des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont précisées par voie de convention passée entre le
 préfet territorialement compétent et un établissement public hospitalier selon des modalités définies par arrêté conjoint du
-ministre de l'intérieur, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les centres de
-rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des personnels de santé
-ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
+ministre chargé de l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les
+centres de rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des
+personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Arrêté du 27 décembre 2016 - art. 9 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
   - Code de la santé publique - art. R6112-10 (Ab)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R553-6 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-3
+  - Code de la santé publique - art. L6112-1
+  - Code de la santé publique - art. L6112-8
 
 
 ###### Article R553-9
@@ -22814,27 +22878,6 @@ _Cité par_:
 
   - Arrêté du 28 octobre 2016 - art. 1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-
-###### Article R553-10
-
-Les crédits de fonctionnement courant des centres et locaux de rétention administrative sont inscrits aux budgets des
-ministères de l'intérieur, de la défense, de la justice, du ministère chargé des affaires sociales et du ministère chargé de
-la santé, chacun en ce qui le concerne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2008-223 du 6 mars 2008 - art. 28 (V)
-
-_Cité par_:
-
-  - Décret n°2008-223 du 6 mars 2008 - art. 28 (V)
 
 
 ##### Section 2 : Droits des étrangers retenus<a id=289></a>
@@ -23025,8 +23068,8 @@ _Cite_:
 
 ###### Article D611-1
 
-Un système informatisé de gestion des dossiers des ressortissants étrangers en France est mis en oeuvre par le ministère de
-l'intérieur. Les finalités de ce système, définies de manière limitative, sont les suivantes :
+Un système informatisé de gestion des dossiers des ressortissants étrangers en France est mis en oeuvre par le ministère
+chargé de l'immigration. Les finalités de ce système, définies de manière limitative, sont les suivantes :
 
 1° Améliorer les procédures relatives au règlement de la situation administrative d'un ressortissant étranger en France ;
 
@@ -23036,7 +23079,7 @@ titres qui évite les risques de falsification ;
 3° Permettre aux agents relevant des autorités et des services habilités à examiner la situation de l'étranger au regard du
 séjour en France d'effectuer les vérifications nécessaires ;
 
-4° Permettre l'établissement de statistiques selon des modalités fixées par l'arrêté du ministre de l'intérieur.
+4° Permettre l'établissement de statistiques selon des modalités fixées par arrêté du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
@@ -23045,9 +23088,9 @@ _Cité par_:
   - Loi n°83-629 du 12 juillet 1983 - art. 23 (VT)
   - Loi n°83-629 du 12 juillet 1983 - art. 6 (VT)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
 ###### Article D611-2
@@ -23101,47 +23144,49 @@ _Cité par_:
 
 ###### Article D611-3
 
-I. - Pourront seuls être destinataires des informations contenues dans ces différents fichiers :
+I.-Pourront seuls être destinataires des informations contenues dans ces différents fichiers : 
 
 1° S'agissant du fichier national des dossiers des ressortissants étrangers en France et de chacun des fichiers
-départementaux, les services de la direction des libertés publiques et des affaires juridiques compétents pour l'application
-de la réglementation relative aux étrangers ;
+départementaux, les services de l'administration centrale du ministère chargé de l'immigration et ceux de l'administration
+centrale du ministère de l'intérieur, compétents pour l'application de la réglementation relative aux étrangers ; 
 
 2° S'agissant du fichier national des dossiers des ressortissants étrangers en France et du seul fichier départemental des
 dossiers des ressortissants étrangers en France dont ils assurent la gestion, les services des préfectures et sous-
-préfectures compétents pour l'application de la réglementation relative aux étrangers ;
+préfectures compétents pour l'application de la réglementation relative aux étrangers ; 
 
 3° S'agissant du seul fichier national des dossiers des ressortissants étrangers en France, les magistrats de l'ordre
 judiciaire et, seulement en vue de vérifier la régularité du séjour des ressortissants étrangers en France, les services de
-police nationale et de la gendarmerie nationale ;
+police nationale et de la gendarmerie nationale ; 
 
 4° S'agissant de l'état civil et du numéro national d'identification, les services de l'Office français de protection des
-réfugiés et apatrides ;
+réfugiés et apatrides ; 
 
 5° S'agissant des données relatives à l'autorisation de séjour détenue, les services compétents des préfectures et sous-
-préfectures, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire.
+préfectures, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire. 
 
-II. - Peuvent en outre accéder aux données mentionnées à l'article D. 611-2, dans les conditions fixées aux articles 9 et 33
-de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à
-la sécurité et aux contrôles transfrontaliers :
+II.-Peuvent en outre accéder aux données mentionnées à l'article D. 611-2, dans les conditions fixées aux articles 9 et 33 de
+la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions diverses relatives à la
+sécurité et aux contrôles transfrontaliers :
 
 - les agents des services de la direction générale de la police nationale et de la direction générale de la gendarmerie
 nationale chargés des missions de prévention et de répression des actes de terrorisme ;
 
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
-terrorisme.
+terrorisme. 
 
-III. - Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
+III.-Les dispositions du II sont applicables jusqu'au 31 décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Loi n°2006-64 du 23 janvier 2006 - art. 33 (V)
+  - Loi n°2006-64 du 23 janvier 2006 - art. 9 (VT)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D611-2
 
 _Modifié par_:
 
-  - Décret n°2007-87 du 23 janvier 2007 - art. 1 () JORF 25 janvier 2007
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 _Cité par_:
 
@@ -23192,14 +23237,22 @@ _Codifié par_:
 ###### Article D611-6
 
 Le droit d'accès prévu à l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés s'exerce auprès de l'administration centrale du ministère de l'intérieur (direction des libertés publiques et des
-affaires juridiques) ou du préfet territorialement compétent.
+libertés s'exerce auprès de l'administration centrale du ministère chargé de l'immigration ou du préfet territorialement
+compétent.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+
+_Modifié par_:
+
+  - Décret n°2008-224 du 6 mars 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
 ###### Article D611-7
@@ -24170,47 +24223,56 @@ _Cite_:
 
 ###### Article R*625-2
 
-L'autorité administrative compétente pour prononcer l'amende prévue à l'article L. 625-2 est le ministre de l'intérieur.
+L'autorité administrative compétente pour prononcer l'amende prévue à l'article L. 625-2 est le ministre chargé de
+l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1377 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-3 (M)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L625-2
+
 
 ###### Article R625-1
 
-Le procès-verbal mentionné au premier alinéa de l'article L. 625-2 est signé :
+Le procès-verbal mentionné au premier alinéa de l'article L. 625-2 est signé : 
 
 1° Par le chef du service de la police nationale chargé du contrôle aux frontières ou un fonctionnaire désigné par lui,
-titulaire au moins du grade de brigadier ;
+titulaire au moins du grade de brigadier ; 
 
 2° Par le chef du service des douanes chargé du contrôle aux frontières ou un fonctionnaire désigné par lui, titulaire au
-moins du grade d'agent de constatation principal de 2e classe ;
+moins du grade d'agent de constatation principal de 2e classe ; 
 
 3° Ou par le commandant de l'unité de gendarmerie territorialement compétente ou un militaire désigné par lui, titulaire au
-moins du grade de gendarme.
+moins du grade de gendarme. 
 
-Ce procès-verbal est transmis au ministre de l'intérieur. Il comporte le nom de l'entreprise de transport, les références du
-vol ou du voyage concerné et l'identité des passagers au titre desquels la responsabilité de l'entreprise de transport est
-susceptible d'être engagée, en précisant, pour chacun d'eux, le motif du refus d'admission. Il comporte également, le cas
-échéant, les observations de l'entreprise de transport. Copie du procès-verbal est remise à son représentant, qui en accuse
-réception.
+Ce procès-verbal est transmis au ministre chargé de l'immigration. Il comporte le nom de l'entreprise de transport, les
+références du vol ou du voyage concerné et l'identité des passagers au titre desquels la responsabilité de l'entreprise de
+transport est susceptible d'être engagée, en précisant, pour chacun d'eux, le motif du refus d'admission. Il comporte
+également, le cas échéant, les observations de l'entreprise de transport. Copie du procès-verbal est remise à son
+représentant, qui en accuse réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-4 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L625-2
 
 
 ###### Article R625-3
@@ -24457,41 +24519,45 @@ _Cite_:
 ###### Article R625-14
 
 La somme consignée par une entreprise de transport aérien ou maritime s'impute sur le montant de l'amende fixé par décision
-du ministre de l'intérieur.
+du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
 ###### Article R625-15
 
-Dès qu'il décide de ne pas prononcer d'amende, le ministre de l'intérieur émet un ordre de restitution du montant de la somme
-consignée.
+Dès qu'il décide de ne pas prononcer d'amende, le    ministre chargé de l'immigration  émet un ordre de restitution du
+montant de la somme consignée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
 ###### Article R625-16
 
 Lorsque le montant de l'amende prononcée est inférieur au montant de la somme consignée, le comptable du Trésor mentionné au
 deuxième alinéa de l'article R. 625-13, au vu du titre exécutoire, restitue à l'entreprise de transport la somme
-correspondant à la différence entre le second montant et le premier.
+correspondant à la différence entre le second montant et le premier. 
 
 Le même comptable procède à la restitution de tout ou partie de la somme consignée dans un délai d'un mois à compter de la
-date de réception par ses services du titre exécutoire ou de l'ordre de restitution du ministre de l'intérieur.
+date de réception par ses services du titre exécutoire ou de l'ordre de restitution du ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R625-13
 
 
 #### Chapitre VI : Dispositions diverses<a id=305></a>
@@ -24501,21 +24567,27 @@ _Codifié par_:
 La contribution forfaitaire représentative des frais de réacheminement de l'étranger dans son pays d'origine instituée à
 l'article L. 626-1 est due par l'employeur qui, en violation des dispositions du premier alinéa de l'article L. 341-6 du code
 du travail, aura occupé un travailleur étranger soumis à l'obligation de détention d'un titre de séjour et qui en est
-dépourvu. Elle est due pour chaque employé étranger en situation de séjour irrégulier.
+dépourvu. Elle est due pour chaque employé étranger en situation de séjour irrégulier. 
 
-Le montant de cette contribution est fixé chaque année par arrêté conjoint du ministre de l'intérieur et du ministre chargé
-du budget, en fonction du coût moyen des opérations d'éloignement constaté l'année précédente dans la zone géographique à
-laquelle appartient le pays d'origine du salarié, dans la limite prescrite à l'alinéa 2 de l'article L. 626-1 susmentionné.
+Le montant de cette contribution est fixé chaque année par arrêté conjoint du ministre chargé de l'immigration et du ministre
+chargé du budget, en fonction du coût moyen des opérations d'éloignement constaté l'année précédente dans la zone
+géographique à laquelle appartient le pays d'origine du salarié, dans la limite prescrite à l'alinéa 2 de l'article L. 626-1
+susmentionné.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
+  - Code du travail - art. L341-6
 
 
 ###### Article R626-2
@@ -24852,15 +24924,14 @@ _Cite_:
 Les opérations financières et comptables de l'office sont effectuées conformément aux dispositions de l'article 60 de la loi
 de finances pour 1963, du décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation budgétaire applicable aux
 établissements publics à caractère administratif et du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique.
+comptabilité publique. 
 
-L'office est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25 octobre 1935 instituant
-le contrôle financier des offices et établissements publics autonomes de l'Etat. Les attributions du contrôleur financier et
-les modalités d'exercice de son contrôle sont fixées par arrêté conjoint du ministre des affaires étrangères et du ministre
-chargé du budget.
+L'office est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret n° 2005-757 du 4 juillet 2005
+relatif au contrôle économique et financier au sein des établissements publics administratifs de l'Etat. Les attributions du
+contrôleur financier et les modalités d'exercice de son contrôle sont fixées par arrêté conjoint du ministre chargé de
+l'asile et du ministre chargé du budget. 
 
-L'agent comptable de l'office est nommé par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du
-budget.
+L'agent comptable de l'office est nommé par arrêté conjoint du ministre chargé de l'asile et du ministre chargé du budget. 
 
 Le directeur général de l'office peut créer des régies de recettes et d'avances sur avis conforme de l'agent comptable, dans
 les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
@@ -24868,9 +24939,17 @@ organismes publics.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°53-1227 du 10 décembre 1953
+  - Décret n°62-1587 du 29 décembre 1962
+  - Loi n°63-156 du 23 février 1963 - art. 60
+  - Décret n°92-681 du 20 juillet 1992
+  - Décret n°2005-757 du 4 juillet 2005
+
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 19
 
 _Cité par_:
 
@@ -25045,16 +25124,16 @@ _Cite_:
 
 ###### Article R723-5
 
-Lorsqu'une demande d'asile est rejetée, le directeur général de l'office transmet la décision motivée au ministre de
-l'intérieur. A la demande de celui-ci, le directeur général de l'office communique les documents mentionnés à l'article L.
+Lorsqu'une demande d'asile est rejetée, le directeur général de l'office transmet la décision motivée au ministre chargé de
+l'immigration. A la demande de celui-ci, le directeur général de l'office communique les documents mentionnés à l'article L.
 723-4 aux agents personnellement et spécialement habilités par arrêté préfectoral en raison de leur mission et de leurs
 responsabilités dans le domaine de l'application de la réglementation des étrangers ou de son contentieux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -25065,6 +25144,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
 
 
 ### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS<a id=315></a>
@@ -25546,18 +25629,18 @@ _Cité par_:
 Le secrétaire général de la commission notifie la décision de la commission au requérant par lettre recommandée avec demande
 d'avis de réception. Il la notifie également au directeur général de l'office lorsque celui-ci n'est pas le requérant. Il
 informe simultanément du caractère positif ou négatif de cette décision le préfet compétent et, à Paris, le préfet de police,
-ainsi que le directeur de l'Agence nationale de l'accueil des étrangers et des migrations.
+ainsi que le directeur de l'Agence nationale de l'accueil des étrangers et des migrations. 
 
 La commission communique au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de
-l'avis de réception.
+l'avis de réception. 
 
-Les décisions de rejet sont transmises au ministre de l'intérieur.
+Les décisions de rejet sont transmises au    ministre chargé de l'immigration .
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -25590,14 +25673,14 @@ _Codifié par_:
 
 ###### Article R733-22
 
-La requête est immédiatement communiquée par le secrétaire général de la commission au ministre de l'intérieur, qui doit
-produire ses observations dans un délai de dix jours à compter de la réception.
+La requête est immédiatement communiquée par le secrétaire général de la commission au ministre de l'intérieur et au ministre
+chargé de l'asile, qui doivent produire leurs observations dans un délai de dix jours à compter de la réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 20
 
 _Cité par_:
 
@@ -25609,20 +25692,21 @@ _Cité par_:
 
 ###### Article R733-23
 
-Dès réception de la réponse du ministre de l'intérieur ou à l'expiration du délai, la commission se réunit sur convocation de
-son président.
+Dès réception de la réponse du ministre de l'intérieur et du ministre chargé de l'asile ou à l'expiration du délai, la
+commission se réunit sur convocation de son président. 
 
 Les dispositions des troisième et cinquième alinéas de l'article R. 733-17 et du premier alinéa de l'article R. 733-18 sont
-applicables pour la procédure devant la commission.
+applicables pour la procédure devant la commission. 
 
 La commission formule un avis motivé sur le maintien ou l'annulation de la mesure qui a provoqué la requête. Cet avis est
-transmis sans délai au ministre de l'intérieur par lettre recommandée avec demande d'avis de réception.
+transmis sans délai au ministre de l'intérieur et au ministre chargé de l'asile par lettre recommandée avec demande d'avis de
+réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 21
 
 _Cité par_:
 
@@ -25641,8 +25725,8 @@ _Cité par_:
 Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande
 d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
 
-Un arrêté du ministre de l'intérieur peut donner compétence à un préfet de département et, à Paris, au préfet de police, pour
-exercer cette mission dans plusieurs départements.
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
+département et, à Paris, au préfet de police, pour exercer cette mission dans plusieurs départements.
 
 **Liens relatifs à cet article**
 
@@ -25655,9 +25739,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R* 764-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R* 766-3 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 22
 
 
 ###### Article R741-2
@@ -25975,518 +26059,526 @@ _Cite_:
 
 ###### Article R761-1
 
-Le présent livre est applicable à Mayotte sous réserve des dispositions suivantes :
+Le présent livre est applicable à Mayotte sous réserve des dispositions suivantes : 
 
 1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant à Mayotte ;
+fonctionnement de sections de la commission siégeant à Mayotte ; 
 
-1° bis A l'article R. 723-1 :
+1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : "au représentant de l'Etat à Mayotte ;
+a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
+mots : " au représentant de l'Etat à Mayotte ; 
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : le
-représentant de l'Etat à Mayotte" ;
+b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : le
+représentant de l'Etat à Mayotte " ; 
 
-2° Au troisième alinéa de l'article R. 723-2 :
+2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "au représentant de l'Etat à Mayotte" ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte
+" ; 
 
-b) Les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande" sont remplacés par
-les mots : "au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande" ;
+b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
+les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 48 de l'ordonnance n° 2000-373 du 26 avril 2000" ;
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
+sont remplacés par les mots : " de l'article 48 de l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
-"Le représentant de l'Etat à Mayotte peut" ;
+4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
+mots : " Le représentant de l'Etat à Mayotte peut " ; 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du représentant de l'Etat à Mayotte" ;
+5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du représentant de l'Etat à Mayotte " ; 
 
-6° A l'article R. 733-20 :
+6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "le représentant de l'Etat à Mayotte" ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le représentant de l'Etat à Mayotte
+" ; 
 
-b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande" ;
+b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " au représentant de l'Etat à Mayotte, lorsque celui-ci en fait la demande " ; 
 
-7° Aux articles R. 733-22 et R. 733-23, les mots : "ministre de l'intérieur" sont remplacés par les mots : "représentant de
-l'Etat à Mayotte" ;
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
+leurs observations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte, qui doit produire ses
+observations », au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
+l'asile » sont remplacés par les mots : du représentant de l'Etat à Mayotte » et au troisième alinéa du même article, les
+mots : au ministre de l'intérieur et au ministre chargé de l'asile » sont remplacés par les mots : au représentant de l'Etat
+à Mayotte ; 
 
-8° A l'article R. 741-2 :
+8° A l'article R. 741-2 : 
 
-a) Les mots : "en France" sont remplacés par les mots : "à Mayotte" ;
+a) Les mots : " en France " sont remplacés par les mots : " à Mayotte " ; 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2000-373 du 26 avril 2000" ;
+b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du représentant de l'Etat à Mayotte" ;
+c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du représentant de l'Etat à Mayotte " ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du représentant de
-l'Etat à Mayotte" ;
+d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du représentant de
+l'Etat à Mayotte " ; 
 
-9° A l'article R. 742-1 :
+9° A l'article R. 742-1 : 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ;
+a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
+" ; 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ;
+b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
+l'article L. 741-4 " ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 761-1" ;
+c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
+les mots : " et dans les conditions prévues par l'article L. 761-1 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "à Mayotte" ;
+d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " à Mayotte " ; 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le représentant de
-l'Etat à Mayotte" ;
+e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de
+l'Etat à Mayotte " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 24 de
-l'ordonnance n° 2000-373 du 26 avril 2000" ;
+f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de
+l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ;
+g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
 
-10° A l'article R. 742-2 :
+10° A l'article R. 742-2 : 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le représentant de l'Etat à
-Mayotte" ;
+a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de l'Etat à
+Mayotte " ; 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du code du travail localement
-applicable" ;
+b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du code du travail
+localement applicable " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du code
-du travail localement applicable" ;
+11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+code du travail localement applicable " ; 
 
-12° A l'article R. 742-5 :
+12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2000-373 du 26
-avril 2000" ;
+a) Au premier alinéa, les mots : " à l'article R. 314-2 " sont remplacés par les mots : " par l'ordonnance n° 2000-373 du 26
+avril 2000 " ; 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le représentant de l'Etat à
-Mayotte" ;
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le représentant de l'Etat à
+Mayotte " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 24 de l'ordonnance n°
-2000-273 du 26 avril 2000" ;
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n°
+2000-273 du 26 avril 2000 " ; 
 
-13° A l'article R. 742-6 :
+13° A l'article R. 742-6 : 
 
-a) Les mots : "à l'article R. 313-1" et : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2000-373 du 26 avril 2000" ;
+a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
+l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots :
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
 
-"à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000" ;
+" à l'article 24 de l'ordonnance n° 2000-373 du 26 avril 2000 " ; 
 
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 17 de l'ordonnance n° 2000-373 du 26 avril
-2000".
+c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-373 du 26
+avril 2000 ".
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V) JORF 22 mars 2007
 
 _Cité par_:
 
   - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 23
 
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=331></a>
 
 ###### Article R762-1
 
-Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des dispositions suivantes :
+Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des dispositions suivantes : 
 
 1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant dans les îles Wallis et Futuna ;
+fonctionnement de sections de la commission siégeant dans les îles Wallis et Futuna ; 
 
-1° bis A l'article R. 723-1 :
+1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : "à l'administrateur supérieur des îles Wallis-et-Futuna ;
+a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
+mots : " à l'administrateur supérieur des îles Wallis-et-Futuna ; 
 
-b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "à l'administrateur supérieur des îles Wallis-et-
-Futuna" ;
+b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : 
 
-2° Au troisième alinéa de l'article R. 723-2 :
+" à l'administrateur supérieur des îles Wallis-et-Futuna ; 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "à l'administrateur supérieur des îles
-Wallis et Futuna" ;
+2° Au troisième alinéa de l'article R. 723-2 : 
 
-b) Les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande" sont remplacés par
-les mots : "à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande" ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " à l'administrateur supérieur des
+îles Wallis et Futuna " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 48 de l'ordonnance n° 2000-371 du 26 avril 2000" ;
+b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
+les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande " ; 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
+sont remplacés par les mots : " de l'article 48 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-"L'administrateur supérieur des îles Wallis et Futuna peut" ;
+4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
+mots : 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "de l'administrateur supérieur des îles Wallis et
-Futuna" ;
+" L'administrateur supérieur des îles Wallis et Futuna peut " ; 
 
-6° A l'article R. 733-20 :
+5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " de l'administrateur supérieur des îles Wallis
+et Futuna " ; 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "l'administrateur supérieur des îles
-Wallis et Futuna" ;
+6° A l'article R. 733-20 : 
 
-b) Au deuxième alinéa, les mots : "au préfet compétent ou, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande" ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " l'administrateur supérieur des îles
+Wallis et Futuna " ; 
 
-7° Aux articles R. 733-22 et R. 733-23, les mots : "au ministre de l'intérieur" et "du ministre de l'intérieur" sont
-remplacés, respectivement, par les mots : "à l'administrateur supérieur des îles Wallis et Futuna" et "de l'administrateur
-supérieur des îles Wallis et Futuna" ;
+b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande
+" ; 
 
-8° A l'article R. 741-2 :
+7° A l'article R. 733-22, les mots : "au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire leurs
+observations" sont remplacés par les mots : "à l'administrateur supérieur des îles Wallis et Futuna, qui doit produire ses
+observations", au premier alinéa de l'article R. 733-23, les mots : du ministre de l'intérieur et du ministre chargé de
+l'asile sont remplacés par les mots : de l'administrateur supérieur des îles Wallis et Futuna et au troisième alinéa du même
+article, les mots : au ministre de l'intérieur et au ministre chargé de l'asile sont remplacés par les mots : "à
+l'administrateur supérieur des îles Wallis et Futuna" ; 
 
-a) Les mots : "en France" sont remplacés par les mots : "dans les îles Wallis et Futuna" ;
+8° A l'article R. 741-2 : 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2000-371 du 26 avril 2000" ;
+a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du représentant de l'administrateur supérieur
-des îles Wallis et Futuna" ;
+b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services de l'administrateur
-supérieur des îles Wallis et Futuna" ;
+c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du représentant de l'administrateur
+supérieur des îles Wallis et Futuna " ; 
 
-9° A l'article R. 742-1 :
+d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services de l'administrateur
+supérieur des îles Wallis et Futuna " ; 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ;
+9° A l'article R. 742-1 : 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ;
+a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
+" ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 761-1" ;
+b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
+l'article L. 741-4 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "dans les îles Wallis et Futuna" ;
+c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
+les mots : " et dans les conditions prévues par l'article L. 761-1 " ; 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par l'administrateur
-supérieur des îles Wallis et Futuna" ;
+d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 24 de
-l'ordonnance n° 2000-371 du 26 avril 2000" ;
+e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur
+supérieur des îles Wallis et Futuna " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ;
+f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de
+l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-10° A l'article R. 742-2 :
+g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par l'administrateur supérieur des îles
-Wallis et Futuna" ;
+10° A l'article R. 742-2 : 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
-localement applicable" ;
+a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
+îles Wallis et Futuna " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
-droit du travail localement applicable" ;
+b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
+localement applicable " ; 
 
-12° A l'article R. 742-5 :
+11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+droit du travail localement applicable " ; 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2 sont remplacés par les mots : "par l'ordonnance n° 2000-371 du 26
-avril 2000" ;
+12° A l'article R. 742-5 : 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par l'administrateur supérieur des îles
-Wallis et Futuna" ;
+a) Au premier alinéa, les mots : " à l'article R. 314-2 sont remplacés par les mots : " par l'ordonnance n° 2000-371 du 26
+avril 2000 " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 24 de l'ordonnance n°
-2000-271 du 26 avril 2000" ;
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
+îles Wallis et Futuna " ; 
 
-13° A l'article R. 742-6 :
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n°
+2000-271 du 26 avril 2000 " ; 
 
-a) Les mots : "à l'article R. 313-1" et : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2000-371 du 26 avril 2000" ;
+13° A l'article R. 742-6 : 
 
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots :
+a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
+l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-"à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000" ;
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
 
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 17 de l'ordonnance n° 2000-371 du 26 avril
-2000".
+" à l'article 24 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
+
+c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-371 du 26
+avril 2000 ".
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V) JORF 22 mars 2007
 
 _Cité par_:
 
   - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
   - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (VD)
 
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 24
+
 
 #### Chapitre III : Dispositions applicables en Polynésie française.<a id=332></a>
 
 ###### Article R763-1
 
-Le présent livre est applicable en Polynésie française sous réserve des dispositions suivantes :
+Le présent livre est applicable en Polynésie française sous réserve des dispositions suivantes : 
 
 1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant en Polynésie française ;
+fonctionnement de sections de la commission siégeant en Polynésie française ; 
 
-1° bis A l'article R. 723-1 :
+1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : "au haut-commissaire de la République en Polynésie française ;
+a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
+mots : " au haut-commissaire de la République en Polynésie française ; 
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
-commissaire de la République en Polynésie française ;
+b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : " le
+haut-commissaire de la République en Polynésie française ; 
 
-2° Au troisième alinéa de l'article R. 723-2 :
+2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "au haut-commissaire de la République
-en Polynésie française" ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au haut-commissaire de la République
+en Polynésie française " ; 
 
-b) Les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande" sont remplacés par
-les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la demande" ;
+b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
+les mots : " au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la demande " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2000-372 du 26 avril 2000" ;
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
+sont remplacés par les mots : " de l'article 50 de l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
-"Le haut-commissaire de la République en Polynésie française peut" ;
+4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
+mots : " Le haut-commissaire de la République en Polynésie française peut " ; 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
-Polynésie française" ;
+5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du haut-commissaire de la République en
+Polynésie française " ; 
 
-6° A l'article R. 733-20 :
+6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "le haut-commissaire de la République
-en Polynésie française" ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le haut-commissaire de la République
+en Polynésie française " ; 
 
-b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
-demande" ;
+b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
+demande " ; 
 
-7° Aux articles R. 733-22 et R. 733-23, les mots : "ministre de l'intérieur" sont remplacés par les mots : "haut-commissaire
-de la République en Polynésie française" ;
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
+leurs observations " sont remplacés par les mots : " au haut-commissaire de la République en Polynésie française, qui doit
+produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : " du ministre de l'intérieur et du ministre
+chargé de l'asile " sont remplacés par les mots : " du haut-commissaire de la République en Polynésie française " et au
+troisième alinéa du même article, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés
+par les mots : " au haut-commissaire de la République en Polynésie française " ; 
 
-8° A l'article R. 741-2 :
+8° A l'article R. 741-2 : 
 
-a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
+a) Les mots : " en France " sont remplacés par les mots : " en Polynésie française " ; 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2000-372 du 26 avril 2000" ;
+b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
-Polynésie française" ;
+c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
+Polynésie française " ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
-la République en Polynésie française" ;
+d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du haut-commissaire
+de la République en Polynésie française " ; 
 
-9° A l'article R. 742-1 :
+9° A l'article R. 742-1 : 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ;
+a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
+" ; 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ;
+b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
+l'article L. 741-4 " ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 763-1" ;
+c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
+les mots : " et dans les conditions prévues par l'article L. 763-1 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
+d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " en Polynésie française " ; 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
-la République en Polynésie française" ;
+e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire
+de la République en Polynésie française " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
-l'ordonnance n° 2000-372 du 26 avril 2000" ;
+f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de
+l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ;
+g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
 
-10° A l'article R. 742-2 :
+10° A l'article R. 742-2 : 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Polynésie française" ;
+a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
-localement applicable" ;
+b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
+localement applicable " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
-droit du travail localement applicable" ;
+11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+droit du travail localement applicable " ; 
 
-12° A l'article R. 742-5 :
+12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2 sont remplacés par les mots : "par l'ordonnance n° 2000-372 du 26
-avril 2000" ;
+a) Au premier alinéa, les mots : " à l'article R. 314-2 sont remplacés par les mots : " par l'ordonnance n° 2000-372 du 26
+avril 2000 " ; 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Polynésie française" ;
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
-2000-372 du 26 avril 2000" ;
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
+2000-372 du 26 avril 2000 " ; 
 
-13° A l'article R. 742-6 :
+13° A l'article R. 742-6 : 
 
-a) Les mots : "à l'article R. 313-1" et : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2000-372 du 26 avril 2000" ;
+a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
+l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots :
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
 
-"à l'article 26 de l'ordonnance n° 2000-372 du 26 avril 2000" ;
+" à l'article 26 de l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2000-372 du 26 avril
-2000".
+c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n° 2000-372 du 26
+avril 2000 ".
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V) JORF 22 mars 2007
 
 _Cité par_:
 
   - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 25
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=333></a>
 
 ###### Article R764-1
 
-Le présent livre est applicable en Nouvelle-Calédonie sous réserve des dispositions suivantes :
+Le présent livre est applicable en Nouvelle-Calédonie sous réserve des dispositions suivantes : 
 
 1° Le président de la Commission des recours des réfugiés peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la commission siégeant en Nouvelle-Calédonie ;
+fonctionnement de sections de la commission siégeant en Nouvelle-Calédonie ; 
 
-1° bis A l'article R. 723-1 :
+1° bis A l'article R. 723-1 : 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : "au haut-commissaire de la République en Nouvelle-Calédonie ;
+a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
+mots : " au haut-commissaire de la République en Nouvelle-Calédonie ; 
 
-b) Au cinquième alinéa, les mots "le préfet sont remplacés par les mots : "le préfet sont remplacés par les mots : "le haut-
-commissaire de la République en Nouvelle-Calédonie ;
+b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : " le
+haut-commissaire de la République en Nouvelle-Calédonie ; 
 
-2° Au troisième alinéa de l'article R. 723-2 :
+2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "au haut-commissaire de la République
-en Nouvelle-Calédonie" ;
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au haut-commissaire de la République
+en Nouvelle-Calédonie " ; 
 
-b) Au troisième alinéa de l'article, les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
-font la demande" sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci
-en fait la demande" ;
+b) Au troisième alinéa de l'article, les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
+font la demande " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-
+ci en fait la demande " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2002-388 du 20 mars 2002" ;
+3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
+sont remplacés par les mots : " de l'article 50 de l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
-"Le haut-commissaire de la République en Nouvelle-Calédonie peut" ;
+4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
+mots : " Le haut-commissaire de la République en Nouvelle-Calédonie peut " ; 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
-Nouvelle-Calédonie" ;
+5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " du haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
 
-6° A l'article R. 733-20 :
+6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations" sont remplacés par les mots : "le haut-commissaire de la République
-en Nouvelle-Calédonie" ;
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
+nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le haut-commissaire de la République
+en Nouvelle-Calédonie " ; 
 
-b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
-demande" ;
+b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
+demande " ; 
 
-7° Aux articles R. 733-22 et R. 733-23 les mots : "ministre de l'intérieur" sont remplacés par les mots : "haut-commissaire
-de la République en Nouvelle-Calédonie" ;
+7° A l'article R. 733-22, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui doivent produire
+leurs observations " sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, qui doit
+produire ses observations ", au premier alinéa de l'article R. 733-23, les mots : " du ministre de l'intérieur et du ministre
+chargé de l'asile " sont remplacés par les mots : " du haut-commissaire de la République en Nouvelle-Calédonie " et au
+troisième alinéa du même article, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés
+par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie " ; 
 
-8° A l'article R. 741-2 :
+8° A l'article R. 741-2 : 
 
-a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ;
+a) Les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2002-388 du 20 mars 2002" ;
+b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
-Nouvelle-Calédonie" ;
+c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
-la République en Nouvelle-Calédonie" ;
+d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services du haut-commissaire
+de la République en Nouvelle-Calédonie " ; 
 
-9° A l'article R. 742-1 :
+9° A l'article R. 742-1 : 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ;
+a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
+" ; 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ;
+b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
+l'article L. 741-4 " ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 764-1" ;
+c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
+les mots : " et dans les conditions prévues par l'article L. 764-1 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ;
+d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
-la République en Nouvelle-Calédonie" ;
+e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire
+de la République en Nouvelle-Calédonie " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
-l'ordonnance n° 2002-388 du 20 mars 2002" ;
+f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de
+l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ;
+g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
 
-10° A l'article R. 742-2 :
+10° A l'article R. 742-2 : 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Nouvelle-Calédonie" ;
+a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
-localement applicable" ;
+b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
+localement applicable " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
-droit du travail localement applicable" ;
+11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
+droit du travail localement applicable " ; 
 
-12° A l'article R. 742-5 :
+12° A l'article R. 742-5 : 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2002-388 du 20
-mars 2002" ;
+a) Au premier alinéa, les mots : " à l'article R. 314-2 " sont remplacés par les mots : " par l'ordonnance n° 2002-388 du 20
+mars 2002 " ; 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Nouvelle-Calédonie" ;
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
-2002-388 du 20 mars 2002" ;
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
+2002-388 du 20 mars 2002 " ; 
 
-13° A l'article R. 742-6 :
+13° A l'article R. 742-6 : 
 
-a) Les mots : "à l'article R. 313-1" et les mots : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2002-388 du 20 mars 2002" ;
+a) Les mots : " à l'article R. 313-1 " et les mots : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : "
+par l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots :
+b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : 
 
-"à l'article 26 de l'ordonnance n° 2002-388 du 20 mars 2002" ;
+" à l'article 26 de l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2002-388 du 20 mars
-2002".
+c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n° 2002-388 du 20 mars
+2002 ".
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V) JORF 22 mars 2007
 
 _Cité par_:
 
   - Décret n°2007-373 du 21 mars 2007 - art. 43 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-223 du 6 mars 2008 - art. 26
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=334></a>
@@ -26706,14 +26798,14 @@ _Cité par_:
 ###### Article R811-7
 
 Lorsqu'un bénéficiaire de la protection temporaire dans un autre Etat membre de l'Union européenne sollicite son transfert
-vers la France, le ministre de l'intérieur, saisi de cette demande par les autorités compétentes de l'Etat membre dans lequel
-l'intéressé a sa résidence, statue sur cette demande en tenant compte notamment des capacités d'accueil.
+vers la France, le ministre chargé de l'immigration, saisi de cette demande par les autorités compétentes de l'Etat membre
+dans lequel l'intéressé a sa résidence, statue sur cette demande en tenant compte notamment des capacités d'accueil.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
@@ -26726,21 +26818,25 @@ _Cité par_:
 Lorsqu'un bénéficiaire de la protection temporaire en France cherche à entrer sans autorisation ou se trouve irrégulièrement
 sur le territoire d'un autre Etat membre de l'Union européenne pendant la période couverte par la décision mentionnée à
 l'article L. 811-2, la France le réadmet sur son territoire au titre de la protection temporaire, sauf si un accord bilatéral
-prévoit des dispositions contraires.
+prévoit des dispositions contraires. 
 
-La demande de reprise en charge est adressée au ministre de l'intérieur par écrit et est accompagnée de tout document
-justifiant que l'intéressé bénéficie de la protection temporaire en France.
+La demande de reprise en charge est adressée au ministre chargé de l'immigration par écrit et est accompagnée de tout
+document justifiant que l'intéressé bénéficie de la protection temporaire en France.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R811-13 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-16 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L811-2
 
 
 ###### Article R811-9
@@ -26840,46 +26936,51 @@ _Cite_:
 Les informations relatives à un bénéficiaire de la protection temporaire qui sont nécessaires pour instruire une demande de
 transfert autre que celles mentionnées aux articles R. 811-7 et R. 811-8 sont demandées ou fournies à l'Etat membre de
 l'Union européenne où réside l'intéressé ou dans lequel il souhaite résider par le représentant de l'Etat dans le département
-vers lequel ou à partir duquel doit s'opérer le transfert.
+vers lequel ou à partir duquel doit s'opérer le transfert. 
 
 Les informations relatives à un bénéficiaire de la protection temporaire qui sont nécessaires pour instruire une demande de
 transfert en application de l'article R. 811-7 ou une demande de réadmission en application de l'article R. 811-8 sont
-demandées par le ministre de l'intérieur à l'Etat membre de l'Union européenne sur le territoire duquel se trouve
-l'intéressé.
+demandées par le ministre chargé de l'immigration à l'Etat membre de l'Union européenne sur le territoire duquel se trouve
+l'intéressé. 
 
-Ces informations comprennent au moins l'un des documents ou l'une des données suivants :
+Ces informations comprennent au moins l'un des documents ou l'une des données suivants : 
 
-1° Les nom, nationalité, date et lieu de naissance, situation familiale et lien de parenté de l'intéressé ;
+1° Les nom, nationalité, date et lieu de naissance, situation familiale et lien de parenté de l'intéressé ; 
 
-2° Les documents d'identité et de voyage de l'intéressé ;
+2° Les documents d'identité et de voyage de l'intéressé ; 
 
-3° Les documents attestant l'existence de liens familiaux ;
+3° Les documents attestant l'existence de liens familiaux ; 
 
-4° D'autres données indispensables pour établir l'identité de l'intéressé ou ses liens de parenté ;
+4° D'autres données indispensables pour établir l'identité de l'intéressé ou ses liens de parenté ; 
 
 5° Les décisions de délivrer ou de refuser de délivrer un document de séjour ou un visa à l'intéressé, ainsi que les
-documents étayant ces décisions ;
+documents étayant ces décisions ; 
 
 6° Les demandes de document de séjour ou de visa introduites par l'intéressé et en cours d'examen, ainsi que l'état
 d'avancement de la procédure.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R811-8 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R811-7
 
 
 ###### Article R811-14
 
-Le ministre de l'intérieur informe la Commission de l'Union européenne et le Haut-Commissariat des Nations unies pour les
-réfugiés des demandes de transfert.
+Le    ministre chargé de l'immigration  informe la Commission de l'Union européenne et le Haut-Commissariat des Nations unies
+pour les réfugiés des demandes de transfert.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
 ##### Section 3 : Dispositions diverses<a id=343></a>
@@ -26887,19 +26988,26 @@ _Codifié par_:
 ###### Article R811-15
 
 Les catégories de personnes déplacées qui peuvent bénéficier de la protection temporaire en France en application des
-dispositions de l'article L. 811-7 sont désignées par arrêté conjoint du ministre de l'intérieur et du ministre des affaires
-étrangères.
+dispositions de l'article L. 811-7 sont désignées par arrêté conjoint du ministre chargé de l'immigration, du ministre de
+l'intérieur et du ministre des affaires étrangères. 
 
-Ces personnes sont alors admises au séjour dans les conditions prévues aux articles R. 811-2 et R. 811-3.
+Ces personnes sont alors admises au séjour dans les conditions prévues aux articles R. 811-2 et R. 811-3. 
 
-Le ministre de l'intérieur informe immédiatement le Conseil et la Commission de l'Union européenne de la mise en oeuvre de
-ces dispositions.
+Le ministre chargé de l'immigration informe immédiatement le Conseil et la Commission de l'Union européenne de la mise en
+oeuvre de ces dispositions.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
+  - Décret n°2008-223 du 6 mars 2008 - art. 27
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R811-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L811-7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R811-2
 
 
 ###### Article R811-16
@@ -27021,41 +27129,41 @@ _Codifié par_:
 
 ###### Article Annexe 6.6
 
-1° L'identité de l'étranger : état civil, langue parlée, situation familiale, domicile, profession ;
+1° L'identité de l'étranger : état civil, langue parlée, situation familiale, domicile, profession ; 
 
-2° Désignation de l'administrateur ad hoc : nom, prénom ;
+2° Désignation de l'administrateur ad hoc : nom, prénom ; 
 
-3° Désignation de l'interprète : nom, prénom, langue parlée, société ;
+3° Désignation de l'interprète : nom, prénom, langue parlée, société ; 
 
-4° L'identité du rédacteur du procès-verbal : matricule, nom et prénom, grade, qualité, affectation ;
+4° L'identité du rédacteur du procès-verbal : matricule, nom et prénom, grade, qualité, affectation ; 
 
-5° Les réquisitions en cours de procédure ;
+5° Les réquisitions en cours de procédure ; 
 
 6° Le résultat des examens médicaux relatifs à la compatibilité du maintien en zone d'attente ou à la détermination de l'âge
-de l'étranger ;
+de l'étranger ; 
 
-7° Le(s) visa(s) : type de visa, numéro, date de délivrance, lieu de délivrance, date de validité, consulat de délivrance,
-nombre d'entrées, durée de séjour, nom apposé, prénom apposé ;
+7° Le (s) visa (s) : type de visa, numéro, date de délivrance, lieu de délivrance, date de validité, consulat de délivrance,
+nombre d'entrées, durée de séjour, nom apposé, prénom apposé ; 
 
-8° Nature des documents falsifiés, contrefaits ou usurpés ;
+8° Nature des documents falsifiés, contrefaits ou usurpés ; 
 
-9° Informations relatives à l'amende infligée aux transporteurs en application des articles L. 625-1 et suivants ;
+9° Informations relatives à l'amende infligée aux transporteurs en application des articles L. 625-1 et suivants ; 
 
 10° Informations relatives aux actes de procédures relatifs au refus d'entrée sur le territoire et au maintien en zone
-d'attente ;
+d'attente ; 
 
 11° La demande d'admission au titre de l'asile présentée à la frontière et la décision prise à l'égard de cette demande par
-le ministre de l'intérieur.
+le ministre chargé de l'immigration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2008-223 du 6 mars 2008 - art. 2
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2007-1136 du 25 juillet 2007 - art. 2 () JORF 27 juillet 2007
+  - Code de l'entrée et du séjour des étrangers et ... - art. L625-1 (V)
 
 
 ## Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI<a id=350></a>
