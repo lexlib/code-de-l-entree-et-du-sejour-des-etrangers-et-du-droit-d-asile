@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2008-07-18
+Version Consolidée au 2008-08-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -142,10 +142,10 @@ Version Consolidée au 2008-07-18
     - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#139)
   - [Partie réglementaire (art. R111-1 à R831-1)](#140)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#141)
-      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-24)](#142)
-        - [Chapitre unique (art. R111-1 à R111-24)](#143)
+      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-23)](#142)
+        - [Chapitre unique (art. R111-1 à R111-23)](#143)
           - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12)](#144)
-          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-24)](#145)
+          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-23)](#145)
       - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#146)
         - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#147)
           - [Section 1 : Entrée en France (art. R121-1 à R121-2)](#148)
@@ -315,7 +315,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#225)
           - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#311)
           - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#312)
         - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#313)
-      - [TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS (art. R732-1 à R733-23)](#314)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-23)](#314)
         - [Chapitre II : Organisation (art. R732-1 à R732-5)](#315)
         - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#316)
           - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#317)
@@ -325,35 +325,32 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#225)
             - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#321)
             - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#322)
           - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#323)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art.  à R733-23)](#324)
-        - [Chapitre II : Organisation (art.  à R733-23)](#325)
-        - [Chapitre III : Examen des recours (art.  à R733-23)](#326)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R741-1 à R742-6)](#327)
-        - [Chapitre Ier : Admission au séjour. (art. R741-1 à R741-2)](#328)
-        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#329)
-      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#330)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#331)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#332)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#333)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#334)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#335)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#336)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#337)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#338)
-        - [Chapitre unique (art. R811-1 à R811-16)](#339)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#340)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#341)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#342)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#343)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#344)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#345)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#346)
-      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#347)
-        - [Chapitre unique. (art. R831-1)](#348)
-  - [Annexes (art. Annexe 6.3 à Annexe 6-7)](#349)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#350)
-    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#351)
-    - [Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI (art. Annexe 6-7)](#352)
+      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R741-1 à R742-6)](#324)
+        - [Chapitre Ier : Admission au séjour. (art. R741-1 à R741-2)](#325)
+        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#326)
+      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#327)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#328)
+        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#329)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#330)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#331)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#332)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#333)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#334)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#335)
+        - [Chapitre unique (art. R811-1 à R811-16)](#336)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#337)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#338)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#339)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#340)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#341)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#342)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#343)
+      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#344)
+        - [Chapitre unique. (art. R831-1)](#345)
+  - [Annexes (art. Annexe 6.3 à Annexe 6-7)](#346)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#347)
+    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#348)
+    - [Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI (art. Annexe 6-7)](#349)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -13003,40 +13000,6 @@ _Cité par_:
   - Code de procédure pénale - art. R93 (V)
 
 
-###### Article R111-21
-
-Le montant des indemnités prévues à l'article R. 111-20 est fixé à :
-
-- 100 euros pour l'indemnité forfaitaire prévue au 1° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 2° ;
-
-- 50 euros pour l'indemnité forfaitaire prévue au 3°.
-
-Ces sommes peuvent être revalorisées par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé
-de l'économie et des finances compte tenu notamment de l'évolution des prix à la consommation hors tabac prévue dans le
-rapport économique et financier annexé à la loi de finances.
-
-**Nota:**
-
-Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
-présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2008-764 du 30 juillet 2008 - art. 14
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-20
-
-
 ###### Article R111-22
 
 Les indemnités forfaitaires des administrateurs ad hoc sont à la charge de l'Etat.
@@ -13077,26 +13040,6 @@ _Cite_:
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-
-###### Article R111-24
-
-Les dispositions de la présente section ne sont pas applicables à Mayotte.
-
-**Nota:**
-
-Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
-présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2008-764 du 30 juillet 2008 - art. 14
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=146></a>
@@ -25281,7 +25224,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
 
 
-### TITRE III : LA COMMISSION DES RECOURS DES RÉFUGIÉS<a id=314></a>
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=314></a>
 
 #### Chapitre II : Organisation<a id=315></a>
 
@@ -25902,15 +25845,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-18
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=324></a>
+### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=324></a>
 
-#### Chapitre II : Organisation<a id=325></a>
-
-#### Chapitre III : Examen des recours<a id=326></a>
-
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=327></a>
-
-#### Chapitre Ier : Admission au séjour.<a id=328></a>
+#### Chapitre Ier : Admission au séjour.<a id=325></a>
 
 ###### Article R741-1
 
@@ -25993,7 +25930,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
 
 
-#### Chapitre II : Durée du maintien sur le territoire français.<a id=329></a>
+#### Chapitre II : Durée du maintien sur le territoire français.<a id=326></a>
 
 ###### Article R742-1
 
@@ -26252,7 +26189,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
 
 
-### TITRE V : DISPOSITIONS DIVERSES.<a id=330></a>
+### TITRE V : DISPOSITIONS DIVERSES.<a id=327></a>
 
 ###### Article R751-1
 
@@ -26276,9 +26213,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=331></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=328></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=332></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=329></a>
 
 ###### Article R761-1
 
@@ -26426,7 +26363,7 @@ _Modifié par_:
   - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=333></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=330></a>
 
 ###### Article R762-1
 
@@ -26578,7 +26515,7 @@ _Modifié par_:
   - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=334></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=331></a>
 
 ###### Article R763-1
 
@@ -26728,7 +26665,7 @@ _Modifié par_:
   - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=335></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=332></a>
 
 ###### Article R764-1
 
@@ -26882,7 +26819,7 @@ _Modifié par_:
   - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=336></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=333></a>
 
 ###### Article R765-1
 
@@ -26921,13 +26858,13 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=337></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=334></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=338></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=335></a>
 
-#### Chapitre unique<a id=339></a>
+#### Chapitre unique<a id=336></a>
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=340></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=337></a>
 
 ###### Article R811-1
 
@@ -27052,9 +26989,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=341></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=338></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=342></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=339></a>
 
 ###### Article R811-5
 
@@ -27162,7 +27099,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=343></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=340></a>
 
 ###### Article R811-10
 
@@ -27230,7 +27167,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=344></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=341></a>
 
 ###### Article R811-13
 
@@ -27284,7 +27221,7 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
-##### Section 3 : Dispositions diverses<a id=345></a>
+##### Section 3 : Dispositions diverses<a id=342></a>
 
 ###### Article R811-15
 
@@ -27340,7 +27277,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=346></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=343></a>
 
 ###### Article R821-1
 
@@ -27358,9 +27295,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=347></a>
+### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=344></a>
 
-#### Chapitre unique.<a id=348></a>
+#### Chapitre unique.<a id=345></a>
 
 ###### Article R831-1
 
@@ -27378,9 +27315,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R313-23 à R313-32
 
 
-# Annexes<a id=349></a>
+# Annexes<a id=346></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=350></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=347></a>
 
 ###### Article Annexe 6.3
 
@@ -27426,7 +27363,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=351></a>
+## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=348></a>
 
 ###### Article Annexe 6.6
 
@@ -27467,7 +27404,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L625-1 (V)
 
 
-## Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI<a id=352></a>
+## Annexe 6-7 mentionnée à l'article R. 611-26 LISTE DES DONNÉES À CARACTÈRE PERSONNEL RELATIVES À UN ÉTRANGER FAISANT L'OBJET D'UNE MESURE D'ÉLOIGNEMENT SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT ELOI<a id=349></a>
 
 ###### Article Annexe 6-7
 
