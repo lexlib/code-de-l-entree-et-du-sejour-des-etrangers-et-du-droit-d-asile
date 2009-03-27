@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-03-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -653,48 +653,43 @@ _Cité par_:
 ###### Article L111-10
 
 Chaque année, le Gouvernement dépose devant le Parlement un rapport sur les orientations pluriannuelles de la politique
-d'immigration et d'intégration.
+d'immigration et d'intégration. 
 
-Ce rapport indique et commente :
+Ce rapport indique et commente : 
 
-a) Le nombre des différents titres de séjour accordés et celui des demandes rejetées et des renouvellements refusés ;
+a) Le nombre des différents titres de séjour accordés et celui des demandes rejetées et des renouvellements refusés ; 
 
-b) Le nombre d'étrangers admis au titre du regroupement familial ;
+b) Le nombre d'étrangers admis au titre du regroupement familial ; 
 
 c) Le nombre d'étrangers ayant obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire, ainsi que celui des
-demandes rejetées ;
+demandes rejetées ; 
 
-d) Le nombre d'attestations d'accueil présentées pour validation et le nombre d'attestations d'accueil validées ;
+d) Le nombre d'attestations d'accueil présentées pour validation et le nombre d'attestations d'accueil validées ; 
 
-e) Le nombre d'étrangers ayant fait l'objet de mesures d'éloignement effectives comparé à celui des décisions prononcées ;
+e) Le nombre d'étrangers ayant fait l'objet de mesures d'éloignement effectives comparé à celui des décisions prononcées ; 
 
 f) Les moyens et le nombre de procédures, ainsi que leur coût, mis en oeuvre pour lutter contre l'entrée et le séjour
-irrégulier des étrangers ;
+irrégulier des étrangers ; 
 
 g) Les moyens mis en oeuvre et les résultats obtenus dans le domaine de la lutte contre les trafics de main-d'oeuvre
-étrangère ;
+étrangère ; 
 
 h) Les actions entreprises avec les pays d'origine pour mettre en oeuvre une politique d'immigration fondée sur le
-codéveloppement et le partenariat ;
+codéveloppement et le partenariat ; 
 
 i) Le nombre de contrats souscrits en application des articles L. 311-9 et L. 311-9-1 ainsi que les actions entreprises au
 niveau national pour favoriser l'intégration des étrangers en situation régulière en facilitant notamment leur accès à
-l'emploi, au logement et à la culture ;
+l'emploi, au logement et à la culture ; 
 
-j) Le nombre des acquisitions de la nationalité française.
+j) Le nombre des acquisitions de la nationalité française. 
 
 Ce rapport propose également des indicateurs permettant d'estimer le nombre d'étrangers se trouvant en situation irrégulière
 sur le territoire français.
 
-L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration et l'Agence nationale de l'accueil
-des étrangers et des migrations joignent leurs observations au rapport.
+L'Office français de protection des réfugiés et apatrides, le Haut Conseil à l'intégration et l'Office français de
+l'immigration et de l'intégration joignent leurs observations au rapport.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 _Cité par_:
 
@@ -708,12 +703,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 34 () JORF 21 novembre 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L311-9-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
 
 
 ###### Article L111-11
@@ -1357,8 +1351,8 @@ _Codifié par_:
 ###### Article L211-6
 
 A la demande du maire, des agents spécialement habilités des services de la commune chargés des affaires sociales ou du
-logement ou l'Agence nationale de l'accueil des étrangers et des migrations peuvent procéder à des vérifications sur place.
-Les agents qui sont habilités à procéder à ces vérifications ne peuvent pénétrer chez l'hébergeant qu'après s'être assurés du
+logement ou de l'Office français de l'immigration et de l'intégration peuvent procéder à des vérifications sur place. Les
+agents qui sont habilités à procéder à ces vérifications ne peuvent pénétrer chez l'hébergeant qu'après s'être assurés du
 consentement, donné par écrit, de celui-ci. En cas de refus de l'hébergeant, les conditions d'un accueil dans des conditions
 normales de logement sont réputées non remplies.
 
@@ -1366,18 +1360,11 @@ normales de logement sont réputées non remplies.
 
 _Anciens textes_:
 
-  - Ordonnance 45-2658 1945-11-02 art. 5-3, al. 9
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (M)
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 5-3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 _Cité par_:
 
@@ -1416,8 +1403,8 @@ _Cité par_:
 
 ###### Article L211-8
 
-Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'Agence nationale de
-l'accueil des étrangers et des migrations, d'une taxe d'un montant de 45 euros acquittée par l'hébergeant. Cette taxe est
+Chaque demande de validation d'une attestation d'accueil donne lieu à la perception, au profit de l'          Office français
+de l'immigration et de l'intégration, d'une taxe d'un montant de 45 euros acquittée par l'hébergeant. Cette taxe est
 recouvrée comme en matière de droit de timbre.
 
 **Liens relatifs à cet article**
@@ -1428,7 +1415,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2007-1822 du 24 décembre 2007 - art. 103
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 
 ###### Article L211-9
@@ -2750,8 +2737,8 @@ n'a pas établi le besoin d'une formation est réputé ne pas avoir besoin d'une
 comporte une présentation des institutions françaises et des valeurs de la République, notamment l'égalité entre les hommes
 et les femmes et la laïcité. La formation linguistique est sanctionnée par un titre ou un diplôme reconnus par l'Etat.
 L'étranger bénéficie d'une session d'information sur la vie en France et d'un bilan de compétences professionnelles. Toutes
-ces formations et prestations sont dispensées gratuitement et financées par l'Agence nationale de l'accueil des étrangers et
-des migrations ou par l'établissement public appelé à lui succéder. Lorsque l'étranger est âgé de seize à dix-huit ans, le
+ces formations et prestations sont dispensées gratuitement et financées par l'Office français de l'immigration et de
+l'intégration ou par l'établissement public appelé à lui succéder. Lorsque l'étranger est âgé de seize à dix-huit ans, le
 contrat d'accueil et d'intégration doit être cosigné par son représentant légal régulièrement admis au séjour en France. 
 
 Lors du premier renouvellement de la carte de séjour, l'autorité administrative tient compte du non-respect, manifesté par
@@ -2776,7 +2763,7 @@ sont dispensées. Il fixe les situations dans lesquelles le bilan de compétence
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -3085,8 +3072,8 @@ _Cite_:
 ###### Article L311-15
 
 Tout employeur qui embauche un travailleur étranger acquitte, lors de la première entrée en France de cet étranger ou lors de
-sa première admission au séjour en qualité de salarié, une taxe au profit de l'Agence nationale de l'accueil des étrangers et
-des migrations ou de l'établissement public appelé à lui succéder. 
+sa première admission au séjour en qualité de salarié, une taxe au profit de l'Office français de l'immigration et de
+l'intégration ou de l'établissement public appelé à lui succéder. 
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est de : 
 
@@ -3123,9 +3110,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
   - Code du travail - art. R5223-35 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 155 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
@@ -6113,28 +6100,18 @@ _Cite_:
 
 Pour procéder à la vérification des conditions de logement et de ressources, le maire examine les pièces justificatives
 requises dont la liste est déterminée par décret. Des agents spécialement habilités des services de la commune chargés des
-affaires sociales ou du logement, ou, à la demande du maire, des agents de l'Agence nationale de l'accueil des étrangers et
-des migrations peuvent pénétrer dans le logement. Ils doivent s'assurer au préalable du consentement écrit de son occupant.
-En cas de refus de l'occupant, les conditions de logement permettant le regroupement familial sont réputées non remplies.
+affaires sociales ou du logement, ou, à la demande du maire, des agents de l'          Office français de l'immigration et de
+l'intégration peuvent pénétrer dans le logement. Ils doivent s'assurer au préalable du consentement écrit de son occupant. En
+cas de refus de l'occupant, les conditions de logement permettant le regroupement familial sont réputées non remplies.
 Lorsque ces vérifications n'ont pas pu être effectuées parce que le demandeur ne disposait pas encore du logement nécessaire
 au moment de la demande, le regroupement familial peut être autorisé si les autres conditions sont remplies et après que le
 maire a vérifié sur pièces les caractéristiques du logement et la date à laquelle le demandeur en aura la disposition.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe II, al. 2
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 _Cité par_:
 
@@ -6144,34 +6121,24 @@ _Cité par_:
 ###### Article L421-3
 
 A l'issue de l'instruction, le maire émet un avis motivé. Cet avis est réputé favorable à l'expiration d'un délai de deux
-mois à compter de la communication du dossier par l'autorité administrative. Le dossier est transmis à l'Agence nationale de
-l'accueil des étrangers et des migrations qui peut demander à ses agents de procéder, s'ils ne l'ont déjà fait, à des
-vérifications sur place dans les conditions prévues à l'article L. 421-2.
+mois à compter de la communication du dossier par l'autorité administrative. Le dossier est transmis à l'Office français de
+l'immigration et de l'intégration qui peut demander à ses agents de procéder, s'ils ne l'ont déjà fait, à des vérifications
+sur place dans les conditions prévues à l'article L. 421-2.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 29, paragraphe II, al. 3
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 29 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
 
 _Cité par_:
 
   - Décret n°2005-253 du 17 mars 2005 - art. 10 (Ab)
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-18 (V)
 
+_Modifié par_:
+
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L421-2 (MMN)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L421-2
 
 
 ###### Article L421-4
@@ -6342,49 +6309,49 @@ _Cité par_:
 
 ###### Article L511-1
 
-I. - L'autorité administrative qui refuse la délivrance ou le renouvellement d'un titre de séjour à un étranger ou qui lui
+I.-L'autorité administrative qui refuse la délivrance ou le renouvellement d'un titre de séjour à un étranger ou qui lui
 retire son titre de séjour, son récépissé de demande de carte de séjour ou son autorisation provisoire de séjour, pour un
 motif autre que l'existence d'une menace à l'ordre public, peut assortir sa décision d'une obligation de quitter le
 territoire français, laquelle fixe le pays à destination duquel l'étranger sera renvoyé s'il ne respecte pas le délai de
-départ volontaire prévu au troisième alinéa. L'obligation de quitter le territoire français n'a pas à faire l'objet d'une
-motivation.
+départ volontaire prévu au troisième alinéa.L'obligation de quitter le territoire français n'a pas à faire l'objet d'une
+motivation. 
 
 La même autorité peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse à quitter le territoire français lorsqu'elle
 constate qu'il ne justifie plus d'aucun droit au séjour tel que prévu par l'article L. 121-1.
 
 L'étranger dispose, pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, d'un délai d'un
-mois à compter de sa notification. Passé ce délai, cette obligation peut être exécutée d'office par l'administration.
+mois à compter de sa notification. Passé ce délai, cette obligation peut être exécutée d'office par l'administration. 
 
 Les dispositions du titre V du présent livre peuvent être appliquées à l'étranger faisant l'objet d'une obligation de quitter
 le territoire français dès l'expiration du délai prévu à l'alinéa précédent.
 
 L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter le dispositif d'aide au retour
-financé par l'Agence nationale de l'accueil des étrangers et des migrations, sauf s'il a été placé en rétention.
+financé par l'Office français de l'immigration et de l'intégration, sauf s'il a été placé en rétention. 
 
-II. L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger sera reconduit à la frontière dans
-les cas suivants :
+II.L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger sera reconduit à la frontière dans
+les cas suivants : 
 
 1° Si l'étranger ne peut justifier être entré régulièrement en France, à moins qu'il ne soit titulaire d'un titre de séjour
-en cours de validité ;
+en cours de validité ; 
 
 2° Si l'étranger s'est maintenu sur le territoire français au-delà de la durée de validité de son visa ou, s'il n'est pas
 soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France sans être titulaire
-d'un premier titre de séjour régulièrement délivré ;
+d'un premier titre de séjour régulièrement délivré ; 
 
-3° Si l'étranger fait l'objet d'une obligation de quitter le territoire français exécutoire prise depuis au moins un an ;
+3° Si l'étranger fait l'objet d'une obligation de quitter le territoire français exécutoire prise depuis au moins un an ; 
 
 4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire au-
-delà du délai d'un mois suivant l'expiration de ce titre ;
+delà du délai d'un mois suivant l'expiration de ce titre ; 
 
 5° Si l'étranger a fait l'objet d'une condamnation définitive pour contrefaçon, falsification, établissement sous un autre
-nom que le sien ou défaut de titre de séjour ;
+nom que le sien ou défaut de titre de séjour ; 
 
-6° Abrogé ;
+6° Abrogé ; 
 
 7° Si l'étranger a fait l'objet d'un retrait de son titre de séjour ou d'un refus de délivrance ou de renouvellement d'un
 titre de séjour, dans les cas où ce retrait ou ce refus ont été prononcés, en application des dispositions législatives et
-réglementaires en vigueur, en raison d'une menace à l'ordre public.
+réglementaires en vigueur, en raison d'une menace à l'ordre public. 
 
 8° Si pendant la période de validité de son visa ou, s'il n'est pas soumis à l'obligation du visa, pendant la période définie
 au 2° ci-dessus, le comportement de l'étranger a constitué une menace pour l'ordre public ou si, pendant cette même durée,
@@ -6436,20 +6403,14 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L611-3 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L624-1 (V)
 
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 41 () JORF 21 novembre 2007
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 42 () JORF 21 novembre 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L121-1 (M)
-  - Code du travail - art. L341-4 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
+  - Code du travail - art. L341-4
 
 
 ###### Article L511-2
@@ -10259,14 +10220,14 @@ _Cité par_:
 ###### Article L626-1
 
 Sans préjudice des poursuites judiciaires qui pourront être engagées à son encontre et de la contribution spéciale au
-bénéfice de l'Agence nationale de l'accueil des étrangers et des migrations prévue à l'article L. 341-7 du code du travail,
+bénéfice de l'Office français de l'immigration et de l'intégration prévue à l'article L. 341-7 du code du travail,
 l'employeur qui aura occupé un travailleur étranger en situation de séjour irrégulier acquittera une contribution forfaitaire
-représentative des frais de réacheminement de l'étranger dans son pays d'origine.
+représentative des frais de réacheminement de l'étranger dans son pays d'origine. 
 
 Le montant total des sanctions pécuniaires pour l'emploi d'un étranger en situation de séjour irrégulier ne peut excéder le
 montant des sanctions pénales prévues par les deux premiers alinéas de l'article L. 364-3 et par l'article L. 364-10 du code
 du travail ou, si l'employeur entre dans le champ d'application de ces articles, le montant des sanctions pénales prévues par
-le chapitre II du présent titre.
+le chapitre II du présent titre. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -10276,14 +10237,9 @@ _Anciens textes_:
 
   - Ordonnance 45-2658 1945-11-02 art. 21 quinquiès
 
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 145 () JORF 19 janvier 2005
+  - Décret n°2009-331 du 25 mars 2009 - art. 2
 
 _Cité par_:
 
@@ -10298,9 +10254,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L364-3
-  - Code du travail - art. L341-7 (Ab)
-  - Code du travail - art. L364-10 (M)
+  - Code du travail - art. L341-7
+  - Code du travail - art. L364-10
+  - Code du travail - art. L364-3
 
 
 ## LIVRE VII : LE DROIT D'ASILE<a id=110></a>
@@ -14577,21 +14533,21 @@ _Codifié par_:
 Tout recours contentieux dirigé contre un refus de validation d'une attestation d'accueil doit être précédé, à peine
 d'irrecevabilité, d'un recours administratif auprès du préfet territorialement compétent dans un délai de deux mois à compter
 du refus. Le préfet peut soit rejeter le recours, soit valider l'attestation d'accueil, le cas échéant après vérification par
-l'Agence nationale de l'accueil des étrangers et des migrations dans les conditions prévues à l'article L. 211-6.
+l'Office français de l'immigration et de l'intégration dans les conditions prévues à l'article L. 211-6.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L211-6 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-16 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L211-6 (MMN)
 
 
 ###### Article R211-18
@@ -14639,66 +14595,66 @@ _Cité par_:
 
 ###### Article R211-20
 
-Les catégories de données enregistrées sont les suivantes :
+Les catégories de données enregistrées sont les suivantes : 
 
-1° Données relatives à l'hébergeant :
+1° Données relatives à l'hébergeant : 
 
-a) Identité (nom, prénoms et sexe) et, s'il agit comme représentant d'une personne morale, sa qualité ;
+a) Identité (nom, prénoms et sexe) et, s'il agit comme représentant d'une personne morale, sa qualité ; 
 
-b) Date et lieu de naissance ;
+b) Date et lieu de naissance ; 
 
-c) Nationalité ;
+c) Nationalité ; 
 
 d) Type et numéro de document d'identité, ainsi que sa date et son lieu de délivrance si l'attestation d'accueil est signée
-par un ressortissant français ;
+par un ressortissant français ; 
 
 e) Type et numéro de titre de séjour, ainsi que sa date, son lieu de délivrance et sa durée de validité si l'attestation
-d'accueil est signée par un ressortissant étranger ;
+d'accueil est signée par un ressortissant étranger ; 
 
-f) Adresse ;
+f) Adresse ; 
 
 g) Données relatives à la situation financière, nécessaires pour apprécier la capacité de prise en charge des frais de séjour
-et d'hébergement de l'étranger ;
+et d'hébergement de l'étranger ; 
 
 h) Données relatives aux attestations d'accueil antérieurement signées par l'hébergeant, s'il y a lieu (nombre, dates,
-identité de l'étranger) ;
+identité de l'étranger) ; 
 
-2° Données relatives à la personne hébergée :
+2° Données relatives à la personne hébergée : 
 
-a) Identité (nom, prénoms et sexe) ;
+a) Identité (nom, prénoms et sexe) ; 
 
-b) Date et lieu de naissance ;
+b) Date et lieu de naissance ; 
 
-c) Nationalité ;
+c) Nationalité ; 
 
-d) Numéro de passeport ;
+d) Numéro de passeport ; 
 
-e) Adresse ;
+e) Adresse ; 
 
-f) Identité et date de naissance du conjoint s'il est accompagné par celui-ci ;
+f) Identité et date de naissance du conjoint s'il est accompagné par celui-ci ; 
 
-g) Identité et date de naissance des enfants mineurs, le cas échéant ;
+g) Identité et date de naissance des enfants mineurs, le cas échéant ; 
 
-h) Données relatives au séjour (durée ainsi que dates d'arrivée et de départ) ;
+h) Données relatives au séjour (durée ainsi que dates d'arrivée et de départ) ; 
 
-i) Eventuels liens de parenté avec le demandeur ;
+i) Eventuels liens de parenté avec le demandeur ; 
 
-j) Avis de l'Agence nationale de l'accueil des étrangers et des migrations ou des services de la commune chargés des affaires
-sociales ou du logement, relatif aux conditions d'hébergement, à la demande du maire ;
+j) Avis de l'          Office français de l'immigration et de l'intégration  ou des services de la commune chargés des
+affaires sociales ou du logement, relatif aux conditions d'hébergement, à la demande du maire ; 
 
-k) Suites données par l'autorité consulaire à la demande de visa formulée sur la base de l'attestation d'accueil validée ;
+k) Suites données par l'autorité consulaire à la demande de visa formulée sur la base de l'attestation d'accueil validée ; 
 
-3° Données relatives au logement :
+3° Données relatives au logement : 
 
-a) Caractéristiques du logement (surface habitable, nombre de pièces habitables et nombre d'occupants) ;
+a) Caractéristiques du logement (surface habitable, nombre de pièces habitables et nombre d'occupants) ; 
 
 b) Droits de l'hébergeant sur le logement (propriétaire, locataire ou occupant).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R211-21
@@ -15645,17 +15601,17 @@ _Modifié par_:
 
 Le délégué du Haut-Commissariat des Nations unies pour les réfugiés ou ses représentants agréés peuvent s'entretenir avec le
 chef des services de contrôle aux frontières et, lorsqu'ils sont présents, avec les agents de l'Office français de protection
-des réfugiés et apatrides et les agents de l'Agence nationale de l'accueil des étrangers et des migrations chargés de
-l'assistance humanitaire.
+des réfugiés et apatrides et les agents de l'Office français de l'immigration et de l'intégration chargés de l'assistance
+humanitaire. 
 
 Ils peuvent également s'entretenir confidentiellement avec les personnes maintenues en zone d'attente qui ont demandé leur
 admission sur le territoire français au titre de l'asile.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R223-7
@@ -15786,21 +15742,21 @@ _Cité par_:
 ###### Article R223-13
 
 Les représentants agréés d'une association peuvent s'entretenir avec le chef des services de contrôle aux frontières et,
-lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et les agents de
-l'Agence nationale de l'accueil des étrangers et des migrations chargés de l'assistance humanitaire.
+lorsqu'ils sont présents, avec les agents de l'Office français de protection des réfugiés et apatrides et les agents de l'
+Office français de l'immigration et de l'intégration  chargés de l'assistance humanitaire. 
 
-Ils peuvent s'entretenir confidentiellement avec les personnes maintenues dans cette zone.
+Ils peuvent s'entretenir confidentiellement avec les personnes maintenues dans cette zone. 
 
 Pendant leur présence en zone d'attente, les représentants agréés d'une association habilitée sont accompagnés par un agent
-des services de contrôle aux frontières.
+des services de contrôle aux frontières. 
 
 Les représentants de plusieurs associations habilitées ne peuvent accéder le même jour à la même zone d'attente.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R223-14
@@ -16147,29 +16103,28 @@ _Cite_:
 Le titre de séjour est délivré par le préfet du département dans lequel l'étranger a sa résidence et, à Paris, par le préfet
 de police. Toutefois, lorsque son titulaire a déjà quitté la France, le titre de séjour mentionné à l'article L. 317-1 est
 délivré par le préfet du département où l'étranger déclare vouloir séjourner, même temporairement, et, à Paris, par le préfet
-de police.
+de police. 
 
-Le titre de séjour porte la photographie de son titulaire.
+Le titre de séjour porte la photographie de son titulaire. 
 
 Le préfet peut également prescrire que la remise du titre soit faite au commissariat de police de la résidence du requérant
-ou dans l'une des délégations régionales ou départementales de l'Agence nationale de l'accueil des étrangers et des
-migrations.
+ou dans l'une des délégations régionales ou départementales de l'Office français de l'immigration et de l'intégration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L317-1 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-10-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-4 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-7 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L317-1 (V)
 
 
 ###### Article R311-11
@@ -16430,7 +16385,7 @@ _Cite_:
 ###### Article D311-18-1
 
 Les ressortissants étrangers qui bénéficient de la délivrance d'un premier titre de séjour, de son renouvellement ou de la
-délivrance d'un duplicata versent, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de
+délivrance d'un duplicata versent, au profit de l'          Office français de l'immigration et de l'intégration  ou de
 l'établissement public appelé à lui succéder, les taxes mentionnées aux articles L. 311-13 et L. 311-14 selon les modalités
 suivantes : 
 
@@ -16463,9 +16418,9 @@ fixé à 30 euros.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-2 du 2 janvier 2009 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16489,8 +16444,8 @@ _Cite_:
 ###### Article D311-18-2
 
 Tout employeur qui embauche un travailleur étranger pour un emploi temporaire d'une durée supérieure à trois mois et
-inférieure à douze mois acquitte, au profit de l'Agence nationale de l'accueil des étrangers et des migrations ou de
-l'établissement public appelé à lui succéder, la taxe mentionnée à l'article L. 311-15 selon les modalités suivantes : 
+inférieure à douze mois acquitte, au profit de l'Office français de l'immigration et de l'intégration ou de l'établissement
+public appelé à lui succéder, la taxe mentionnée à l'article L. 311-15 selon les modalités suivantes : 
 
 1. 70 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal au montant mensuel à temps plein du
 salaire minimum de croissance ; 
@@ -16504,9 +16459,9 @@ plein du salaire minimum de croissance.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-2 du 2 janvier 2009 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16590,19 +16545,19 @@ _Cité par_:
 
 ###### Article R311-20
 
-Le contrat d'accueil et d'intégration est établi par l'Agence nationale de l'accueil des étrangers et des migrations et signé
-par le préfet qui a accordé le titre de séjour. Toutefois, lorsque l'étranger est entré régulièrement en France entre l'âge
-de 16 ans et l'âge de 18 ans, le contrat est signé par le préfet de son lieu de résidence.
+Le contrat d'accueil et d'intégration est établi par l'          Office français de l'immigration et de l'intégration  et
+signé par le préfet qui a accordé le titre de séjour. Toutefois, lorsque l'étranger est entré régulièrement en France entre
+l'âge de 16 ans et l'âge de 18 ans, le contrat est signé par le préfet de son lieu de résidence. 
 
 Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'agence à l'étranger au cours d'un
-entretien individuel. A l'issue de cet entretien, il est signé par l'étranger et, le cas échéant, par son représentant légal
+entretien individuel.A l'issue de cet entretien, il est signé par l'étranger et, le cas échéant, par son représentant légal
 admis régulièrement au séjour en France.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16612,19 +16567,15 @@ _Cité par_:
 
 ###### Article R311-21
 
-L'Agence nationale de l'accueil des étrangers et des migrations organise et finance les formations et les prestations
-dispensées dans le cadre du contrat d'accueil et d'intégration et mentionnées à l'article L. 311-9.A cet effet, elle assure
-l'inscription de l'étranger aux formations et veille à son assiduité.
+L'Office français de l'immigration et de l'intégration organise et finance les formations et les prestations dispensées dans
+le cadre du contrat d'accueil et d'intégration et mentionnées à l'article L. 311-9. A cet effet, il assure l'inscription de
+l'étranger aux formations et veille à son assiduité.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
-
 _Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 3
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16646,14 +16597,18 @@ la République, notamment en ce qui concerne l'égalité entre les hommes et les
 libertés fondamentales, la sûreté des personnes et des biens ainsi que l'exercice de la citoyenneté que permet notamment
 l'accès obligatoire et gratuit à l'éducation. Un arrêté du ministre chargé de l'intégration fixe la durée maximale et
 minimale nécessaire à cette formation. La participation de l'étranger à cette formation est sanctionnée par une attestation
-nominative établie par l'Agence nationale de l'accueil des étrangers et des migrations et remise à l'étranger par l'organisme
-ayant assuré la formation.
+nominative établie par l'Office français de l'immigration et de l'intégration et remise à l'étranger par l'organisme ayant
+assuré la formation.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
 
 _Cité par_:
 
@@ -16663,10 +16618,10 @@ _Cité par_:
 
 ###### Article R311-23
 
-Au cours de l'entretien mentionné à l'article R. 311-20, l'Agence nationale de l'accueil des étrangers et des migrations
-apprécie le niveau de connaissances en français de l'étranger en utilisant un test de connaissances orales et écrites en
-langue française, fixé par un arrêté du ministre chargé de l'intégration, permettant d'évaluer les capacités d'expression et
-de compréhension concernant les actes de la vie courante.
+Au cours de l'entretien mentionné à l'article R. 311-20, l'Office français de l'immigration et de l'intégration apprécie le
+niveau de connaissances en français de l'étranger en utilisant un test de connaissances orales et écrites en langue
+française, fixé par un arrêté du ministre chargé de l'intégration, permettant d'évaluer les capacités d'expression et de
+compréhension concernant les actes de la vie courante. 
 
 Lorsque l'étranger obtient à ce test des résultats égaux ou supérieurs à un niveau déterminé par l'arrêté, il se voit
 remettre une attestation ministérielle de dispense de formation linguistique. Mention en est portée sur le document prévu à
@@ -16675,9 +16630,9 @@ prévu par l'article L. 311-9 ainsi que de la connaissance suffisante de la lang
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16690,37 +16645,37 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-20
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-29
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-29 (V)
 
 
 ###### Article R311-24
 
 Lorsque le niveau mentionné à l'article R. 311-23 n'est pas atteint, le contrat d'accueil et d'intégration impose à
 l'étranger de suivre une formation destinée à l'apprentissage de la langue française. Un organisme susceptible d'assurer
-cette formation est proposé par l'agence. La durée de la formation linguistique prescrite est établie en fonction des besoins
+cette formation est proposé par l'office. La durée de la formation linguistique prescrite est établie en fonction des besoins
 révélés par les résultats du test et des capacités d'apprentissage de l'intéressé. Sa durée ne peut être supérieure à quatre
-cents heures.
+cents heures. 
 
-L'assiduité de l'étranger est attestée par un certificat nominatif établi par l'Agence nationale de l'accueil des étrangers
-et des migrations à l'issue de la formation prescrite, au vu des informations transmises par l'organisme ayant assuré cette
-formation. Cette attestation est remise à l'étranger par l'Agence nationale de l'accueil des étrangers et des migrations.
+L'assiduité de l'étranger est attestée par un certificat nominatif établi par l'Office français de l'immigration et de
+l'intégration à l'issue de la formation prescrite, au vu des informations transmises par l'organisme ayant assuré cette
+formation. Cette attestation est remise à l'étranger par l'Office français de l'immigration et de l'intégration. 
 
 Les compétences en français acquises dans le cadre de cette formation linguistique sont validées par le diplôme initial de
 langue française prévu à l'article D. 338-23 du code de l'éducation et attribué à l'issue d'un examen comportant des épreuves
 écrites et orales. L'obtention du diplôme atteste du niveau satisfaisant de maîtrise de la langue française prévu par
-l'article L. 311-9 ainsi que de la connaissance suffisante de la langue française prévue par l'article L. 314-2.
+l'article L. 311-9 ainsi que de la connaissance suffisante de la langue française prévue par l'article L. 314-2. 
 
 L'étranger signataire du contrat ne peut bénéficier qu'une seule fois de la gratuité de l'examen conduisant à la délivrance
 du diplôme.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -16735,10 +16690,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
-  - Code de l'éducation - art. D338-23
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L314-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-23 (V)
+  - Code de l'éducation - art. D338-23 (V)
 
 
 ###### Article R311-25
@@ -16747,34 +16702,33 @@ L'étranger bénéficie de la session d'information sur la vie en France mention
 ses besoins. Cette session doit apporter au signataire des connaissances concernant la vie pratique en France et l'accès aux
 services publics, notamment la formation et l'emploi, le logement, la santé, la petite enfance et ses modes de garde, l'école
 et l'orientation scolaire, ainsi que la vie associative. Un arrêté du ministre chargé de l'intégration fixe la durée maximale
-et minimale nécessaire à cette formation. A l'issue de la session, l'étranger reçoit de l'Agence nationale de l'accueil des
-étrangers et des migrations une attestation d'assiduité, au vu des informations transmises par l'organisme qui a assuré cette
-session d'information.
+et minimale nécessaire à cette formation. A l'issue de la session, l'étranger reçoit de l'Office français de l'immigration et
+de l'intégration une attestation d'assiduité, au vu des informations transmises par l'organisme qui a assuré cette session
+d'information.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-29 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-40 (V)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
-
 
 ###### Article R311-26
 
-Le bilan de compétences professionnelles prévu à l'article L. 311-9 est organisé par l'Agence nationale de l'accueil des
-étrangers et des migrations à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de
-connaître et de valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche
-d'emploi. 
+Le bilan de compétences professionnelles prévu à l'article L. 311-9 est organisé par l'Office français de l'immigration et de
+l'intégration à l'intention des signataires du contrat d'accueil et d'intégration en vue de leur permettre de connaître et de
+valoriser leurs qualifications, expériences et compétences professionnelles dans le cadre d'une recherche d'emploi. 
 
-La durée des opérations concourant à la réalisation de ce bilan est fixée par l'agence en fonction des besoins de la personne
+La durée des opérations concourant à la réalisation de ce bilan est fixée par l'office en fonction des besoins de la personne
 intéressée. 
 
 Le bilan de compétences professionnelles n'est pas proposé : 
@@ -16786,41 +16740,45 @@ b) A l'étranger de plus de 55 ans ;
 c) A l'étranger admis au séjour en France sous couvert de l'un des titres mentionnés aux articles L. 313-8, L. 313-9 et L.
 313-10 ; 
 
-d) A l'étranger qui déclare à l'agence et justifie auprès d'elle avoir déjà une activité professionnelle et ne pas être à la
+d) A l'étranger qui déclare à l'office et justifie auprès de lui avoir déjà une activité professionnelle et ne pas être à la
 recherche d'un emploi. 
 
-II. - L'Agence nationale de l'accueil des étrangers et des migrations et l'institution publique mentionnée à l'article L.
-5312-1 du code du travail établissent par convention les modalités de leur action commune pour favoriser l'insertion
-professionnelle des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention
-précise les conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe,
-nationalité, niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de
-compétences professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la
-promotion dont elles bénéficient ou ont bénéficié.
+II. - L'Office français de l'immigration et de l'intégration et l'institution publique mentionnée à l'article L. 5312-1 du
+code du travail établissent par convention les modalités de leur action commune pour favoriser l'insertion professionnelle
+des signataires du contrat d'accueil et d'intégration inscrits comme demandeurs d'emploi. La convention précise les
+conditions dans lesquelles sont échangées des informations portant sur les personnes concernées (âge, sexe, nationalité,
+niveau de formation), leur parcours professionnel à l'étranger et en France, les préconisations de leur bilan de compétences
+professionnelles, leur orientation professionnelle et les prestations d'accompagnement à l'emploi et à la promotion dont
+elles bénéficient ou ont bénéficié.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 3
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R311-27
 
 Le contrat d'accueil et d'intégration est conclu pour une durée d'un an. Sous réserve que l'étranger ait obtenu le
-renouvellement de son titre de séjour, le contrat peut être prolongé par le préfet sur proposition de l'Agence nationale de
-l'accueil des étrangers et des migrations dans la limite d'une année supplémentaire. La prorogation est de droit et le
-contrat est renouvelé par tacite reconduction lorsque la formation linguistique prescrite et dûment suivie est en cours
-d'exécution à l'échéance de la première année du contrat. Le contrat peut également être prolongé lorsque la formation a été
-différée pour un motif reconnu légitime. La mention, le motif ainsi que la durée de la prorogation sont portés au contrat. La
-clôture du contrat intervient dans le mois suivant le terme de la durée prescrite de formation, que les compétences
-linguistiques acquises aient été validées ou non, ou, au plus tard, un jour franc après la date prévue pour la session de
-l'examen conduisant à la délivrance du diplôme.
+renouvellement de son titre de séjour, le contrat peut être prolongé par le préfet sur proposition de l'Office français de
+l'immigration et de l'intégration dans la limite d'une année supplémentaire. La prorogation est de droit et le contrat est
+renouvelé par tacite reconduction lorsque la formation linguistique prescrite et dûment suivie est en cours d'exécution à
+l'échéance de la première année du contrat. Le contrat peut également être prolongé lorsque la formation a été différée pour
+un motif reconnu légitime. La mention, le motif ainsi que la durée de la prorogation sont portés au contrat. La clôture du
+contrat intervient dans le mois suivant le terme de la durée prescrite de formation, que les compétences linguistiques
+acquises aient été validées ou non, ou, au plus tard, un jour franc après la date prévue pour la session de l'examen
+conduisant à la délivrance du diplôme.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -16829,19 +16787,23 @@ _Cité par_:
 
 ###### Article R311-28
 
-Le contrat peut être résilié par le préfet sur proposition de l'Agence nationale de l'accueil des étrangers et des migrations
-lorsque celle-ci constate que l'étranger, sans motif légitime, ne participe pas ou plus à une formation prescrite. Le préfet
-informe l'étranger de son intention de résilier le contrat et le met à même de présenter ses observations dans le délai d'un
-mois. Il indique les motifs de la résiliation envisagée et en précise les conséquences au regard des dispositions relatives
-au premier renouvellement de la carte de séjour prévues par l'article L. 311-9 ainsi qu'à l'appréciation de la condition
-d'intégration républicaine dans la société française prévue à l'article L. 314-2. L'attestation prévue à l'article R. 311-29
-porte mention de cette résiliation.
+Le contrat peut être résilié par le préfet sur proposition de l'Office français de l'immigration et de l'intégration lorsque
+celui-ci constate que l'étranger, sans motif légitime, ne participe pas ou plus à une formation prescrite. Le préfet informe
+l'étranger de son intention de résilier le contrat et le met à même de présenter ses observations dans le délai d'un mois. Il
+indique les motifs de la résiliation envisagée et en précise les conséquences au regard des dispositions relatives au premier
+renouvellement de la carte de séjour prévues par l'article L. 311-9 ainsi qu'à l'appréciation de la condition d'intégration
+républicaine dans la société française prévue à l'article L. 314-2. L'attestation prévue à l'article R. 311-29 porte mention
+de cette résiliation.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -16852,23 +16814,27 @@ _Cite_:
 
 ###### Article R311-29
 
-Au terme de la durée du contrat, l'Agence nationale de l'accueil des étrangers et des migrations vérifie la réalisation des
+Au terme de la durée du contrat, l'Office français de l'immigration et de l'intégration vérifie la réalisation des
 engagements souscrits par l'étranger au vu notamment des attestations d'assiduité aux sessions de formation et, le cas
-échéant, des éléments fournis par l'étranger.
+échéant, des éléments fournis par l'étranger. 
 
 Le contrat d'accueil et d'intégration est respecté dès lors que les actions de formation ou d'information qu'il prévoit ont
-été suivies par l'étranger signataire et attestées ou validées dans les conditions prévues aux articles R. 311-22, R. 311-24
-et R. 311-25.
+été suivies par l'étranger signataire et attestées ou validées dans les conditions prévues aux articles R. 311-22, 
+R. 311-24 et R. 311-25.
 
-L'Agence nationale de l'accueil des étrangers et des migrations délivre à l'étranger une attestation nominative récapitulant
-si les actions prévues au contrat ont été suivies ainsi que, s'il y a lieu, les modalités de leur validation. L'attestation
-nominative est transmise par l'agence au préfet du lieu de résidence de l'étranger, qui est informé de cette transmission.
+L'Office français de l'immigration et de l'intégration délivre à l'étranger une attestation nominative récapitulant si les
+actions prévues au contrat ont été suivies ainsi que, s'il y a lieu, les modalités de leur validation. L'attestation
+nominative est transmise par l'office au préfet du lieu de résidence de l'étranger, qui est informé de cette transmission.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-1115 du 30 octobre 2008 - art. 1
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -16879,7 +16845,6 @@ _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-22
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-24
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-25
 
 
 ###### Article R311-30
@@ -16909,10 +16874,10 @@ _Cite_:
 
 ###### Article R311-30-1
 
-L'Agence nationale de l'accueil des étrangers et des migrations organise, à l'étranger, les opérations d'évaluation et de
-formation prévues à l'article L. 411-8. Elle peut confier tout ou partie de ces opérations à un ou des organismes avec
-lesquels elle passe à cette fin une convention. Dans ce cas, elle transmet à l'autorité diplomatique ou consulaire copie de
-la convention qu'elle a passée avec chacun des organismes chargés d'intervenir dans le ressort de cette autorité.
+L'Office français de l'immigration et de l'intégration organise, à l'étranger, les opérations d'évaluation et de formation
+prévues à l'article L. 411-8. Il peut confier tout ou partie de ces opérations à un ou des organismes avec lesquels il passe
+à cette fin une convention. Dans ce cas, il transmet à l'autorité diplomatique ou consulaire copie de la convention qu'il a
+passée avec chacun des organismes chargés d'intervenir dans le ressort de cette autorité.
 
 **Nota:**
 
@@ -16922,15 +16887,19 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
   - Arrêté du 1er juillet 2016 - art. 6
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-11 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -16939,10 +16908,10 @@ _Cite_:
 
 ###### Article R311-30-2
 
-Dans le cadre de l'instruction de la demande de visa mentionnée au premier alinéa de l'article L. 211-2-1, l'Agence nationale
-de l'accueil des étrangers et des migrations ou l'organisme délégataire évalue, dans le pays où réside la personne postulant
-au regroupement familial, le degré de connaissance de la langue française et des valeurs de la République de cette personne
-dans les soixante jours suivant la délivrance de l'attestation de dépôt du dossier complet prévue à l'article R. 421-8. 
+Dans le cadre de l'instruction de la demande de visa mentionnée au premier alinéa de l'article L. 211-2-1, l'Office français
+de l'immigration et de l'intégration ou l'organisme délégataire évalue, dans le pays où réside la personne postulant au
+regroupement familial, le degré de connaissance de la langue française et des valeurs de la République de cette personne dans
+les soixante jours suivant la délivrance de l'attestation de dépôt du dossier complet prévue à l'article R. 421-8. 
 
 Le degré de connaissance de la langue française par l'étranger est apprécié au moyen du test de connaissances orales et
 écrites en langue française mentionné à l'article R. 311-23. Toutefois, l'étranger qui justifie avoir suivi au moins trois
@@ -16956,8 +16925,8 @@ République, notamment celles mentionnées à l'article R. 311-22. Les modalité
 ministre chargé de l'intégration. 
 
 Les résultats de l'évaluation du degré de connaissance de la langue française et des valeurs de la République sont
-communiqués à l'étranger et à l'autorité diplomatique ou consulaire dans les huit jours par l'Agence nationale de l'accueil
-des étrangers et des migrations ou par l'organisme délégataire.
+communiqués à l'étranger et à l'autorité diplomatique ou consulaire dans les huit jours par l'Office français de
+l'immigration et de l'intégration ou par l'organisme délégataire.
 
 **Nota:**
 
@@ -16967,10 +16936,6 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
-
 _Cité par_:
 
   - Arrêté du 1er décembre 2008 - art. 1 (Ab)
@@ -16978,10 +16943,18 @@ _Cité par_:
   - Arrêté du 1er décembre 2008 - art. 4 (Ab)
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-4-2 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-22 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-22
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-8
 
@@ -17029,9 +17002,9 @@ _Cite_:
 
 Si les résultats de l'évaluation font apparaître un degré insuffisant de connaissance de la langue française ou des valeurs
 de la République, l'étranger bénéficie d'une formation portant sur le ou les domaines où l'insuffisance est constatée. Cette
-formation est organisée par l'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire. 
+formation est organisée par l'Office français de l'immigration et de l'intégration ou l'organisme délégataire. 
 
-Les formations doivent débuter dans un délai maximum de deux mois après la notification des résultats de l'évaluation.
+Les formations doivent débuter dans un délai maximal de deux mois après la notification des résultats de l'évaluation.
 
 **Nota:**
 
@@ -17041,9 +17014,13 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 
 ###### Article R311-30-5
@@ -17078,9 +17055,9 @@ _Abrogé par_:
 
 ###### Article R311-30-6
 
-L'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire notifie à l'étranger et à
-l'autorité diplomatique ou consulaire le nombre d'heures de formation à la langue française prescrit en fonction des
-résultats de l'évaluation. 
+L'Office français de l'immigration et de l'intégration ou l'organisme délégataire notifie à l'étranger et à l'autorité
+diplomatique ou consulaire le nombre d'heures de formation à la langue française prescrit en fonction des résultats de
+l'évaluation. 
 
 La durée de la formation à la langue française ne peut être inférieure à 40 heures.
 
@@ -17092,17 +17069,21 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 
 ###### Article R311-30-7
 
-A l'issue de la ou des formations, l'Agence nationale de l'accueil des étrangers et des migrations ou l'organisme délégataire
-délivre sans délai à l'étranger une attestation de suivi de cette ou de ces formations. Ce document fait état, le cas
-échéant, du défaut d'assiduité de l'étranger.L'agence ou l'organisme délégataire en transmet un double à l'autorité
-diplomatique ou consulaire en vue de l'instruction de la demande de visa.
+A l'issue de la ou des formations, l'Office français de l'immigration et de l'intégration ou l'organisme délégataire délivre
+sans délai à l'étranger une attestation de suivi de cette ou de ces formations. Ce document fait état, le cas échéant, du
+défaut d'assiduité de l'étranger. L'office ou l'organisme délégataire en transmet un double à l'autorité diplomatique ou
+consulaire en vue de l'instruction de la demande de visa.
 
 **Nota:**
 
@@ -17112,9 +17093,13 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -17148,7 +17133,7 @@ _Abrogé par_:
 Si, à l'issue de la seconde évaluation, l'étranger atteint le niveau linguistique requis, il est dispensé de formation
 linguistique à son arrivée en France. Les dispositions du troisième alinéa de l'article R. 311-24 lui sont toutefois
 applicables. Il peut alors bénéficier, à sa demande, d'un accompagnement à la préparation du diplôme initial de langue
-française organisé par l'Agence nationale de l'accueil des étrangers et des migrations. 
+française organisé par l'Office français de l'immigration et de l'intégration. 
 
 Dans le cas où l'étranger n'atteint pas le niveau linguistique requis, cette évaluation permet de déterminer les
 caractéristiques de la formation qui lui est prescrite dans le cadre du contrat d'accueil et d'intégration à son arrivée en
@@ -17162,9 +17147,13 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -17177,8 +17166,8 @@ En cas de troubles à l'ordre public, de faits de guerre, de catastrophe naturel
 entraînant des difficultés importantes de déplacement ou mettant en danger la sécurité de l'étranger ou lorsque le suivi
 d'une formation entraîne pour lui des contraintes incompatibles avec ses capacités physiques ou financières, ou ses
 obligations professionnelles ou sa sécurité, l'étranger peut être dispensé, à sa demande, de formation par l'autorité
-diplomatique ou consulaire qui en informe immédiatement l'Agence nationale de l'accueil des étrangers et des migrations ou
-l'organisme délégataire. 
+diplomatique ou consulaire qui en informe immédiatement l'Office français de l'immigration et de l'intégration ou l'organisme
+délégataire.
 
 L'étranger qui a bénéficié d'une dispense est assujetti à son arrivée en France aux dispositions prévues à la sous-section 1
 de la présente section.
@@ -17191,9 +17180,13 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cité par_:
 
@@ -17205,10 +17198,9 @@ _Cité par_:
 Les dispositions prévues aux articles R. 311-30-1 à R. 311-30-10 sont applicables aux conjoints de Français âgés de moins de
 soixante-cinq ans dans les conditions fixées au présent article. 
 
-Le délai de soixante jours imparti à l'Agence nationale de l'accueil des étrangers et des migrations ou à l'organisme
-délégataire pour évaluer le degré de connaissance de la langue française et des valeurs de la République par l'étranger
-s'apprécie à compter de la présentation à l'agence ou à l'organisme délégataire du récépissé mentionné au premier alinéa de
-l'article L. 211-2-1.
+Le délai de soixante jours imparti à l'Office français de l'immigration et de l'intégration ou à l'organisme délégataire pour
+évaluer le degré de connaissance de la langue française et des valeurs de la République par l'étranger s'apprécie à compter
+de la présentation à l'office ou à l'organisme délégataire du récépissé mentionné au premier alinéa de l'article L. 211-2-1.
 
 **Nota:**
 
@@ -17218,9 +17210,13 @@ compter du 1er décembre 2008.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 4
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -17264,22 +17260,26 @@ _Cite_:
 
 ###### Article R311-30-13
 
-Le contrat d'accueil et d'intégration pour la famille est établi par l'Agence nationale de l'accueil des étrangers et des
-migrations selon un modèle fixé par arrêté du ministre chargé de l'intégration et signé par le préfet qui a délivré le titre
-de séjour. Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'agence à l'étranger au
-cours d'un entretien individuel. 
+Le contrat d'accueil et d'intégration pour la famille est établi par l'Office français de l'immigration et de l'intégration
+selon un modèle fixé par arrêté du ministre chargé de l'intégration et signé par le préfet qui a délivré le titre de séjour.
+Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'office à l'étranger au cours d'un
+entretien individuel.
 
-L'agence organise et finance les formations et les prestations dispensées dans le cadre du contrat d'accueil et d'intégration
-pour la famille. 
+L'office organise et finance les formations et les prestations dispensées dans le cadre du contrat d'accueil et d'intégration
+pour la famille.
 
-L'agence informe le président du conseil général du département du lieu de résidence du ou des parents de la conclusion de ce
+L'office informe le président du conseil général du département du lieu de résidence du ou des parents de la conclusion de ce
 contrat.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R311-30-14
@@ -17308,30 +17308,34 @@ _Cite_:
 
 ###### Article R311-30-15
 
-L'Agence nationale de l'accueil des étrangers et des migrations délivre à l'étranger, à la fin de la formation prévue à
-l'article R. 311-30-12, une attestation de suivi. 
+L'Office français de l'immigration et de l'intégration délivre à l'étranger, à la fin de la formation prévue à l'article R.
+311-30-12, une attestation de suivi. 
 
-Le respect de l'obligation scolaire relative aux enfants est attesté par la transmission à l'agence, en fin de contrat
+Le respect de l'obligation scolaire relative aux enfants est attesté par la transmission à l'office, en fin de contrat
 d'accueil et d'intégration pour la famille, du certificat d'inscription établi par les directeurs des établissements
 d'enseignement supérieur, secondaire, technique ou professionnel prévu à l'article R. 513-3 du code de la sécurité sociale. 
 
 Si le ou les étrangers mentionnés à l'article R. 311-30-12 n'ont pas suivi la formation prévue au même article sans motif
-légitime, l'agence en informe le préfet. 
+légitime, l'office en informe le préfet. 
 
 Lorsqu'il est saisi en application du deuxième alinéa de l'article L. 311-9-1, le président du conseil général tient le
 préfet informé des suites qu'il a données à sa saisine.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1115 du 30 octobre 2008 - art. 6
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L311-9-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-30-12 (V)
-  - Code de la sécurité sociale. - art. R513-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-12
+  - Code de la sécurité sociale. - art. R513-3
 
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=206></a>
@@ -19204,36 +19208,36 @@ _Cite_:
 ###### Article R314-1
 
 Pour l'application des dispositions des articles L. 314-8 et L. 314-9, l'étranger présente à l'appui de sa demande de carte
-de résident ou de carte de résident portant la mention "résident de longue durée-CE" :
+de résident ou de carte de résident portant la mention " résident de longue durée-CE " : 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
-il ne vit pas en France en état de polygamie ;
+il ne vit pas en France en état de polygamie ; 
 
-3° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ;
+3° Trois photographies de face, tête nue, de format 3, 5 x 4, 5 cm, récentes et parfaitement ressemblantes ; 
 
-4° Les pièces justifiant :
+4° Les pièces justifiant : 
 
-a) Qu'il entre dans l'un des cas prévus à l'article L. 314-9 ;
+a) Qu'il entre dans l'un des cas prévus à l'article L. 314-9 ; 
 
 b) Ou, s'il ne relève pas de ces dispositions, des raisons pour lesquelles il entend s'établir durablement en France ainsi
 que les éléments attestant du caractère suffisant et de la stabilité de ses moyens d'existence et, le cas échéant, les
-conditions de son activité professionnelle s'il en a une ;
+conditions de son activité professionnelle s'il en a une ; 
 
-5° Pour l'appréciation de la condition d'intégration prévue à l'article L. 314-2 :
+5° Pour l'appréciation de la condition d'intégration prévue à l'article L. 314-2 : 
 
-a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ;
+a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ; 
 
 b) Le cas échéant, le contrat d'accueil et d'intégration conclu en application de l'article L. 311-9 ainsi que l'attestation
-nominative remise par l'Agence nationale de l'accueil des étrangers et des migrations précisant si les actions prévues au
-contrat ont été suivies ainsi que les conditions de leur validation ;
+nominative remise par l'          Office français de l'immigration et de l'intégration  précisant si les actions prévues au
+contrat ont été suivies ainsi que les conditions de leur validation ; 
 
 c) Tout document de nature à attester sa connaissance suffisante de la langue française, notamment le diplôme initial de
-langue française.
+langue française. 
 
 Lorsque les moyens d'existence de l'intéressé sont tirés de l'exercice d'une activité professionnelle soumise à
-l'autorisation d'une autorité de l'Etat, cette autorisation peut être accordée ou renouvelée par le préfet.
+l'autorisation d'une autorité de l'Etat, cette autorisation peut être accordée ou renouvelée par le préfet. 
 
 La demande de carte de résident au titre de l'article L. 314-8, lorsqu'elle est présentée après cinq années de résidence
 régulière ininterrompue, vaut aussi demande de renouvellement du titre de séjour précédemment détenu. Il en va de même en cas
@@ -19243,13 +19247,9 @@ titulaire depuis au moins trois années de la carte de séjour temporaire mentio
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-373 du 21 mars 2007 - art. 29 () JORF 22 mars 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -19258,11 +19258,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L314-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L314-8 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
-  - Code de l'action sociale et des familles - art. L117-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
+  - Code de l'action sociale et des familles - art. L117-1
 
 
 ###### Article R314-1-1
@@ -20090,23 +20090,19 @@ _Cite_:
 
 ###### Article R316-9
 
-L'étranger titulaire d'une carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à
+L'étranger titulaire d'une carte de séjour temporaire " vie privée et familiale " délivrée dans les conditions prévues à
 l'article R. 316-3 qui souhaite retourner dans son pays d'origine ou se rendre dans un autre pays peut bénéficier du
-dispositif d'aide au retour financé par l'Agence nationale de l'accueil des étrangers et des migrations.
+dispositif d'aide au retour financé par l'Office français de l'immigration et de l'intégration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Créé par_:
-
-  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R316-3
 
 
 ###### Article R316-10
@@ -20847,13 +20843,13 @@ _Cite_:
 Pour les travailleurs étrangers ayant déposé une demande avant la rupture du contrat de travail, l'aide publique s'ajoute aux
 mesures propres à faciliter la réinsertion des bénéficiaires dans leurs pays d'origine prises par leur dernier employeur, en
 application d'une convention conclue par celui-ci, directement ou par l'entremise d'un organisme professionnel, avec l'Etat
-ou avec l'Agence nationale de l'accueil des étrangers et des migrations.
+ou avec l'Office français de l'immigration et de l'intégration.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article D331-7
@@ -20873,18 +20869,18 @@ _Modifié par_:
 ###### Article D331-8
 
 Les bénéficiaires d'une aide publique à la réinsertion restituent leurs titres de séjour et de travail au préfet de leur
-département de résidence.
+département de résidence. 
 
-Le préfet leur délivre une autorisation de séjour provisoire.
+Le préfet leur délivre une autorisation de séjour provisoire. 
 
-Il peut confier à l'Agence nationale de l'accueil des étrangers et des migrations le soin de recevoir les titres restitués
-par les intéressés et de remettre à ces derniers l'autorisation de séjour provisoire.
+Il peut confier à l'Office français de l'immigration et de l'intégration le soin de recevoir les titres restitués par les
+intéressés et de remettre à ces derniers l'autorisation de séjour provisoire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -21202,23 +21198,23 @@ l'immigration.
 Elle comporte l'engagement du demandeur : 
 
 1° De permettre à des agents des services de la commune où doit résider la famille, chargés des affaires sociales ou du
-logement, spécialement habilités à cet effet, ainsi qu'aux agents de l'Agence nationale de l'accueil des étrangers et des
-migrations l'entrée dans le logement prévu pour accueillir la famille aux fins de vérification des conditions de logement ou,
-si le logement n'est pas encore disponible, de mettre le maire de la commune en mesure de procéder à cette vérification sur
-pièces ; 
+logement, spécialement habilités à cet effet, ainsi qu'aux agents de l'          Office français de l'immigration et de
+l'intégration  l'entrée dans le logement prévu pour accueillir la famille aux fins de vérification des conditions de logement
+ou, si le logement n'est pas encore disponible, de mettre le maire de la commune en mesure de procéder à cette vérification
+sur pièces ; 
 
-2° De verser à l'Agence nationale de l'accueil des étrangers et des migrations la redevance forfaitaire mentionnée à
+2° De verser à l'          Office français de l'immigration et de l'intégration  la redevance forfaitaire mentionnée à
 l'article R. 421-29 ; 
 
-3° De participer, ainsi que sa famille, aux réunions d'information et aux entretiens d'accueil organisés par l'Agence
-nationale de l'accueil des étrangers et des migrations et les services sociaux spécialisés pour faciliter l'installation et
+3° De participer, ainsi que sa famille, aux réunions d'information et aux entretiens d'accueil organisés par l'
+Office français de l'immigration et de l'intégration  et les services sociaux spécialisés pour faciliter l'installation et
 l'intégration de la famille.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 14
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cite_:
 
@@ -21364,7 +21360,7 @@ _Cite_:
 
 Le ressortissant étranger présente sa demande personnellement dans le département du lieu de résidence prévu pour l'accueil
 de la famille auprès du service de l'Etat désigné par le préfet. Dans certains départements, la réception des demandes est
-confiée aux services de l'Agence nationale de l'accueil des étrangers et des migrations par un arrêté conjoint du ministre
+confiée aux services de l'          Office français de l'immigration et de l'intégration  par un arrêté conjoint du ministre
 chargé de l'immigration et du ministre de l'intérieur. Dans ce cas, le préfet territorialement compétent ou, à Paris, le
 préfet de police est immédiatement informé du dépôt de la demande.
 
@@ -21372,7 +21368,7 @@ préfet de police est immédiatement informé du dépôt de la demande.
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 15
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -21481,19 +21477,15 @@ _Cite_:
 
 ###### Article R421-13
 
-Le maire et l'Agence nationale de l'accueil des étrangers et des migrations peuvent saisir, en tant que de besoin, la
-direction départementale du travail, de l'emploi et de la formation professionnelle compétente d'une demande d'enquête sur
-l'emploi qui procure au demandeur tout ou partie des ressources dont il fait état.
+Le maire et l'Office français de l'immigration et de l'intégration peuvent saisir, en tant que de besoin, la direction
+départementale du travail, de l'emploi et de la formation professionnelle compétente d'une demande d'enquête sur l'emploi qui
+procure au demandeur tout ou partie des ressources dont il fait état.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R421-14
@@ -21520,19 +21512,15 @@ _Cite_:
 ###### Article R421-15
 
 Des agents spécialement habilités des services de la commune chargés des affaires sociales ou du logement ou, à la demande du
-maire, des agents de l'Agence nationale de l'accueil des étrangers et des migrations peuvent procéder à la visite du logement
-pour vérifier s'il réunit les conditions minimales de confort et d'habitabilité. Ils doivent s'assurer au préalable du
-consentement écrit de son occupant. En cas de refus de l'occupant, les conditions de logement sont réputées non remplies.
+maire, des agents de l'          Office français de l'immigration et de l'intégration  peuvent procéder à la visite du
+logement pour vérifier s'il réunit les conditions minimales de confort et d'habitabilité. Ils doivent s'assurer au préalable
+du consentement écrit de son occupant. En cas de refus de l'occupant, les conditions de logement sont réputées non remplies.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R421-16
@@ -21572,57 +21560,48 @@ _Cite_:
 ###### Article R421-18
 
 A l'issue des vérifications sur les ressources et le logement, le maire de la commune où doit résider la famille transmet à
-l'Agence nationale de l'accueil des étrangers et des migrations le dossier accompagné des résultats de ces vérifications et
-de son avis motivé. En l'absence de réponse du maire à l'expiration du délai de deux mois prévu à l'article L. 421-3, cet
-avis est réputé favorable.
+l'Office français de l'immigration et de l'intégration le dossier accompagné des résultats de ces vérifications et de son
+avis motivé. En l'absence de réponse du maire à l'expiration du délai de deux mois prévu à l'article L. 421-3, cet avis est
+réputé favorable.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L421-3 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-19 (V)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L421-3 (MMN)
-
 
 ###### Article R421-19
 
 Dès réception du dossier et de l'avis motivé du maire ou, à défaut d'avis, à l'expiration du délai mentionné à l'article R.
-421-18, l'Agence nationale de l'accueil des étrangers et des migrations :
+421-18, l'Office français de l'immigration et de l'intégration : 
 
 1° Vérifie, le cas échéant, le respect des conditions de ressources et de logement prescrites aux articles R. 411-4 et R.
-411-5 ;
+411-5 ; 
 
 2° Procède, si nécessaire, à un complément d'instruction et, s'il n'a pas déjà été saisi par le maire, à des vérifications
-sur place ;
+sur place ; 
 
 3° Transmet le dossier au préfet pour décision.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-373 2007-03-21 art. 36 5° JORF 22 mars 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R411-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R411-5 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R421-18 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R411-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R421-18 (V)
 
 
 ###### Article R421-19-1
@@ -21705,29 +21684,29 @@ _Cite_:
 
 ###### Article R421-24
 
-Le préfet informe le maire, l'Agence nationale de l'accueil des étrangers et des migrations et l'autorité diplomatique ou
+Le préfet informe le maire, l'          Office français de l'immigration et de l'intégration  et l'autorité diplomatique ou
 consulaire de la circonscription dans laquelle habite la famille du demandeur de sa décision et de la date à laquelle elle a
 été notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ##### Section 5 : Contrôle médical et introduction en France<a id=256></a>
 
 ###### Article R421-25
 
-L'Agence nationale de l'accueil des étrangers et des migrations est chargée d'effectuer le contrôle médical des membres de la
-famille pour lesquels est demandé le bénéfice du regroupement familial.
+L'Office français de l'immigration et de l'intégration est chargée d'effectuer le contrôle médical des membres de la famille
+pour lesquels est demandé le bénéfice du regroupement familial.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 ###### Article R421-26
@@ -21744,28 +21723,24 @@ _Codifié par_:
 
 ###### Article R421-27
 
-L'Agence nationale de l'accueil des étrangers et des migrations est chargée de la mise en oeuvre de la procédure
-d'introduction en France ou, exceptionnellement, de la procédure d'admission au séjour à partir du territoire national des
-familles des étrangers dans les conditions prévues à l'article R. 411-6. Elle est également chargée de leur accueil sous la
-responsabilité du préfet.
+L'Office français de l'immigration et de l'intégration est chargé de la mise en oeuvre de la procédure d'introduction en
+France ou, exceptionnellement, de la procédure d'admission au séjour à partir du territoire national des familles des
+étrangers dans les conditions prévues à l'article R. 411-6. Il est également chargé de leur accueil sous la responsabilité du
+préfet.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-373 2007-03-21 art. 1 6° JORF 22 mars 2007
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R411-6 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-29 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. R411-6 (V)
 
 
 ###### Article R421-28
@@ -21784,15 +21759,16 @@ _Modifié par_:
 
 ###### Article R421-29
 
-La délivrance de l'autorisation de regroupement familial donne lieu au versement à l'Agence nationale de l'accueil des
-étrangers et des migrations par le demandeur d'une redevance pour services rendus au titre de l'article R. 421-27, dont le
-montant est fixé forfaitairement par arrêté conjoint du ministre chargé de l'intégration et du ministre chargé du budget.
+La délivrance de l'autorisation de regroupement familial donne lieu au versement à l'          Office français de
+l'immigration et de l'intégration  par le demandeur d'une redevance pour services rendus au titre de l'article R. 421-27,
+dont le montant est fixé forfaitairement par arrêté conjoint du ministre chargé de l'intégration et du ministre chargé du
+budget.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -21801,7 +21777,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R421-27 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-27
 
 
 ### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=257></a>
@@ -21811,25 +21787,25 @@ _Cite_:
 ###### Article R431-1
 
 La délivrance des titres de séjour et, s'agissant des enfants mineurs, l'admission en France au titre du regroupement
-familial sont subordonnées à la production du certificat de contrôle médical délivré par l'Agence nationale de l'accueil des
-étrangers et des migrations.
+familial sont subordonnées à la production du certificat de contrôle médical délivré par l'Office français de l'immigration
+et de l'intégration. 
 
 Le titre de séjour délivré aux membres de la famille autorisés à résider en France au titre du regroupement familial est, en
 application de l'article L. 431-1, la carte de séjour temporaire d'une durée d'un an dès qu'ils sont astreints à la détention
-d'un titre de séjour.
+d'un titre de séjour. 
 
-La carte de séjour temporaire porte la mention "vie privée et familiale". Elle permet l'exercice de toute activité
+La carte de séjour temporaire porte la mention " vie privée et familiale ". Elle permet l'exercice de toute activité
 professionnelle dans le cadre de la réglementation en vigueur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L431-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L431-1 (V)
 
 
 ## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=259></a>
@@ -23798,14 +23774,14 @@ Les étrangers placés ou maintenus dans un centre de rétention administrative 
 de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment
 sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de
 vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la conduite de ces actions,
-l'Etat a recours à l'Agence nationale de l'accueil des étrangers et des migrations. Une convention détermine les conditions
+l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine les conditions
 d'affectation et d'intervention des agents de cet établissement public.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -26024,9 +26000,9 @@ peut pas être prise dans le délai de six mois, l'office en informe l'intéress
 l'expiration de ce délai. 
 
 Simultanément, le directeur général de l'office fait connaître le caractère positif ou négatif de sa décision au préfet de
-département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence nationale de l'accueil des
-étrangers et des migrations. Il communique au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la
-demande, copie de l'avis de réception. 
+département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office français de l'immigration et de
+l'intégration. Il communique au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie
+de l'avis de réception. 
 
 Si le demandeur est placé en rétention administrative, le directeur général de l'office notifie la décision par voie
 administrative et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Le chef du centre de rétention est
@@ -26036,7 +26012,7 @@ informé simultanément du sens de la décision.
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 5
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -26709,8 +26685,8 @@ _Cité par_:
 Le secrétaire général de la cour notifie la décision de la cour au requérant par lettre recommandée avec demande d'avis de
 réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Il la notifie également au directeur
 général de l'office lorsque celui-ci n'est pas le requérant. Il informe simultanément du caractère positif ou négatif de
-cette décision le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence nationale de
-l'accueil des étrangers et des migrations. 
+cette décision le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'          Office français de
+l'immigration et de l'intégration . 
 
 La cour communique au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de l'avis
 de réception. 
@@ -26721,8 +26697,7 @@ Les décisions de rejet sont transmises au ministre chargé de l'immigration.
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 8
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 _Cité par_:
 
@@ -27200,8 +27175,8 @@ représentant de l'Etat à Mayotte " ;
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au représentant de l'Etat à Mayotte
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au représentant de l'Etat à Mayotte
 " ; 
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
@@ -27217,8 +27192,8 @@ mots : " Le représentant de l'Etat à Mayotte peut " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le représentant de l'Etat à Mayotte
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le représentant de l'Etat à Mayotte
 " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
@@ -27326,7 +27301,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=342></a>
@@ -27349,9 +27324,9 @@ b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : "
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " à l'administrateur supérieur des
-îles Wallis et Futuna " ; 
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " à l'administrateur supérieur des îles
+Wallis et Futuna " ; 
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
 les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande " ; 
@@ -27369,8 +27344,8 @@ et Futuna " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " l'administrateur supérieur des îles
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " l'administrateur supérieur des îles
 Wallis et Futuna " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au préfet de police, lorsque ceux-ci en font la demande
@@ -27478,7 +27453,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.<a id=343></a>
@@ -27500,8 +27475,8 @@ haut-commissaire de la République en Polynésie française ;
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au haut-commissaire de la République
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au haut-commissaire de la République
 en Polynésie française " ; 
 
 b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
@@ -27518,8 +27493,8 @@ Polynésie française " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le haut-commissaire de la République
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le haut-commissaire de la République
 en Polynésie française " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
@@ -27628,7 +27603,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=344></a>
@@ -27650,8 +27625,8 @@ haut-commissaire de la République en Nouvelle-Calédonie ;
 
 2° Au troisième alinéa de l'article R. 723-2 : 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " au haut-commissaire de la République
+a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " au haut-commissaire de la République
 en Nouvelle-Calédonie " ; 
 
 b) Au troisième alinéa de l'article, les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
@@ -27669,8 +27644,8 @@ Nouvelle-Calédonie " ;
 
 6° A l'article R. 733-20 : 
 
-a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Agence
-nationale de l'accueil des étrangers et des migrations " sont remplacés par les mots : " le haut-commissaire de la République
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'
+Office français de l'immigration et de l'intégration  " sont remplacés par les mots : " le haut-commissaire de la République
 en Nouvelle-Calédonie " ; 
 
 b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
@@ -27782,7 +27757,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
+  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
 #### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=345></a>
