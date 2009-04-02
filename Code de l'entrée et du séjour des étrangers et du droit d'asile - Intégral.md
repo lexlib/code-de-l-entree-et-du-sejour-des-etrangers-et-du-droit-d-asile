@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-04-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -24933,10 +24933,12 @@ _Abrogé par_:
 Sont destinataires des données à caractère personnel enregistrées dans le traitement ELOI, pour les besoins exclusifs des
 missions relatives aux procédures d'éloignement qui leur sont confiées : 
 
-1° Les agents des services centraux du ministère de l'intérieur (direction des libertés publiques et des affaires juridiques,
-direction centrale de la police aux frontières et direction centrale de la sécurité publique) individuellement désignés et
-spécialement habilités, selon le cas, par le directeur des libertés publiques et des affaires juridiques, le directeur
-central de la police aux frontières ou le directeur central de la sécurité publique ; 
+1° Les agents des services centraux du ministère chargé de l'immigration (direction de l'immigration), du ministère de
+l'intérieur (direction des libertés publiques et des affaires juridiques, direction centrale de la police aux frontières,
+direction centrale de la sécurité publique) et du ministère de la défense (direction générale de la gendarmerie nationale)
+individuellement désignés et spécialement habilités, selon le cas, par le directeur de l'immigration, le directeur des
+libertés publiques et des affaires juridiques, le directeur central de la police aux frontières, le directeur central de la
+sécurité publique ou le directeur général de la gendarmerie nationale ;
 
 2° Les agents des services préfectoraux en charge de la gestion de la procédure d'éloignement individuellement désignés et
 spécialement habilités par le préfet ou, à Paris, par le préfet de police ; 
@@ -24952,9 +24954,13 @@ d'éloignement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1890 du 26 décembre 2007 - art. 1
+  - Décret n°2009-366 du 31 mars 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2011-638 du 8 juin 2011 - art. 6
 
 
 ###### Article R611-32
