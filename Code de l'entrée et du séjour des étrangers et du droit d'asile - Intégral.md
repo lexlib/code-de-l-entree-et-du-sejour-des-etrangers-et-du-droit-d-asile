@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-10-29
+Version Consolidée au 2009-10-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -331,7 +331,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#233)
           - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#327)
         - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#328)
       - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-23)](#329)
-        - [Chapitre II : Organisation (art. R732-1 à R732-7)](#330)
+        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#330)
         - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#331)
           - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#332)
           - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-6 à R733-20)](#333)
@@ -26706,6 +26706,30 @@ la consulter sur les sujets d'intérêt commun qu'il détermine.
 _Créé par_:
 
   - Décret n°2008-1481 du 30 décembre 2008 - art. 1
+
+
+###### Article R732-8
+
+Les actes relatifs à la gestion et à l'administration des personnels de la Cour nationale du droit d'asile sont pris sous les
+réserves prévues par l'article R. 121-13 du code de justice administrative par le vice-président du Conseil d'Etat sur
+proposition du président de la Cour. 
+
+Le vice-président peut, par arrêté, déléguer ses pouvoirs au président de la Cour pour les actes de gestion qui ne sont pas
+soumis à l'avis préalable des commissions administratives paritaires. 
+
+Pour les actes qui ne font pas l'objet de cette délégation de pouvoir, il peut déléguer sa signature dans les conditions
+prévues au deuxième alinéa de l'article R. 732-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1324 du 28 octobre 2009 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R732-3
+  - Code de justice administrative - art. R121-13
 
 
 #### Chapitre III : Examen des recours<a id=331></a>
