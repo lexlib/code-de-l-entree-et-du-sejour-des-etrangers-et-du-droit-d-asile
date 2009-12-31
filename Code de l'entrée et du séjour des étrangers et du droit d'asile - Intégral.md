@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3100,6 +3100,13 @@ Lorsque l'embauche intervient pour un emploi à caractère saisonnier, le montan
 l'embauche à raison de 50 euros par mois d'activité salariée complet ou incomplet. Chaque embauche donne lieu à
 l'acquittement de la taxe. 
 
+Sont exonérés de la taxe prévue au premier alinéa les organismes de recherche publics, les établissements d'enseignement
+supérieur délivrant un diplôme conférant un grade de master, les fondations de coopération scientifique, les établissements
+publics de coopération scientifique et les fondations reconnues d'utilité publique du secteur de la recherche agréées
+conformément à l'article L. 313-8 qui embauchent, pour une durée supérieure à trois mois, un ressortissant étranger aux fins
+de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire, quels que soient la durée du
+contrat et le montant de la rémunération. 
+
 La taxe prévue au présent article est perçue comme en matière de recettes des établissements publics nationaux à caractère
 administratif. 
 
@@ -3118,7 +3125,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 84
 
 
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
