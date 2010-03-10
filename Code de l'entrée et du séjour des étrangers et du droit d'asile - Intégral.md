@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-03-05
+Version Consolidée au 2010-03-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3066,9 +3066,10 @@ _Cite_:
 
 ###### Article L311-15
 
-Tout employeur qui embauche un travailleur étranger acquitte, lors de la première entrée en France de cet étranger ou lors de
-sa première admission au séjour en qualité de salarié, une taxe au profit de l'Office français de l'immigration et de
-l'intégration ou de l'établissement public appelé à lui succéder. 
+Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non
+établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors
+de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe au
+profit de l'Office français de l'immigration et de l'intégration ou de l'établissement public appelé à lui succéder. 
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est de : 
 
@@ -3114,7 +3115,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 84
+  - Loi n°2010-237 du 9 mars 2010 - art. 6
 
 
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
