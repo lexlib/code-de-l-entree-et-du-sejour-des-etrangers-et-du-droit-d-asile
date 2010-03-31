@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -18778,13 +18778,13 @@ _Cite_:
 ###### Article R313-22
 
 Pour l'application du 11° de l'article L. 313-11, le préfet délivre la carte de séjour temporaire au vu d'un avis émis par le
-médecin inspecteur départemental de santé publique compétent au regard du lieu de résidence de l'intéressé et, à Paris, par
-le médecin, chef du service médical de la préfecture de police. 
+médecin de l'agence régionale de santé compétente au regard du lieu de résidence de l'intéressé, désigné par le directeur
+général. Par dérogation, à Paris, ce médecin est désigné par le préfet de police. 
 
 L'avis est émis dans les conditions fixées par arrêté du ministre chargé de l'immigration et du ministre chargé de la santé
 au vu, d'une part, d'un rapport médical établi par un médecin agréé ou un médecin praticien hospitalier et, d'autre part, des
 informations disponibles sur les possibilités de traitement dans le pays d'origine de l'intéressé. Quand la commission
-médicale régionale a été saisie dans les conditions prévues à l'article R. 313-26, l'avis mentionne cette saisine. 
+médicale régionale a été saisie dans les conditions prévues à l'article R. 313-26, l'avis mentionne cette saisine.
 
 L'étranger mentionné au 11° de l'article L. 313-11 qui ne remplirait pas la condition de résidence habituelle peut recevoir
 une autorisation provisoire de séjour renouvelable pendant la durée du traitement.
@@ -18793,7 +18793,7 @@ une autorisation provisoire de séjour renouvelable pendant la durée du traitem
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 13
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
 
 _Cité par_:
 
@@ -18885,17 +18885,8 @@ _Cite_:
 
 ###### Article R313-24
 
-La commission médicale régionale comprend quatre membres :
-
-1° Un médecin inspecteur régional de santé publique, désigné par le préfet de région ou le préfet de Corse, sur proposition
-du directeur régional des affaires sanitaires et sociales ;
-
-2° Un médecin inspecteur de santé publique, désigné par le préfet de région ou le préfet de Corse, sur proposition du
-directeur régional des affaires sanitaires et sociales, après avis des directeurs départementaux des affaires sanitaires et
-sociales ;
-
-3° Deux praticiens hospitaliers, désignés par le préfet de région ou le préfet de Corse, sur proposition du directeur
-régional des affaires sanitaires et sociales.
+La commission médicale régionale comprend deux médecins de l'agence régionale de santé et deux praticiens hospitaliers,
+désignés par le directeur général de l'agence.
 
 Les membres de la commission médicale régionale sont nommés pour une durée de trois ans renouvelable.
 
@@ -18904,9 +18895,9 @@ suppléants ne siègent qu'en cas d'absence ou d'empêchement des titulaires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
 
 _Cité par_:
 
@@ -18915,8 +18906,8 @@ _Cité par_:
 
 ###### Article R313-25
 
-La commission médicale régionale est présidée par le médecin inspecteur régional de santé publique mentionné au 1° de
-l'article R. 313-24 ou par son suppléant.
+La commission médicale régionale est présidée par l'un des médecins de l'agence régionale de santé membre de la commission ou
+son suppléant ; le président et son suppléant sont désignés par le directeur général de l'agence.
 
 La commission médicale régionale ne peut valablement délibérer que si trois de ses membres au moins sont présents.
 
@@ -18924,22 +18915,26 @@ Les séances de la commission médicale régionale ne sont pas publiques.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R313-24 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-24
 
 
 ###### Article R313-26
 
-Le médecin inspecteur de santé publique mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
+Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
 service médical de la préfecture de police, peut convoquer devant la commission médicale régionale l'étranger demandant que
 lui soit délivrée une carte de séjour temporaire en application des dispositions du 11° de l'article L. 313-11, ainsi que
 l'étranger mineur au titre duquel l'un des parents sollicite la délivrance d'une autorisation provisoire de séjour en
-application des dispositions de l'article L. 311-12.
+application des dispositions de l'article L. 311-12. 
 
 La commission médicale régionale prend alors connaissance du rapport médical mentionné au deuxième alinéa de l'article R.
 313-22. Elle peut demander tout complément d'information au médecin agréé ou au praticien hospitalier ayant établi ce
@@ -18948,41 +18943,45 @@ de l'étranger et sur les traitements rendus nécessaires par cet état.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
 _Modifié par_:
 
-  - Décret n°2007-373 du 21 mars 2007 - art. 23 () JORF 22 mars 2007
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (VT)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L311-12 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L313-11 (M)
-
 
 ###### Article R313-27
 
-La saisine de la commission médicale régionale par le médecin inspecteur de santé publique ou, à Paris, le médecin, chef du
-service médical de la préfecture de police, intervient dans le délai d'un mois à compter de la réception, par ce médecin, du
-rapport médical mentionné au deuxième alinéa de l'article R. 313-22.
+La saisine de la commission médicale régionale par le médecin de l'agence régionale de santé mentionné au premier alinéa de
+l'article R. 313-22 ou, à Paris, le médecin, chef du service médical de la préfecture de police, intervient dans le délai
+d'un mois à compter de la réception, par ce médecin, du rapport médical mentionné au deuxième alinéa de l'article R. 313-22. 
 
 La commission médicale régionale se réunit dans un délai d'un mois à compter de la date de sa saisine.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
 
 
 ###### Article R313-28
@@ -19013,36 +19012,49 @@ _Abrogé par_:
 
 ###### Article R313-29
 
-Le médecin inspecteur de santé publique mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
+Le médecin de l'agence régionale de santé mentionné au premier alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du
 service médical de la préfecture de police, peut assister, sans voix délibérative, à la séance de la commission médicale
 régionale lors de laquelle est entendu l'étranger convoqué à la demande de ce médecin. Le médecin, chef du service médical de
 la préfecture de police, peut être représenté par un médecin de ce service.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
 
 
 ###### Article R313-30
 
-L'avis de la commission médicale régionale est transmis au médecin inspecteur de santé publique ou, à Paris, au médecin, chef
-du service médical de la préfecture de police, dans un délai d'un mois à compter de la séance à laquelle l'étranger a été
-convoqué.
+L'avis de la commission médicale régionale est transmis au médecin de l'agence régionale de santé mentionné au premier alinéa
+de l'article R. 313-22 ou, à Paris, au médecin, chef du service médical de la préfecture de police, dans un délai d'un mois à
+compter de la séance à laquelle l'étranger a été convoqué. 
 
-Si la commission ne s'est pas prononcée à l'issue de ce délai, le médecin inspecteur de santé publique ou, à Paris, le
-médecin, chef du service médical de la préfecture de police, peut remettre son avis au préfet.
+Si la commission ne s'est pas prononcée à l'issue de ce délai, le médecin de l'agence régionale de santé mentionné au premier
+alinéa de l'article R. 313-22 ou, à Paris, le médecin, chef du service médical de la préfecture de police, peut remettre son
+avis au préfet.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-344 du 31 mars 2010 - art. 343
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
 
 
 ###### Article R313-31
