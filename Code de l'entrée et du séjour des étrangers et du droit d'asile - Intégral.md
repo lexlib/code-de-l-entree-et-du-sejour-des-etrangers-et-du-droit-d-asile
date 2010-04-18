@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-04-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -297,10 +297,10 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#233)
             - [Sous-section 2 : Appel (art. R552-20 à R552-23)](#293)
             - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#294)
         - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#295)
-          - [Section 1 : Lieux de rétention (art. R553-1 à R553-9)](#296)
+          - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#296)
             - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#297)
             - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#298)
-            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-9)](#299)
+            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#299)
           - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#300)
           - [Section 2 bis : Intervention des personnes morales (art. R553-14 à R553-14-3)](#301)
             - [Sous-section 1 : Cas des centres de rétention administrative (art. R553-14 à R553-14-1)](#302)
@@ -23935,14 +23935,13 @@ _Modifié par_:
 
 Les locaux mentionnés à l'article R. 551-3 sont créés, à titre permanent ou pour une durée déterminée, par arrêté
 préfectoral. Une copie de cet arrêté est transmise sans délai au procureur de la République, au directeur départemental des
-affaires sanitaires et sociales et au président de la Commission nationale de contrôle des centres et locaux de rétention
-administrative et des zones d'attente.
+affaires sanitaires et sociales et au Contrôleur général des lieux de privation de liberté.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2010-387 du 16 avril 2010 - art. 1
 
 _Cité par_:
 
@@ -24031,27 +24030,6 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-3
   - Code de la santé publique - art. L6112-1
   - Code de la santé publique - art. L6112-8
-
-
-###### Article R553-9
-
-Les crédits relatifs à la construction et à l'entretien immobilier des centres et locaux de rétention sont inscrits aux
-budgets des ministères de l'intérieur et de la défense, chacun en ce qui le concerne.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2010-387 du 16 avril 2010 - art. 2
-
-_Cité par_:
-
-  - Arrêté du 28 octobre 2016 - art. 1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
 ##### Section 2 : Droits des étrangers retenus<a id=300></a>
