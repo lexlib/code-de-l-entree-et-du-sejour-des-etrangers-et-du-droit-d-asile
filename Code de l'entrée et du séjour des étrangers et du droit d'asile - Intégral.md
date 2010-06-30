@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-06-26
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -340,8 +340,8 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#233)
             - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#336)
             - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#337)
           - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#338)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R741-1 à R742-6)](#339)
-        - [Chapitre Ier : Admission au séjour. (art. R741-1 à R741-2)](#340)
+      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R*741-1 à R742-6)](#339)
+        - [Chapitre Ier : Admission au séjour. (art. R*741-1 à R741-2)](#340)
         - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#341)
       - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#342)
       - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#343)
@@ -27172,7 +27172,7 @@ _Cite_:
 
 #### Chapitre Ier : Admission au séjour.<a id=340></a>
 
-###### Article R741-1
+###### Article R*741-1
 
 Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande
 d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
@@ -27193,7 +27193,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 22
+  - Décret n°2010-687 du 24 juin 2010 - art. 31
 
 
 ###### Article R741-2
