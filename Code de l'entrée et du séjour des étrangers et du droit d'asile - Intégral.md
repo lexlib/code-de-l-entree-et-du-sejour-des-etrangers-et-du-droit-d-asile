@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2010-07-01
       - [TITRE Ier : CONDITIONS D'ADMISSION (art. L211-1 à L213-9)](#9)
         - [Chapitre Ier : Documents exigés (art. L211-1 à L211-10)](#10)
           - [Section 1 : Généralités (art. L211-1)](#11)
-          - [Section 2 : Visa (art. L211-2 à L211-2-1)](#12)
+          - [Section 2 : Visa (art. L211-2 à L211-2-2)](#12)
           - [Section 3 : Justificatif d'hébergement (art. L211-3 à L211-10)](#13)
         - [Chapitre II : Dispenses (art. L212-1 à L212-2)](#14)
         - [Chapitre III : Refus d'entrée (art. L213-1 à L213-9)](#15)
@@ -1261,6 +1261,24 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VT)
+
+
+###### Article L211-2-2
+
+Un visa de retour est délivré par les autorités consulaires françaises à la personne de nationalité étrangère bénéficiant
+d'un titre de séjour en France en vertu des articles L. 313-11 ou L. 431-2 dont le conjoint a, lors d'un séjour à l'étranger,
+dérobé les documents d'identité et le titre de séjour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-769 du 9 juillet 2010 - art. 14
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (V)
 
 
 ##### Section 3 : Justificatif d'hébergement<a id=13></a>
@@ -23792,10 +23810,9 @@ _Créé par_:
 ###### Article R553-1
 
 Les centres de rétention administrative sont créés, sur proposition du ministre chargé de l'immigration, par arrêté conjoint
-du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur, du ministre de la
-justice et du ministre de la défense. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en
-est confiée à la police nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir
-des familles.
+du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de
+la justice. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en est confiée à la police
+nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles.
 
 **Liens relatifs à cet article**
 
@@ -23815,7 +23832,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 16
+  - Décret n°2010-773 du 8 juillet 2010 - art. 5
 
 
 ###### Article R553-2
@@ -23823,17 +23840,21 @@ _Modifié par_:
 Les centres de rétention administrative sont placés sous la responsabilité du préfet territorialement compétent et, à Paris,
 du préfet de police, qui désigne par arrêté le chef du centre, après accord du directeur général de la police nationale ou du
 directeur général de la gendarmerie nationale. Cet arrêté désigne aussi, le cas échéant, dans des conditions définies par
-arrêté conjoint du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de la défense, le responsable
-de la gestion hôtelière et le responsable de la gestion des dossiers administratifs des étrangers admis au centre. 
+arrêté conjoint du ministre chargé de l'immigration et du ministre (1), le responsable de la gestion hôtelière et le
+responsable de la gestion des dossiers administratifs des étrangers admis au centre. 
 
 Le chef de centre est responsable de l'ordre et de la sécurité du centre et de la tenue du registre mentionné à l'article L.
 553-1. Il a autorité sur l'ensemble des personnes qui concourent au fonctionnement du centre.
+
+**Nota:**
+
+(1) Après le mot "ministre" lire "de l'intérieur"
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 17
+  - Décret n°2010-773 du 8 juillet 2010 - art. 5
 
 _Cite_:
 
