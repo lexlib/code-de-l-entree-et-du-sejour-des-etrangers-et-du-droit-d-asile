@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2010-07-11
+Version Consolidée au 2010-07-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -19732,7 +19732,7 @@ _Cité par_:
 ###### Article R315-2
 
 La Commission nationale des compétences et des talents est placée auprès du ministre chargé de l'immigration. Elle comprend
-dix-sept membres  : 
+dix-sept membres : 
 
 1° Cinq personnalités qualifiées dont l'une est le président ; 
 
@@ -19740,7 +19740,7 @@ dix-sept membres  :
 
 3° Un sénateur ; 
 
-4° Un membre du Conseil économique et social ; 
+4° Un membre du   Conseil économique, social et environnemental ; 
 
 5° Le secrétaire général du comité interministériel de contrôle de l'immigration ; 
 
@@ -19762,7 +19762,11 @@ dix-sept membres  :
 
 _Modifié par_:
 
-  - Décret n°2007-1711 du 5 décembre 2007 - art. 2
+  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-132 du 17 février 2014 - art. 16
 
 
 ###### Article R315-3
