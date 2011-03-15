@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-02-12
+Version Consolidée au 2011-03-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -74,7 +74,7 @@ Version Consolidée au 2011-02-12
         - [Chapitre unique (art. L431-1 à L431-3)](#71)
       - [TITRE IV : DISPOSITIONS COMMUNES (art. L441-1)](#72)
         - [Chapitre unique (art. L441-1)](#73)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L561-2)](#74)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L561-3)](#74)
       - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE (art. L511-1 à L514-2)](#75)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière. (art. L511-1 à L511-4)](#76)
         - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-4)](#77)
@@ -99,8 +99,8 @@ Version Consolidée au 2011-02-12
         - [Chapitre III : Conditions de la rétention (art. L553-1 à L553-6)](#96)
         - [Chapitre IV : Fin de la rétention (art. L554-1 à L554-3)](#97)
         - [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français. (art. L555-1 à L555-3)](#98)
-      - [TITRE VI : DISPOSITIONS DIVERSES (art. L561-1 à L561-2)](#99)
-        - [Chapitre unique. (art. L561-1 à L561-2)](#100)
+      - [TITRE VI : DISPOSITIONS DIVERSES (art. L561-1 à L561-3)](#99)
+        - [Chapitre unique. (art. L561-1 à L561-3)](#100)
     - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#101)
       - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-11)](#102)
       - [TITRE II : SANCTIONS (art. L621-1 à L626-1)](#103)
@@ -137,8 +137,8 @@ Version Consolidée au 2011-02-12
     - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. L811-1 à L831-1)](#134)
       - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. L811-1 à L811-9)](#135)
         - [Chapitre unique (art. L811-1 à L811-9)](#136)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-6)](#137)
-        - [Chapitre unique (art. L821-1 à L821-6)](#138)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-5)](#137)
+        - [Chapitre unique (art. L821-1 à L821-5)](#138)
       - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L831-1)](#139)
         - [Chapitre unique. (art. L831-1)](#140)
     - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#141)
@@ -6929,9 +6929,10 @@ _Cite_:
 L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être
 dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se
 rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans
-les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Le
-non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
-624-4.
+les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Si
+l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire
+conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. Le non-respect des prescriptions liées à
+l'assignation à résidence est sanctionné dans les conditions prévues à l'article L. 624-4.
 
 **Liens relatifs à cet article**
 
@@ -6958,14 +6959,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 65 () JORF 25 juillet 2006
+  - Loi n°2011-267 du 14 mars 2011 - art. 119
 
 
 #### Chapitre IV : Dispositions propres à la Guyane et à la Guadeloupe.<a id=79></a>
@@ -7431,21 +7430,21 @@ _Cite_:
 
 Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait
 l'objet d'une mesure d'expulsion prononcée en application de l'article L. 521-2. Cette mesure est assortie d'une autorisation
-de travail. Elle peut être abrogée à tout moment en cas de faits nouveaux constitutifs d'un comportement préjudiciable à
-l'ordre public. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article L.
-513-4 ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation à résidence prévues à l'article
-L. 624-4 sont applicables.
+de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article L. 513-4
+ainsi que les sanctions en cas de manquement aux prescriptions liées à l'assignation à résidence prévues à l'article L. 624-4
+sont applicables. La mesure peut être abrogée à tout moment en cas de manquement à ces obligations et prescriptions ou de
+faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 28 ter
-
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 120
 
 _Cité par_:
 
@@ -7455,8 +7454,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L521-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L521-2 (V)
 
 
 #### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=84></a>
@@ -8952,6 +8951,57 @@ _Nouveaux textes_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
 
 
+###### Article L561-3
+
+L'autorité administrative peut ordonner le placement sous surveillance électronique mobile de l'étranger astreint à résider
+dans les lieux qui lui sont fixés en application des articles L. 523-3, L. 523-4 ou L. 541-3 s'il a été condamné à une peine
+d'interdiction du territoire pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure
+d'expulsion a été prononcée à son encontre pour un comportement lié à des activités à caractère terroriste. 
+
+Ce placement est prononcé, après accord de l'étranger, pour une durée de trois mois qui peut être prolongée pour une même
+durée sans que la durée totale du placement dépasse deux ans. A défaut de prolongation, il est mis fin au placement sous
+surveillance électronique mobile. 
+
+L'étranger est astreint au port, pendant toute la durée du placement, d'un dispositif intégrant un émetteur permettant à tout
+moment de déterminer à distance sa localisation sur l'ensemble du territoire national. 
+
+La mise en œuvre du dispositif technique permettant le contrôle à distance peut être confiée à une personne de droit privé
+habilitée dans des conditions fixées par décret en Conseil d'Etat. 
+
+Pendant la durée du placement, l'autorité administrative peut, d'office ou à la demande de l'étranger, modifier ou compléter
+les obligations résultant dudit placement. 
+
+Le manquement aux prescriptions liées au placement sous surveillance électronique est sanctionné dans les conditions prévues
+à l'article L. 624-4.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 116
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Modifié par_:
+
+  - Décret n°2011-820 du 8 juillet 2011 - art. 22 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L523-3 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (VD)
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VD)
+
+
 ## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=101></a>
 
 ### TITRE Ier : CONTRÔLES<a id=102></a>
@@ -9957,7 +10007,14 @@ _Cite_:
 
 Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence qui leur est assignée en application des
 articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5 ou qui, ultérieurement, ont quitté cette résidence sans autorisation de
-l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans.
+l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans. 
+
+Les étrangers visés à l'article L. 561-3 qui n'ont pas respecté les prescriptions liées au placement sous surveillance
+électronique sont passibles d'une peine d'emprisonnement d'un an. 
+
+Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles L. 523-3, L. 523-4, L. 523-5
+ou L. 541-3 et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie
+prévues à l'article L. 513-4 sont passibles d'une peine d'emprisonnement d'un an.
 
 **Liens relatifs à cet article**
 
@@ -9968,12 +10025,13 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 50 () JORF 21 novembre 2007
+  - Loi n°2011-267 du 14 mars 2011 - art. 116
+  - Loi n°2011-267 du 14 mars 2011 - art. 117
 
 _Cité par_:
 
@@ -9983,12 +10041,16 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L523-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L562-2 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L563-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R571-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R571-4 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 
 
 #### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=108></a>
@@ -12384,25 +12446,25 @@ _Codifié par_:
 
 ###### Article L821-1
 
-A titre expérimental, dans les conditions prévues par le code des marchés publics, l'Etat peut passer des marchés relatifs
-aux transports de personnes retenues en centres de rétention ou maintenues en zones d'attente avec des personnes de droit
-public ou des personnes de droit privé bénéficiant d'un agrément délivré en application de la loi n° 83-629 du 12 juillet
-1983 réglementant les activités privées de sécurité.
+Dans les conditions prévues par le code des marchés publics, l'Etat peut passer des marchés relatifs aux transports de
+personnes retenues en centres de rétention ou maintenues en zones d'attente avec des personnes de droit public ou des
+personnes de droit privé bénéficiant d'un agrément délivré en application de la loi n° 83-629 du 12 juillet 1983 réglementant
+les activités privées de sécurité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 35 octies, al. 1
-
 _Cite_:
 
-  - Loi n°83-629 1983-07-12
+  - Loi n°83-629 du 12 juillet 1983
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-267 du 14 mars 2011 - art. 97
 
 _Cité par_:
 
@@ -12485,36 +12547,6 @@ _Codifié par_:
 
   - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-
-###### Article L821-6
-
-Les marchés prévus à l'article L. 821-1 peuvent être passés à compter de la promulgation de la loi n° 2006-911 du 24 juillet
-2006 relative à l'immigration et à l'intégration dans un délai de deux ans et pour une durée n'excédant pas deux ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 35 octies, al. 8 et 9
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 du 24 juillet 2006
-
-_Cite_:
-
-  - Loi n°2006-911 du 24 juillet 2006
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L821-1
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 74 () JORF 25 juillet 2006
-
-_Abrogé par_:
-
-  - Loi n°2011-267 du 14 mars 2011 - art. 97
 
 
 ### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=139></a>
