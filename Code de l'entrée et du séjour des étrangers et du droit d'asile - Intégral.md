@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-07-10
+Version Consolidée au 2011-07-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -74,311 +74,318 @@ Version Consolidée au 2011-07-10
         - [Chapitre unique (art. L431-1 à L431-3)](#71)
       - [TITRE IV : DISPOSITIONS COMMUNES (art. L441-1)](#72)
         - [Chapitre unique (art. L441-1)](#73)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L561-3)](#74)
-      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE (art. L511-1 à L514-2)](#75)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière. (art. L511-1 à L511-4)](#76)
-        - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-4)](#77)
-        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière. (art. L513-1 à L513-4)](#78)
-        - [Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin (art. L514-1 à L514-2)](#79)
-      - [TITRE II : L'EXPULSION (art. L521-1 à L524-4)](#80)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. L521-1 à L521-5)](#81)
-        - [Chapitre II : Procédure administrative (art. L522-1 à L522-2)](#82)
-        - [Chapitre III : Exécution des arrêtés d'expulsion (art. L523-1 à L523-5)](#83)
-        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. L524-1 à L524-4)](#84)
-      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. L531-1 à L532-1)](#85)
-        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. L531-1 à L531-4)](#86)
-        - [Chapitre II : Dispositions propres à la Guyane (art. L532-1)](#87)
-      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS (art. L541-1 à L541-4)](#88)
-      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. L551-1 à L555-3)](#89)
-        - [Chapitre Ier : Placement en rétention (art. L551-1 à L551-3)](#90)
-        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. L552-1 à L552-13)](#91)
-          - [Section 1 : Première saisine du juge des libertés et de la détention (art. L552-1 à L552-6)](#92)
-          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. L552-7 à L552-8)](#93)
-          - [Section 3 : Voies de recours (art. L552-9 à L552-10)](#94)
-          - [Section 4 : Dispositions communes (art. L552-11 à L552-13)](#95)
-        - [Chapitre III : Conditions de la rétention (art. L553-1 à L553-6)](#96)
-        - [Chapitre IV : Fin de la rétention (art. L554-1 à L554-3)](#97)
-        - [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français. (art. L555-1 à L555-3)](#98)
-      - [TITRE VI : DISPOSITIONS DIVERSES (art. L561-1 à L561-3)](#99)
-        - [Chapitre unique. (art. L561-1 à L561-3)](#100)
-    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#101)
-      - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-11)](#102)
-      - [TITRE II : SANCTIONS (art. L621-1 à L626-1)](#103)
-        - [Chapitre Ier : Entrée et séjour irréguliers. (art. L621-1 à L621-2)](#104)
-        - [Chapitre II : Aide à l'entrée et au séjour irréguliers (art. L622-1 à L622-10)](#105)
-        - [Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française (art. L623-1 à L623-3)](#106)
-        - [Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence (art. L624-1 à L624-4)](#107)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. L625-1 à L625-6)](#108)
-        - [Chapitre VI : Dispositions diverses. (art. L626-1)](#109)
-    - [LIVRE VII : LE DROIT D'ASILE (art. L711-1 à L766-2)](#110)
-      - [TITRE Ier : GÉNÉRALITÉS (art. L711-1 à L713-3)](#111)
-        - [Chapitre Ier : La qualité de réfugié (art. L711-1 à L711-2)](#112)
-        - [Chapitre II : La protection subsidiaire (art. L712-1 à L712-3)](#113)
-        - [Chapitre III : Dispositions communes (art. L713-1 à L713-3)](#114)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. L721-1 à L723-5)](#115)
-        - [Chapitre Ier : Missions (art. L721-1 à L721-3)](#116)
-        - [Chapitre II : Organisation (art. L722-1 à L722-5)](#117)
-        - [Chapitre III : Examen des demandes d'asile (art. L723-1 à L723-5)](#118)
-          - [Section 1 : Garanties procédurales et obligations du demandeur (art. L723-5)](#119)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. L731-1 à L733-3)](#120)
-        - [Chapitre Ier : Missions (art. L731-1 à L731-3)](#121)
-        - [Chapitre II : Organisation (art. L732-1)](#122)
-        - [Chapitre III : Examen des recours (art. L733-1 à L733-3)](#123)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. L741-1 à L742-7)](#124)
-        - [Chapitre Ier : Admission au séjour. (art. L741-1 à L741-5)](#125)
-        - [Chapitre II : Durée du maintien sur le territoire français. (art. L742-1 à L742-7)](#126)
-      - [TITRE V : DISPOSITIONS DIVERSES. (art. L751-1 à L751-2)](#127)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L761-1 à L766-2)](#128)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L761-1)](#129)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. L762-1)](#130)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. L763-1)](#131)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. L764-1)](#132)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L765-1)](#133)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L766-1 à L766-2)](#134)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. L811-1 à L831-1)](#135)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. L811-1 à L811-9)](#136)
-        - [Chapitre unique (art. L811-1 à L811-9)](#137)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-5)](#138)
-        - [Chapitre unique (art. L821-1 à L821-5)](#139)
-      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L831-1)](#140)
-        - [Chapitre unique. (art. L831-1)](#141)
-    - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#142)
-  - [Partie réglementaire (art. R111-1 à R831-1)](#143)
-    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#144)
-      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-23)](#145)
-        - [Chapitre unique (art. R111-1 à R111-23)](#146)
-          - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12-1)](#147)
-          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-23)](#148)
-      - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#149)
-        - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#150)
-          - [Section 1 : Entrée en France (art. R121-1 à R121-2)](#151)
-          - [Section 2 : Séjour d'une durée inférieure ou égale à trois mois (art. R121-3)](#152)
-          - [Section 3 : Séjour d'une durée supérieure à trois mois (art. R121-4 à R121-5)](#153)
-          - [Section 4 : Maintien du droit au séjour (art. R121-6 à R121-9)](#154)
-          - [Section 5 : Délivrance du titre de séjour (art. R121-10 à R121-16)](#155)
-            - [Sous-section 1 : Dispositions générales (art. R121-10 à R121-15)](#156)
-            - [Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers (art. R121-16)](#157)
-        - [Chapitre II : Droit au séjour permanent (art. R122-1 à R122-5)](#158)
-      - [TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS (art. D131-1)](#159)
-        - [Chapitre unique (art. D131-1)](#160)
-    - [LIVRE II : L'ENTRÉE EN FRANCE (art. R211-1 à R223-14)](#161)
-      - [TITRE Ier : CONDITIONS D'ADMISSION (art. R211-1 à R213-2)](#162)
-        - [Chapitre Ier : Documents exigés (art. R211-1 à R211-33)](#163)
-          - [Section 1 : Généralités (art. R211-1 à R211-3)](#164)
-          - [Section 2 : Visa (art. R211-4 à R211-10)](#165)
-            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4 à R211-4-2)](#166)
-            - [Sous-section 2 : Recours contre les refus de visa (art. D211-5 à R211-10)](#167)
-          - [Section 3 : Justificatif d'hébergement (art. R211-11 à R211-26)](#168)
-            - [Sous-section 1 : Souscription des attestations d'accueil (art. R211-11 à R211-15)](#169)
-            - [Sous-section 2 : Validation des attestations d'accueil (art. R211-16 à R211-18)](#170)
-            - [Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil (art. R211-19 à R211-26)](#171)
-          - [Section 4 : Autres documents (art. R211-27 à R211-33)](#172)
-            - [Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour (art. R211-27)](#173)
-            - [Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger (art. R211-28)](#174)
-            - [Sous-section 3 : Prise en charge des dépenses médicales et hospitalières (art. R211-29)](#175)
-            - [Sous-section 4 : Garanties de rapatriement (art. R211-30 à R211-31)](#176)
-            - [Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R211-32 à R211-33)](#177)
-        - [Chapitre II : Dispenses (art. R212-1 à R212-11)](#178)
-          - [Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1 (art. R212-1)](#179)
-          - [Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3 (art. R212-2 à R212-5)](#180)
-          - [Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R212-6)](#181)
-          - [Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2 (art. R212-7 à R212-11)](#182)
-        - [Chapitre III : Refus d'entrée (art. R*213-3 à R213-2)](#183)
-      - [TITRE II : MAINTIEN EN ZONE D'ATTENTE (art. R221-1 à R223-14)](#184)
-        - [Chapitre Ier : Conditions du maintien en zone d'attente (art. R221-1 à R221-3)](#185)
-        - [Chapitre II : Prolongation du maintien en zone d'attente (art. R222-1 à R222-4)](#186)
-          - [Section 1 : Décision du juge des libertés et de la détention (art. R222-1 à R222-3)](#187)
-          - [Section 2 : Voies de recours (art. R222-4)](#188)
-        - [Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente (art. R223-1 à R223-14)](#189)
-          - [Section 1 : Dispositions communes (art. R223-1)](#190)
-          - [Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants. (art. R*223-4 à R223-7)](#191)
-          - [Section 3 : Conditions d'accès des associations humanitaires (art. R*223-12 à R223-14)](#192)
-    - [LIVRE III : LE SÉJOUR EN FRANCE (art. R311-1 à D331-14)](#193)
-      - [TITRE Ier : LES TITRES DE SÉJOUR (art. R311-1 à R317-3)](#194)
-        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-35)](#195)
-          - [Section 1 : Dispositions relatives aux documents de séjour (art. R311-1 à D311-18-2)](#196)
-            - [Sous-section 1 : Demandes de titre de séjour (art. R311-1 à R311-3)](#197)
-            - [Sous-section 2 : Récépissé des demandes (art. R311-4 à R311-9)](#198)
-            - [Sous-section 3 : Délivrance du titre de séjour (art. R311-10 à R311-13)](#199)
-            - [Sous-section 3-1 : Modèle du titre de séjour (art. R311-13-1)](#200)
-            - [Sous-section 4 : Retrait du titre de séjour (art. R311-14 à R311-16)](#201)
-            - [Sous-section 5 : Restitution du titre de séjour (art. R311-17 à R311-18)](#202)
-            - [Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations. (art. D311-18-1 à D311-18-2)](#203)
-          - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. R311-19 à R311-30-15)](#204)
-            - [Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration (art. R311-19 à R311-30)](#205)
-            - [Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine (art. R311-30-1 à R311-30-11)](#206)
-            - [Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille (art. R311-30-12 à R311-30-15)](#207)
-          - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. D311-33 à R311-35)](#208)
-        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#209)
-        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-38)](#210)
-          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#211)
-          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34-4)](#212)
-            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#213)
-            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#214)
-            - [Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires (art. R313-10-1 à R313-10-5)](#215)
-            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique". (art. R313-11 à R313-13)](#216)
-            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#217)
-            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19)](#218)
-            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#219)
-              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22-1)](#220)
-              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#221)
-            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-33 à R313-34)](#222)
-            - [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne (art. R313-34-1)](#223)
-            - [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille (art. R313-34-2 à R313-34-4)](#224)
-          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-38)](#225)
-        - [Chapitre IV : La carte de résident (art. R314-1 à R314-6)](#226)
-          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#227)
-            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1 à R314-1-3)](#228)
-            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#229)
-          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#230)
-          - [Section 4 : Délivrance de la carte de résident permanent (art. R314-4)](#231)
-          - [Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle (art. R314-5 à R314-6)](#232)
-        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-1 à R315-11)](#233)
-        - [Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale (art. R316-1 à R316-10)](#234)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L512-1 à L571-3)](#74)
+      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE (art. L512-1 à L514-2)](#75)
+        - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-6)](#76)
+        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière. (art.  à L512-6)](#77)
+        - [Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin (art. L514-1 à L514-2)](#78)
+      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS (art. L511-1 à L513-4)](#79)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français et d'une interdiction de retour sur le territoire français (art. L511-1 à L511-4)](#80)
+        - [Chapitre II : Procédure administrative et contentieuse (art.  à L511-4)](#81)
+        - [Chapitre III :  Exécution des obligations de quitter le territoire français et des interdictions de retour sur le territoire français (art. L513-1 à L513-4)](#82)
+        - [Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin (art.  à L513-4)](#83)
+      - [TITRE II : L'EXPULSION (art. L521-1 à L524-4)](#84)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. L521-1 à L521-5)](#85)
+        - [Chapitre II : Procédure administrative (art. L522-1 à L522-2)](#86)
+        - [Chapitre III : Exécution des arrêtés d'expulsion (art. L523-1 à L523-5)](#87)
+        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. L524-1 à L524-4)](#88)
+      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. L531-1 à L533-1)](#89)
+        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. L531-1 à L531-4)](#90)
+        - [Chapitre II : Dispositions propres à la Guyane (art. L532-1)](#91)
+        - [Chapitre III : Autres cas de reconduite (art. L533-1)](#92)
+      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS (art. L541-1 à L541-4)](#93)
+      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. L551-1 à L555-3)](#94)
+        - [Chapitre Ier : Placement en rétention (art. L551-1 à L551-3)](#95)
+        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. L552-1 à L552-13)](#96)
+          - [Section 1 : Première saisine du juge des libertés et de la détention (art. L552-1 à L552-6)](#97)
+          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. L552-7 à L552-8)](#98)
+          - [Section 3 : Voies de recours (art. L552-9 à L552-10)](#99)
+          - [Section 4 : Dispositions communes (art. L552-11 à L552-13)](#100)
+        - [Chapitre III : Conditions de la rétention (art. L553-1 à L553-6)](#101)
+        - [Chapitre IV : Fin de la rétention (art. L554-1 à L554-3)](#102)
+        - [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français. (art. L555-1 à L555-3)](#103)
+      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. L561-1 à L562-3)](#104)
+        - [Chapitre Ier (art. L561-1 à L561-3)](#105)
+        - [Chapitre II : Assignation à résidence avec surveillance électronique (art. L562-1 à L562-3)](#106)
+      - [TITRE VII : DISPOSITIONS DIVERSES (art. L571-1 à L571-3)](#107)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#108)
+      - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-11)](#109)
+      - [TITRE II : SANCTIONS (art. L621-1 à L626-1)](#110)
+        - [Chapitre Ier : Entrée et séjour irréguliers. (art. L621-1 à L621-2)](#111)
+        - [Chapitre II : Aide à l'entrée et au séjour irréguliers (art. L622-1 à L622-10)](#112)
+        - [Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française (art. L623-1 à L623-3)](#113)
+        - [Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence (art. L624-1 à L624-4)](#114)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. L625-1 à L625-6)](#115)
+        - [Chapitre VI : Dispositions diverses. (art. L626-1)](#116)
+    - [LIVRE VII : LE DROIT D'ASILE (art. L711-1 à L766-2)](#117)
+      - [TITRE Ier : GÉNÉRALITÉS (art. L711-1 à L713-3)](#118)
+        - [Chapitre Ier : La qualité de réfugié (art. L711-1 à L711-2)](#119)
+        - [Chapitre II : La protection subsidiaire (art. L712-1 à L712-3)](#120)
+        - [Chapitre III : Dispositions communes (art. L713-1 à L713-3)](#121)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. L721-1 à L723-5)](#122)
+        - [Chapitre Ier : Missions (art. L721-1 à L721-3)](#123)
+        - [Chapitre II : Organisation (art. L722-1 à L722-5)](#124)
+        - [Chapitre III : Examen des demandes d'asile (art. L723-1 à L723-5)](#125)
+          - [Section 1 : Garanties procédurales et obligations du demandeur (art. L723-5)](#126)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. L731-1 à L733-3)](#127)
+        - [Chapitre Ier : Missions (art. L731-1 à L731-3)](#128)
+        - [Chapitre II : Organisation (art. L732-1)](#129)
+        - [Chapitre III : Examen des recours (art. L733-1 à L733-3)](#130)
+      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. L741-1 à L742-7)](#131)
+        - [Chapitre Ier : Admission au séjour. (art. L741-1 à L741-5)](#132)
+        - [Chapitre II : Durée du maintien sur le territoire français. (art. L742-1 à L742-7)](#133)
+      - [TITRE V : DISPOSITIONS DIVERSES. (art. L751-1 à L751-2)](#134)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L761-1 à L766-2)](#135)
+        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. L761-1)](#136)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. L762-1)](#137)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. L763-1)](#138)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. L764-1)](#139)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L765-1)](#140)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L766-1 à L766-2)](#141)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. L811-1 à L831-1)](#142)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. L811-1 à L811-9)](#143)
+        - [Chapitre unique (art. L811-1 à L811-9)](#144)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-5)](#145)
+        - [Chapitre unique (art. L821-1 à L821-5)](#146)
+      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. L831-1)](#147)
+        - [Chapitre unique. (art. L831-1)](#148)
+    - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#149)
+  - [Partie réglementaire (art. R111-1 à R831-1)](#150)
+    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#151)
+      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-23)](#152)
+        - [Chapitre unique (art. R111-1 à R111-23)](#153)
+          - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12-1)](#154)
+          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-23)](#155)
+      - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#156)
+        - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#157)
+          - [Section 1 : Entrée en France (art. R121-1 à R121-2)](#158)
+          - [Section 2 : Séjour d'une durée inférieure ou égale à trois mois (art. R121-3)](#159)
+          - [Section 3 : Séjour d'une durée supérieure à trois mois (art. R121-4 à R121-5)](#160)
+          - [Section 4 : Maintien du droit au séjour (art. R121-6 à R121-9)](#161)
+          - [Section 5 : Délivrance du titre de séjour (art. R121-10 à R121-16)](#162)
+            - [Sous-section 1 : Dispositions générales (art. R121-10 à R121-15)](#163)
+            - [Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers (art. R121-16)](#164)
+        - [Chapitre II : Droit au séjour permanent (art. R122-1 à R122-5)](#165)
+      - [TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS (art. D131-1)](#166)
+        - [Chapitre unique (art. D131-1)](#167)
+    - [LIVRE II : L'ENTRÉE EN FRANCE (art. R211-1 à R223-14)](#168)
+      - [TITRE Ier : CONDITIONS D'ADMISSION (art. R211-1 à R213-2)](#169)
+        - [Chapitre Ier : Documents exigés (art. R211-1 à R211-33)](#170)
+          - [Section 1 : Généralités (art. R211-1 à R211-3)](#171)
+          - [Section 2 : Visa (art. R211-4 à R211-10)](#172)
+            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4 à R211-4-2)](#173)
+            - [Sous-section 2 : Recours contre les refus de visa (art. D211-5 à R211-10)](#174)
+          - [Section 3 : Justificatif d'hébergement (art. R211-11 à R211-26)](#175)
+            - [Sous-section 1 : Souscription des attestations d'accueil (art. R211-11 à R211-15)](#176)
+            - [Sous-section 2 : Validation des attestations d'accueil (art. R211-16 à R211-18)](#177)
+            - [Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil (art. R211-19 à R211-26)](#178)
+          - [Section 4 : Autres documents (art. R211-27 à R211-33)](#179)
+            - [Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour (art. R211-27)](#180)
+            - [Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger (art. R211-28)](#181)
+            - [Sous-section 3 : Prise en charge des dépenses médicales et hospitalières (art. R211-29)](#182)
+            - [Sous-section 4 : Garanties de rapatriement (art. R211-30 à R211-31)](#183)
+            - [Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R211-32 à R211-33)](#184)
+        - [Chapitre II : Dispenses (art. R212-1 à R212-11)](#185)
+          - [Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1 (art. R212-1)](#186)
+          - [Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3 (art. R212-2 à R212-5)](#187)
+          - [Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R212-6)](#188)
+          - [Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2 (art. R212-7 à R212-11)](#189)
+        - [Chapitre III : Refus d'entrée (art. R*213-3 à R213-2)](#190)
+      - [TITRE II : MAINTIEN EN ZONE D'ATTENTE (art. R221-1 à R223-14)](#191)
+        - [Chapitre Ier : Conditions du maintien en zone d'attente (art. R221-1 à R221-3)](#192)
+        - [Chapitre II : Prolongation du maintien en zone d'attente (art. R222-1 à R222-4)](#193)
+          - [Section 1 : Décision du juge des libertés et de la détention (art. R222-1 à R222-3)](#194)
+          - [Section 2 : Voies de recours (art. R222-4)](#195)
+        - [Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente (art. R223-1 à R223-14)](#196)
+          - [Section 1 : Dispositions communes (art. R223-1)](#197)
+          - [Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants. (art. R*223-4 à R223-7)](#198)
+          - [Section 3 : Conditions d'accès des associations humanitaires (art. R*223-12 à R223-14)](#199)
+    - [LIVRE III : LE SÉJOUR EN FRANCE (art. R311-1 à D331-14)](#200)
+      - [TITRE Ier : LES TITRES DE SÉJOUR (art. R311-1 à R317-3)](#201)
+        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-35)](#202)
+          - [Section 1 : Dispositions relatives aux documents de séjour (art. R311-1 à D311-18-2)](#203)
+            - [Sous-section 1 : Demandes de titre de séjour (art. R311-1 à R311-3)](#204)
+            - [Sous-section 2 : Récépissé des demandes (art. R311-4 à R311-9)](#205)
+            - [Sous-section 3 : Délivrance du titre de séjour (art. R311-10 à R311-13)](#206)
+            - [Sous-section 3-1 : Modèle du titre de séjour (art. R311-13-1)](#207)
+            - [Sous-section 4 : Retrait du titre de séjour (art. R311-14 à R311-16)](#208)
+            - [Sous-section 5 : Restitution du titre de séjour (art. R311-17 à R311-18)](#209)
+            - [Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations. (art. D311-18-1 à D311-18-2)](#210)
+          - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. R311-19 à R311-30-15)](#211)
+            - [Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration (art. R311-19 à R311-30)](#212)
+            - [Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine (art. R311-30-1 à R311-30-11)](#213)
+            - [Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille (art. R311-30-12 à R311-30-15)](#214)
+          - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. D311-33 à R311-35)](#215)
+        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#216)
+        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-38)](#217)
+          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#218)
+          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34-4)](#219)
+            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#220)
+            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#221)
+            - [Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires (art. R313-10-1 à R313-10-5)](#222)
+            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique". (art. R313-11 à R313-13)](#223)
+            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#224)
+            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19)](#225)
+            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#226)
+              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22-1)](#227)
+              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#228)
+            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-33 à R313-34)](#229)
+            - [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne (art. R313-34-1)](#230)
+            - [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille (art. R313-34-2 à R313-34-4)](#231)
+          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-38)](#232)
+        - [Chapitre IV : La carte de résident (art. R314-1 à R314-6)](#233)
+          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#234)
+            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1 à R314-1-3)](#235)
+            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#236)
+          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#237)
+          - [Section 4 : Délivrance de la carte de résident permanent (art. R314-4)](#238)
+          - [Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle (art. R314-5 à R314-6)](#239)
+        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-1 à R315-11)](#240)
+        - [Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale (art. R316-1 à R316-10)](#241)
           - [Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
-coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#235)
-          - [Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires (art. R316-6 à R316-10)](#236)
-        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#237)
-      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#238)
-        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à R321-22)](#239)
-          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#240)
-          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#241)
-            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#242)
-            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#243)
-          - [Section 3 : Titres de voyage (art. R321-22)](#244)
-        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#245)
-          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#246)
-          - [Section 2 : Autres activités professionnelles (art. R322-3)](#247)
-      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#248)
-        - [Chapitre unique (art. D331-1 à D331-14)](#249)
-          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#250)
-          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#251)
-    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#252)
-      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#253)
-        - [Chapitre unique (art. R411-1 à R411-6)](#254)
-      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#255)
-        - [Chapitre unique (art. R421-1 à R421-29)](#256)
-          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#257)
-          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#258)
-          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#259)
-          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#260)
-          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#261)
-      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#262)
-        - [Chapitre unique (art. R431-1)](#263)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R561-4)](#264)
-      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-3)](#265)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1 à R511-4)](#266)
-        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-3)](#267)
-          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-1)](#268)
-          - [Section 2 : Procédure contentieuse (art. R512-2 à R512-3)](#269)
-        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#270)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#271)
-          - [Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ (art. R513-2 à R513-3)](#272)
-      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#273)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#274)
-        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-9)](#275)
-        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-6)](#276)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#277)
-          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-6)](#278)
-        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#279)
-      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R533-1)](#280)
-        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-13)](#281)
-          - [Section 1 : Autorités administratives compétentes (art. R*531-2 à R531-4)](#282)
-          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#283)
-          - [Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-CE accordé par un Etat membre de l'Union européenne (art. R531-10 à R531-13)](#284)
-        - [Chapitre III : Autres cas de reconduite (art. R533-1)](#285)
-      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#286)
-      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R553-17)](#287)
-        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#288)
-        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-24)](#289)
-          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#290)
-          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#291)
-          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#292)
-            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#293)
-            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#294)
-          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-24)](#295)
-            - [Sous-section 1 : Saisine et décision du juge des libertés et de la détention (art. R552-17 à R552-19)](#296)
-            - [Sous-section 2 : Appel (art. R552-20 à R552-23)](#297)
-            - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#298)
-        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#299)
-          - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#300)
-            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#301)
-            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#302)
-            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#303)
-          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#304)
-          - [Section 2 bis : Intervention des personnes morales (art. R553-14 à R553-14-3)](#305)
-            - [Sous-section 1 : Cas des centres de rétention administrative (art. R553-14 à R553-14-1)](#306)
-            - [Sous-section 2 : Cas des locaux de rétention administrative (art. R553-14-2 à R553-14-3)](#307)
-          - [Section 2 ter : Accès des associations humanitaires aux lieux de rétention (art. R553-14-4 à R553-14-8)](#308)
-          - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-17)](#309)
-      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. R561-1 à R561-4)](#310)
-        - [Chapitre unique (art. R561-1 à R561-4)](#311)
-    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. R611-1 à R626-4)](#312)
-      - [TITRE Ier : CONTRÔLES (art. R611-1 à R611-43)](#313)
-        - [Chapitre unique (art. R611-1 à R611-43)](#314)
-          - [Section 1 : Application de gestion des dossiers des ressortissants étrangers en France (art. R611-1 à R611-7-4)](#315)
-            - [Sous-section 1 : Finalités du traitement (art. R611-1)](#316)
-            - [Sous-section 2 : Données enregistrées dans le traitement (art. R611-2 à R611-3)](#317)
-            - [Sous-section 3 : Destinataires des données (art. R611-4)](#318)
-            - [Sous-section 4 : Accès aux données en consultation (art. R611-5 à R611-7)](#319)
-            - [Sous-section 5 : Conservation des données (art. R611-7-1)](#320)
-            - [Sous-section 6 : Droits d'accès, de rectification et d'opposition (art. R611-7-2 à R611-7-4)](#321)
-          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#322)
-          - [Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises (art. R611-18 à R611-24)](#323)
-          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#324)
-          - [Section 6 : Dispositions diverses (art. R611-41-1 à R611-43)](#325)
-      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#326)
-        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#327)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#328)
-          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#329)
-          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#330)
-          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#331)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#332)
-    - [LIVRE VII : LE DROIT D'ASILE (art. R721-1 à R765-1)](#333)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-5)](#334)
-        - [Chapitre Ier : Missions (art. R721-1)](#335)
-        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#336)
-          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#337)
-          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#338)
-          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#339)
-        - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#340)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-23)](#341)
-        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#342)
-        - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#343)
-          - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#344)
-          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-6 à R733-20)](#345)
-            - [Sous-section 1 : Compétence de la cour. (art. R733-6)](#346)
-            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#347)
-            - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#348)
-            - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#349)
-          - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#350)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R*741-1 à R742-6)](#351)
-        - [Chapitre Ier : Admission au séjour. (art. R*741-1 à R741-2)](#352)
-        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#353)
-      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#354)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#355)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#356)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#357)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#358)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#359)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#360)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#361)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#362)
-        - [Chapitre unique (art. R811-1 à R811-16)](#363)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#364)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#365)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#366)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#367)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#368)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#369)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#370)
-      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#371)
-        - [Chapitre unique. (art. R831-1)](#372)
-  - [Annexes (art. Annexe 6.3 à Annexe 6-8)](#373)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#374)
-    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#375)
-    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#376)
-    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#377)
+coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#242)
+          - [Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires (art. R316-6 à R316-10)](#243)
+        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#244)
+      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#245)
+        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à R321-22)](#246)
+          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#247)
+          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#248)
+            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#249)
+            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#250)
+          - [Section 3 : Titres de voyage (art. R321-22)](#251)
+        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#252)
+          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#253)
+          - [Section 2 : Autres activités professionnelles (art. R322-3)](#254)
+      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#255)
+        - [Chapitre unique (art. D331-1 à D331-14)](#256)
+          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#257)
+          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#258)
+    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#259)
+      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#260)
+        - [Chapitre unique (art. R411-1 à R411-6)](#261)
+      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#262)
+        - [Chapitre unique (art. R421-1 à R421-29)](#263)
+          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#264)
+          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#265)
+          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#266)
+          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#267)
+          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#268)
+      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#269)
+        - [Chapitre unique (art. R431-1)](#270)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R561-4)](#271)
+      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-3)](#272)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1 à R511-4)](#273)
+        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-2)](#274)
+          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-1)](#275)
+          - [Section 2 : Procédure contentieuse (art. R512-2)](#276)
+        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#277)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#278)
+          - [Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ (art. R513-2 à R513-3)](#279)
+      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#280)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#281)
+        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-9)](#282)
+        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-6)](#283)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#284)
+          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-6)](#285)
+        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#286)
+      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R533-1)](#287)
+        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-13)](#288)
+          - [Section 1 : Autorités administratives compétentes (art. R*531-2 à R531-4)](#289)
+          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#290)
+          - [Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-CE accordé par un Etat membre de l'Union européenne (art. R531-10 à R531-13)](#291)
+        - [Chapitre III : Autres cas de reconduite (art. R533-1)](#292)
+      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#293)
+      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R553-17)](#294)
+        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#295)
+        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-24)](#296)
+          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#297)
+          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#298)
+          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#299)
+            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#300)
+            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#301)
+          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-24)](#302)
+            - [Sous-section 1 : Saisine et décision du juge des libertés et de la détention (art. R552-17 à R552-19)](#303)
+            - [Sous-section 2 : Appel (art. R552-20 à R552-23)](#304)
+            - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#305)
+        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-17)](#306)
+          - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#307)
+            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#308)
+            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#309)
+            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#310)
+          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#311)
+          - [Section 2 bis : Intervention des personnes morales (art. R553-14 à R553-14-3)](#312)
+            - [Sous-section 1 : Cas des centres de rétention administrative (art. R553-14 à R553-14-1)](#313)
+            - [Sous-section 2 : Cas des locaux de rétention administrative (art. R553-14-2 à R553-14-3)](#314)
+          - [Section 2 ter : Accès des associations humanitaires aux lieux de rétention (art. R553-14-4 à R553-14-8)](#315)
+          - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-17)](#316)
+      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. R561-1 à R561-4)](#317)
+        - [Chapitre unique (art. R561-1 à R561-4)](#318)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. R611-1 à R626-4)](#319)
+      - [TITRE Ier : CONTRÔLES (art. R611-1 à R611-43)](#320)
+        - [Chapitre unique (art. R611-1 à R611-43)](#321)
+          - [Section 1 : Application de gestion des dossiers des ressortissants étrangers en France (art. R611-1 à R611-7-4)](#322)
+            - [Sous-section 1 : Finalités du traitement (art. R611-1)](#323)
+            - [Sous-section 2 : Données enregistrées dans le traitement (art. R611-2 à R611-3)](#324)
+            - [Sous-section 3 : Destinataires des données (art. R611-4)](#325)
+            - [Sous-section 4 : Accès aux données en consultation (art. R611-5 à R611-7)](#326)
+            - [Sous-section 5 : Conservation des données (art. R611-7-1)](#327)
+            - [Sous-section 6 : Droits d'accès, de rectification et d'opposition (art. R611-7-2 à R611-7-4)](#328)
+          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#329)
+          - [Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises (art. R611-18 à R611-24)](#330)
+          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#331)
+          - [Section 6 : Dispositions diverses (art. R611-41-1 à R611-43)](#332)
+      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#333)
+        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#334)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#335)
+          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#336)
+          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#337)
+          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#338)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#339)
+    - [LIVRE VII : LE DROIT D'ASILE (art. R721-1 à R765-1)](#340)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-5)](#341)
+        - [Chapitre Ier : Missions (art. R721-1)](#342)
+        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#343)
+          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#344)
+          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#345)
+          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#346)
+        - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#347)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-23)](#348)
+        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#349)
+        - [Chapitre III : Examen des recours (art. R733-1 à R733-23)](#350)
+          - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#351)
+          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-6 à R733-20)](#352)
+            - [Sous-section 1 : Compétence de la cour. (art. R733-6)](#353)
+            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#354)
+            - [Sous-section 3 : Instruction (art. R733-10 à R733-15)](#355)
+            - [Sous-section 4 : Jugement. (art. R733-16 à R733-20)](#356)
+          - [Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion. (art. R733-21 à R733-23)](#357)
+      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R*741-1 à R742-6)](#358)
+        - [Chapitre Ier : Admission au séjour. (art. R*741-1 à R741-2)](#359)
+        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#360)
+      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1)](#361)
+      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R765-1)](#362)
+        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#363)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#364)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#365)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#366)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#367)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R831-1)](#368)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#369)
+        - [Chapitre unique (art. R811-1 à R811-16)](#370)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#371)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#372)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#373)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#374)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#375)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#376)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#377)
+      - [TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON (art. R831-1)](#378)
+        - [Chapitre unique. (art. R831-1)](#379)
+  - [Annexes (art. Annexe 6.3 à Annexe 6-8)](#380)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#381)
+    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#382)
+    - [Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE (art. Annexe 6.6)](#383)
+    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#384)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -1609,9 +1616,14 @@ _Cité par_:
 ###### Article L213-1
 
 L'accès au territoire français peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public
-ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté de reconduite à la
-frontière pris, moins d'un an auparavant, sur le fondement du 8° du II de l'article L. 511-1 et notifié à son destinataire
-après la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration.
+ou qui fait l'objet soit d'une peine d'interdiction judiciaire du territoire, soit d'un arrêté d'expulsion, soit d'un arrêté
+de reconduite à la frontière pris moins de trois ans auparavant en application de l'article L. 533-1, soit d'une interdiction
+de retour sur le territoire français.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -1623,21 +1635,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 49 () JORF 25 juillet 2006
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
   - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
   - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
 
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 65
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
 
 
 ###### Article L213-2
@@ -6409,283 +6421,69 @@ _Cité par_:
 
 ### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=75></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière.<a id=76></a>
-
-###### Article L511-1
-
-I.-L'autorité administrative qui refuse la délivrance ou le renouvellement d'un titre de séjour à un étranger ou qui lui
-retire son titre de séjour, son récépissé de demande de carte de séjour ou son autorisation provisoire de séjour, pour un
-motif autre que l'existence d'une menace à l'ordre public, peut assortir sa décision d'une obligation de quitter le
-territoire français, laquelle fixe le pays à destination duquel l'étranger sera renvoyé s'il ne respecte pas le délai de
-départ volontaire prévu au troisième alinéa.L'obligation de quitter le territoire français n'a pas à faire l'objet d'une
-motivation. 
-
-La même autorité peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat
-partie à l'accord sur l'Espace économique européen ou de la Confédération suisse à quitter le territoire français lorsqu'elle
-constate qu'il ne justifie plus d'aucun droit au séjour tel que prévu par l'article L. 121-1.
-
-L'étranger dispose, pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, d'un délai d'un
-mois à compter de sa notification. Passé ce délai, cette obligation peut être exécutée d'office par l'administration. 
-
-Les dispositions du titre V du présent livre peuvent être appliquées à l'étranger faisant l'objet d'une obligation de quitter
-le territoire français dès l'expiration du délai prévu à l'alinéa précédent.
-
-L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter le dispositif d'aide au retour
-financé par l'Office français de l'immigration et de l'intégration, sauf s'il a été placé en rétention. 
-
-II.L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger sera reconduit à la frontière dans
-les cas suivants : 
-
-1° Si l'étranger ne peut justifier être entré régulièrement en France, à moins qu'il ne soit titulaire d'un titre de séjour
-en cours de validité ; 
-
-2° Si l'étranger s'est maintenu sur le territoire français au-delà de la durée de validité de son visa ou, s'il n'est pas
-soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France sans être titulaire
-d'un premier titre de séjour régulièrement délivré ; 
-
-3° Si l'étranger fait l'objet d'une obligation de quitter le territoire français exécutoire prise depuis au moins un an ; 
-
-4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire au-
-delà du délai d'un mois suivant l'expiration de ce titre ; 
-
-5° Si l'étranger a fait l'objet d'une condamnation définitive pour contrefaçon, falsification, établissement sous un autre
-nom que le sien ou défaut de titre de séjour ; 
-
-6° Abrogé ; 
-
-7° Si l'étranger a fait l'objet d'un retrait de son titre de séjour ou d'un refus de délivrance ou de renouvellement d'un
-titre de séjour, dans les cas où ce retrait ou ce refus ont été prononcés, en application des dispositions législatives et
-réglementaires en vigueur, en raison d'une menace à l'ordre public. 
-
-8° Si pendant la période de validité de son visa ou, s'il n'est pas soumis à l'obligation du visa, pendant la période définie
-au 2° ci-dessus, le comportement de l'étranger a constitué une menace pour l'ordre public ou si, pendant cette même durée,
-l'étranger a méconnu les dispositions de l'article L. 341-4 du code du travail.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe I, al. 1 à 8
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
-
-_Cité par_:
-
-  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
-  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
-  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
-  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
-  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
-  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
-  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
-  - Code de justice administrative - art. R222-34 (Ab)
-  - Code de justice administrative - art. R776-1 (VD)
-  - Code de justice administrative - art. R776-10 (VD)
-  - Code de justice administrative - art. R776-13-1 (VD)
-  - Code de justice administrative - art. R776-2 (VD)
-  - Code de justice administrative - art. R776-3 (VD)
-  - Code de justice administrative. - art. R775-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L213-1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-2 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-2 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L742-3 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R316-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R511-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R513-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-27 (Ab)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R742-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L511-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L611-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L624-1 (V)
-
-_Modifié par_:
-
-  - Décret n°2009-331 du 25 mars 2009 - art. 2
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
-  - Code du travail - art. L341-4
-
-
-###### Article L511-2
-
-Les dispositions du 1° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre
-de l'Union européenne :
-
-a) S'il ne remplit pas les conditions d'entrée prévues à l'article 5 de la convention signée à Schengen le 19 juin 1990 ;
-
-b) Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il ne peut justifier être entré sur le
-territoire métropolitain en se conformant aux stipulations de ses articles 19, paragraphe 1 ou 2, 20, paragraphe 1, et 21,
-paragraphe 1 ou 2.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention Schengen 1990-06-19 art. 19 à 21
-  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe II
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 53 () JORF 25 juillet 2006
-
-
-###### Article L511-3
-
-Les dispositions du 2° et du 8° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un
-Etat membre de l'Union européenne si, en provenance directe du territoire d'un des Etats parties à la convention signée à
-Schengen le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux stipulations de l'article
-19, paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe 1 ou 2, de ladite convention.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Convention Schengen 1990-06-19 art. 19 à 21
-  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe III
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 54 () JORF 25 juillet 2006
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3 (VD)
-
-
-###### Article L511-4
-
-Ne peuvent faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière en
-application du présent chapitre : 
-
-1° L'étranger mineur de dix-huit ans ; 
-
-2° L'étranger qui justifie par tous moyens résider habituellement en France depuis qu'il a atteint au plus l'âge de treize
-ans ; 
-
-3° (Abrogé) 
-
-4° L'étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
-titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
-
-5° L'étranger qui réside régulièrement en France depuis plus de vingt ans ; 
-
-6° L'étranger ne vivant pas en état de polygamie qui est père ou mère d'un enfant français mineur résidant en France, à
-condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
-l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans ; 
-
-7° L'étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que la communauté de vie
-n'ait pas cessé depuis le mariage et que le conjoint ait conservé la nationalité française ; 
-
-8° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est marié
-depuis au moins trois ans avec un ressortissant étranger relevant du 2°, à condition que la communauté de vie n'ait pas cessé
-depuis le mariage ; 
-
-9° L'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
-dont le taux d'incapacité permanente est égal ou supérieur à 20 % ; 
-
-10° L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
-pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement
-bénéficier d'un traitement approprié dans le pays de renvoi ; 
-
-11° Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
-européen ou de la Confédération suisse, ainsi que les membres de sa famille, qui bénéficient du droit au séjour permanent
-prévu par l'article L. 122-1. 
-
-En outre, ne peut faire l'objet d'une mesure de reconduite à la frontière pour l'un des motifs prévus aux 1°, 2° et 4° du II
-de l'article L. 511-1 l'étranger ressortissant d'un pays tiers qui est membre, tel que défini à l'article L. 121-3, de la
-famille d'un ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
-européen ou de la Confédération suisse.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 25, al. 7, art. 26, paragraphe I, al. 9, paragraphe II ecqc la reconduite à la frontière
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (M)
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 26 (M)
-
-_Cité par_:
-
-  - Décret n°46-1574 du 30 juin 1946 - art. 5 (Ab)
-  - Arrêté du 27 décembre 2016 - art. 9 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 51 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 55 () JORF 25 juillet 2006
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
-  - Code civil - art. 371-2 (V)
-
-
-#### Chapitre II : Procédure administrative et contentieuse<a id=77></a>
+#### Chapitre II : Procédure administrative et contentieuse<a id=76></a>
 
 ###### Article L512-1
 
-L'étranger qui fait l'objet d'un refus de séjour, d'un refus de délivrance ou de renouvellement de titre de séjour ou d'un
-retrait de titre de séjour, de récépissé de demande de carte de séjour ou d'autorisation provisoire de séjour assorti d'une
-obligation de quitter le territoire français mentionnant le pays de destination peut, dans le délai d'un mois suivant la
-notification, demander l'annulation de ces décisions au tribunal administratif. Il peut demander le bénéfice de l'aide
-juridictionnelle au plus tard lors de l'introduction de sa requête en annulation. Son recours suspend l'exécution de
-l'obligation de quitter le territoire français sans pour autant faire obstacle au placement en rétention administrative dans
-les conditions prévues au titre V du présent livre.
+I. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire français et qui dispose du délai de départ
+volontaire mentionné au premier alinéa du II de l'article L. 511-1 peut, dans le délai de trente jours suivant sa
+notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la décision
+relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le
+territoire français qui l'accompagnent le cas échéant. L'étranger qui fait l'objet de l'interdiction de retour prévue au
+troisième alinéa du III du même article L. 511-1 peut, dans le délai de trente jours suivant sa notification, demander
+l'annulation de cette décision. 
 
-Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. Toutefois, en cas de placement en
-rétention de l'étranger avant qu'il ait rendu sa décision, il statue, selon la procédure prévue à l'article L. 512-2, sur la
-légalité de l'obligation de quitter le territoire français et de la décision fixant le pays de renvoi, au plus tard soixante-
-douze heures à compter de la notification par l'administration au tribunal de ce placement.
+L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
+annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
 
-Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
-prévues au titre V du présent livre et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
-administrative ait à nouveau statué sur son cas.
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
+suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
+décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
+la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français qui
+l'accompagnent le cas échéant. 
+
+Il est statué sur ce recours selon la procédure et dans les délais prévus au I. 
+
+Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+
+III. ― En cas de décision de placement en rétention ou d'assignation à résidence en application de l'article L. 561-2,
+l'étranger peut demander au président du tribunal administratif l'annulation de cette décision dans les quarante-huit heures
+suivant sa notification. Lorsque l'étranger a fait l'objet d'une obligation de quitter le territoire français, le même
+recours en annulation peut être également dirigé contre l'obligation de quitter le territoire français et contre la décision
+refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision d'interdiction de
+retour sur le territoire français qui l'accompagnent le cas échéant, lorsque ces décisions sont notifiées avec la décision de
+placement en rétention ou d'assignation. Toutefois, si l'étranger est assigné à résidence en application du même article L.
+561-2, son recours en annulation peut porter directement sur l'obligation de quitter le territoire ainsi que, le cas échéant,
+sur la décision refusant un délai de départ volontaire, la décision mentionnant le pays de destination et la décision
+d'interdiction de retour sur le territoire français. 
+
+Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
+magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
+plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
+proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
+salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
+proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. 
+
+L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
+dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+
+Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
+territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
+d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
+compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -6739,71 +6537,37 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-210 du 19 février 2007 - art. 7 (V)
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
 
 _Nouveaux textes_:
 
   - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (Ab)
   - Code de l'entrée et du séjour des étrangers et du  - art. L512-1-1 (V)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
-
-
-###### Article L512-1-1
-
-Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir
-un conseil, son consulat ou une personne de son choix.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Créé par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 56 () JORF 25 juillet 2006
-
-_Abrogé par_:
-
-  - Loi n°2011-672 du 16 juin 2011 - art. 48
-
-_Anciens textes_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
-
 
 ###### Article L512-2
 
-L'étranger qui fait l'objet d'un arrêté de reconduite à la frontière peut, dans les quarante-huit heures suivant sa
-notification par voie administrative (1), demander l'annulation de cet arrêté au président du tribunal administratif.
-
-Le président ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
-inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue dans un délai de soixante-
-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus proche du lieu où
-se trouve l'étranger, si celui-ci est retenu en application du titre V du présent livre.
-
-L'étranger peut demander au président du tribunal ou au magistrat désigné à cette fin le concours d'un interprète et la
-communication du dossier contenant les pièces sur la base desquelles la décision attaquée a été prise.
-
-L'audience est publique. Elle se déroule sans conclusions du commissaire du Gouvernement, en présence de l'intéressé, sauf si
-celui-ci, dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au
-président ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office.
+Dès notification de l'obligation de quitter le territoire français, l'étranger auquel aucun délai de départ volontaire n'a
+été accordé est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.
+L'étranger est informé qu'il peut recevoir communication des principaux éléments des décisions qui lui sont notifiées en
+application de l'article L. 511-1. Ces éléments lui sont alors communiqués dans une langue qu'il comprend ou dont il est
+raisonnable de supposer qu'il la comprend.
 
 **Nota:**
 
-(1) : Loi 2006-911 du 24 juillet 2006 art. 58, art. 118 : Les mots "lorsque l'arrêté est notifié par voie administrative, ou
-dans les sept jours, lorsqu'il est notifié par voie postale" sont remplacés par les mots "par voie administrative" à compter
-de la date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er
-juillet 2007.
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -6813,13 +6577,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 58 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
 
 _Cité par_:
 
@@ -6830,24 +6593,24 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de justice administrative. - art. L222-2-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
 
 
 ###### Article L512-3
 
-Les dispositions du titre V du présent livre peuvent être appliquées dès l'intervention de la mesure de reconduite à la
-frontière.
+Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une obligation de quitter le territoire
+français dès l'expiration du délai de départ volontaire qui lui a été accordé ou, si aucun délai n'a été accordé, dès la
+notification de l'obligation de quitter le territoire français. 
 
-L'arrêté de reconduite à la frontière pris en application des articles L. 511-1 à L. 511-3 ne peut être exécuté avant
-l'expiration d'un délai de quarante-huit heures suivant sa notification par voie administrative (1) ou, si le président du
-tribunal administratif ou le magistrat désigné à cet fin est saisi, avant qu'il n'ait statué.
+L'obligation de quitter le territoire français ne peut faire l'objet d'une exécution d'office ni avant l'expiration du délai
+de départ volontaire ou, si aucun délai n'a été accordé, avant l'expiration d'un délai de quarante-huit heures suivant sa
+notification par voie administrative, ni avant que le tribunal administratif n'ait statué s'il a été saisi. L'étranger en est
+informé par la notification écrite de l'obligation de quitter le territoire français.
 
 **Nota:**
 
-(1) : Loi 2006-911 du 24 juillet 2006 art. 59, art. 118 : Les mots "lorsque l'arrêté est notifié par voie administrative, ou
-de sept jours, lorsqu'il est notifié par voie postale" sont remplacés par les mots "par voie administrative" à compter de la
-date de publication du décret en Conseil d'Etat modifiant le code de justice administrative et au plus tard le 1er juillet
-2007.
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -6857,13 +6620,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 59 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
 
 _Cité par_:
 
@@ -6876,14 +6638,29 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L511-1 à L511-3
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
 
 
 ###### Article L512-4
 
-Si l'arrêté de reconduite à la frontière est annulé, il est immédiatement mis fin aux mesures de surveillance prévues au
-titre V du présent livre et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
-administrative ait à nouveau statué sur son cas.
+Si l'obligation de quitter le territoire français est annulée, il est immédiatement mis fin aux mesures de surveillance
+prévues aux articles L. 513-4, 
+L. 551-1, 
+L. 552-4, L. 561-1 et L. 561-2 et l'étranger est muni d'une autorisation provisoire de séjour jusqu'à ce que l'autorité
+administrative ait à nouveau statué sur son cas. 
+
+Si la décision de ne pas accorder de délai de départ volontaire, la décision de placement en rétention ou la décision
+d'assignation à résidence est annulée, il est immédiatement mis fin aux mesures de surveillance prévues aux articles L.
+551-1, L. 552-4, L. 561-1 et L. 561-2 et le président du tribunal administratif ou le magistrat désigné à cette fin rappelle
+à l'étranger son obligation de quitter le territoire français dans le délai qui lui sera fixé par l'autorité administrative
+en application du II de l'article L. 511-1 ou du sixième alinéa de l'article L. 511-3-1. Ce délai court à compter de sa
+notification.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -6893,32 +6670,580 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
 
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.<a id=78></a>
+###### Article L512-5
 
-###### Article L513-1
-
-L'arrêté de reconduite à la frontière qui n'a pas été contesté devant le président du tribunal administratif ou le magistrat
-désigné à cette fin dans le délai prévu au premier alinéa de l'article L. 512-2 ou qui n'a pas fait l'objet d'une annulation
-dans les conditions fixées au même article (1) peut être exécuté d'office par l'administration.
+L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
+dans son pays d'origine, sauf s'il a été placé en rétention.
 
 **Nota:**
 
-(1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur à
-compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
-La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 22 bis, paragraphe IV
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+
+
+###### Article L512-6
+
+L'annulation de la décision relative au séjour emporte abrogation de la décision d'interdiction de retour qui l'accompagne le
+cas échéant, y compris lorsque le recours dirigé contre celle-ci a été rejeté selon la procédure prévue au III de l'article
+L. 512-1.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 48
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+
+
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière.<a id=77></a>
+
+#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin<a id=78></a>
+
+###### Article L514-1
+
+Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes : 
+
+1° Si l'autorité consulaire le demande, l'obligation de quitter sans délai le territoire français ne peut être mise à
+exécution avant l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ; 
+
+2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
+territoire français et qui défère cet acte au tribunal administratif peut assortir son recours d'une demande de suspension de
+son exécution. 
+
+En conséquence, les dispositions des articles L. 512-1, L. 512-3 et L. 512-4 ne sont pas applicables en Guyane ni à Saint-
+Martin.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 40, paragraphes I et II
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 40 (M)
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 104
+
+_Cité par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 57
+  - Code de justice administrative - art. L776-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
+
+
+###### Article L514-2
+
+Les dispositions de l'article L. 514-1 sont applicables dans le département de la Guadeloupe et à Saint-Barthélemy, pendant
+cinq ans à compter de la publication de la loi n° 2011-672 du 16 juin 2011 relative à l'immigration, à l'intégration et à la
+nationalité.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Cite_:
+
+  - Loi n°2011-672 du 16 juin 2011
+  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VD)
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 104
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 29
+
+
+### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS<a id=79></a>
+
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français et d'une interdiction de retour sur le territoire français<a id=80></a>
+
+###### Article L511-1
+
+I. ― L'autorité administrative peut obliger à quitter le territoire français un étranger non ressortissant d'un Etat membre
+de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse et
+qui n'est pas membre de la famille d'un tel ressortissant au sens des 4° et 5° de l'article L. 121-1, lorsqu'il se trouve
+dans l'un des cas suivants : 
+
+1° Si l'étranger ne peut justifier être entré régulièrement sur le territoire français, à moins qu'il ne soit titulaire d'un
+titre de séjour en cours de validité ; 
+
+2° Si l'étranger s'est maintenu sur le territoire français au-delà de la durée de validité de son visa ou, s'il n'est pas
+soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée sur le territoire sans être
+titulaire d'un premier titre de séjour régulièrement délivré ; 
+
+3° Si la délivrance ou le renouvellement d'un titre de séjour a été refusé à l'étranger ou si le titre de séjour qui lui
+avait été délivré lui a été retiré ; 
+
+4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire et s'est maintenu sur le territoire
+français à l'expiration de ce titre ; 
+
+5° Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à l'étranger
+lui a été retiré ou si le renouvellement de ces documents lui a été refusé. 
+
+La décision énonçant l'obligation de quitter le territoire français est motivée. Elle n'a pas à faire l'objet d'une
+motivation distincte de celle de la décision relative au séjour dans les cas prévus aux 3° et 5° du présent I, sans
+préjudice, le cas échéant, de l'indication des motifs pour lesquels il est fait application des II et III. 
+
+L'obligation de quitter le territoire français fixe le pays à destination duquel l'étranger est renvoyé en cas d'exécution
+d'office. 
+
+II. ― Pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, l'étranger dispose d'un délai de
+trente jours à compter de sa notification et peut solliciter, à cet effet, un dispositif d'aide au retour dans son pays
+d'origine. Eu égard à la situation personnelle de l'étranger, l'autorité administrative peut accorder, à titre exceptionnel,
+un délai de départ volontaire supérieur à trente jours. 
+
+Toutefois, l'autorité administrative peut, par une décision motivée, décider que l'étranger est obligé de quitter sans délai
+le territoire français : 
+
+1° Si le comportement de l'étranger constitue une menace pour l'ordre public ; 
+
+2° Si l'étranger s'est vu refuser la délivrance ou le renouvellement de son titre de séjour, de son récépissé de demande de
+carte de séjour ou de son autorisation provisoire de séjour au motif que sa demande était ou manifestement infondée ou
+frauduleuse ; 
+
+3° S'il existe un risque que l'étranger se soustraie à cette obligation. Ce risque est regardé comme établi, sauf
+circonstance particulière, dans les cas suivants : 
+
+a) Si l'étranger, qui ne peut justifier être entré régulièrement sur le territoire français, n'a pas sollicité la délivrance
+d'un titre de séjour ; 
+
+b) Si l'étranger s'est maintenu sur le territoire français au-delà de la durée de validité de son visa ou, s'il n'est pas
+soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France, sans avoir
+sollicité la délivrance d'un titre de séjour ; 
+
+c) Si l'étranger s'est maintenu sur le territoire français plus d'un mois après l'expiration de son titre de séjour, de son
+récépissé de demande de carte de séjour ou de son autorisation provisoire de séjour, sans en avoir demandé le
+renouvellement ; 
+
+d) Si l'étranger s'est soustrait à l'exécution d'une précédente mesure d'éloignement ; 
+
+e) Si l'étranger a contrefait, falsifié ou établi sous un autre nom que le sien un titre de séjour ou un document d'identité
+ou de voyage ; 
+
+f) Si l'étranger ne présente pas de garanties de représentation suffisantes, notamment parce qu'il ne peut justifier de la
+possession de documents d'identité ou de voyage en cours de validité, ou qu'il a dissimulé des éléments de son identité, ou
+qu'il n'a pas déclaré le lieu de sa résidence effective ou permanente, ou qu'il s'est précédemment soustrait aux obligations
+prévues par les articles L. 513-4, L. 552-4, L. 561-1 et L. 561-2. 
+
+L'autorité administrative peut faire application du deuxième alinéa du présent II lorsque le motif apparaît au cours du délai
+accordé en application du premier alinéa. 
+
+III. ― L'autorité administrative peut, par une décision motivée, assortir l'obligation de quitter le territoire français
+d'une interdiction de retour sur le territoire français. 
+
+L'étranger à l'encontre duquel a été prise une interdiction de retour est informé qu'il fait l'objet d'un signalement aux
+fins de non-admission dans le système d'information Schengen, conformément à l'article 96 de la convention signée à Schengen
+le 19 juin 1990. Les modalités de suppression du signalement de l'étranger en cas d'annulation ou d'abrogation de
+l'interdiction de retour sont fixées par voie réglementaire. 
+
+Lorsque l'étranger ne faisant pas l'objet d'une interdiction de retour s'est maintenu sur le territoire au-delà du délai de
+départ volontaire, l'autorité administrative peut prononcer une interdiction de retour pour une durée maximale de deux ans à
+compter de sa notification. 
+
+Lorsqu'aucun délai de départ volontaire n'a été accordé à l'étranger obligé de quitter le territoire français, l'autorité
+administrative peut prononcer l'interdiction de retour pour une durée maximale de trois ans à compter de sa notification. 
+
+Lorsqu'un délai de départ volontaire a été accordé à l'étranger obligé de quitter le territoire français, l'autorité
+administrative peut prononcer l'interdiction de retour, prenant effet à l'expiration du délai, pour une durée maximale de
+deux ans à compter de sa notification. 
+
+Lorsque l'étranger faisant l'objet d'une interdiction de retour s'est maintenu sur le territoire au-delà du délai de départ
+volontaire ou alors qu'il était obligé de quitter sans délai le territoire français ou, ayant déféré à l'obligation de
+quitter le territoire français, y est revenu alors que l'interdiction de retour poursuit ses effets, l'autorité
+administrative peut prolonger cette mesure pour une durée maximale de deux ans. 
+
+L'interdiction de retour et sa durée sont décidées par l'autorité administrative en tenant compte de la durée de présence de
+l'étranger sur le territoire français, de la nature et de l'ancienneté de ses liens avec la France, de la circonstance qu'il
+a déjà fait l'objet ou non d'une mesure d'éloignement et de la menace pour l'ordre public que représente sa présence sur le
+territoire français. 
+
+L'autorité administrative peut à tout moment abroger l'interdiction de retour. Lorsque l'étranger sollicite l'abrogation de
+l'interdiction de retour, sa demande n'est recevable que s'il justifie résider hors de France. Cette condition ne s'applique
+pas : 
+
+1° Pendant le temps où l'étranger purge en France une peine d'emprisonnement ferme ; 
+
+2° Lorsque l'étranger fait l'objet d'une mesure d'assignation à résidence prise en application des articles L. 561-1 ou L.
+561-2. 
+
+Lorsqu'un étranger faisant l'objet d'une obligation de quitter le territoire français avec délai de départ volontaire
+assortie d'une interdiction de retour justifie, selon des modalités déterminées par voie réglementaire, avoir satisfait à
+cette obligation dans le délai imparti, au plus tard deux mois suivant l'expiration de ce délai de départ volontaire,
+l'interdiction de retour est abrogée. Toutefois, par décision motivée, l'autorité administrative peut refuser cette
+abrogation au regard de circonstances particulières tenant à la situation et au comportement de l'intéressé.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22 a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe I, al. 1 à 8
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
+
+_Cité par_:
+
+  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
+  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+  - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
+  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+  - Code de justice administrative - art. R222-34 (Ab)
+  - Code de justice administrative - art. R776-1 (VD)
+  - Code de justice administrative - art. R776-10 (VD)
+  - Code de justice administrative - art. R776-13-1 (VD)
+  - Code de justice administrative - art. R776-2 (VD)
+  - Code de justice administrative - art. R776-3 (VD)
+  - Code de justice administrative. - art. R775-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-3 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R316-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R511-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R511-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R513-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-27 (Ab)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R742-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L511-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L611-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L624-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 37
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+
+
+###### Article L511-2
+
+Le 1° du I et le a du 3° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas ressortissant d'un Etat
+membre de l'Union européenne : 
+
+1° S'il ne remplit pas les conditions d'entrée prévues à l'article 5 du règlement (CE) n° 562/2006 du Parlement européen et
+du Conseil, du 15 mars 2006, établissant un code communautaire relatif au régime de franchissement des frontières par les
+personnes (code frontières Schengen) ; 
+
+2° Si, en provenance directe du territoire d'un Etat partie à la convention précitée signée à Schengen le 19 juin 1990, il ne
+peut justifier être entré sur le territoire métropolitain en se conformant aux stipulations de ses articles 19, paragraphe 1
+ou 2, 20, paragraphe 1, et 21, paragraphe 1 ou 2, de cette même convention.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe II
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 60
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+
+
+###### Article L511-3
+
+Les dispositions du 2° du I et du b du 3° du II de l'article L. 511-1 sont applicables à l'étranger qui n'est pas
+ressortissant d'un Etat membre de l'Union européenne si, en provenance directe du territoire d'un des Etats parties à la
+convention signée à Schengen le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux
+stipulations de l'article 19, paragraphe 1 ou 2, de l'article 20, paragraphe 1, et de l'article 21, paragraphe 1 ou 2, de
+ladite convention.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Convention Schengen 1990-06-19 art. 19 à 21
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 22, paragraphe III
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 22 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 38
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-3 (VD)
+
+
+###### Article L511-3-1
+
+L'autorité administrative compétente peut, par décision motivée, obliger un ressortissant d'un Etat membre de l'Union
+européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse, ou un membre de
+sa famille à quitter le territoire français lorsqu'elle constate : 
+
+1° Qu'il ne justifie plus d'aucun droit au séjour tel que prévu par les articles L. 121-1, 
+L. 121-3 ou L. 121-4-1 ; 
+
+2° Ou que son séjour est constitutif d'un abus de droit. Constitue un abus de droit le fait de renouveler des séjours de
+moins de trois mois dans le but de se maintenir sur le territoire alors que les conditions requises pour un séjour d'une
+durée supérieure à trois mois ne sont pas remplies. Constitue également un abus de droit le séjour en France dans le but
+essentiel de bénéficier du système d'assistance sociale ; 
+
+3° Ou que, pendant la période de trois mois à compter de son entrée en France, son comportement personnel constitue une
+menace réelle, actuelle et suffisamment grave pour un intérêt fondamental de la société française. 
+
+L'autorité administrative compétente tient compte de l'ensemble des circonstances relatives à sa situation, notamment la
+durée du séjour de l'intéressé en France, son âge, son état de santé, sa situation familiale et économique, son intégration
+sociale et culturelle en France, et de l'intensité de ses liens avec son pays d'origine. 
+
+L'étranger dispose, pour satisfaire à l'obligation qui lui a été faite de quitter le territoire français, d'un délai qui,
+sauf urgence, ne peut être inférieur à trente jours à compter de sa notification. A titre exceptionnel, l'autorité
+administrative peut accorder un délai de départ volontaire supérieur à trente jours. 
+
+L'obligation de quitter le territoire français fixe le pays à destination duquel il est renvoyé en cas d'exécution d'office. 
+
+Les articles L. 512-1 à L. 512-4 sont applicables aux mesures prises en application du présent article.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°91-647 du 10 juillet 1991 - art. 3 (V)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+  - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
+  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Code de justice administrative - art. R776-1 (VD)
+  - Code de justice administrative - art. R776-10 (VD)
+  - Code de justice administrative - art. R776-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R513-4 (V)
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 39
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L121-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L121-3 (V)
+
+
+###### Article L511-4
+
+Ne peuvent faire l'objet d'une obligation de quitter le territoire français : 
+
+1° L'étranger mineur de dix-huit ans ; 
+
+2° L'étranger qui justifie par tous moyens résider habituellement en France depuis qu'il a atteint au plus l'âge de treize
+ans ; 
+
+3° (Abrogé). 
+
+4° L'étranger qui réside régulièrement en France depuis plus de dix ans, sauf s'il a été, pendant toute cette période,
+titulaire d'une carte de séjour temporaire portant la mention " étudiant " ; 
+
+5° L'étranger qui réside régulièrement en France depuis plus de vingt ans ; 
+
+6° L'étranger ne vivant pas en état de polygamie qui est père ou mère d'un enfant français mineur résidant en France, à
+condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par
+l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans ; 
+
+7° L'étranger marié depuis au moins trois ans avec un conjoint de nationalité française, à condition que la communauté de vie
+n'ait pas cessé depuis le mariage et que le conjoint ait conservé la nationalité française ; 
+
+8° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est marié
+depuis au moins trois ans avec un ressortissant étranger relevant du 2°, à condition que la communauté de vie n'ait pas cessé
+depuis le mariage ; 
+
+9° L'étranger titulaire d'une rente d'accident du travail ou de maladie professionnelle servie par un organisme français et
+dont le taux d'incapacité permanente est égal ou supérieur à 20 % ; 
+
+10° L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
+pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement
+approprié dans le pays de renvoi, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après
+avis du directeur général de l'agence régionale de santé ; 
+
+11° Le ressortissant d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse, ainsi que les membres de sa famille, qui bénéficient du droit au séjour permanent
+prévu par l'article L. 122-1.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 25, al. 7, art. 26, paragraphe I, al. 9, paragraphe II ecqc la reconduite à la frontière
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 25 (M)
+  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 26 (M)
+
+_Cité par_:
+
+  - Décret n°46-1574 du 30 juin 1946 - art. 5 (Ab)
+  - Arrêté du 27 décembre 2016 - art. 9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 40
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L122-1 (V)
+  - Code civil - art. 371-2
+
+
+#### Chapitre II : Procédure administrative et contentieuse<a id=81></a>
+
+#### Chapitre III :  Exécution des obligations de quitter le territoire français et des interdictions de retour sur le territoire français<a id=82></a>
+
+###### Article L513-1
+
+I. ― L'obligation de quitter sans délai le territoire français, qui n'a pas été contestée devant le président du tribunal
+administratif dans le délai prévu au II de l'article L. 512-1 ou qui n'a pas fait l'objet d'une annulation, peut être
+exécutée d'office. 
+
+L'obligation de quitter le territoire français avec un délai de départ volontaire, qui n'a pas été contestée devant le
+tribunal administratif dans le délai prévu au I du même article L. 512-1 ou qui n'a pas fait l'objet d'une annulation, peut
+être exécutée d'office à l'expiration du délai de départ volontaire. 
+
+II. ― Sous réserve des dispositions de l'article L. 512-3, l'étranger faisant l'objet d'une interdiction de retour sur le
+territoire français peut être d'office reconduit à la frontière.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -6928,24 +7253,22 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
-  - Loi n°2006-911 du 24 juillet 2006 - art. 62 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+  - Loi n°2011-672 du 16 juin 2011 - art. 42
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-3 (VT)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L512-2 (M)
 
 
 ###### Article L513-2
@@ -6990,12 +7313,16 @@ _Cité par_:
 
 ###### Article L513-3
 
-La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même.
+La décision fixant le pays de renvoi constitue une décision distincte de la mesure d'éloignement elle-même. 
 
-Lorsque la décision fixant le pays de renvoi vise à exécuter une mesure de reconduite à la frontière, le recours contentieux
-contre cette décision n'est suspensif d'exécution, dans les conditions prévues au dernier alinéa de l'article L. 512-3, que
-s'il est présenté au président du tribunal administratif en même temps que le recours contre la mesure de reconduite à la
-frontière qu'elle vise à exécuter.
+Le recours contentieux contre la décision fixant le pays de renvoi n'est suspensif d'exécution, dans les conditions prévues
+au second alinéa de l'article L. 512-3, que s'il est présenté en même temps que le recours contre l'obligation de quitter le
+territoire français ou l'arrêté de reconduite à la frontière qu'elle vise à exécuter.
+
+**Nota:**
+
+Le décret n° 2011-819 du 8 juillet 2011, article 4, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7019,29 +7346,30 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 50 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 61 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 64 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 49
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L512-3 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-3 (VT)
 
 
 ###### Article L513-4
 
-L'étranger qui est obligé de quitter le territoire français ou qui doit être reconduit à la frontière et qui justifie être
-dans l'impossibilité de quitter le territoire français en établissant qu'il ne peut ni regagner son pays d'origine, ni se
-rendre dans aucun autre pays peut, par dérogation aux dispositions du titre V du présent livre, être astreint à résider dans
-les lieux qui lui sont fixés, dans lesquels il doit se présenter périodiquement aux services de police et de gendarmerie. Si
-l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire
-conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. Le non-respect des prescriptions liées à
-l'assignation à résidence est sanctionné dans les conditions prévues à l'article L. 624-4.
+L'étranger auquel un délai de départ volontaire a été accordé en application du II de l'article L. 511-1 peut, dès la
+notification de l'obligation de quitter le territoire français, être astreint à se présenter à l'autorité administrative ou
+aux services de police ou aux unités de gendarmerie pour y indiquer ses diligences dans la préparation de son départ. 
+
+Un décret en Conseil d'Etat prévoit les modalités d'application du présent article.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7073,79 +7401,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 119
+  - Loi n°2011-672 du 16 juin 2011 - art. 43
 
 
-#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin<a id=79></a>
+#### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Saint-Barthélemy et à Saint-Martin<a id=83></a>
 
-###### Article L514-1
+### TITRE II : L'EXPULSION<a id=84></a>
 
-Pour la mise en oeuvre du présent titre, sont applicables en Guyane et à Saint-Martin, les dispositions suivantes :
-
-1° Si l'autorité consulaire le demande, la mesure de reconduite à la frontière ne peut être mise à exécution avant
-l'expiration du délai d'un jour franc à compter de la notification de l'arrêté ;
-
-2° Sans préjudice des dispositions de l'alinéa précédent, l'étranger qui a fait l'objet d'une obligation de quitter le
-territoire français ou d'une mesure administrative de reconduite à la frontière et qui défère cet acte au tribunal
-administratif peut assortir son recours d'une demande de suspension de son exécution.
-
-En conséquence, les dispositions des articles L. 512-1 et L. 512-2 à L. 512-4 ne sont pas applicables en Guyane ni à Saint-
-Martin.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 40, paragraphes I et II
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 40 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 55 () JORF 21 novembre 2007
-
-_Cité par_:
-
-  - Loi n°2016-274 du 7 mars 2016 - art. 57
-  - Code de justice administrative - art. L776-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L514-2 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L512-1 (T)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L512-1, L512-2 à L512-4
-
-
-###### Article L514-2
-
-Les dispositions de l'article L. 514-1 sont applicables dans le département de la Guadeloupe et à Saint-Barthélémy, pendant
-cinq ans à compter de la publication de la loi n° 2006-911 du 24 juillet 2006 relative à l'immigration et à l'intégration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Cite_:
-
-  - Loi n°2006-911 du 24 juillet 2006 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (VT)
-
-_Modifié par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 55 () JORF 21 novembre 2007
-
-
-### TITRE II : L'EXPULSION<a id=80></a>
-
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=81></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=85></a>
 
 ###### Article L521-1
 
@@ -7245,32 +7508,38 @@ _Cite_:
 
 Ne peuvent faire l'objet d'une mesure d'expulsion qu'en cas de comportements de nature à porter atteinte aux intérêts
 fondamentaux de l'Etat, ou liés à des activités à caractère terroriste, ou constituant des actes de provocation explicite et
-délibérée à la discrimination, à la haine ou à la violence contre une personne déterminée ou un groupe de personnes :
+délibérée à la discrimination, à la haine ou à la violence contre une personne déterminée ou un groupe de personnes : 
 
 1° L'étranger qui justifie par tous moyens résider habituellement en France depuis qu'il a atteint au plus l'âge de treize
-ans ;
+ans ; 
 
-2° L'étranger qui réside régulièrement en France depuis plus de vingt ans ;
+2° L'étranger qui réside régulièrement en France depuis plus de vingt ans ; 
 
 3° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est marié
 depuis au moins quatre ans soit avec un ressortissant français ayant conservé la nationalité française, soit avec un
-ressortissant étranger relevant du 1°, à condition que la communauté de vie n'ait pas cessé depuis le mariage ;
+ressortissant étranger relevant du 1°, à condition que la communauté de vie n'ait pas cessé depuis le mariage ; 
 
 4° L'étranger qui réside régulièrement en France depuis plus de dix ans et qui, ne vivant pas en état de polygamie, est père
 ou mère d'un enfant français mineur résidant en France, à condition qu'il établisse contribuer effectivement à l'entretien et
 à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de celui-ci ou
-depuis au moins un an ;
+depuis au moins un an ; 
 
 5° L'étranger résidant habituellement en France dont l'état de santé nécessite une prise en charge médicale dont le défaut
-pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement
-bénéficier d'un traitement approprié dans le pays de renvoi.
+pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement
+approprié dans le pays de renvoi, sauf circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après
+avis du directeur général de l'agence régionale de santé. 
 
 Les dispositions du présent article ne sont toutefois pas applicables à l'étranger mentionné au 3° ou au 4° ci-dessus lorsque
 les faits à l'origine de la mesure d'expulsion ont été commis à l'encontre de son conjoint ou de ses enfants ou de tout
-enfant sur lequel il exerce l'autorité parentale.
+enfant sur lequel il exerce l'autorité parentale. 
 
 Les étrangers mentionnés au présent article bénéficient de ses dispositions même s'ils se trouvent dans la situation prévue
 au dernier alinéa de l'article L. 521-2.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7293,17 +7562,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 68 () JORF 25 juillet 2006
-  - Loi n°2006-911 du 24 juillet 2006 - art. 77 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cite_:
 
-  - Code civil - art. 371-2 (M)
+  - Code civil - art. 371-2
 
 
 ###### Article L521-4
@@ -7345,7 +7613,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L521-1 (V)
 
 
-#### Chapitre II : Procédure administrative<a id=82></a>
+#### Chapitre II : Procédure administrative<a id=86></a>
 
 ###### Article L522-1
 
@@ -7438,7 +7706,7 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre III : Exécution des arrêtés d'expulsion<a id=83></a>
+#### Chapitre III : Exécution des arrêtés d'expulsion<a id=87></a>
 
 ###### Article L523-1
 
@@ -7485,11 +7753,16 @@ _Cite_:
 
 L'étranger qui fait l'objet d'un arrêté d'expulsion et qui justifie être dans l'impossibilité de quitter le territoire
 français en établissant qu'il ne peut ni regagner son pays d'origine ni se rendre dans aucun autre pays peut faire l'objet
-d'une mesure d'assignation à résidence dans les conditions prévues à l'article L. 513-4. Les dispositions de l'article L.
-624-4 sont applicables.
+d'une mesure d'assignation à résidence dans les conditions prévues à l'article L. 561-1. Les dispositions de l'article L.
+624-4 sont applicables. 
 
 La même mesure peut, en cas d'urgence absolue et de nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique,
 être appliquée aux étrangers qui font l'objet d'une proposition d'expulsion. Dans ce cas, la mesure ne peut excéder un mois.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7500,8 +7773,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -7522,19 +7795,25 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-3 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 
 ###### Article L523-4
 
 Peut également faire l'objet d'un arrêté d'assignation à résidence l'étranger qui a fait l'objet d'un arrêté d'expulsion non
 exécuté lorsque son état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des
-conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement bénéficier d'un traitement approprié
-dans le pays de renvoi. Cette mesure est assortie d'une autorisation de travail. Les obligations de présentation aux services
-de police et aux unités de gendarmerie prévues à l'article L. 513-4 ainsi que les sanctions en cas de non-respect des
+conséquences d'une exceptionnelle gravité, sous réserve de l'absence d'un traitement approprié dans le pays de renvoi, sauf
+circonstance humanitaire exceptionnelle appréciée par l'autorité administrative après avis du directeur général de l'agence
+régionale de santé. Cette mesure est assortie d'une autorisation de travail. Les obligations de présentation aux services de
+police et aux unités de gendarmerie prévues à l'article L. 561-1 ainsi que les sanctions en cas de non-respect des
 prescriptions liées à l'assignation à résidence prévues à l'article L. 624-4 sont applicables.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7544,8 +7823,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cité par_:
 
@@ -7556,17 +7839,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ###### Article L523-5
 
 Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait
 l'objet d'une mesure d'expulsion prononcée en application de l'article L. 521-2. Cette mesure est assortie d'une autorisation
-de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article L. 513-4
+de travail. Les obligations de présentation aux services de police et aux unités de gendarmerie prévues à l'article L. 561-1
 ainsi que les sanctions en cas de manquement aux prescriptions liées à l'assignation à résidence prévues à l'article L. 624-4
 sont applicables. La mesure peut être abrogée à tout moment en cas de manquement à ces obligations et prescriptions ou de
 faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7581,7 +7869,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 120
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cité par_:
 
@@ -7591,11 +7879,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L521-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
-#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=84></a>
+#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=88></a>
 
 ###### Article L524-1
 
@@ -7722,30 +8010,29 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L521-3 (V)
 
 
-### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=85></a>
+### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=89></a>
 
-#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=86></a>
+#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=90></a>
 
 ###### Article L531-1
 
-Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-2 à L. 512-4 (1), L. 513-1 et L. 531-3,
+Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-1, L. 512-3, L. 512-4, L. 513-1 et L. 531-3,
 l'étranger non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se conformer aux
-dispositions des articles L. 211-1, L. 211-2, L. 311-1 et L. 311-2 peut être remis aux autorités compétentes de l'Etat membre
-qui l'a admis à entrer ou à séjourner sur son territoire, ou dont il provient directement, en application des dispositions
-des conventions internationales conclues à cet effet avec les Etats membres de l'Union européenne.
+dispositions des articles L. 211-1, L. 211-2, 
+L. 311-1 et L. 311-2 peut être remis aux autorités compétentes de l'Etat membre qui l'a admis à entrer ou à séjourner sur son
+territoire, ou dont il provient directement, en application des dispositions des conventions internationales conclues à cet
+effet avec les Etats membres de l'Union européenne. 
 
 L'étranger visé au premier alinéa est informé de cette remise par décision écrite et motivée prise par une autorité
-administrative définie par décret en Conseil d'Etat.
+administrative définie par décret en Conseil d'Etat. 
 
 Cette décision peut être exécutée d'office par l'administration après que l'étranger a été mis en mesure de présenter des
 observations et d'avertir ou de faire avertir son consulat, un conseil ou toute personne de son choix.
 
 **Nota:**
 
-(1) : Loi 2006-911 du 24 juillet 2006 art. 117 : Les dispositions de l'article 60 de la présente loi entrent en vigueur à
-compter d'une date fixée par décret en Conseil d'Etat et au plus tard le 1er juillet 2007.
-
-La date est le 1er janvier 2007, fixée par décret 2006-1708 du 23 décembre 2006.
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7768,25 +8055,23 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Cite_:
-
-  - Loi n°2006-911 2006-07-24
-  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L211-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L213-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L213-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L311-1 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L311-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L213-2, L213-3, L511-1 à L511-3, L512-2 à L512-4, L513-1, L531-3, L211-1, L211-2, L311-1, L311-2, 117
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 60 () JORF 25 juillet 2006 en vigueur le 1er janvier 2007
+  - Loi n°2011-672 du 16 juin 2011 - art. 64
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L211-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (V)
 
 
 ###### Article L531-2
@@ -7856,15 +8141,20 @@ _Cite_:
 Lorsqu'un étranger non ressortissant d'un Etat membre de l'Union européenne a fait l'objet d'un signalement aux fins de non-
 admission en vertu d'une décision exécutoire prise par l'un des autres Etats parties à la convention signée à Schengen le 19
 juin 1990 et qu'il se trouve irrégulièrement sur le territoire métropolitain, l'autorité administrative peut décider qu'il
-sera d'office reconduit à la frontière.
+sera d'office reconduit à la frontière. 
 
 Il en est de même lorsqu'un étranger non ressortissant d'un Etat membre de l'Union européenne, qui se trouve en France, a
-fait l'objet d'une décision d'éloignement exécutoire prise par l'un des autres Etats membres de l'Union européenne.
+fait l'objet d'une décision d'éloignement exécutoire prise par l'un des autres Etats membres de l'Union européenne. 
 
-Un décret en Conseil d'Etat fixe les conditions d'application du précédent alinéa.
+Un décret en Conseil d'Etat fixe les conditions d'application du précédent alinéa. 
 
 Pour l'exécution des mesures prévues au présent article, les dispositions de l'article L. 513-2, du premier alinéa de
-l'article L. 513-3 et de l'article L. 513-4 sont applicables.
+l'article L. 513-3 et de l'article L. 561-1 sont applicables.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -7886,14 +8176,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VT)
 
 
 ###### Article L531-4
@@ -7923,7 +8216,7 @@ _Créé par_:
   - Loi n°2006-911 du 24 juillet 2006 - art. 70 () JORF 25 juillet 2006
 
 
-#### Chapitre II : Dispositions propres à la Guyane<a id=87></a>
+#### Chapitre II : Dispositions propres à la Guyane<a id=91></a>
 
 ###### Article L532-1
 
@@ -7954,7 +8247,77 @@ _Cité par_:
   - Code de justice administrative - art. L776-1 (VD)
 
 
-### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS<a id=88></a>
+#### Chapitre III : Autres cas de reconduite<a id=92></a>
+
+###### Article L533-1
+
+L'autorité administrative compétente peut, par arrêté motivé, décider qu'un étranger, sauf s'il est au nombre de ceux visés à
+l'article L. 121-4, doit être reconduit à la frontière : 
+
+1° Si son comportement constitue une menace pour l'ordre public. 
+
+La menace pour l'ordre public peut s'apprécier au regard de la commission des faits passibles de poursuites pénales sur le
+fondement des articles du code pénal cités au premier alinéa de l'article L. 313-5 du présent code, ainsi que des 1°, 4°, 6°
+et 8° de l'article 311-4, de l'article 322-4-1 et des articles 222-14, 224-1 et 227-4-2 à 227-7 du code pénal ; 
+
+2° Si l'étranger a méconnu l'article L. 5221-5 du code du travail. 
+
+Le présent article ne s'applique pas à l'étranger qui réside régulièrement en France depuis plus de trois mois. 
+
+Les articles L. 511-4, L. 512-1 à L. 512-3, le premier alinéa de l'article L. 512-4, le premier alinéa du I de l'article L.
+513-1 et les articles L. 513-2, L. 513-3, L. 514-1, L. 514-2 et L. 561-1 du présent code sont applicables aux mesures prises
+en application du présent article.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
+d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+  - Loi n°2016-274 du 7 mars 2016 - art. 58 (V)
+  - Décret n°2017-1219 du 2 août 2017 - art. 3
+  - Code de justice administrative - art. L776-1 (VD)
+  - Code de justice administrative - art. L776-2 (VD)
+  - Code de justice administrative - art. R776-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L624-1 (M)
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 65
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 27
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L121-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-5 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L514-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+  - Code pénal - art. 222-14 (V)
+  - Code pénal - art. 224-1 (V)
+  - Code pénal - art. 227-4-2 (V)
+  - Code pénal - art. 311-4 (V)
+  - Code pénal - art. 322-4-1 (V)
+  - Code du travail - art. L5221-5
+
+
+### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS<a id=93></a>
 
 ###### Article L541-1
 
@@ -8065,14 +8428,19 @@ _Cite_:
 ###### Article L541-2
 
 Il ne peut être fait droit à une demande de relèvement d'une interdiction du territoire que si le ressortissant étranger
-réside hors de France.
+réside hors de France. 
 
-Toutefois, cette disposition ne s'applique pas :
+Toutefois, cette disposition ne s'applique pas : 
 
-1° Pendant le temps où le ressortissant étranger subit en France une peine d'emprisonnement ferme ;
+1° Pendant le temps où le ressortissant étranger subit en France une peine d'emprisonnement ferme ; 
 
-2° Lorsque l'étranger fait l'objet d'un arrêté d'assignation à résidence pris en application des articles L. 513-4, L. 523-3,
-L. 523-4 ou L. 523-5.
+2° Lorsque l'étranger fait l'objet d'un arrêté d'assignation à résidence pris en application des articles L. 523-3, L. 523-4,
+L. 523-5 ou L. 561-1.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8082,29 +8450,40 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L523-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L523-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L523-5 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ###### Article L541-3
 
-Les dispositions de l'article L. 513-2, du premier alinéa de l'article L. 513-3 et de l'article L. 513-4 sont applicables à
+Les dispositions de l'article L. 513-2, du premier alinéa de l'article L. 513-3 et de l'article L. 561-1 sont applicables à
 la reconduite à la frontière des étrangers faisant l'objet d'une interdiction du territoire, prévue au deuxième alinéa de
 l'article 131-30 du code pénal.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cité par_:
 
@@ -8116,10 +8495,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-3 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L513-4 (M)
-  - Code pénal - art. 131-30 (MMN)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
+  - Code pénal - art. 131-30
 
 
 ###### Article L541-4
@@ -8156,34 +8535,43 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=89></a>
+### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=94></a>
 
-#### Chapitre Ier : Placement en rétention<a id=90></a>
+#### Chapitre Ier : Placement en rétention<a id=95></a>
 
 ###### Article L551-1
 
-Le placement en rétention d'un étranger dans des locaux ne relevant pas de l'administration pénitentiaire peut être ordonné
-lorsque cet étranger :
+A moins qu'il ne soit assigné à résidence en application de l'article L. 561-2, l'étranger qui ne peut quitter immédiatement
+le territoire français peut être placé en rétention par l'autorité administrative dans des locaux ne relevant pas de
+l'administration pénitentiaire, pour une durée de cinq jours, lorsque cet étranger : 
 
-1° Soit, devant être remis aux autorités compétentes d'un Etat membre de l'Union européenne en application des articles L.
-531-1 et L. 531-2 ne peut quitter immédiatement le territoire français ;
+1° Doit être remis aux autorités compétentes d'un Etat membre de l'Union européenne en application des articles L. 531-1 ou
+L. 531-2 ; 
 
-2° Soit, faisant l'objet d'un arrêté d'expulsion, ne peut quitter immédiatement le territoire français ;
+2° Fait l'objet d'un arrêté d'expulsion ; 
 
-3° Soit, faisant l'objet d'un arrêté de reconduite à la frontière pris en application des articles L. 511-1 à L. 511-3 et
-édicté moins d'un an auparavant, ou devant être reconduit à la frontière en exécution d'une interdiction du territoire prévue
-au deuxième alinéa de l'article 131-30 du code pénal ne peut quitter immédiatement le territoire français ;
+3° Doit être reconduit à la frontière en exécution d'une interdiction judiciaire du territoire prévue au deuxième alinéa de
+l'article 131-30 du code pénal ; 
 
-4° Soit, faisant l'objet d'un signalement ou d'une décision d'éloignement mentionnés à l'article L. 531-3, ne peut quitter
-immédiatement le territoire français ;
+4° Fait l'objet d'un signalement aux fins de non-admission ou d'une décision d'éloignement exécutoire mentionnée à l'article
+L. 531-3 du présent code ; 
 
-5° Soit, ayant fait l'objet d'une décision de placement au titre de l'un des cas précédents, n'a pas déféré à la mesure
-d'éloignement dont il est l'objet dans un délai de sept jours suivant le terme du précédent placement ou, y ayant déféré, est
-revenu en France alors que cette mesure est toujours exécutoire ;
+5° Fait l'objet d'un arrêté de reconduite à la frontière pris moins de trois années auparavant en application de l'article L.
+533-1 ;
 
-6° Soit, faisant l'objet d'une obligation de quitter le territoire français prise en application du I de l'article L. 511-1
-moins d'un an auparavant et pour laquelle le délai d'un mois pour quitter volontairement le territoire est expiré, ne peut
-quitter immédiatement ce territoire.
+6° Fait l'objet d'une obligation de quitter le territoire français prise moins d'un an auparavant et pour laquelle le délai
+pour quitter le territoire est expiré ou n'a pas été accordé ; 
+
+7° Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour ; 
+
+8° Ayant fait l'objet d'une décision de placement en rétention au titre des 1° à 7°, n'a pas déféré à la mesure d'éloignement
+dont il est l'objet dans un délai de sept jours suivant le terme de son précédent placement en rétention ou, y ayant déféré,
+est revenu en France alors que cette mesure est toujours exécutoire.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8193,12 +8581,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 71 () JORF 25 juillet 2006
+  - Loi n°2011-672 du 16 juin 2011 - art. 44
 
 _Cité par_:
 
@@ -8235,11 +8623,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-1 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L531-1, L531-2, L511-1 à L511-3, L531-3
-  - Code pénal - art. 131-30 (MMN)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VD)
+  - Code pénal - art. 131-30 (V)
 
 
 ###### Article L551-2
@@ -8306,19 +8693,27 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R556-10 (V)
 
 
-#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=91></a>
+#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=96></a>
 
-##### Section 1 : Première saisine du juge des libertés et de la détention<a id=92></a>
+##### Section 1 : Première saisine du juge des libertés et de la détention<a id=97></a>
 
 ###### Article L552-1
 
-Quand un délai de quarante-huit heures s'est écoulé depuis la décision de placement en rétention, le juge des libertés et de
-la détention est saisi aux fins de prolongation de la rétention. Il statue par ordonnance au siège du tribunal de grande
-instance dans le ressort duquel se situe le lieu de placement en rétention de l'étranger, sauf exception prévue par voie
-réglementaire, après audition du représentant de l'administration, si celui-ci, dûment convoqué, est présent, et de
-l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des libertés et de la détention qu'il lui soit
-désigné un conseil d'office. Toutefois, si une salle d'audience attribuée au ministère de la justice lui permettant de
-statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, il statue dans cette salle.
+Quand un délai de   cinq jours s'est écoulé depuis la décision de placement en rétention, le juge des libertés et de la
+détention est saisi aux fins de prolongation de la rétention. Le juge statue dans les vingt-quatre heures de sa saisine par
+ordonnance au siège du tribunal de grande instance dans le ressort duquel se situe le lieu de placement en rétention de
+l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si celui-ci,
+dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des
+libertés et de la détention qu'il lui soit désigné un conseil d'office. Toutefois, si une salle d'audience attribuée au
+ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu
+de rétention, il statue dans cette salle.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011. Toutefois les dispositions introduites par le 1° de
+l'article 51 ne sont applicables qu'aux décisions de placement en rétention et à celles concernant l'interdiction de retour
+prises après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8343,12 +8738,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 48 () JORF 21 novembre 2007
+  - Loi n°2011-672 du 16 juin 2011 - art. 51
 
 
 ###### Article L552-2
@@ -8384,8 +8779,14 @@ _Cite_:
 
 ###### Article L552-3
 
-L'ordonnance de prolongation de la rétention court à compter de l'expiration du délai de quarante-huit heures fixé à
-l'article L. 552-1.
+L'ordonnance de prolongation de la rétention court à compter de l'expiration du délai de cinq jours fixé à l'article L.
+552-1.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011. Toutefois ces dispositions ne s'appliquent qu'aux
+décisions de placement en rétention et à celles concernant l'interdiction de retour prises après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8395,8 +8796,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 54
 
 _Cite_:
 
@@ -8414,8 +8819,14 @@ A titre exceptionnel, le juge peut ordonner l'assignation à résidence de l'ét
 représentation effectives, après remise à un service de police ou à une unité de gendarmerie de l'original du passeport et de
 tout document justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est
 portée la mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui
-s'est préalablement soustrait à l'exécution d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du
+s'est préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction
+de retour sur le territoire français en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une interdiction du
 territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une motivation spéciale.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8425,8 +8836,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 46
 
 _Cité par_:
 
@@ -8439,6 +8854,31 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-5 (VD)
+
+
+###### Article L552-4-1
+
+A titre exceptionnel, le juge peut ordonner l'assignation à résidence avec surveillance électronique dans les conditions
+prévues aux articles L. 562-1 à L. 562-3 lorsque l'étranger est père ou mère d'un enfant mineur résidant en France dont il
+contribue effectivement à l'entretien et à l'éducation dans les conditions prévues à l'article 371-2 du code civil depuis la
+naissance de celui-ci ou depuis au moins deux ans et ne peut pas être assigné à résidence en application de l'article L.
+561-2 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 40
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L562-1
+  - Code civil - art. 371-2
 
 
 ###### Article L552-5
@@ -8478,7 +8918,12 @@ _Cite_:
 
 Lorsqu'une ordonnance met fin à la rétention ou assigne l'étranger à résidence, elle est immédiatement notifiée au procureur
 de la République. A moins que ce dernier n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice
-pendant un délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République.
+pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8488,8 +8933,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 55
 
 _Cité par_:
 
@@ -8497,21 +8946,42 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-8 (VT)
 
 
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=93></a>
+##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=98></a>
 
 ###### Article L552-7
 
-Quand un délai de quinze jours s'est écoulé depuis l'expiration du délai de quarante-huit heures mentionné à l'article L.
-552-1 et en cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque l'impossibilité
-d'exécuter la mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de l'intéressé, de la
-dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge des libertés et de
-la détention est à nouveau saisi. 
+Quand un délai de vingt jours s'est écoulé depuis l'expiration du délai de cinq jours mentionné à l'article L. 552-1 et en
+cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque l'impossibilité d'exécuter la
+mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de l'intéressé, de la dissimulation par
+celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge des libertés et de la détention est
+à nouveau saisi. 
+
+Le juge peut également être saisi lorsque, malgré les diligences de l'administration, la mesure d'éloignement n'a pu être
+exécutée en raison du défaut de délivrance des documents de voyage par le consulat dont relève l'intéressé ou de l'absence de
+moyens de transport et qu'il est établi par l'autorité administrative compétente que l'une ou l'autre de ces circonstances
+doit intervenir à bref délai. Il peut également être saisi aux mêmes fins lorsque la délivrance des documents de voyage est
+intervenue trop tardivement, malgré les diligences de l'administration, pour pouvoir procéder à l'exécution de la mesure
+d'éloignement dans le délai de vingt jours mentionné au premier alinéa. 
 
 Le juge statue par ordonnance dans les conditions prévues aux articles L. 552-1 et L. 552-2. S'il ordonne la prolongation de
-la rétention, l'ordonnance de prolongation court à compter de l'expiration du délai de quinze jours mentionné à l'alinéa
-précédent, et pour une nouvelle période d'une durée maximale de quinze jours. 
+la rétention, l'ordonnance de prolongation court à compter de l'expiration du délai de vingt jours mentionné au premier
+alinéa du présent article et pour une nouvelle période d'une durée maximale de vingt jours. 
 
-Les dispositions de l'article L. 552-6 sont applicables.
+Par dérogation aux dispositions de l'alinéa précédent, si l'étranger a été condamné à une peine d'interdiction du territoire
+pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à
+son encontre pour un comportement lié à des activités à caractère terroriste pénalement constatées, le juge des libertés et
+de la détention près le tribunal de grande instance de Paris peut, dès lors qu'il existe une perspective raisonnable
+d'exécution de la mesure d'éloignement et qu'aucune décision d'assignation à résidence ne permettrait un contrôle suffisant
+de cet étranger, ordonner la prolongation de la rétention pour une durée d'un mois qui peut être renouvelée. La durée
+maximale de la rétention ne doit pas excéder six mois. 
+
+L'article L. 552-6 est applicable.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011. Toutefois ces dispositions ne s'appliquent qu'aux
+décisions de placement en rétention et à celles concernant l'interdiction de retour prises après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8521,8 +8991,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -8534,25 +9004,26 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R553-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R553-4-1 (VD)
 
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 56
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-6 (V)
 
 
 ###### Article L552-8
 
-Le juge peut également être saisi lorsque, malgré les diligences de l'administration, la mesure d'éloignement n'a pu être
-exécutée en raison du défaut de délivrance des documents de voyage par le consulat dont relève l'intéressé ou de l'absence de
-moyens de transport, et qu'il est établi par l'autorité administrative compétente, que l'une ou l'autre de ces circonstances
-doit intervenir à bref délai. Il peut également être saisi aux mêmes fins lorsque la délivrance des documents de voyage est
-intervenue trop tardivement, malgré les diligences de l'administration, pour pouvoir procéder à l'exécution de la mesure
-d'éloignement dans le délai prescrit au premier alinéa de l'article L. 552-7. 
+A peine d'irrecevabilité, prononcée d'office, aucune irrégularité antérieure à l'audience relative à la première prolongation
+de la rétention ne peut être soulevée lors de l'audience relative à la seconde prolongation.
 
-Le juge statue par ordonnance dans les conditions prévues aux articles L. 552-1 et L. 552-2. S'il ordonne la prolongation de
-la rétention, l'ordonnance de prolongation court à compter de l'expiration du délai de quinze jours fixé au premier alinéa de
-l'article L. 552-7. La prolongation ne peut excéder une durée de cinq jours. 
+**Nota:**
 
-Les dispositions de l'article L. 552-6 sont applicables.
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8562,21 +9033,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-6 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (VT)
+  - Loi n°2011-672 du 16 juin 2011 - art. 57
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et du  - art. R552-11 (V)
 
 
-##### Section 3 : Voies de recours<a id=94></a>
+##### Section 3 : Voies de recours<a id=99></a>
 
 ###### Article L552-9
 
@@ -8607,12 +9076,17 @@ L'appel n'est pas suspensif. Toutefois, le ministère public peut demander au pr
 délégué de déclarer son recours suspensif lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de
 représentation effectives ou en cas de menace grave pour l'ordre public. Dans ce cas, l'appel, accompagné de la demande qui
 se réfère à l'absence de garanties de représentation effectives ou à la menace grave pour l'ordre public, est formé dans un
-délai de quatre heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier
+délai de six heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier
 président de la cour d'appel ou à son délégué. Celui-ci décide, sans délai, s'il y a lieu de donner à cet appel un effet
 suspensif, en fonction des garanties de représentation dont dispose l'étranger ou de la menace grave pour l'ordre public, par
 une ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la
 disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du
 ministère public, jusqu'à ce qu'il soit statué sur le fond.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -8622,11 +9096,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 58
 
 
-##### Section 4 : Dispositions communes<a id=95></a>
+##### Section 4 : Dispositions communes<a id=100></a>
 
 ###### Article L552-11
 
@@ -8690,7 +9168,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (VD)
 
 
-#### Chapitre III : Conditions de la rétention<a id=96></a>
+#### Chapitre III : Conditions de la rétention<a id=101></a>
 
 ###### Article L553-1
 
@@ -8850,7 +9328,7 @@ _Cité par_:
   - Décret n°2018-528 du 28 juin 2018 (V)
 
 
-#### Chapitre IV : Fin de la rétention<a id=97></a>
+#### Chapitre IV : Fin de la rétention<a id=102></a>
 
 ###### Article L554-1
 
@@ -8909,19 +9387,25 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.<a id=98></a>
+#### Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.<a id=103></a>
 
 ###### Article L555-1
 
 L'interdiction du territoire prononcée à titre de peine principale et assortie de l'exécution provisoire entraîne de plein
 droit le placement de l'étranger dans des lieux ne relevant pas de l'administration pénitentiaire, dans les conditions
 définies au présent titre, pendant le temps strictement nécessaire à son départ. Le deuxième alinéa de l'article L. 551-2 et
-l'article L. 553-4 sont applicables. Quand un délai de quarante-huit heures s'est écoulé depuis le prononcé de la peine, il
-est fait application des dispositions des chapitres II à IV du présent titre.
+l'article L. 553-4 sont applicables. Quand un délai de cinq jours s'est écoulé depuis le prononcé de la peine, il est fait
+application des dispositions des chapitres II à IV du présent titre. 
 
 L'interdiction du territoire prononcée à titre de peine complémentaire peut également donner lieu au placement de l'étranger
 dans des lieux ne relevant pas de l'administration pénitentiaire, le cas échéant à l'expiration de sa peine d'emprisonnement,
 dans les conditions définies au présent titre.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011. Toutefois ces dispositions ne s'appliquent qu'aux
+décisions de placement en rétention et à celles concernant l'interdiction de retour prises après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8931,17 +9415,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 59
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L553-4 (V)
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L551-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L553-4 (V)
 
 
 ###### Article L555-2
@@ -8997,29 +9485,47 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE VI : DISPOSITIONS DIVERSES<a id=99></a>
+### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=104></a>
 
-#### Chapitre unique.<a id=100></a>
+#### Chapitre Ier<a id=105></a>
 
 ###### Article L561-1
 
-La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure
-d'interdiction du territoire, de reconduite à la frontière, d'expulsion ou d'extradition est régie par les dispositions de
-l'article 729-2 du code de procédure pénale, ci-après reproduit : 
+Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoire français ou ne peut ni regagner son pays
+d'origine ni se rendre dans aucun autre pays, l'autorité administrative peut, jusqu'à ce qu'existe une perspective
+raisonnable d'exécution de son obligation, l'autoriser à se maintenir provisoirement sur le territoire français en
+l'assignant à résidence, par dérogation à l'article L. 551-1, dans les cas suivants : 
 
-" Art. 729-2 du code de procédure pénale. 
+1° Si l'étranger fait l'objet d'une obligation de quitter le territoire français sans délai ou si le délai de départ
+volontaire qui lui a été accordé est expiré ; 
 
-" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire
-français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt
-européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée
-sans son consentement. 
+2° Si l'étranger doit être remis aux autorités d'un Etat membre de l'Union européenne en application des articles L. 531-1 ou
+L. 531-2 ; 
 
-Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application
-des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire
-d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures
-d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté
-conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français.
-Dans le cas contraire, la mesure redevient exécutoire. "
+3° Si l'étranger doit être reconduit à la frontière en application de l'article L. 531-3 ; 
+
+4° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction de retour ; 
+
+5° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa
+de l'article 131-30 du code pénal. 
+
+La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, et renouvelée
+une fois ou plus dans la même limite de durée, par une décision également motivée. Par exception, cette durée ne s'applique
+ni aux cas mentionnés au 5° du présent article ni à ceux mentionnés aux articles L. 523-3 à L. 523-5 du présent code. 
+
+L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter
+périodiquement aux services de police ou aux unités de gendarmerie. L'autorité administrative peut prescrire à l'étranger la
+remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à l'article L. 611-2. Si
+l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire
+conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. 
+
+Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
+624-4.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -9055,27 +9561,33 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 130
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
 
-**Liens**:
+_Cite_:
 
-  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-2 (V)
+  - Code pénal - art. 131-30 (V)
 
 _Nouveaux textes_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-1 (VD)
 
-_Cite_:
-
-  - Code de procédure pénale - art. 732 (V)
-
 
 ###### Article L561-2
 
-Sont applicables sur le territoire défini à l'article L. 111-3 les mesures d'interdiction du territoire prononcées par toute
-juridiction siégeant à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les
-mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat à Mayotte, dans les îles Wallis
-et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+Dans les cas prévus à l'article L. 551-1, l'autorité administrative peut prendre une décision d'assignation à résidence à
+l'égard de l'étranger pour lequel l'exécution de l'obligation de quitter le territoire demeure une perspective raisonnable et
+qui présente des garanties de représentation effectives propres à prévenir le risque, mentionné au II de l'article L. 511-1,
+qu'il se soustraie à cette obligation. Les trois derniers alinéas de l'article L. 561-1 sont applicables, sous réserve de la
+durée maximale de l'assignation, qui ne peut excéder une durée de quarante-cinq jours, renouvelable une fois.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -9085,16 +9597,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 100 () JORF 25 juillet 2006
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
 
 _Cité par_:
 
@@ -9133,7 +9641,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
 
 _Nouveaux textes_:
 
@@ -9141,6 +9650,205 @@ _Nouveaux textes_:
 
 
 ###### Article L561-3
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (VD)
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VD)
+
+
+#### Chapitre II : Assignation à résidence avec surveillance électronique<a id=106></a>
+
+###### Article L562-1
+
+Dans les cas prévus à l'article L. 551-1, lorsque l'étranger est père ou mère d'un enfant mineur résidant en France dont il
+contribue effectivement à l'entretien et à l'éducation dans les conditions prévues à l'article 371-2 du code civil depuis la
+naissance de celui-ci ou depuis au moins deux ans et lorsque cet étranger ne peut pas être assigné à résidence en application
+de l'article L. 561-2 du présent code, l'autorité administrative peut prendre une décision d'assignation à résidence avec
+surveillance électronique, après accord de l'étranger. 
+
+La décision d'assignation à résidence avec surveillance électronique est prise par l'autorité administrative pour une durée
+de cinq jours. 
+
+La prolongation de la mesure par le juge des libertés et de la détention s'effectue dans les mêmes conditions que la
+prolongation de la rétention administrative prévue au chapitre II du titre V du présent livre.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 40
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4-1 (VT)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+  - Code civil - art. 371-2
+
+
+###### Article L562-2
+
+L'assignation à résidence avec surveillance électronique emporte, pour l'étranger, interdiction de s'absenter de son domicile
+ou de tout autre lieu désigné par l'autorité administrative ou le juge des libertés et de la détention en dehors des périodes
+fixées par ceux-ci. 
+
+Le contrôle de l'exécution de la mesure est assuré au moyen d'un procédé permettant de détecter à distance la présence ou
+l'absence de l'étranger dans le seul lieu désigné par le juge des libertés et de la détention pour chaque période fixée. La
+mise en œuvre de ce procédé peut conduire à imposer à la personne assignée le port, pendant toute la durée du placement sous
+surveillance électronique, d'un dispositif intégrant un émetteur. 
+
+Le procédé utilisé est homologué à cet effet par le ministre chargé de l'immigration et le ministre de la justice. Sa mise en
+œuvre doit garantir le respect de la dignité, de l'intégrité et de la vie privée de la personne. 
+
+Le contrôle à distance de la mesure est assuré par des fonctionnaires de la police ou de la gendarmerie nationales qui sont
+autorisés, pour l'exécution de cette mission, à mettre en œuvre un traitement automatisé de données nominatives. 
+
+La mise en œuvre du dispositif technique permettant le contrôle à distance peut être confiée à une personne de droit privé
+habilitée dans des conditions fixées par décret en Conseil d'Etat. 
+
+Dans la limite des périodes fixées dans la décision d'assignation à résidence avec surveillance électronique, les agents
+chargés du contrôle peuvent se rendre sur le lieu de l'assignation pour demander à rencontrer l'étranger. Ils ne peuvent
+toutefois pénétrer au domicile de la personne chez qui le contrôle est pratiqué sans l'accord de celle-ci. 
+
+Le non-respect des prescriptions liées à l'assignation à résidence avec surveillance électronique est sanctionné dans les
+conditions prévues à l'article L. 624-4.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 40
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L624-4
+
+
+###### Article L562-3
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 40
+
+
+### TITRE VII : DISPOSITIONS DIVERSES<a id=107></a>
+
+###### Article L571-1
+
+La libération conditionnelle des étrangers condamnés à une peine privative de liberté et faisant l'objet d'une mesure
+d'interdiction du territoire, d'obligation de  quitter le territoire français, d'interdiction de retour sur le territoire
+français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt européen
+est régie par les dispositions de l'article 729-2 du code de procédure pénale, ci-après reproduit : 
+
+" Art. 729-2 du code de procédure pénale. 
+
+" Lorsqu'un étranger condamné à une peine privative de liberté est l'objet d'une mesure d'interdiction du territoire
+français, de reconduite à la frontière, d'expulsion, d'extradition ou de remise sur le fondement d'un mandat d'arrêt
+européen, sa libération conditionnelle est subordonnée à la condition que cette mesure soit exécutée. Elle peut être décidée
+sans son consentement. 
+
+Par exception aux dispositions de l'alinéa précédent, le juge de l'application des peines, ou le tribunal de l'application
+des peines, peut également accorder une libération conditionnelle à un étranger faisant l'objet d'une peine complémentaire
+d'interdiction du territoire français en ordonnant la suspension de l'exécution de cette peine pendant la durée des mesures
+d'assistance et de contrôle prévue à l'article 732. A l'issue de cette durée, si la décision de mise en liberté
+conditionnelle n'a pas été révoquée, l'étranger est relevé de plein droit de la mesure d'interdiction du territoire français.
+Dans le cas contraire, la mesure redevient exécutoire. "
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Anciens textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
+
+
+###### Article L571-2
+
+Sont applicables sur le territoire défini à l'article L. 111-3 les mesures d'interdiction du territoire prononcées par toute
+juridiction siégeant à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie ainsi que les
+mesures de reconduite à la frontière et d'expulsion prononcées par le représentant de l'Etat à Mayotte, dans les îles Wallis
+et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L111-3 (V)
+
+_Anciens textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VT)
+
+
+###### Article L571-3
 
 L'autorité administrative peut ordonner le placement sous surveillance électronique mobile de l'étranger astreint à résider
 dans les lieux qui lui sont fixés en application des articles L. 523-3, L. 523-4 ou L. 541-3 s'il a été condamné à une peine
@@ -9163,37 +9871,41 @@ les obligations résultant dudit placement.
 Le manquement aux prescriptions liées au placement sous surveillance électronique est sanctionné dans les conditions prévues
 à l'article L. 624-4.
 
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 116
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2011-672 du 16 juin 2011 - art. 47
-
-_Modifié par_:
-
-  - Décret n°2011-820 du 8 juillet 2011 - art. 22 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L523-3 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)
-
-_Nouveaux textes_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (VD)
+  - Loi n°2011-672 du 16 juin 2011 - art. 47
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VD)
+  - Décret n°2016-261 du 3 mars 2016 - art. 2
+  - Décret n°2018-167 du 7 mars 2018 - art. 8
+  - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R571-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R571-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R571-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R571-7 (V)
+  - Code de procédure pénale - art. R61-12-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L523-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (V)
+
+_Anciens textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 
 
-## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=101></a>
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=108></a>
 
-### TITRE Ier : CONTRÔLES<a id=102></a>
+### TITRE Ier : CONTRÔLES<a id=109></a>
 
 ###### Article L611-1
 
@@ -9571,9 +10283,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-8
 
 
-### TITRE II : SANCTIONS<a id=103></a>
+### TITRE II : SANCTIONS<a id=110></a>
 
-#### Chapitre Ier : Entrée et séjour irréguliers.<a id=104></a>
+#### Chapitre Ier : Entrée et séjour irréguliers.<a id=111></a>
 
 ###### Article L621-1
 
@@ -9657,7 +10369,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L621-1
 
 
-#### Chapitre II : Aide à l'entrée et au séjour irréguliers<a id=105></a>
+#### Chapitre II : Aide à l'entrée et au séjour irréguliers<a id=112></a>
 
 ###### Article L622-1
 
@@ -9992,7 +10704,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L622-1
 
 
-#### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française<a id=106></a>
+#### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française<a id=113></a>
 
 ###### Article L623-1
 
@@ -10102,7 +10814,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L622-4 (V)
 
 
-#### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence<a id=107></a>
+#### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence<a id=114></a>
 
 ###### Article L624-1
 
@@ -10194,7 +10906,7 @@ _Cite_:
 ###### Article L624-4
 
 Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence qui leur est assignée en application des
-articles L. 513-4, L. 523-3, L. 523-4 ou L. 523-5 ou qui, ultérieurement, ont quitté cette résidence sans autorisation de
+articles L. 523-3, L. 523-4, L. 523-5 ou L. 561-1  ou qui, ultérieurement, ont quitté cette résidence sans autorisation de
 l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans. 
 
 Les étrangers visés à l'article L. 561-3 qui n'ont pas respecté les prescriptions liées au placement sous surveillance
@@ -10202,7 +10914,12 @@ Les étrangers visés à l'article L. 561-3 qui n'ont pas respecté les prescrip
 
 Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles L. 523-3, L. 523-4, L. 523-5
 ou L. 541-3 et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie
-prévues à l'article L. 513-4 sont passibles d'une peine d'emprisonnement d'un an.
+prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un an.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -10218,8 +10935,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 116
-  - Loi n°2011-267 du 14 mars 2011 - art. 117
+  - Loi n°2011-672 du 16 juin 2011 - art. 70
 
 _Cité par_:
 
@@ -10229,6 +10945,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L523-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L562-2 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L563-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (V)
@@ -10238,10 +10955,9 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=108></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=115></a>
 
 ###### Article L625-1
 
@@ -10436,7 +11152,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-4 (V)
 
 
-#### Chapitre VI : Dispositions diverses.<a id=109></a>
+#### Chapitre VI : Dispositions diverses.<a id=116></a>
 
 ###### Article L626-1
 
@@ -10490,11 +11206,11 @@ _Cité par_:
   - Code du travail - art. R5223-35 (M)
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=110></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=117></a>
 
-### TITRE Ier : GÉNÉRALITÉS<a id=111></a>
+### TITRE Ier : GÉNÉRALITÉS<a id=118></a>
 
-#### Chapitre Ier : La qualité de réfugié<a id=112></a>
+#### Chapitre Ier : La qualité de réfugié<a id=119></a>
 
 ###### Article L711-1
 
@@ -10551,7 +11267,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L311-9 (M)
 
 
-#### Chapitre II : La protection subsidiaire<a id=113></a>
+#### Chapitre II : La protection subsidiaire<a id=120></a>
 
 ###### Article L712-1
 
@@ -10673,7 +11389,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L712-2 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=114></a>
+#### Chapitre III : Dispositions communes<a id=121></a>
 
 ###### Article L713-1
 
@@ -10745,9 +11461,9 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=115></a>
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=122></a>
 
-#### Chapitre Ier : Missions<a id=116></a>
+#### Chapitre Ier : Missions<a id=123></a>
 
 ###### Article L721-1
 
@@ -10846,7 +11562,7 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre II : Organisation<a id=117></a>
+#### Chapitre II : Organisation<a id=124></a>
 
 ###### Article L722-1
 
@@ -10993,7 +11709,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-9 (V)
 
 
-#### Chapitre III : Examen des demandes d'asile<a id=118></a>
+#### Chapitre III : Examen des demandes d'asile<a id=125></a>
 
 ###### Article L723-1
 
@@ -11188,7 +11904,7 @@ _Nouveaux textes_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L723-9 (V)
 
 
-##### Section 1 : Garanties procédurales et obligations du demandeur<a id=119></a>
+##### Section 1 : Garanties procédurales et obligations du demandeur<a id=126></a>
 
 ###### Article L723-5
 
@@ -11225,9 +11941,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=120></a>
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=127></a>
 
-#### Chapitre Ier : Missions<a id=121></a>
+#### Chapitre Ier : Missions<a id=128></a>
 
 ###### Article L731-1
 
@@ -11339,7 +12055,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-41 (V)
 
 
-#### Chapitre II : Organisation<a id=122></a>
+#### Chapitre II : Organisation<a id=129></a>
 
 ###### Article L732-1
 
@@ -11390,7 +12106,7 @@ _Modifié par_:
   - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
 
 
-#### Chapitre III : Examen des recours<a id=123></a>
+#### Chapitre III : Examen des recours<a id=130></a>
 
 ###### Article L733-1
 
@@ -11488,9 +12204,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-34 (V)
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=124></a>
+### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=131></a>
 
-#### Chapitre Ier : Admission au séjour.<a id=125></a>
+#### Chapitre Ier : Admission au séjour.<a id=132></a>
 
 ###### Article L741-1
 
@@ -11711,7 +12427,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
 
 
-#### Chapitre II : Durée du maintien sur le territoire français.<a id=126></a>
+#### Chapitre II : Durée du maintien sur le territoire français.<a id=133></a>
 
 ###### Article L742-1
 
@@ -11808,7 +12524,12 @@ _Cite_:
 
 L'étranger admis à séjourner en France bénéficie du droit de s'y maintenir jusqu'à la notification de la décision de l'Office
 français de protection des réfugiés et apatrides ou, si un recours a été formé, jusqu'à la notification de la décision de la
-Cour nationale du droit d'asile. Le I de l'article L. 511-1 est alors applicable.
+Cour nationale du droit d'asile. Le a du 3° du II de l'article L. 511-1 n'est pas applicable.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -11819,13 +12540,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 32 () JORF 21 novembre 2007
+  - Loi n°2011-672 du 16 juin 2011 - art. 68
 
 _Cité par_:
 
@@ -11850,7 +12570,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L511-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
 
 
 ###### Article L742-4
@@ -11928,9 +12648,14 @@ protection des réfugiés et apatrides, lorsqu'il s'agit d'une décision de reje
 mentionnée au livre V du présent code ne peut être mise à exécution avant la décision de l'office. 
 
 En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, l'autorité administrative abroge
-l'arrêté de reconduite à la frontière qui a, le cas échéant, été pris. Il délivre sans délai au réfugié la carte de résident
-prévue au 8° de l'article L. 314-11 et au bénéficiaire de la protection subsidiaire la carte de séjour temporaire prévue à
-l'article L. 313-13.
+l'obligation de quitter le territoire français ou l'arrêté de reconduite à la frontière qui a, le cas échéant, été pris. Elle
+délivre sans délai au réfugié la carte de résident prévue au 8° de l'article L. 314-11 et au bénéficiaire de la protection
+subsidiaire la carte de séjour temporaire prévue à l'article L. 313-13.
+
+**Nota:**
+
+Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
+2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -11941,8 +12666,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2011-672 du 16 juin 2011 - art. 69
 
 _Cite_:
 
@@ -11994,7 +12723,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
 
 
-### TITRE V : DISPOSITIONS DIVERSES.<a id=127></a>
+### TITRE V : DISPOSITIONS DIVERSES.<a id=134></a>
 
 ###### Article L751-1
 
@@ -12102,9 +12831,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=128></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=135></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=129></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=136></a>
 
 ###### Article L761-1
 
@@ -12185,7 +12914,7 @@ _Abrogé par_:
   - Ordonnance n°2014-464 du 7 mai 2014 - art. 19
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=130></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=137></a>
 
 ###### Article L762-1
 
@@ -12267,7 +12996,7 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=131></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=138></a>
 
 ###### Article L763-1
 
@@ -12347,7 +13076,7 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=132></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=139></a>
 
 ###### Article L764-1
 
@@ -12427,7 +13156,7 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=133></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=140></a>
 
 ###### Article L765-1
 
@@ -12459,7 +13188,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R765-1 (VD)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=134></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=141></a>
 
 ###### Article L766-1
 
@@ -12591,11 +13320,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=135></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=142></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=136></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=143></a>
 
-#### Chapitre unique<a id=137></a>
+#### Chapitre unique<a id=144></a>
 
 ###### Article L811-1
 
@@ -12831,9 +13560,9 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=138></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=145></a>
 
-#### Chapitre unique<a id=139></a>
+#### Chapitre unique<a id=146></a>
 
 ###### Article L821-1
 
@@ -12940,9 +13669,9 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=140></a>
+### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=147></a>
 
-#### Chapitre unique.<a id=141></a>
+#### Chapitre unique.<a id=148></a>
 
 ###### Article L831-1
 
@@ -12963,7 +13692,7 @@ _Modifié par_:
   - Loi n°2007-1631 du 20 novembre 2007 - art. 56 () JORF 21 novembre 2007
 
 
-## LIVRE IX : LE CODÉVELOPPEMENT<a id=142></a>
+## LIVRE IX : LE CODÉVELOPPEMENT<a id=149></a>
 
 ###### Article L900-1
 
@@ -13052,15 +13781,15 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-34 (V)
 
 
-# Partie réglementaire<a id=143></a>
+# Partie réglementaire<a id=150></a>
 
-## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=144></a>
+## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=151></a>
 
-### TITRE Ier : GÉNÉRALITÉS<a id=145></a>
+### TITRE Ier : GÉNÉRALITÉS<a id=152></a>
 
-#### Chapitre unique<a id=146></a>
+#### Chapitre unique<a id=153></a>
 
-##### Section 1 : Interprètes traducteurs<a id=147></a>
+##### Section 1 : Interprètes traducteurs<a id=154></a>
 
 ###### Article R111-1
 
@@ -13340,7 +14069,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-8
 
 
-##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié<a id=148></a>
+##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié<a id=155></a>
 
 ###### Article R111-13
 
@@ -13615,11 +14344,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=149></a>
+### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=156></a>
 
-#### Chapitre Ier : Droit au séjour<a id=150></a>
+#### Chapitre Ier : Droit au séjour<a id=157></a>
 
-##### Section 1 : Entrée en France<a id=151></a>
+##### Section 1 : Entrée en France<a id=158></a>
 
 ###### Article R121-1
 
@@ -13681,7 +14410,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R121-1 (V)
 
 
-##### Section 2 : Séjour d'une durée inférieure ou égale à trois mois<a id=152></a>
+##### Section 2 : Séjour d'une durée inférieure ou égale à trois mois<a id=159></a>
 
 ###### Article R121-3
 
@@ -13711,7 +14440,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-1
 
 
-##### Section 3 : Séjour d'une durée supérieure à trois mois<a id=153></a>
+##### Section 3 : Séjour d'une durée supérieure à trois mois<a id=160></a>
 
 ###### Article R121-4
 
@@ -13773,7 +14502,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
 
 
-##### Section 4 : Maintien du droit au séjour<a id=154></a>
+##### Section 4 : Maintien du droit au séjour<a id=161></a>
 
 ###### Article R121-6
 
@@ -13905,9 +14634,9 @@ _Créé par_:
   - Décret n°2007-371 du 21 mars 2007 - art. 1 () JORF 22 mars 2007
 
 
-##### Section 5 : Délivrance du titre de séjour<a id=155></a>
+##### Section 5 : Délivrance du titre de séjour<a id=162></a>
 
-##### Sous-section 1 : Dispositions générales<a id=156></a>
+##### Sous-section 1 : Dispositions générales<a id=163></a>
 
 ###### Article R121-10
 
@@ -14130,7 +14859,7 @@ _Créé par_:
   - Décret n°2007-371 du 21 mars 2007 - art. 1 () JORF 22 mars 2007
 
 
-##### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers<a id=157></a>
+##### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers<a id=164></a>
 
 ###### Article R121-16
 
@@ -14186,7 +14915,7 @@ _Cite_:
   - Code du travail - art. L341-2 (M)
 
 
-#### Chapitre II : Droit au séjour permanent<a id=158></a>
+#### Chapitre II : Droit au séjour permanent<a id=165></a>
 
 ###### Article R122-1
 
@@ -14370,9 +15099,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R122-2 (V)
 
 
-### TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS<a id=159></a>
+### TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS<a id=166></a>
 
-#### Chapitre unique<a id=160></a>
+#### Chapitre unique<a id=167></a>
 
 ###### Article D131-1
 
@@ -14515,13 +15244,13 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE II : L'ENTRÉE EN FRANCE<a id=161></a>
+## LIVRE II : L'ENTRÉE EN FRANCE<a id=168></a>
 
-### TITRE Ier : CONDITIONS D'ADMISSION<a id=162></a>
+### TITRE Ier : CONDITIONS D'ADMISSION<a id=169></a>
 
-#### Chapitre Ier : Documents exigés<a id=163></a>
+#### Chapitre Ier : Documents exigés<a id=170></a>
 
-##### Section 1 : Généralités<a id=164></a>
+##### Section 1 : Généralités<a id=171></a>
 
 ###### Article R211-1
 
@@ -14584,9 +15313,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R212-1 (V)
 
 
-##### Section 2 : Visa<a id=165></a>
+##### Section 2 : Visa<a id=172></a>
 
-##### Sous-section 1 : Instruction des demandes de visa<a id=166></a>
+##### Sous-section 1 : Instruction des demandes de visa<a id=173></a>
 
 ###### Article R211-4
 
@@ -14671,7 +15400,7 @@ _Créé par_:
   - Décret n°2008-1115 du 30 octobre 2008 - art. 5
 
 
-##### Sous-section 2 : Recours contre les refus de visa<a id=167></a>
+##### Sous-section 2 : Recours contre les refus de visa<a id=174></a>
 
 ###### Article D211-5
 
@@ -14779,9 +15508,9 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 9
 
 
-##### Section 3 : Justificatif d'hébergement<a id=168></a>
+##### Section 3 : Justificatif d'hébergement<a id=175></a>
 
-##### Sous-section 1 : Souscription des attestations d'accueil<a id=169></a>
+##### Sous-section 1 : Souscription des attestations d'accueil<a id=176></a>
 
 ###### Article R211-11
 
@@ -14902,7 +15631,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 2 : Validation des attestations d'accueil<a id=170></a>
+##### Sous-section 2 : Validation des attestations d'accueil<a id=177></a>
 
 ###### Article R211-16
 
@@ -14960,7 +15689,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil<a id=171></a>
+##### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil<a id=178></a>
 
 ###### Article R211-19
 
@@ -15164,9 +15893,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 4 : Autres documents<a id=172></a>
+##### Section 4 : Autres documents<a id=179></a>
 
-##### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour<a id=173></a>
+##### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour<a id=180></a>
 
 ###### Article R211-27
 
@@ -15204,7 +15933,7 @@ _Cite_:
   - Code de la santé publique - art. R6145-4 (V)
 
 
-##### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger<a id=174></a>
+##### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger<a id=181></a>
 
 ###### Article R211-28
 
@@ -15227,7 +15956,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-27 (V)
 
 
-##### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières<a id=175></a>
+##### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières<a id=182></a>
 
 ###### Article R211-29
 
@@ -15251,7 +15980,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L211-1 (V)
 
 
-##### Sous-section 4 : Garanties de rapatriement<a id=176></a>
+##### Sous-section 4 : Garanties de rapatriement<a id=183></a>
 
 ###### Article R211-30
 
@@ -15298,7 +16027,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R626-3 (V)
 
 
-##### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=177></a>
+##### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=184></a>
 
 ###### Article R211-32
 
@@ -15343,9 +16072,9 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 10
 
 
-#### Chapitre II : Dispenses<a id=178></a>
+#### Chapitre II : Dispenses<a id=185></a>
 
-##### Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1<a id=179></a>
+##### Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1<a id=186></a>
 
 ###### Article R212-1
 
@@ -15406,7 +16135,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
 
 
-##### Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3<a id=180></a>
+##### Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3<a id=187></a>
 
 ###### Article R212-2
 
@@ -15524,7 +16253,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R211-32 (V)
 
 
-##### Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=181></a>
+##### Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=188></a>
 
 ###### Article R212-6
 
@@ -15549,7 +16278,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-32 (V)
 
 
-##### Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2<a id=182></a>
+##### Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2<a id=189></a>
 
 ###### Article R212-7
 
@@ -15657,7 +16386,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L212-2
 
 
-#### Chapitre III : Refus d'entrée<a id=183></a>
+#### Chapitre III : Refus d'entrée<a id=190></a>
 
 ###### Article R*213-3
 
@@ -15734,9 +16463,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-1-1 (VT)
 
 
-### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=184></a>
+### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=191></a>
 
-#### Chapitre Ier : Conditions du maintien en zone d'attente<a id=185></a>
+#### Chapitre Ier : Conditions du maintien en zone d'attente<a id=192></a>
 
 ###### Article R221-1
 
@@ -15798,9 +16527,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Prolongation du maintien en zone d'attente<a id=186></a>
+#### Chapitre II : Prolongation du maintien en zone d'attente<a id=193></a>
 
-##### Section 1 : Décision du juge des libertés et de la détention<a id=187></a>
+##### Section 1 : Décision du juge des libertés et de la détention<a id=194></a>
 
 ###### Article R222-1
 
@@ -15872,7 +16601,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-3
 
 
-##### Section 2 : Voies de recours<a id=188></a>
+##### Section 2 : Voies de recours<a id=195></a>
 
 ###### Article R222-4
 
@@ -15896,9 +16625,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-12 (V)
 
 
-#### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente<a id=189></a>
+#### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente<a id=196></a>
 
-##### Section 1 : Dispositions communes<a id=190></a>
+##### Section 1 : Dispositions communes<a id=197></a>
 
 ###### Article R223-1
 
@@ -15926,7 +16655,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L221-1 (V)
 
 
-##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.<a id=191></a>
+##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants.<a id=198></a>
 
 ###### Article R*223-4
 
@@ -16037,7 +16766,7 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 3
 
 
-##### Section 3 : Conditions d'accès des associations humanitaires<a id=192></a>
+##### Section 3 : Conditions d'accès des associations humanitaires<a id=199></a>
 
 ###### Article R*223-12
 
@@ -16186,15 +16915,15 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
-## LIVRE III : LE SÉJOUR EN FRANCE<a id=193></a>
+## LIVRE III : LE SÉJOUR EN FRANCE<a id=200></a>
 
-### TITRE Ier : LES TITRES DE SÉJOUR<a id=194></a>
+### TITRE Ier : LES TITRES DE SÉJOUR<a id=201></a>
 
-#### Chapitre Ier : Dispositions générales<a id=195></a>
+#### Chapitre Ier : Dispositions générales<a id=202></a>
 
-##### Section 1 : Dispositions relatives aux documents de séjour<a id=196></a>
+##### Section 1 : Dispositions relatives aux documents de séjour<a id=203></a>
 
-##### Sous-section 1 : Demandes de titre de séjour<a id=197></a>
+##### Sous-section 1 : Demandes de titre de séjour<a id=204></a>
 
 ###### Article R311-1
 
@@ -16430,7 +17159,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
 
 
-##### Sous-section 2 : Récépissé des demandes<a id=198></a>
+##### Sous-section 2 : Récépissé des demandes<a id=205></a>
 
 ###### Article R311-4
 
@@ -16582,7 +17311,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-4 (V)
 
 
-##### Sous-section 3 : Délivrance du titre de séjour<a id=199></a>
+##### Sous-section 3 : Délivrance du titre de séjour<a id=206></a>
 
 ###### Article R311-10
 
@@ -16678,7 +17407,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 3-1 : Modèle du titre de séjour<a id=200></a>
+##### Sous-section 3-1 : Modèle du titre de séjour<a id=207></a>
 
 ###### Article R311-13-1
 
@@ -16715,7 +17444,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 
 
-##### Sous-section 4 : Retrait du titre de séjour<a id=201></a>
+##### Sous-section 4 : Retrait du titre de séjour<a id=208></a>
 
 ###### Article R311-14
 
@@ -16877,7 +17606,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 5 : Restitution du titre de séjour<a id=202></a>
+##### Sous-section 5 : Restitution du titre de séjour<a id=209></a>
 
 ###### Article R311-17
 
@@ -16909,7 +17638,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D331-8 (V)
 
 
-##### Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations.<a id=203></a>
+##### Sous-section 6 : Taxes perçues au profit de l'Agence nationale de l'accueil des étrangers et des migrations.<a id=210></a>
 
 ###### Article D311-18-1
 
@@ -17019,9 +17748,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-15
 
 
-##### Section 2 : Dispositions relatives à l'intégration dans la société française<a id=204></a>
+##### Section 2 : Dispositions relatives à l'intégration dans la société française<a id=211></a>
 
-##### Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration<a id=205></a>
+##### Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration<a id=212></a>
 
 ###### Article R311-19
 
@@ -17423,7 +18152,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
 
 
-##### Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine<a id=206></a>
+##### Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine<a id=213></a>
 
 ###### Article R311-30-1
 
@@ -17777,7 +18506,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-1
 
 
-##### Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille<a id=207></a>
+##### Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille<a id=214></a>
 
 ###### Article R311-30-12
 
@@ -17891,7 +18620,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R513-3
 
 
-##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=208></a>
+##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=215></a>
 
 ###### Article D311-33
 
@@ -18085,7 +18814,7 @@ _Anciens textes_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R311-32 (T)
 
 
-#### Chapitre II : La commission du titre de séjour<a id=209></a>
+#### Chapitre II : La commission du titre de séjour<a id=216></a>
 
 ###### Article R312-1
 
@@ -18263,9 +18992,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre III : La carte de séjour temporaire<a id=210></a>
+#### Chapitre III : La carte de séjour temporaire<a id=217></a>
 
-##### Section 1 : Dispositions générales<a id=211></a>
+##### Section 1 : Dispositions générales<a id=218></a>
 
 ###### Article R313-1
 
@@ -18473,9 +19202,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
 
 
-##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=212></a>
+##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=219></a>
 
-##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=213></a>
+##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=220></a>
 
 ###### Article R313-6
 
@@ -18505,7 +19234,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
 
 
-##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=214></a>
+##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=221></a>
 
 ###### Article R313-7
 
@@ -18632,7 +19361,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
 
 
-##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires<a id=215></a>
+##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires<a id=222></a>
 
 ###### Article R313-10-1
 
@@ -18836,7 +19565,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-1
 
 
-##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".<a id=216></a>
+##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique".<a id=223></a>
 
 ###### Article R313-11
 
@@ -18918,7 +19647,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-11 (M)
 
 
-##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=217></a>
+##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=224></a>
 
 ###### Article R313-14
 
@@ -18953,7 +19682,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
 
 
-##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=218></a>
+##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=225></a>
 
 ###### Article R313-15
 
@@ -19202,7 +19931,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
 
 
-##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=219></a>
+##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=226></a>
 
 ###### Article R313-21
 
@@ -19225,7 +19954,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
 
 
-##### Paragraphe 1 : Dispositions générales<a id=220></a>
+##### Paragraphe 1 : Dispositions générales<a id=227></a>
 
 ###### Article R313-20
 
@@ -19395,7 +20124,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
 
 
-##### Paragraphe 2 : Commission médicale régionale<a id=221></a>
+##### Paragraphe 2 : Commission médicale régionale<a id=228></a>
 
 ###### Article R313-23
 
@@ -19624,7 +20353,7 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 
-##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=222></a>
+##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=229></a>
 
 ###### Article R313-33
 
@@ -19692,7 +20421,7 @@ _Modifié par_:
   - Décret n°2007-1711 du 5 décembre 2007 - art. 1
 
 
-##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne<a id=223></a>
+##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne<a id=230></a>
 
 ###### Article R313-34-1
 
@@ -19739,7 +20468,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L313-4-1 (V)
 
 
-##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille<a id=224></a>
+##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille<a id=231></a>
 
 ###### Article R313-34-2
 
@@ -19813,7 +20542,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
 
 
-##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=225></a>
+##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=232></a>
 
 ###### Article R313-35
 
@@ -19972,11 +20701,11 @@ _Cite_:
   - Code du travail - art. R341-5 (Ab)
 
 
-#### Chapitre IV : La carte de résident<a id=226></a>
+#### Chapitre IV : La carte de résident<a id=233></a>
 
-##### Section 2 : Délivrance de la carte de résident<a id=227></a>
+##### Section 2 : Délivrance de la carte de résident<a id=234></a>
 
-##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=228></a>
+##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=235></a>
 
 ###### Article R314-1
 
@@ -20136,7 +20865,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L314-9 (M)
 
 
-##### Sous-section 2 : Délivrance de plein droit<a id=229></a>
+##### Sous-section 2 : Délivrance de plein droit<a id=236></a>
 
 ###### Article R314-2
 
@@ -20194,7 +20923,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-1 (M)
 
 
-##### Section 3 : Renouvellement de la carte de résident<a id=230></a>
+##### Section 3 : Renouvellement de la carte de résident<a id=237></a>
 
 ###### Article R314-3
 
@@ -20244,7 +20973,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L314-7 (M)
 
 
-##### Section 4 : Délivrance de la carte de résident permanent<a id=231></a>
+##### Section 4 : Délivrance de la carte de résident permanent<a id=238></a>
 
 ###### Article R314-4
 
@@ -20272,7 +21001,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-3
 
 
-##### Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle<a id=232></a>
+##### Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle<a id=239></a>
 
 ###### Article R314-5
 
@@ -20343,7 +21072,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-5 (Ab)
 
 
-#### Chapitre V : La carte de séjour portant la mention "compétences et talents"<a id=233></a>
+#### Chapitre V : La carte de séjour portant la mention "compétences et talents"<a id=240></a>
 
 ###### Article R315-1
 
@@ -20660,10 +21389,10 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 12
 
 
-#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale<a id=234></a>
+#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale<a id=241></a>
 
 ##### Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
-coopérant avec les autorités judiciaires<a id=235></a>
+coopérant avec les autorités judiciaires<a id=242></a>
 
 ###### Article R316-1
 
@@ -20837,7 +21566,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L316-1, L314-1, L314-3 à L314-7
 
 
-##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires<a id=236></a>
+##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires<a id=243></a>
 
 ###### Article R316-6
 
@@ -20974,7 +21703,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
 
 
-#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=237></a>
+#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=244></a>
 
 ###### Article R317-1
 
@@ -21083,11 +21812,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L317-1 (V)
 
 
-### TITRE II : LES CONDITIONS DU SÉJOUR<a id=238></a>
+### TITRE II : LES CONDITIONS DU SÉJOUR<a id=245></a>
 
-#### Chapitre Ier : Conditions de circulation<a id=239></a>
+#### Chapitre Ier : Conditions de circulation<a id=246></a>
 
-##### Section 1 : Dispositions générales<a id=240></a>
+##### Section 1 : Dispositions générales<a id=247></a>
 
 ###### Article R*321-3
 
@@ -21236,9 +21965,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R522-6 (V)
 
 
-##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=241></a>
+##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=248></a>
 
-##### Sous-section 1 : Le titre d'identité républicain<a id=242></a>
+##### Sous-section 1 : Le titre d'identité républicain<a id=249></a>
 
 ###### Article D321-9
 
@@ -21366,7 +22095,7 @@ _Abrogé par_:
   - Décret n°2019-151 du 28 février 2019 - art. 4
 
 
-##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=243></a>
+##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=250></a>
 
 ###### Article D321-16
 
@@ -21513,7 +22242,7 @@ _Abrogé par_:
   - Décret n°2019-151 du 28 février 2019 - art. 4
 
 
-##### Section 3 : Titres de voyage<a id=244></a>
+##### Section 3 : Titres de voyage<a id=251></a>
 
 ###### Article R321-22
 
@@ -21545,9 +22274,9 @@ _Cite_:
   - règlement (CE) n°444/2009
 
 
-#### Chapitre II : Exercice d'une activité professionnelle<a id=245></a>
+#### Chapitre II : Exercice d'une activité professionnelle<a id=252></a>
 
-##### Section 1 : Activité professionnelle salariée<a id=246></a>
+##### Section 1 : Activité professionnelle salariée<a id=253></a>
 
 ###### Article R322-1
 
@@ -21585,7 +22314,7 @@ _Cite_:
   - Code du travail R830-1 à R830-5
 
 
-##### Section 2 : Autres activités professionnelles<a id=247></a>
+##### Section 2 : Autres activités professionnelles<a id=254></a>
 
 ###### Article R322-3
 
@@ -21608,11 +22337,11 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 15
 
 
-### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=248></a>
+### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=255></a>
 
-#### Chapitre unique<a id=249></a>
+#### Chapitre unique<a id=256></a>
 
-##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=250></a>
+##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=257></a>
 
 ###### Article D331-1
 
@@ -21749,7 +22478,7 @@ _Modifié par_:
   - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
-##### Section 2 : Restitution des titres de séjour et de travail<a id=251></a>
+##### Section 2 : Restitution des titres de séjour et de travail<a id=258></a>
 
 ###### Article D331-8
 
@@ -21888,11 +22617,11 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=252></a>
+## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=259></a>
 
-### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=253></a>
+### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=260></a>
 
-#### Chapitre unique<a id=254></a>
+#### Chapitre unique<a id=261></a>
 
 ###### Article R411-1
 
@@ -22069,11 +22798,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-27 (V)
 
 
-### TITRE II : INSTRUCTION DES DEMANDES<a id=255></a>
+### TITRE II : INSTRUCTION DES DEMANDES<a id=262></a>
 
-#### Chapitre unique<a id=256></a>
+#### Chapitre unique<a id=263></a>
 
-##### Section 1 : Demandes de regroupement familial<a id=257></a>
+##### Section 1 : Demandes de regroupement familial<a id=264></a>
 
 ###### Article R421-1
 
@@ -22239,7 +22968,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R421-5 (V)
 
 
-##### Section 2 : Réception des demandes<a id=258></a>
+##### Section 2 : Réception des demandes<a id=265></a>
 
 ###### Article R421-7
 
@@ -22315,7 +23044,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 3 : Vérification des conditions du regroupement familial<a id=259></a>
+##### Section 3 : Vérification des conditions du regroupement familial<a id=266></a>
 
 ###### Article R421-11
 
@@ -22506,7 +23235,7 @@ _Créé par_:
   - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
-##### Section 4 : Décision du préfet<a id=260></a>
+##### Section 4 : Décision du préfet<a id=267></a>
 
 ###### Article R421-20
 
@@ -22580,7 +23309,7 @@ _Modifié par_:
   - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
-##### Section 5 : Contrôle médical et introduction en France<a id=261></a>
+##### Section 5 : Contrôle médical et introduction en France<a id=268></a>
 
 ###### Article R421-25
 
@@ -22665,9 +23394,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-27
 
 
-### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=262></a>
+### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=269></a>
 
-#### Chapitre unique<a id=263></a>
+#### Chapitre unique<a id=270></a>
 
 ###### Article R431-1
 
@@ -22693,11 +23422,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L431-1 (V)
 
 
-## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=264></a>
+## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=271></a>
 
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=265></a>
+### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=272></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=266></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=273></a>
 
 ###### Article R511-1
 
@@ -22793,9 +23522,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R511-5 (VD)
 
 
-#### Chapitre II : Procédure administrative et contentieuse<a id=267></a>
+#### Chapitre II : Procédure administrative et contentieuse<a id=274></a>
 
-##### Section 1 : Procédure administrative<a id=268></a>
+##### Section 1 : Procédure administrative<a id=275></a>
 
 ###### Article R512-1
 
@@ -22850,184 +23579,29 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R511-1
 
 
-##### Section 2 : Procédure contentieuse<a id=269></a>
+##### Section 2 : Procédure contentieuse<a id=276></a>
 
 ###### Article R512-2
 
-Les modalités selon lesquelles le tribunal administratif examine les recours en annulation formés contre des arrêtés
-préfectoraux de reconduite à la frontière obéissent aux règles définies par les articles R. 776-1 à R. 776-20 du code de
-justice administrative, ci-après reproduits : 
-
-" Art.R. 776-1 du code de justice administrative : 
-
-" Les dispositions suivantes sont seules applicables à la présentation, à l'instruction et au jugement des recours en
-annulation dirigés contre les décisions visées aux articles L. 776-1 et L. 776-2. 
-
-" Art.R. 776-2 du code de justice administrative : 
-
-" Les jugements sont rendus par le président du tribunal administratif ou le magistrat qu'il délègue, sans conclusions du
-rapporteur public. 
-
-" Art.R. 776-2-1 du code de justice administrative : 
-
-" Le président du tribunal administratif ou le magistrat qu'il délègue peut, par ordonnance : 
-
-" 1° Donner acte des désistements ; 
-
-" 2° Constater qu'il n'y a pas lieu de statuer sur un recours ; 
-
-" 3° Rejeter les recours entachés d'une irrecevabilité manifeste non susceptible d'être couverte en cours d'instance. 
-
-" Art.R. 776-3 du code de justice administrative : 
-
-" Le tribunal administratif territorialement compétent est celui dans le ressort duquel a son siège le préfet qui a pris la
-décision. 
-
-" Toutefois, lorsque le recours est formé par un étranger placé dans un centre de rétention administrative, le tribunal
-administratif compétent est celui dans le ressort duquel est situé le centre où se trouve le requérant lors de l'introduction
-de sa requête. 
-
-" Lorsque le président d'un tribunal administratif est saisi de conclusions dirigées contre un arrêté de reconduite à la
-frontière qu'il estime ressortir à la compétence du président d'un autre tribunal administratif, il lui transmet le dossier
-sans délai et par tous moyens. 
-
-" Art.R. 776-4 du code de justice administrative : 
-
-" La requête doit contenir les nom et adresse du requérant ainsi que l'exposé des faits et des motifs pour lesquels
-l'annulation est demandée. Elle est présentée en un seul exemplaire. 
-
-" La décision attaquée est produite par l'administration. 
-
-" Art.R. 776-5 du code de justice administrative : 
-
-" Les requêtes mentionnées à l'article R. 776-1 peuvent être présentées sans ministère d'avocat. 
-
-" L'étranger peut, dès le dépôt de sa requête, demander qu'un avocat soit désigné d'office ; le président du tribunal
-administratif en informe aussitôt le bâtonnier de l'ordre des avocats près le tribunal de grande instance dans le ressort
-duquel se tiendra l'audience. Le bâtonnier effectue la désignation sans délai. 
-
-" Art.R. 776-6 du code de justice administrative : 
-
-" La requête doit être enregistrée au greffe du tribunal administratif dans les délais visés à l'article L. 776-1. 
-
-" Toutefois, si, au moment de la notification de l'arrêté, l'étranger est retenu par l'autorité administrative, sa requête
-peut valablement être déposée dans ce même délai soit auprès de ladite autorité administrative, soit au greffe du tribunal
-devant lequel il comparaît en vue de la prorogation de sa rétention administrative. 
-
-" Dans le cas prévu à l'alinéa précédent, mention du dépôt est faite sur un registre ouvert à cet effet. Un récépissé
-indiquant la date et l'heure du dépôt est délivré au requérant. 
-
-" L'autorité qui a reçu la requête la transmet sans délai et par tous moyens au président du tribunal administratif. 
-
-" Art.R. 776-7 du code de justice administrative : 
-
-" A son arrivée au greffe, la requête est marquée, ainsi que les pièces qui y sont jointes, d'un timbre indiquant la date et
-l'heure de leur arrivée. 
-
-" Art.R. 776-8 du code de justice administrative : 
-
-" L'Etat est représenté en défense par le préfet qui a pris l'arrêté attaqué. Dès le dépôt de la requête, le président du
-tribunal administratif lui transmet copie de celle-ci et des pièces qui y sont jointes. 
-
-" Art.R. 776-9 du code de justice administrative : 
-
-" Le délai de soixante-douze heures imparti au président du tribunal administratif ou à son délégué pour statuer court à
-partir de l'heure d'enregistrement de la requête au greffe du tribunal. 
-
-" Art.R. 776-10 du code de justice administrative : 
-
-" Les parties doivent être averties par tous moyens de la date, de l'heure et du lieu de l'audience. 
-
-" Art.R. 776-11 du code de justice administrative : 
-
-" Dans le cas où l'étranger, qui ne parle pas suffisamment la langue française, le demande, le président nomme un interprète
-qui doit prêter serment d'apporter son concours à la justice en son honneur et en sa conscience. Cette demande peut être
-formulée dès le dépôt de la requête introductive d'instance. 
-
-" Art.R. 776-12 du code de justice administrative : 
-
-" Jusqu'au moment où l'affaire est appelée, les parties peuvent présenter des conclusions ou observations écrites. 
-
-" Art.R. 776-13 du code de justice administrative : 
-
-" Après le rapport fait par le président du tribunal administratif ou son délégué, les parties peuvent présenter en personne
-ou par un avocat des observations orales. Elles peuvent également produire des documents à l'appui de leurs conclusions. Si
-ces documents apportent des éléments nouveaux, le magistrat demande à l'autre partie de les examiner et de lui faire part à
-l'audience de ses observations. 
-
-" Sans préjudice de l'article R. 776-8, les observations orales peuvent être présentées au nom de l'Etat par le préfet du
-département dans lequel est situé le centre de rétention administrative où se trouve l'étranger lors de l'introduction de son
-recours et, si le centre de rétention administrative est situé à Paris, par le préfet de police. 
-
-" Art.R. 776-14 du code de justice administrative : 
-
-" Le jugement est prononcé à l'audience si l'étranger est retenu, au jour de celle-ci, par l'autorité administrative ou s'il
-l'était lorsqu'il a formé son recours. 
-
-" Art.R. 776-15 du code de justice administrative : 
-
-" Le jugement comporte, sous réserve des dispositions du présent chapitre, les mentions prévues aux articles R. 776-3 et R.
-741-6. 
-
-" Art.R. 776-16 du code de justice administrative : 
-
-" La minute du jugement est signée par le magistrat qui l'a rendu. 
-
-" Art.R. 776-17 du code de justice administrative : 
-
-" Le dispositif du jugement prononcé dans les conditions prévues à l'article R. 776-14, assorti de la formule exécutoire
-prévue à l'article R. 751-1, est communiqué sur place aux parties présentes à l'audience qui en accusent aussitôt réception. 
-
-" S'il ne l'a pas été sur place, le jugement est notifié sans délai et par tous moyens aux parties qui en accusent
-réception. 
-
-" La notification mentionne la possibilité de faire appel et le délai dans lequel cette voie de recours peut être exercée. 
-
-" Art.R. 776-18 du code de justice administrative : 
-
-" Les frais d'interprète sont liquidés dans les conditions prévues par l'article R. 122 du code de procédure pénale. 
-
-" Art.R. 776-19 du code de justice administrative : 
-
-" Le préfet signataire de l'arrêté attaqué et l'étranger peuvent interjeter appel du jugement devant le président de la cour
-administrative d'appel ou un magistrat délégué par lui. Cet appel n'est pas suspensif. 
-
-" Art.R. 776-20 du code de justice administrative : 
-
-" Le délai d'appel est d'un mois. Il court contre toute partie à l'instance à compter du jour où la notification a été faite
-à cette partie dans les conditions prévues à l'article R. 776-17, troisième alinéa. "
+La présentation, l'instruction et le jugement par les juridictions administratives des recours en annulation mentionnés à
+l'article L. 512-1 obéissent aux règles définies par le chapitre VI du titre VII du livre VII du code de justice
+administrative.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-14 du 7 janvier 2009 - art. 1
-
-
-###### Article R512-3
-
-Les modalités selon lesquelles les juridictions administratives examinent les recours en annulation formés contre les
-décisions de refus de séjour assorties d'une obligation de quitter le territoire français obéissent aux règles définies par
-le chapitre V du titre VII du livre VII du code de justice administrative.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 du 14 novembre 2006
-
-_Créé par_:
-
-  - Décret n°2006-1708 du 23 décembre 2006 - art. 2 () JORF 29 décembre 2006
-
-_Abrogé par_:
-
   - Décret n°2011-819 du 8 juillet 2011 - art. 2
 
+_Cite_:
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=270></a>
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+  - Code de justice administrative -  Chapitre VI : Le contentieux des obligations de... (V)
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=271></a>
+
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=277></a>
+
+##### Section 1 : Décision fixant le pays de renvoi<a id=278></a>
 
 ###### Article R513-1
 
@@ -23045,7 +23619,7 @@ _Modifié par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 6
 
 
-##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ<a id=272></a>
+##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ<a id=279></a>
 
 ###### Article R513-2
 
@@ -23083,9 +23657,9 @@ _Créé par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 7
 
 
-### TITRE II : L'EXPULSION<a id=273></a>
+### TITRE II : L'EXPULSION<a id=280></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=274></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=281></a>
 
 ###### Article R521-1
 
@@ -23104,7 +23678,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-22 (V)
 
 
-#### Chapitre II : Procédure administrative<a id=275></a>
+#### Chapitre II : Procédure administrative<a id=282></a>
 
 ###### Article R*522-2
 
@@ -23306,9 +23880,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L121-4 (V)
 
 
-#### Chapitre III : Exécution des arrêtés d'expulsion<a id=276></a>
+#### Chapitre III : Exécution des arrêtés d'expulsion<a id=283></a>
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=277></a>
+##### Section 1 : Décision fixant le pays de renvoi<a id=284></a>
 
 ###### Article R*523-2
 
@@ -23365,7 +23939,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-2
 
 
-##### Section 2 : Assignation à résidence<a id=278></a>
+##### Section 2 : Assignation à résidence<a id=285></a>
 
 ###### Article R*523-5
 
@@ -23434,7 +24008,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R523-5
 
 
-#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=279></a>
+#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=286></a>
 
 ###### Article R524-1
 
@@ -23473,11 +24047,11 @@ _Cité par_:
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
 
 
-### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=280></a>
+### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=287></a>
 
-#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=281></a>
+#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=288></a>
 
-##### Section 1 : Autorités administratives compétentes<a id=282></a>
+##### Section 1 : Autorités administratives compétentes<a id=289></a>
 
 ###### Article R*531-2
 
@@ -23618,7 +24192,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=283></a>
+##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=290></a>
 
 ###### Article R531-5
 
@@ -23735,7 +24309,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-CE accordé par un Etat membre de l'Union européenne<a id=284></a>
+##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-CE accordé par un Etat membre de l'Union européenne<a id=291></a>
 
 ###### Article R531-10
 
@@ -23844,7 +24418,7 @@ _Créé par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 10
 
 
-#### Chapitre III : Autres cas de reconduite<a id=285></a>
+#### Chapitre III : Autres cas de reconduite<a id=292></a>
 
 ###### Article R533-1
 
@@ -23862,7 +24436,7 @@ _Abrogé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 19
 
 
-### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=286></a>
+### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=293></a>
 
 ###### Article R*541-1
 
@@ -23891,9 +24465,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
-### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=287></a>
+### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=294></a>
 
-#### Chapitre Ier : Placement en rétention<a id=288></a>
+#### Chapitre Ier : Placement en rétention<a id=295></a>
 
 ###### Article R551-1
 
@@ -23994,9 +24568,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L553-1 (V)
 
 
-#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=289></a>
+#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=296></a>
 
-##### Section 1 : Première saisine du juge des libertés et de la détention<a id=290></a>
+##### Section 1 : Première saisine du juge des libertés et de la détention<a id=297></a>
 
 ###### Article R552-1
 
@@ -24191,7 +24765,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
 
 
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=291></a>
+##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=298></a>
 
 ###### Article R552-11
 
@@ -24212,9 +24786,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
-##### Section 3 : Voies de recours<a id=292></a>
+##### Section 3 : Voies de recours<a id=299></a>
 
-##### Sous-section 1 : Appel<a id=293></a>
+##### Sous-section 1 : Appel<a id=300></a>
 
 ###### Article R552-12
 
@@ -24328,7 +24902,7 @@ _Cite_:
   - Code de procédure civile - art. 642 (V)
 
 
-##### Sous-section 2 : Pourvoi en cassation<a id=294></a>
+##### Sous-section 2 : Pourvoi en cassation<a id=301></a>
 
 ###### Article R552-16
 
@@ -24342,9 +24916,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=295></a>
+##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=302></a>
 
-##### Sous-section 1 : Saisine et décision du juge des libertés et de la détention<a id=296></a>
+##### Sous-section 1 : Saisine et décision du juge des libertés et de la détention<a id=303></a>
 
 ###### Article R552-17
 
@@ -24408,7 +24982,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-20 (VD)
 
 
-##### Sous-section 2 : Appel<a id=297></a>
+##### Sous-section 2 : Appel<a id=304></a>
 
 ###### Article R552-20
 
@@ -24508,7 +25082,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-15
 
 
-##### Sous-section 3 : Pourvoi en cassation<a id=298></a>
+##### Sous-section 3 : Pourvoi en cassation<a id=305></a>
 
 ###### Article R552-24
 
@@ -24522,11 +25096,11 @@ _Créé par_:
   - Décret n°2008-817 du 22 août 2008 - art. 4
 
 
-#### Chapitre III : Conditions de la rétention<a id=299></a>
+#### Chapitre III : Conditions de la rétention<a id=306></a>
 
-##### Section 1 : Lieux de rétention<a id=300></a>
+##### Section 1 : Lieux de rétention<a id=307></a>
 
-##### Sous-section 1 : Centres de rétention administrative<a id=301></a>
+##### Sous-section 1 : Centres de rétention administrative<a id=308></a>
 
 ###### Article R553-1
 
@@ -24660,7 +25234,7 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 18
 
 
-##### Sous-section 2 : Locaux de rétention administrative<a id=302></a>
+##### Sous-section 2 : Locaux de rétention administrative<a id=309></a>
 
 ###### Article R553-5
 
@@ -24711,7 +25285,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R553-7 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=303></a>
+##### Sous-section 3 : Dispositions communes<a id=310></a>
 
 ###### Article R553-7
 
@@ -24763,7 +25337,7 @@ _Cite_:
   - Code de la santé publique - art. L6112-8
 
 
-##### Section 2 : Droits des étrangers retenus<a id=304></a>
+##### Section 2 : Droits des étrangers retenus<a id=311></a>
 
 ###### Article R553-11
 
@@ -24818,9 +25392,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R553-3 (V)
 
 
-##### Section 2 bis : Intervention des personnes morales<a id=305></a>
+##### Section 2 bis : Intervention des personnes morales<a id=312></a>
 
-##### Sous-section 1 : Cas des centres de rétention administrative<a id=306></a>
+##### Sous-section 1 : Cas des centres de rétention administrative<a id=313></a>
 
 ###### Article R553-14
 
@@ -24886,7 +25460,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
 
 
-##### Sous-section 2 : Cas des locaux de rétention administrative<a id=307></a>
+##### Sous-section 2 : Cas des locaux de rétention administrative<a id=314></a>
 
 ###### Article R553-14-2
 
@@ -24942,7 +25516,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14-2
 
 
-##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention<a id=308></a>
+##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention<a id=315></a>
 
 ###### Article R553-14-4
 
@@ -25073,7 +25647,7 @@ _Créé par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 18
 
 
-##### Section 3 : Demandes d'asile formulées par des étrangers retenus.<a id=309></a>
+##### Section 3 : Demandes d'asile formulées par des étrangers retenus.<a id=316></a>
 
 ###### Article R553-15
 
@@ -25162,9 +25736,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (VD)
 
 
-### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=310></a>
+### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=317></a>
 
-#### Chapitre unique<a id=311></a>
+#### Chapitre unique<a id=318></a>
 
 ###### Article R561-1
 
@@ -25257,15 +25831,15 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
-## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=312></a>
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=319></a>
 
-### TITRE Ier : CONTRÔLES<a id=313></a>
+### TITRE Ier : CONTRÔLES<a id=320></a>
 
-#### Chapitre unique<a id=314></a>
+#### Chapitre unique<a id=321></a>
 
-##### Section 1 : Application de gestion des dossiers des ressortissants étrangers en France<a id=315></a>
+##### Section 1 : Application de gestion des dossiers des ressortissants étrangers en France<a id=322></a>
 
-##### Sous-section 1 : Finalités du traitement<a id=316></a>
+##### Sous-section 1 : Finalités du traitement<a id=323></a>
 
 ###### Article R611-1
 
@@ -25321,7 +25895,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Sous-section 2 : Données enregistrées dans le traitement<a id=317></a>
+##### Sous-section 2 : Données enregistrées dans le traitement<a id=324></a>
 
 ###### Article R611-2
 
@@ -25370,7 +25944,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
-##### Sous-section 3 : Destinataires des données<a id=318></a>
+##### Sous-section 3 : Destinataires des données<a id=325></a>
 
 ###### Article R611-4
 
@@ -25426,7 +26000,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
 
 
-##### Sous-section 4 : Accès aux données en consultation<a id=319></a>
+##### Sous-section 4 : Accès aux données en consultation<a id=326></a>
 
 ###### Article R611-5
 
@@ -25623,7 +26197,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Sous-section 5 : Conservation des données<a id=320></a>
+##### Sous-section 5 : Conservation des données<a id=327></a>
 
 ###### Article R611-7-1
 
@@ -25670,7 +26244,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Sous-section 6 : Droits d'accès, de rectification et d'opposition<a id=321></a>
+##### Sous-section 6 : Droits d'accès, de rectification et d'opposition<a id=328></a>
 
 ###### Article R611-7-2
 
@@ -25727,7 +26301,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=322></a>
+##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=329></a>
 
 ###### Article R611-8
 
@@ -25991,7 +26565,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-##### Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises<a id=323></a>
+##### Section 3 : Traitement automatisé de données à caractère personnel des ressortissants étrangers qui, ayant été contrôlés à l'occasion du franchissement de la frontière, ne remplissent pas les conditions d'entrée requises<a id=330></a>
 
 ###### Article R611-18
 
@@ -26246,7 +26820,7 @@ _Abrogé par_:
   - Décret n°2012-1490 du 27 décembre 2012 - art. 5
 
 
-##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=324></a>
+##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=331></a>
 
 ###### Article R611-35
 
@@ -26406,7 +26980,7 @@ _Créé par_:
   - Décret n°2009-1310 du 26 octobre 2009 - art. 1
 
 
-##### Section 6 : Dispositions diverses<a id=325></a>
+##### Section 6 : Dispositions diverses<a id=332></a>
 
 ###### Article R611-41-1
 
@@ -26480,9 +27054,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-9
 
 
-### TITRE II : SANCTIONS<a id=326></a>
+### TITRE II : SANCTIONS<a id=333></a>
 
-#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=327></a>
+#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=334></a>
 
 ###### Article R621-1
 
@@ -26549,9 +27123,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R122-2 (V)
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=328></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=335></a>
 
-##### Section 1 : Procédure<a id=329></a>
+##### Section 1 : Procédure<a id=336></a>
 
 ###### Article R*625-2
 
@@ -26662,7 +27236,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R625-3 (V)
 
 
-##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=330></a>
+##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=337></a>
 
 ###### Article R625-5
 
@@ -26832,7 +27406,7 @@ _Abrogé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 36
 
 
-##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=331></a>
+##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=338></a>
 
 ###### Article R625-13
 
@@ -26901,7 +27475,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R625-13
 
 
-#### Chapitre VI : Dispositions diverses<a id=332></a>
+#### Chapitre VI : Dispositions diverses<a id=339></a>
 
 ###### Article R626-1
 
@@ -27003,11 +27577,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R321-1 à R321-5
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=333></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=340></a>
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=334></a>
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=341></a>
 
-#### Chapitre Ier : Missions<a id=335></a>
+#### Chapitre Ier : Missions<a id=342></a>
 
 ###### Article R721-1
 
@@ -27021,9 +27595,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Organisation<a id=336></a>
+#### Chapitre II : Organisation<a id=343></a>
 
-##### Section 1 : Le conseil d'administration de l'office<a id=337></a>
+##### Section 1 : Le conseil d'administration de l'office<a id=344></a>
 
 ###### Article R722-1
 
@@ -27144,7 +27718,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R722-2
 
 
-##### Section 2 : Le directeur général de l'office<a id=338></a>
+##### Section 2 : Le directeur général de l'office<a id=345></a>
 
 ###### Article R722-4
 
@@ -27237,7 +27811,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
 
 
-##### Section 4 : Opérations comptables et financières<a id=339></a>
+##### Section 4 : Opérations comptables et financières<a id=346></a>
 
 ###### Article R722-8
 
@@ -27299,7 +27873,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-5
 
 
-#### Chapitre III : Examen des demandes d'asile.<a id=340></a>
+#### Chapitre III : Examen des demandes d'asile.<a id=347></a>
 
 ###### Article R723-1
 
@@ -27522,9 +28096,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=341></a>
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=348></a>
 
-#### Chapitre II : Organisation<a id=342></a>
+#### Chapitre II : Organisation<a id=349></a>
 
 ###### Article R732-1
 
@@ -27691,9 +28265,9 @@ _Cite_:
   - Code de justice administrative - art. R121-13
 
 
-#### Chapitre III : Examen des recours<a id=343></a>
+#### Chapitre III : Examen des recours<a id=350></a>
 
-##### Section 1 : Dispositions générales<a id=344></a>
+##### Section 1 : Dispositions générales<a id=351></a>
 
 ###### Article R733-1
 
@@ -27745,9 +28319,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R*733-34-6 (V)
 
 
-##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=345></a>
+##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=352></a>
 
-##### Sous-section 1 : Compétence de la cour.<a id=346></a>
+##### Sous-section 1 : Compétence de la cour.<a id=353></a>
 
 ###### Article R733-6
 
@@ -27781,7 +28355,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-9 (V)
 
 
-##### Sous-section 2 : Présentation des recours<a id=347></a>
+##### Sous-section 2 : Présentation des recours<a id=354></a>
 
 ###### Article R733-5
 
@@ -27880,7 +28454,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-6 (V)
 
 
-##### Sous-section 3 : Instruction<a id=348></a>
+##### Sous-section 3 : Instruction<a id=355></a>
 
 ###### Article R733-10
 
@@ -28007,7 +28581,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 4 : Jugement.<a id=349></a>
+##### Sous-section 4 : Jugement.<a id=356></a>
 
 ###### Article R733-16
 
@@ -28141,7 +28715,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
 
 
-##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.<a id=350></a>
+##### Section 3 : Requêtes formées contre les décisions de restriction de séjour ou d'expulsion.<a id=357></a>
 
 ###### Article R733-21
 
@@ -28215,9 +28789,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-18
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=351></a>
+### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=358></a>
 
-#### Chapitre Ier : Admission au séjour.<a id=352></a>
+#### Chapitre Ier : Admission au séjour.<a id=359></a>
 
 ###### Article R*741-1
 
@@ -28300,7 +28874,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
 
 
-#### Chapitre II : Durée du maintien sur le territoire français.<a id=353></a>
+#### Chapitre II : Durée du maintien sur le territoire français.<a id=360></a>
 
 ###### Article R742-1
 
@@ -28561,7 +29135,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
 
 
-### TITRE V : DISPOSITIONS DIVERSES.<a id=354></a>
+### TITRE V : DISPOSITIONS DIVERSES.<a id=361></a>
 
 ###### Article R751-1
 
@@ -28585,9 +29159,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=355></a>
+### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=362></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=356></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=363></a>
 
 ###### Article R761-1
 
@@ -28735,7 +29309,7 @@ _Modifié par_:
   - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=357></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=364></a>
 
 ###### Article R762-1
 
@@ -28887,7 +29461,7 @@ _Modifié par_:
   - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=358></a>
+#### Chapitre III : Dispositions applicables en Polynésie française.<a id=365></a>
 
 ###### Article R763-1
 
@@ -29037,7 +29611,7 @@ _Modifié par_:
   - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=359></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=366></a>
 
 ###### Article R764-1
 
@@ -29191,7 +29765,7 @@ _Modifié par_:
   - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=360></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=367></a>
 
 ###### Article R765-1
 
@@ -29230,13 +29804,13 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=361></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=368></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=362></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=369></a>
 
-#### Chapitre unique<a id=363></a>
+#### Chapitre unique<a id=370></a>
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=364></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=371></a>
 
 ###### Article R811-1
 
@@ -29361,9 +29935,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=365></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=372></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=366></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=373></a>
 
 ###### Article R811-5
 
@@ -29471,7 +30045,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=367></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=374></a>
 
 ###### Article R811-10
 
@@ -29539,7 +30113,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=368></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=375></a>
 
 ###### Article R811-13
 
@@ -29593,7 +30167,7 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
-##### Section 3 : Dispositions diverses<a id=369></a>
+##### Section 3 : Dispositions diverses<a id=376></a>
 
 ###### Article R811-15
 
@@ -29649,7 +30223,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=370></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=377></a>
 
 ###### Article R821-1
 
@@ -29667,9 +30241,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=371></a>
+### TITRE III : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON<a id=378></a>
 
-#### Chapitre unique.<a id=372></a>
+#### Chapitre unique.<a id=379></a>
 
 ###### Article R831-1
 
@@ -29687,9 +30261,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R313-23 à R313-32
 
 
-# Annexes<a id=373></a>
+# Annexes<a id=380></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=374></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=381></a>
 
 ###### Article Annexe 6.3
 
@@ -29735,7 +30309,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=375></a>
+## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=382></a>
 
 ###### Article Annexe 6-4
 
@@ -30076,7 +30650,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
 
 
-## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=376></a>
+## Annexe 6-6 mentionnée à l'article R. 611-20 LISTE DES INFORMATIONS ENREGISTRÉES PENDANT UN DÉLAI DE 32 JOURS POUR LES BESOINS EXCLUSIFS DES PROCÉDURES ADMINISTRATIVES OU JURIDICTIONNELLES DE REFUS D'ENTRÉE SUR LE TERRITOIRE ET, LE CAS ÉCHÉANT, DE MAINTIEN EN ZONE D'ATTENTE<a id=383></a>
 
 ###### Article Annexe 6.6
 
@@ -30123,7 +30697,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L625-1
 
 
-## Annexe 6-8 mentionnée à l'article R. 611-36<a id=377></a>
+## Annexe 6-8 mentionnée à l'article R. 611-36<a id=384></a>
 
 ###### Article Annexe 6-8
 
