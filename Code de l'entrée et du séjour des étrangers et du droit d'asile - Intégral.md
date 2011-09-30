@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-09-30
+Version Consolidée au 2011-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -26,11 +26,11 @@ Version Consolidée au 2011-09-30
         - [Chapitre IV : Sortie de la zone d'attente (art. L224-1 à L224-4)](#23)
     - [LIVRE III : LE SÉJOUR EN FRANCE (art. L311-1 à L331-1)](#24)
       - [TITRE Ier : LES TITRES DE SÉJOUR (art. L311-1 à L317-1)](#25)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-15)](#26)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-16)](#26)
           - [Section 1 : Dispositions relatives aux documents de séjour (art. L311-1 à L311-8)](#27)
           - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. L311-9 à L311-9-1)](#28)
           - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. L311-10 à L311-12)](#29)
-          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-15)](#30)
+          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-16)](#30)
         - [Chapitre II : La commission du titre de séjour (art. L312-1 à L312-3)](#31)
         - [Chapitre III : La carte de séjour temporaire (art. L313-1 à L313-15)](#32)
           - [Section 1 : Dispositions générales (art. L313-1 à L313-5)](#33)
@@ -3264,6 +3264,37 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2010-1657 du 29 décembre 2010 - art. 161 (V)
+
+
+###### Article L311-16
+
+Sans préjudice des taxes prévues aux articles L. 311-13 et L. 311-14, la délivrance, le renouvellement, le duplicata ou le
+changement d'une carte de séjour ou d'un titre équivalent prévu par les traités ou accords internationaux sont soumis à un
+droit de timbre d'un montant de 19 €.
+
+**Nota:**
+
+Conformément à la loi n° 2010-1657 du 29 décembre 2010, article 77 VI, les dispositions introduites par l'article 77 de
+ladite loi entrent en vigueur à compter d'une date précisée par décret, et au plus tard le 1er janvier 2012.  Cette date a
+été fixée au 1er octobre 2011 par l'article 1er du décret n° 2011-1070 du 7 septembre 2011.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 46 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Arrêté du 14 avril 2017 - art.
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-17 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-18 (V)
+
+_Modifié par_:
+
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 77 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
 
 
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
