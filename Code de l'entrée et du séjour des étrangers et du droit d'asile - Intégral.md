@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -27868,7 +27868,7 @@ _Cite_:
 Le directeur général prépare et exécute les délibérations du conseil d'administration. 
 
 Dans le cadre des orientations définies par le conseil, le directeur général dirige l'office dont les services sont placés
-sous son autorité.A ce titre, il exerce notamment les compétences suivantes : 
+sous son autorité. A ce titre, il exerce notamment les compétences suivantes : 
 
 1° Il est l'ordonnateur des recettes et des dépenses ; 
 
@@ -27877,7 +27877,7 @@ sous son autorité.A ce titre, il exerce notamment les compétences suivantes :
 3° Il pourvoit aux emplois et gère le personnel, notamment en affectant les agents titulaires de l'office et en recrutant les
 agents contractuels ; 
 
-4° Il préside le comité technique paritaire et le comité d'hygiène et de sécurité ; 
+4° Il préside le  comité technique et le comité d'hygiène et de sécurité ; 
 
 5° Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ; 
 
@@ -27887,14 +27887,14 @@ l'article R. 722-8 ;
 7° Il rend compte de sa gestion au conseil d'administration. 
 
 Le directeur général est assisté d'un directeur général adjoint, d'un secrétaire général, d'un secrétaire général adjoint et
-de chefs de division.S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le
+de chefs de division. S'agissant de la nomination du directeur général adjoint, le directeur général consulte au préalable le
 ministre des affaires étrangères et le ministre chargé de l'asile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 12
+  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 _Cite_:
 
