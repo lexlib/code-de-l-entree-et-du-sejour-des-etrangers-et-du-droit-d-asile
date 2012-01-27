@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-01-15
+Version Consolidée au 2012-01-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -304,7 +304,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#237)
             - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#300)
         - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-18)](#301)
           - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#302)
-            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4)](#303)
+            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4-1)](#303)
             - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#304)
             - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#305)
           - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#306)
@@ -25020,7 +25020,10 @@ _Cite_:
 
 ###### Article R552-11
 
-Pour la mise en oeuvre de l'article L. 552-7, les règles prévues à la section 1 du présent chapitre sont applicables.
+Pour la mise en oeuvre de l'article L. 552-7, les règles prévues à la section 1 du présent chapitre sont applicables. 
+
+Toutefois, par dérogation à l'article R. 552-1, le juge des libertés et de la détention compétent pour faire application des
+dispositions du quatrième alinéa de l'article L. 552-7 est celui du tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
@@ -25030,10 +25033,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-820 du 8 juillet 2011 - art. 16
+  - Décret n°2012-90 du 25 janvier 2012 - art. 1
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. R552-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
@@ -25358,7 +25362,10 @@ _Créé par_:
 Les centres de rétention administrative sont créés, sur proposition du ministre chargé de l'immigration, par arrêté conjoint
 du ministre chargé des affaires sociales, du ministre chargé de l'immigration, du ministre de l'intérieur et du ministre de
 la justice. Cet arrêté mentionne l'adresse du centre et précise, d'une part, si sa surveillance en est confiée à la police
-nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles.
+nationale ou à la gendarmerie nationale et, d'autre part, si ce centre est susceptible d'accueillir des familles. 
+
+Cet arrêté désigne en outre les centres dans lesquels les étrangers auxquels il est fait application des dispositions du
+quatrième alinéa de l'article L. 552-7 sont maintenus en rétention.
 
 **Liens relatifs à cet article**
 
@@ -25378,7 +25385,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-773 du 8 juillet 2010 - art. 5
+  - Décret n°2012-90 du 25 janvier 2012 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
 ###### Article R553-2
@@ -25495,6 +25506,26 @@ _Abrogé par_:
 _Cite_:
 
   - Code du travail - art. R8252-2
+
+
+###### Article R553-4-1
+
+Les étrangers auxquels il est fait application des dispositions du quatrième alinéa de l'article L. 552-7 sont maintenus en
+rétention dans un espace qui leur est réservé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-90 du 25 janvier 2012 - art. 3
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R551-2 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
 ##### Sous-section 2 : Locaux de rétention administrative<a id=304></a>
@@ -28974,6 +29005,36 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
+
+
+###### Article R733-18-1
+
+La décision de renvoi d'une question en application de l'article L. 733-3 est prononcée par la formation visée à l'article R.
+732-5. 
+
+Elle est adressée au secrétaire du contentieux du Conseil d'Etat, avec le dossier de l'affaire, dans les huit jours de son
+prononcé. Le requérant et l'office sont avisés de cette transmission par notification qui leur est faite de la décision, par
+lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant de faire la preuve de sa réception par
+les destinataires. 
+
+Les dispositions des articles R. 113-2 à R. 113-4 du code de justice administrative sont applicables aux renvois prononcés en
+application de l'article L. 733-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-89 du 25 janvier 2012 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-751 du 16 août 2013 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R732-5
+  - Code de justice administrative - art. R113-2
 
 
 ###### Article R733-19
