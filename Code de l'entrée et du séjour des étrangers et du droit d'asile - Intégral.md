@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-03-04
+Version Consolidée au 2012-03-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -271,7 +271,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#237)
       - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-3)](#267)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1 à R511-4)](#268)
         - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-2)](#269)
-          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-1)](#270)
+          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-2)](#270)
           - [Section 2 : Procédure contentieuse (art. R512-2)](#271)
         - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#272)
           - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#273)
@@ -23654,6 +23654,36 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R511-1
+
+
+###### Article R512-1-2
+
+Les conditions d'octroi et le montant de l'aide au retour mentionnée à l'article L. 512-5 sont déterminés par le ministre
+chargé de l'immigration, après avis du conseil d'administration de l'Office français de l'immigration et de l'intégration. 
+
+La mise en œuvre de l'aide est assurée par ce dernier. 
+
+L'aide peut comprendre : 
+
+1° La prise en charge des frais de réacheminement ; 
+
+2° Une allocation destinée à faciliter la réinsertion dans le pays de retour ; 
+
+3° Le cas échéant, une aide technique et un suivi de projet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-336 du 7 mars 2012 - art. 26
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-5 (V)
 
 
 ##### Section 2 : Procédure contentieuse<a id=271></a>
