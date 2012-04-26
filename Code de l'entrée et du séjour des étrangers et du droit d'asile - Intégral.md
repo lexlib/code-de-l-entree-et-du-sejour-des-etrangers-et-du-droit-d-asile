@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-04-09
+Version Consolidée au 2012-04-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -25336,18 +25336,19 @@ _Cité par_:
 Dans les conditions prévues aux articles R. 553-3 et R. 553-6, des locaux et des moyens matériels adaptés doivent permettre
 au personnel de santé de donner des consultations et de dispenser des soins dans les centres et locaux de rétention. 
 
-Les conditions dans lesquelles le service public hospitalier intervient au bénéfice des personnes retenues, en application
-des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont précisées par voie de convention passée entre le
-préfet territorialement compétent et un établissement public hospitalier selon des modalités définies par arrêté conjoint du
-ministre chargé de l'immigration, du ministre chargé des affaires sociales et du ministre chargé de la santé. Pour les
-centres de rétention administrative, cet arrêté précise notamment les conditions de présence et de qualification des
-personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs heures de présence au centre.
+Les conditions dans lesquelles les personnes mentionnées à l'article L. 6112-2 du code de la santé publique interviennent au
+bénéfice des personnes retenues, en application des articles L. 6112-1 et L. 6112-8 du code de la santé publique, sont
+précisées par voie de convention passée entre le préfet territorialement compétent et une de ces personnes selon des
+modalités définies par arrêté conjoint du ministre chargé de l'immigration, du ministre chargé des affaires sociales et du
+ministre chargé de la santé. Pour les centres de rétention administrative, cet arrêté précise notamment les conditions de
+présence et de qualification des personnels de santé ainsi que les dispositions sanitaires applicables en dehors de leurs
+heures de présence au centre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 2
+  - Décret n°2012-561 du 24 avril 2012 - art. 3
 
 _Cité par_:
 
@@ -25357,9 +25358,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R553-6 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-6
   - Code de la santé publique - art. L6112-1
+  - Code de la santé publique - art. L6112-2
   - Code de la santé publique - art. L6112-8
 
 
