@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -7677,24 +7677,24 @@ _Codifié par_:
 
 La convocation prévue au 2° de l'article L. 522-1 doit être remise à l'étranger quinze jours au moins avant la réunion de la
 commission. Elle précise que l'intéressé a le droit d'être assisté d'un conseil ou de toute personne de son choix et d'être
-entendu avec un interprète.
+entendu avec un interprète. 
 
 L'étranger peut demander le bénéfice de l'aide juridictionnelle dans les conditions prévues par la loi n° 91-647 du 10
 juillet 1991 relative à l'aide juridique. Cette faculté est indiquée dans la convocation. L'admission provisoire à l'aide
-juridictionnelle peut être prononcée par le président de la commission.
+juridictionnelle peut être prononcée par le président de la commission. 
 
 Les débats de la commission sont publics. Le président veille à l'ordre de la séance. Tout ce qu'il ordonne pour l'assurer
 doit être immédiatement exécuté. Devant la commission, l'étranger peut faire valoir toutes les raisons qui militent contre
 son expulsion. Un procès-verbal enregistrant les explications de l'étranger est transmis, avec l'avis motivé de la
 commission, à l'autorité administrative compétente pour statuer. L'avis de la commission est également communiqué à
-l'intéressé.
+l'intéressé. 
+
+La commission rend son avis dans le délai d'un mois à compter de la remise à l'étranger de la convocation mentionnée au
+premier alinéa. Toutefois, lorsque l'étranger demande le renvoi pour un motif légitime, la commission prolonge ce délai, dans
+la limite d'un mois maximum à compter de la décision accordant ce renvoi. A l'issue du délai d'un mois ou, si la commission
+l'a prolongé, du délai supplémentaire qu'elle a fixé, les formalités de consultation de la commission sont réputées remplies.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 24, al. 8 à 10
-  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 24 (M)
 
 _Cité par_:
 
@@ -7706,13 +7706,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°91-647 1991-07-10
-  - Code de l'entrée et du séjour des étrangers et du  - art. L522-1 (V)
+  - Loi n°91-647 du 10 juillet 1991
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-1
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2012-1432 du 21 décembre 2012 - art. 9
 
 
 #### Chapitre III : Exécution des arrêtés d'expulsion<a id=83></a>
@@ -10885,17 +10889,12 @@ Les étrangers qui n'auront pas rejoint dans les délais prescrits la résidence
 articles L. 523-3, L. 523-4, L. 523-5 ou L. 561-1  ou qui, ultérieurement, ont quitté cette résidence sans autorisation de
 l'autorité administrative, sont passibles d'une peine d'emprisonnement de trois ans. 
 
-Les étrangers visés à l'article L. 561-3 qui n'ont pas respecté les prescriptions liées au placement sous surveillance
+Les étrangers visés à l'article L. 571-3 qui n'ont pas respecté les prescriptions liées au placement sous surveillance
 électronique sont passibles d'une peine d'emprisonnement d'un an. 
 
 Les étrangers astreints à résider dans les lieux qui leur sont fixés en application des articles L. 523-3, L. 523-4, L. 523-5
 ou L. 541-3 et qui n'ont pas respecté les obligations de présentation aux services de police et aux unités de gendarmerie
 prévues à l'article L. 561-1 sont passibles d'une peine d'emprisonnement d'un an.
-
-**Nota:**
-
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
 
 **Liens relatifs à cet article**
 
@@ -10911,7 +10910,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 70
+  - Loi n°2012-1432 du 21 décembre 2012 - art. 10
 
 _Cité par_:
 
@@ -10924,13 +10923,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L562-2 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L563-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L571-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R571-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R571-4 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VT)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L541-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L571-3
 
 
 #### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=111></a>
