@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-02-21
+Version Consolidée au 2013-03-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -29176,8 +29176,9 @@ jours à compter de l'expiration de la validité de l'autorisation provisoire de
 présentation de la lettre de l'Office français de protection des réfugiés et apatrides l'informant de l'enregistrement de sa
 demande d'asile ou de la décision de procéder à un nouvel examen de cette demande.
 
-Ce récépissé porte la mention "récépissé constatant le dépôt d'une demande d'asile" et a une durée de validité de trois mois
-renouvelable jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides.
+Ce récépissé porte la mention "récépissé constatant le dépôt d'une demande d'asile". Il a une durée de validité initiale
+comprise entre trois et six mois, fixée par arrêté du ministre chargé de l'asile. Il est renouvelable par périodes de trois
+mois jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides.
 
 L'accès au marché du travail ne peut être autorisé au demandeur d'asile que dans le cas où l'office, pour des raisons qui ne
 sont pas imputables au demandeur, n'a pas statué sur la demande d'asile dans un délai d'un an suivant l'enregistrement de la
@@ -29192,7 +29193,7 @@ de l'enregistrement de sa demande d'asile par l'office, une décision refusant l
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
 _Cité par_:
 
@@ -29211,10 +29212,14 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R767-1 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2013-235 du 21 mars 2013 - art. 1
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
 
 
 ###### Article R742-3
