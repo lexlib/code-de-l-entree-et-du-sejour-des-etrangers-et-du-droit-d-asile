@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-10-02
+Version Consolidée au 2013-11-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 2013-10-02
             - [Sous-section 6 : La carte de séjour temporaire portant la mention " vie privée et familiale " (art. L313-11 à L313-13)](#41)
             - [Sous-section 7 : L'admission exceptionnelle au séjour (art. L313-14 à L313-15)](#42)
         - [Chapitre IV : La carte de résident (art. L314-1 à L314-15)](#43)
-          - [Section 1 : Dispositions générales (art. L314-1 à L314-7)](#44)
+          - [Section 1 : Dispositions générales (art. L314-1 à L314-7-1)](#44)
           - [Section 2 : Délivrance de la carte de résident (art. L314-8 à L314-15)](#45)
             - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. L314-8 à L314-10)](#46)
             - [Sous-section 2 : Délivrance de plein droit (art. L314-11 à L314-12)](#47)
@@ -4985,6 +4985,30 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L314-1-1 (M)
 
 
+###### Article L314-7-1
+
+La carte de résident portant la mention : " résident de longue durée-UE " délivrée à l'étranger en application de l'article
+L. 314-8-2 peut lui être retirée lorsqu'il perd la qualité de réfugié en application du F de l'article 1er de la convention
+de Genève du 28 juillet 1951 relative au statut des réfugiés ou le bénéfice de la protection subsidiaire en application du
+second alinéa de l'article L. 712-3. Elle peut également être retirée en cas d'obtention frauduleuse de cette qualité ou de
+cette protection.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1005 du 12 novembre 2013 - art. 6
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-3
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
+
+
 ##### Section 2 : Délivrance de la carte de résident<a id=45></a>
 
 ##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=46></a>
@@ -5115,6 +5139,46 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (V)
+
+
+###### Article L314-8-2
+
+L'étranger titulaire de la carte de résident prévue au 8° de l'article L. 314-11, du fait de la reconnaissance de la qualité
+de réfugié, ou de la carte de séjour temporaire prévue à l'article L. 313-13, du fait de l'octroi du bénéfice de la
+protection subsidiaire, peut se voir délivrer une carte de résident portant la mention : " résident de longue durée-UE ",
+dans les conditions prévues à l'article L. 314-8. 
+
+Par dérogation au premier alinéa de l'article L. 314-8, est prise en compte, dans le calcul des cinq années de résidence
+régulière ininterrompue, la période comprise entre la date de dépôt de la demande d'asile, sur la base de laquelle a été
+reconnue la qualité de réfugié ou accordé le bénéfice de la protection subsidiaire, et la date de délivrance de la carte de
+résident prévue au 8° de l'article L. 314-11 ou de la carte de séjour temporaire prévue à l'article L. 313-13. 
+
+Son conjoint et ses enfants dans l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article
+L. 311-3, admis en France conformément au 8° de l'article L. 314-11 ou à l'article L. 313-13, peuvent se voir délivrer une
+carte de résident portant la mention : " résident de longue durée-UE ", dans les conditions prévues à l'article L. 314-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1005 du 12 novembre 2013 - art. 6
+
+_Cité par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 25
+  - Code de l'entrée et du séjour des étrangers et ... - art. L314-7-1 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R314-3 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
 
 
 ###### Article L314-9
