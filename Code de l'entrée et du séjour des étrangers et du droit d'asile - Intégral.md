@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2013-12-02
+Version Consolidée au 2014-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -26,11 +26,11 @@ Version Consolidée au 2013-12-02
         - [Chapitre IV : Sortie de la zone d'attente (art. L224-1 à L224-4)](#23)
     - [LIVRE III : LE SÉJOUR EN FRANCE (art. L311-1 à L331-1)](#24)
       - [TITRE Ier : LES TITRES DE SÉJOUR (art. L311-1 à L317-1)](#25)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-16)](#26)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-17)](#26)
           - [Section 1 : Dispositions relatives aux documents de séjour (art. L311-1 à L311-8)](#27)
           - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. L311-9 à L311-9-1)](#28)
           - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. L311-10 à L311-12)](#29)
-          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-16)](#30)
+          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-17)](#30)
         - [Chapitre II : La commission du titre de séjour (art. L312-1 à L312-3)](#31)
         - [Chapitre III : La carte de séjour temporaire (art. L313-1 à L313-15)](#32)
           - [Section 1 : Dispositions générales (art. L313-1 à L313-5)](#33)
@@ -3144,10 +3144,6 @@ durée du titre, entre un minimum égal à 55 euros et un maximum égal à 250 e
 15 euros et 30 euros pour les étrangers auxquels est délivrée une carte de séjour d'une durée d'un an au plus au titre de
 l'article L. 313-7. La taxe de renouvellement n'est acquittée qu'une fois par période d'un an. 
 
-L'étranger titulaire de la carte de séjour portant la mention : " étudiant " ou " stagiaire " qui se voit délivrer une carte
-de séjour à un autre titre acquitte le montant de la taxe prévue pour la délivrance d'un premier titre de séjour, mentionnée
-au A. 
-
 C.-La délivrance, le renouvellement et la fourniture de duplicata des documents de circulation délivrés aux étrangers mineurs
 au titre des articles L. 321-3 et L. 321-4 donnent lieu à la perception, d'une taxe dont le montant est de 45 euros. 
 
@@ -3199,8 +3195,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 42 (VD)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 52
 
 _Cite_:
 
@@ -3328,6 +3324,27 @@ _Modifié par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
+
+
+###### Article L311-17
+
+Le produit des taxes et des droits prévus aux articles L. 311-13, L. 311-14 et L. 311-16 du présent code, aux IV et V de
+l'article 953 et aux articles 954 et 958 du code général des impôts peut être recouvré par l'Office français de l'immigration
+et de l'intégration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 63
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 953 (V)
+  - Code général des impôts, CGI. - art. 954 (V)
+  - Code général des impôts, CGI. - art. 958 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-16 (V)
 
 
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
