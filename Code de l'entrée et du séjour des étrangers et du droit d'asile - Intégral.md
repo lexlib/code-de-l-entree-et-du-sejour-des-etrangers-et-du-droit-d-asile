@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-01-24
+Version Consolidée au 2014-02-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -224,7 +224,7 @@ Version Consolidée au 2014-01-24
             - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#221)
               - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22-1)](#222)
               - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#223)
-            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-33 à R313-34)](#224)
+            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-34)](#224)
             - [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne (art. R313-34-1)](#225)
             - [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille (art. R313-34-2 à R313-34-4)](#226)
           - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-38)](#227)
@@ -235,7 +235,7 @@ Version Consolidée au 2014-01-24
           - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#232)
           - [Section 4 : Délivrance de la carte de résident permanent (art. R314-4)](#233)
           - [Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle (art. R314-5 à R314-6)](#234)
-        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-1 à R315-11)](#235)
+        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-4 à R315-11)](#235)
         - [Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale (art. R316-1 à R316-10)](#236)
           - [Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
 coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#237)
@@ -20747,55 +20747,6 @@ _Abrogé par_:
 
 ##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=224></a>
 
-###### Article R313-33
-
-La Commission nationale de l'admission exceptionnelle au séjour est placée auprès du ministre chargé de l'immigration. Elle
-est composée de onze membres, soit :
-
-1° Deux personnalités qualifiées, dont l'une président de la commission ;
-
-2° Deux représentants d'associations reconnues pour leur action en faveur de l'accueil et de l'intégration des étrangers en
-France ;
-
-3° Un député ;
-
-4° Un sénateur ;
-
-5° Un maire désigné par l'Association des maires de France ;
-
-6° Deux représentants du ministre chargé de l'immigration ;
-
-7° Un représentant du ministre de l'intérieur ;
-
-8° Un représentant du ministre des affaires étrangères.
-
-Le président et les autres membres de la commission sont nommés par arrêté du ministre chargé de l'immigration. Leur mandat
-est d'une durée de deux ans. Il est renouvelable.
-
-Un suppléant est nommé dans les mêmes conditions que le titulaire pour les membres mentionnés du 2° au 8°.
-
-Les parlementaires mentionnés aux 3° et 4° cessent d'être membres de la commission lorsqu'ils n'appartiennent plus à
-l'assemblée qui les a désignés. Le maire mentionné au 5° cesse d'être membre de la commission lorsque prend fin son mandat de
-maire.
-
-Si un membre de la commission cesse d'y exercer ses fonctions avant l'expiration de son mandat, son successeur est nommé pour
-la durée du mandat restant à courir.
-
-La commission ne peut valablement délibérer qu'en présence d'au moins sept de ses membres.
-
-Les séances de la commission ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2007-1711 du 5 décembre 2007 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2014-132 du 17 février 2014 - art. 16
-
-
 ###### Article R313-34
 
 La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre chargé de
@@ -21469,100 +21420,6 @@ _Cité par_:
 
 #### Chapitre V : La carte de séjour portant la mention "compétences et talents"<a id=235></a>
 
-###### Article R315-1
-
-La Commission nationale des compétences et des talents détermine, pour la délivrance de la carte de séjour portant la mention
-" compétences et talents ", la nature et l'importance relative des critères d'évaluation, d'une part, du projet de l'étranger
-qui sollicite la délivrance de cette carte, compte tenu notamment de sa localisation, du secteur d'activité en cause, des
-créations d'emplois envisagées et, d'autre part, de son aptitude à le réaliser, compte tenu notamment de son niveau d'études,
-de ses qualifications ou de son expérience professionnelles et, le cas échéant, des investissements prévus. 
-
-La commission fait toutes propositions au ministre chargé de l'immigration et au ministre des affaires étrangères pour
-favoriser l'attractivité de cette carte.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2011-1049 du 6 septembre 2011 - art. 28
-
-_Abrogé par_:
-
-  - Décret n°2014-132 du 17 février 2014 - art. 16
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R315-6 (Ab)
-
-
-###### Article R315-2
-
-La Commission nationale des compétences et des talents est placée auprès du ministre chargé de l'immigration. Elle comprend
-dix-sept membres : 
-
-1° Cinq personnalités qualifiées dont l'une est le président ; 
-
-2° Un député ; 
-
-3° Un sénateur ; 
-
-4° Un membre du   Conseil économique, social et environnemental ; 
-
-5° Le secrétaire général du comité interministériel de contrôle de l'immigration ; 
-
-6° Deux représentants du ministre des affaires étrangères et européennes ; 
-
-7° Un représentant du ministre chargé de l'emploi ; 
-
-8° Un représentant du ministre chargé de l'économie ; 
-
-9° Un représentant du ministre chargé de la recherche ; 
-
-10° Un représentant du ministre chargé de la culture ; 
-
-11° Un représentant du ministre chargé des sports ; 
-
-12° Le président de l'Agence française pour les investissements internationaux.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-132 du 17 février 2014 - art. 16
-
-
-###### Article R315-3
-
-Les membres de la commission sont nommés par arrêté du ministre chargé de l'immigration. Leur mandat est d'une durée de deux
-ans. Il est renouvelable.
-
-La commission se réunit, sur convocation de son président, au moins deux fois par an et chaque fois que le ministre chargé de
-l'immigration l'estime nécessaire.
-
-Le quorum est atteint lorsque la moitié au moins des membres composant la commission sont présents.
-
-La commission se prononce à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix, le
-président a voix prépondérante.
-
-Les délibérations relatives aux critères d'évaluation sont rendues publiques.
-
-Les services du ministère chargé de l'immigration assurent le secrétariat de la commission.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2007-1711 du 5 décembre 2007 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2014-132 du 17 février 2014 - art. 16
-
-
 ###### Article R315-4
 
 Pour l'application de l'article L. 315-1, l'étranger résidant hors de France présente auprès des autorités diplomatiques et
@@ -21638,18 +21495,21 @@ _Cite_:
 ###### Article R315-6
 
 Les autorités diplomatiques et consulaires ou le préfet, selon le cas, évaluent l'aptitude du candidat et l'intérêt du projet
-en tenant compte des critères d'évaluation mentionnés à l'article R. 315-1 après avoir entendu l'étranger, s'ils l'estiment
-utile.
+après avoir entendu l'étranger, s'ils l'estiment utile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1711 du 5 décembre 2007 - art. 2
+  - Décret n°2014-132 du 17 février 2014 - art. 16
+
+_Abrogé par_:
+
+  - Décret n°2016-1456 du 28 octobre 2016 - art. 12
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R315-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R315-1
 
 
 ###### Article R315-7
