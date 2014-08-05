@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-06-27
+Version Consolidée au 2014-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -26,11 +26,11 @@ Version Consolidée au 2014-06-27
         - [Chapitre IV : Sortie de la zone d'attente (art. L224-1 à L224-4)](#23)
     - [LIVRE III : LE SÉJOUR EN FRANCE (art. L311-1 à L331-2)](#24)
       - [TITRE Ier : LES TITRES DE SÉJOUR (art. L311-1 à L317-1)](#25)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-17)](#26)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-18)](#26)
           - [Section 1 : Dispositions relatives aux documents de séjour (art. L311-1 à L311-8)](#27)
           - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. L311-9 à L311-9-2)](#28)
           - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. L311-10 à L311-12)](#29)
-          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-17)](#30)
+          - [Section 4 : Dispositions fiscales (art. L311-13 à L311-18)](#30)
         - [Chapitre II : La commission du titre de séjour (art. L312-1 à L312-3)](#31)
         - [Chapitre III : La carte de séjour temporaire (art. L313-1 à L313-16)](#32)
           - [Section 1 : Dispositions générales (art. L313-1 à L313-5)](#33)
@@ -3406,6 +3406,35 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-16
 
 
+###### Article L311-18
+
+La délivrance et le renouvellement d'un titre de séjour aux étrangers mentionnés aux deuxième et dernière phrases du deuxième
+alinéa de l'article L. 313-12, aux articles L. 316-1, L. 316-3, L. 316-4 ou au dernier alinéa de l'article L. 431-2 sont
+exonérés de la perception des taxes prévues aux articles L. 311-13 et L. 311-14 et du droit de timbre prévu à l'article L.
+311-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-873 du 4 août 2014 - art. 45
+
+_Cité par_:
+
+  - Arrêté du 14 avril 2017 - art.
+  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-14
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-16
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-3
+
+
 #### Chapitre II : La commission du titre de séjour<a id=31></a>
 
 ###### Article L312-1
@@ -4563,12 +4592,12 @@ _Cité par_:
 La carte délivrée au titre de l'article L. 313-11 donne droit à l'exercice d'une activité professionnelle. 
 
 Le renouvellement de la carte de séjour délivrée au titre du 4° de l'article L. 313-11 est subordonné au fait que la
-communauté de vie n'ait pas cessé, sauf si elle résulte du décès du conjoint français. Toutefois, lorsque la communauté de
-vie a été rompue en raison de violences conjugales qu'il a subies de la part de son conjoint, l'autorité administrative ne
-peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de violence commise
-après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour temporaire, le
-conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de séjour
-temporaire portant la mention " vie privée et familiale ". 
+communauté de vie n'ait pas cessé, sauf si elle résulte du décès du conjoint français. Toutefois, lorsque
+l'étranger a subi des violences conjugales de la part de son conjoint et que la communauté de vie a été rompue, l'autorité
+administrative ne peut procéder au retrait du titre de séjour de l'étranger et peut en accorder le renouvellement. En cas de
+violence commise après l'arrivée en France du conjoint étranger mais avant la première délivrance de la carte de séjour
+temporaire, le conjoint étranger se voit délivrer, sauf si sa présence constitue une menace pour l'ordre public, une carte de
+séjour temporaire portant la mention " vie privée et familiale ". 
 
 L'accès de l'enfant français à la majorité ne fait pas obstacle au renouvellement de la carte de séjour délivrée au titre du
 6° de l'article L. 313-11. 
@@ -4581,8 +4610,7 @@ bénéficiaire séjourne en France depuis au moins un an.
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 21
-  - Loi n°2011-672 du 16 juin 2011 - art. 35
+  - Loi n°2014-873 du 4 août 2014 - art. 47
 
 _Cité par_:
 
@@ -5397,14 +5425,11 @@ qui a obtenu le statut de réfugié est un mineur non accompagné ;
 9° A l'apatride justifiant de trois années de résidence régulière en France ainsi qu'à son conjoint et à ses enfants dans
 l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3 ; 
 
+10° A l'étranger qui remplit les conditions prévues au second alinéa de l'article L. 316-1.
+
 L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une filiation légalement établie, y compris
 l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
 de cette décision lorsqu'elle a été prononcée à l'étranger.
-
-**Nota:**
-
-Loi 2006-911 2006-07-24 art. 116 : Le 2° de l'article L314-11 du code de l'entrée et du séjour des étrangers et du droit
-d'asile s'applique aux demandes de titres de séjour introduites un mois après la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -5455,12 +5480,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 38 () JORF 25 juillet 2006
+  - Loi n°2014-873 du 4 août 2014 - art. 46
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
 
 
 ###### Article L314-12
@@ -5857,10 +5886,11 @@ Sauf si sa présence constitue une menace à l'ordre public, une carte de séjou
 familiale " peut être délivrée à l'étranger qui dépose plainte contre une personne qu'il accuse d'avoir commis à son encontre
 les infractions visées aux articles 225-4-1 à 225-4-6 et 225-5 à 225-10 du code pénal ou témoigne dans une procédure pénale
 concernant une personne poursuivie pour ces mêmes infractions. La condition prévue à l'article L. 311-7 n'est pas exigée.
-Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. 
+Cette carte de séjour temporaire ouvre droit à l'exercice d'une activité professionnelle. Elle est renouvelée pendant toute
+la durée de la procédure pénale, sous réserve que les conditions prévues pour sa délivrance continuent d'être satisfaites. 
 
-En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant
-déposé plainte ou témoigné.
+En cas de condamnation définitive de la personne mise en cause, une carte de résident est délivrée de plein droit à
+l'étranger ayant déposé plainte ou témoigné.
 
 **Liens relatifs à cet article**
 
@@ -5871,12 +5901,13 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 39 () JORF 25 juillet 2006
+  - Loi n°2014-873 du 4 août 2014 - art. 46
+  - Loi n°2014-873 du 4 août 2014 - art. 48
 
 _Cité par_:
 
@@ -5912,9 +5943,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L311-7 (V)
-  - Code pénal - art. 225-4-1 (V)
-  - Code pénal - art. 225-5 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-7
+  - Code pénal - art. 225-4-1
+  - Code pénal - art. 225-5
 
 
 ###### Article L316-2
@@ -5981,15 +6012,18 @@ _Cite_:
 En cas de condamnation définitive de la personne mise en cause, une carte de résident peut être délivrée à l'étranger ayant
 déposé plainte pour une infraction mentionnée au premier alinéa de l'article 132-80 du code pénal.
 
+Le refus de délivrer la carte prévue au premier alinéa du présent article ne peut être motivé par la rupture de la vie
+commune.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-769 du 9 juillet 2010 - art. 12
+  - Loi n°2014-873 du 4 août 2014 - art. 49
 
 _Cite_:
 
-  - Code pénal - art. 132-80 (V)
+  - Code pénal - art. 132-80
 
 
 #### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=53></a>
@@ -6651,11 +6685,12 @@ Les dispositions du premier alinéa ne s'appliquent pas si un ou plusieurs enfan
 est titulaire de la carte de résident et qu'il établit contribuer effectivement, depuis la naissance, à l'entretien et à
 l'éducation du ou des enfants dans les conditions prévues à l'article 371-2 du code civil. 
 
-En outre, lorsque la communauté de vie a été rompue en raison de violences conjugales qu'il a subies de la part de son
-conjoint, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis au séjour au titre du
-regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée en France du conjoint
-mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf si sa présence
-constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et familiale ".
+En outre, lorsque                      l'étranger a subi des violences conjugales de la part de son conjoint et que la
+communauté de vie a été rompue, l'autorité administrative ne peut procéder au retrait du titre de séjour de l'étranger admis
+au séjour au titre du regroupement familial et peut en accorder le renouvellement. En cas de violence commise après l'arrivée
+en France du conjoint mais avant la première délivrance de la carte de séjour temporaire, le conjoint se voit délivrer, sauf
+si sa présence constitue une menace pour l'ordre public, une carte de séjour temporaire portant la mention " vie privée et
+familiale ".
 
 **Liens relatifs à cet article**
 
@@ -6666,7 +6701,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 21
+  - Loi n°2014-873 du 4 août 2014 - art. 47
 
 _Cité par_:
 
