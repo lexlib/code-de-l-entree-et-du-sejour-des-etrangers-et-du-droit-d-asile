@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2014-12-29
+Version Consolidée au 2015-01-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -276,7 +276,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#239)
           - [Section 1 : Procédure administrative (art. R512-1 à R512-1-2)](#272)
           - [Section 2 : Procédure contentieuse (art. R512-2)](#273)
         - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#274)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1)](#275)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1 à R513-1-1)](#275)
           - [Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ (art. R513-2 à R513-3)](#276)
       - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#277)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#278)
@@ -24251,6 +24251,22 @@ _Modifié par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 6
 
 
+###### Article R513-1-1
+
+L'autorité administrative compétente pour prononcer la décision fixant le pays de renvoi dans le cas prévu au deuxième alinéa
+de l'article L. 214-4 est le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-26 du 14 janvier 2015 - art. 4
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (V)
+
+
 ##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ<a id=276></a>
 
 ###### Article R513-2
@@ -26615,6 +26631,22 @@ _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+
+
+###### Article R561-1-1
+
+L'autorité administrative compétente pour assigner un étranger à résidence en application du 6° de l'article L. 561-1 est le
+ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-26 du 14 janvier 2015 - art. 4
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 ###### Article R561-2
