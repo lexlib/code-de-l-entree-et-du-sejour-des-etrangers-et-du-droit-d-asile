@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-01-16
+Version Consolidée au 2015-02-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -9,14 +9,14 @@ Version Consolidée au 2015-01-16
         - [Chapitre Ier : Droit au séjour (art. L121-1 à L121-5)](#6)
         - [Chapitre II : Droit au séjour permanent (art. L122-1 à L122-3)](#7)
     - [LIVRE II : L'ENTRÉE EN FRANCE (art. L211-1 à L224-4)](#8)
-      - [TITRE Ier : CONDITIONS D'ADMISSION (art. L211-1 à L214-7)](#9)
+      - [TITRE Ier : CONDITIONS D'ADMISSION (art. L211-1 à L214-8)](#9)
         - [Chapitre Ier : Documents exigés (art. L211-1 à L211-10)](#10)
           - [Section 1 : Généralités (art. L211-1)](#11)
           - [Section 2 : Visa (art. L211-2 à L211-2-2)](#12)
           - [Section 3 : Justificatif d'hébergement (art. L211-3 à L211-10)](#13)
         - [Chapitre II : Dispenses (art. L212-1 à L212-2)](#14)
         - [Chapitre III : Refus d'entrée (art. L213-1 à L213-9)](#15)
-        - [Chapitre IV : Interdiction administrative du territoire (art. L214-1 à L214-7)](#16)
+        - [Chapitre IV : Interdiction administrative du territoire (art. L214-1 à L214-8)](#16)
       - [TITRE II : MAINTIEN EN ZONE D'ATTENTE (art. L221-1 à L224-4)](#17)
         - [Chapitre Ier : Conditions du maintien en zone d'attente (art. L221-1 à L221-5)](#18)
         - [Chapitre II : Prolongation du maintien en zone d'attente (art. L222-1 à L222-8)](#19)
@@ -425,7 +425,7 @@ Ses dispositions s'appliquent sous réserve des conventions internationales.
 Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-
 Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés : 
 
-1° Abrogé ;
+1° (Abrogé) ; 
 
 2° Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis
 et Futuna ; 
@@ -436,7 +436,10 @@ française ;
 4° Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-
 Calédonie ; 
 
-5° Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises.
+5° Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises. 
+
+Sont également applicables aux îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie les dispositions de
+l'article L. 214-8 et du neuvième alinéa de l'article L. 561-1.
 
 **Liens relatifs à cet article**
 
@@ -450,6 +453,8 @@ _Cite_:
   - Ordonnance n°2000-372 du 26 avril 2000
   - Ordonnance n°2000-371 du 26 avril 2000
   - Ordonnance n°2002-388 du 20 mars 2002
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-8
 
 _Codifié par_:
 
@@ -465,7 +470,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2014-464 du 7 mai 2014 - art. 1
+  - ORDONNANCE n°2015-124 du 5 février 2015 - art. 1
 
 
 ###### Article L111-3
@@ -2088,6 +2093,30 @@ _Créé par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-4
+
+
+###### Article L214-8
+
+Les articles L. 214-1, L. 214-2, L. 214-3, 
+L. 214-5 et L. 214-6 sont applicables sur l'ensemble du territoire de la République. 
+
+Au sens des dispositions des articles L. 214-1 à L. 214-3, les expressions : " en France " et " territoire national "
+s'entendent de l'ensemble du territoire de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-124 du 5 février 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L111-2 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-5
 
 
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=17></a>
@@ -9792,10 +9821,13 @@ une fois ou plus dans la même limite de durée, par une décision également mo
 ni aux cas mentionnés au 5° du présent article ni à ceux mentionnés aux articles L. 523-3 à L. 523-5 du présent code. 
 
 L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter
-périodiquement aux services de police ou aux unités de gendarmerie. L'autorité administrative peut prescrire à l'étranger la
-remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à l'article L. 611-2. Si
-l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire
-conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. 
+périodiquement aux services de police ou aux unités de gendarmerie. L'étranger qui fait l'objet d'un arrêté d'expulsion ou
+d'une interdiction judiciaire ou administrative du territoire prononcés en tout point du territoire de la République peut,
+quel que soit l'endroit où il se trouve, être astreint à résider dans des lieux choisis par l'autorité administrative dans
+l'ensemble du territoire de la République. L'autorité administrative peut prescrire à l'étranger la remise de son passeport
+ou de tout document justificatif de son identité dans les conditions prévues à l'article L. 611-2. Si l'étranger présente une
+menace d'une particulière gravité pour l'ordre public, l'autorité administrative peut le faire conduire par les services de
+police ou de gendarmerie jusqu'aux lieux d'assignation. 
 
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
 624-4.
@@ -9834,7 +9866,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1353 du 13 novembre 2014 - art. 2
+  - ORDONNANCE n°2015-124 du 5 février 2015 - art. 9
 
 _Nouveaux textes_:
 
