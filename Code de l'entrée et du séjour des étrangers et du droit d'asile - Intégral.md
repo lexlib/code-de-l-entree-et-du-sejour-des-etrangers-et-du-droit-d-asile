@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-02-07
+Version Consolidée au 2015-02-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -281,9 +281,9 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#239)
       - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#277)
         - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#278)
         - [Chapitre II : Procédure administrative (art. R*522-2 à R522-9)](#279)
-        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-6)](#280)
+        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-7)](#280)
           - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#281)
-          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-6)](#282)
+          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-7)](#282)
         - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#283)
       - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R533-1)](#284)
         - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-13)](#285)
@@ -24700,32 +24700,9 @@ _Cité par_:
 ###### Article R523-4
 
 L'autorité administrative compétente pour prononcer par arrêté, sur le fondement des articles L. 523-3 à L. 523-5,
-l'assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion est le préfet de département et, à Paris, le
-préfet de police quand la mesure d'expulsion est prise sur le fondement de l'article L. 521-1 après accomplissement des
-formalités prévues à l'article L. 522-1.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R523-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R571-1 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L521-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L522-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile L523-3 à L523-5, L521-1, L522-1
-
-
-###### Article R523-6
-
-En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité compétente dans les cas prévus à l'article R.
-* 523-5 est le préfet.
+l'assignation à résidence d'un étranger faisant l'objet d'une mesure d'expulsion est le préfet du département où se situe le
+lieu d'assignation à résidence, à Paris, le préfet de police, quand la mesure d'expulsion est prise sur le fondement de
+l'article L. 521-1 après accomplissement des formalités prévues à l'article L. 522-1.
 
 **Liens relatifs à cet article**
 
@@ -24735,7 +24712,57 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-527 du 23 mai 2014 - art. 1
+  - Décret n°2015-131 du 7 février 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R523-6 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R571-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L522-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+
+
+###### Article R523-6
+
+I.-En Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, l'autorité administrative compétente dans les cas
+prévus à l'article R. * 523-5 est le préfet. 
+
+Toutefois, l'autorité administrative compétente dans ces cas est le ministre de l'intérieur lorsqu'au moment du prononcé de
+l'assignation à résidence, l'étranger se trouve dans un département de la France métropolitaine, à Saint-Barthélemy, à Saint-
+Martin ou à Saint-Pierre-et-Miquelon. 
+
+II.-Lorsque le lieu d'assignation à résidence se situe à Saint-Barthélemy, Saint-Martin ou Saint-Pierre-et-Miquelon,
+l'autorité administrative compétente dans le cas visé à l'article R. 523-4 est le représentant de l'Etat dans la
+collectivité. 
+
+III.-Par dérogation à l'article R. 523-4, l'autorité administrative compétente dans le cas prévu à cet article est le
+ministre de l'intérieur lorsqu'au moment du prononcé de l'assignation à résidence : 
+
+1° L'étranger se trouve dans un département de la France métropolitaine et que le lieu d'assignation choisi est situé dans un
+département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon ; 
+
+2° L'étranger se trouve dans un département d'outre-mer, à Saint-Barthélemy, à Saint-Martin ou à Saint-Pierre-et-Miquelon et
+que le lieu d'assignation choisi est situé dans un département de la France métropolitaine ; 
+
+3° L'étranger se trouve dans un département d'outre-mer et que le lieu d'assignation choisi est situé à Saint-Barthélemy, à
+Saint-Martin ou Saint-Pierre-et-Miquelon ; 
+
+4° L'étranger se trouve à Saint-Barthélemy, Saint-Martin ou Saint-Pierre-et-Miquelon et que le lieu d'assignation choisi est
+situé dans un département d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-131 du 7 février 2015 - art. 2
 
 _Cité par_:
 
@@ -24744,6 +24771,21 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*523-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R523-4
+
+
+###### Article R523-7
+
+Le ministre de l'intérieur est dans tous les cas l'autorité administrative compétente pour prononcer l'assignation à
+résidence d'un étranger dans un département de France métropolitaine, dans un département d'outre-mer, à Saint-Barthélemy, à
+Saint-Martin ou à Saint-Pierre-et-Miquelon lorsqu'au moment du prononcé de l'assignation à résidence, l'étranger se trouve
+dans les îles Wallis et Futuna, en Polynésie française ou en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-131 du 7 février 2015 - art. 2
 
 
 #### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=283></a>
