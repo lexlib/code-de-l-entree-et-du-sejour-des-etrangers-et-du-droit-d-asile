@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-02-09
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3119,11 +3119,11 @@ L'étranger admis au séjour en France et, le cas échéant, son conjoint prépa
 de la procédure de regroupement familial, l'intégration républicaine de la famille dans la société française. A cette fin,
 ils concluent conjointement avec l'Etat un contrat d'accueil et d'intégration pour la famille par lequel ils s'obligent à
 suivre une formation sur les droits et les devoirs des parents en France, ainsi qu'à respecter l'obligation scolaire. Le
-président du conseil général est informé de la conclusion de ce contrat. 
+président du conseil départemental est informé de la conclusion de ce contrat. 
 
 En cas de non-respect des stipulations de ce contrat, manifesté par une volonté caractérisée de l'étranger ou de son
-conjoint, le préfet peut saisir le président du conseil général en vue de la mise en oeuvre du contrat de responsabilité
-parentale prévue à l'article L. 222-4-1 du code de l'action sociale et des familles. 
+conjoint, le préfet peut saisir le président du conseil départemental en vue de la mise en oeuvre du contrat de
+responsabilité parentale prévue à l'article L. 222-4-1 du code de l'action sociale et des familles. 
 
 Lors du renouvellement de la carte de séjour intervenant au cours de l'exécution du contrat d'accueil et d'intégration pour
 la famille, ou lors du premier renouvellement consécutif à cette exécution, l'autorité administrative tient compte du non-
@@ -3134,7 +3134,8 @@ Les conditions d'application de ces dispositions sont fixées par décret en Con
 
 **Nota:**
 
-
+Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
+décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -3145,7 +3146,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 8
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-274 du 7 mars 2016 - art. 20
 
 _Cité par_:
 
@@ -14463,13 +14468,13 @@ _Cite_:
 
 Les demandes d'inscription sont adressées au procureur de la République près le tribunal de grande instance dans le ressort
 duquel le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du juge des
-enfants, du juge des libertés et de la détention, du président du conseil général et du        directeur interrégional de la
+enfants, du juge des libertés et de la détention, du président du conseil départemental et du directeur interrégional de la
 protection judiciaire de la jeunesse. 
 
 Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du tribunal de grande instance. 
 
 Le procureur de la République transmet ensuite le dossier avec l'avis de l'assemblée générale du tribunal au procureur
-général qui en saisit le premier président de la cour d'appel aux fins d'examen par l'assemblée générale de la cour.
+général qui en saisit le premier président de la cour d'appel aux fins d'examen par l'assemblée générale de la cour. 
 
 L'assemblée générale dresse la liste des administrateurs ad hoc, après avoir entendu le magistrat chargé du rapport et le
 ministère public.
@@ -14482,7 +14487,7 @@ ministère public.
 
 _Modifié par_:
 
-  - Décret n°2010-214 du 2 mars 2010 - art. 8 (V)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cité par_:
 
@@ -18981,13 +18986,13 @@ _Cite_:
 Le contrat d'accueil et d'intégration pour la famille est établi par l'Office français de l'immigration et de l'intégration
 selon un modèle fixé par arrêté du ministre chargé de l'intégration et signé par le préfet qui a délivré le titre de séjour.
 Le contrat, avec sa traduction dans une langue que l'intéressé comprend, est présenté par l'office à l'étranger au cours d'un
-entretien individuel.
+entretien individuel. 
 
 L'office organise et finance les formations et les prestations dispensées dans le cadre du contrat d'accueil et d'intégration
-pour la famille.
+pour la famille. 
 
-L'office informe le président du conseil général du département du lieu de résidence du ou des parents de la conclusion de ce
-contrat.
+L'office informe le président du conseil départemental du département du lieu de résidence du ou des parents de la conclusion
+de ce contrat.
 
 **Nota:**
 
@@ -18997,7 +19002,11 @@ contrat.
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 
 ###### Article R311-30-14
@@ -19036,7 +19045,7 @@ d'enseignement supérieur, secondaire, technique ou professionnel prévu à l'ar
 Si le ou les étrangers mentionnés à l'article R. 311-30-12 n'ont pas suivi la formation prévue au même article sans motif
 légitime, l'office en informe le préfet. 
 
-Lorsqu'il est saisi en application du deuxième alinéa de l'article L. 311-9-1, le président du conseil général tient le
+Lorsqu'il est saisi en application du deuxième alinéa de l'article L. 311-9-1, le président du conseil départemental tient le
 préfet informé des suites qu'il a données à sa saisine.
 
 **Nota:**
@@ -19047,7 +19056,11 @@ préfet informé des suites qu'il a données à sa saisine.
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 _Cite_:
 
@@ -19422,10 +19435,10 @@ _Codifié par_:
 
 ###### Article R312-10
 
-Le préfet ou, à Paris, le préfet de police peut également saisir la commission du titre de séjour pour toute question
-relative à l'application des dispositions du présent livre. Le président du conseil général ou son représentant est alors
-invité à participer à la réunion de la commission du titre de séjour. Il en est de même, en tant que de besoin, du directeur
-départemental du travail, de l'emploi et de la formation professionnelle ou de son représentant.
+Le préfet, ou, à Paris, le préfet de police, peut également saisir la commission du titre de séjour pour toute question
+relative à l'application des dispositions du présent livre. Le président du conseil départemental ou son représentant est
+alors invité à participer à la réunion de la commission du titre de séjour. Il en est de même, en tant que de besoin, du
+directeur départemental du travail, de l'emploi et de la formation professionnelle ou de son représentant.
 
 **Nota:**
 
@@ -19435,7 +19448,11 @@ départemental du travail, de l'emploi et de la formation professionnelle ou de 
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 #### Chapitre III : La carte de séjour temporaire<a id=214></a>
