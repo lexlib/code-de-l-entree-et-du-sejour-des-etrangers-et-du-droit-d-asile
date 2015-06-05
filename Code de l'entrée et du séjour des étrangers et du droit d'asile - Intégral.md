@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-06-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -365,11 +365,11 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#239)
       - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1 à R751-3)](#361)
       - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R766-2)](#362)
         - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#363)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R762-1)](#364)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R763-1)](#365)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R764-1)](#366)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R* 762-2 à R762-1)](#364)
+        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R* 763-2 à R763-1)](#365)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R* 764-2 à R764-1)](#366)
         - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#367)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. R766-1 à R766-2)](#368)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. R* 766-3 à R766-2)](#368)
     - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R832-2)](#369)
       - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#370)
         - [Chapitre unique (art. R811-1 à R811-16)](#371)
@@ -30458,11 +30458,15 @@ _Cite_:
 
 ###### Article R*741-1
 
-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande
-d'admission au séjour relève du préfet de département et, à Paris, du préfet de police.
+I. Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa
+demande d'admission au séjour relève du préfet du département et, à Paris, du préfet de police. 
 
 Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
-département et, à Paris, au préfet de police, pour exercer cette mission dans plusieurs départements.
+département et, à Paris, au préfet de police, pour exercer cette mission dans plusieurs départements. 
+
+II.-Par dérogation aux dispositions du I du présent article, lorsqu'un étranger, placé en rétention administrative, demande à
+bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet qui a ordonné le placement en rétention
+administrative de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -30477,7 +30481,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-687 du 24 juin 2010 - art. 31
+  - Décret n°2015-614 du 4 juin 2015 - art. 1
 
 
 ###### Article R741-2
@@ -30911,6 +30915,28 @@ _Cite_:
 
 #### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=364></a>
 
+###### Article R* 762-2
+
+Le premier alinéa du I de l'article R. * 741-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du
+décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les
+départements d'Ile-de-France. 
+
+Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérieur du territoire français" sont remplacés par
+les mots : "dans les îles Wallis et Futuna" et les mots : "préfet du département" sont remplacés par les mots :
+"administrateur supérieur des îles Wallis et Futuna".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2010-687 du 24 juin 2010
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
+
+_Créé par_:
+
+  - Décret n°2015-614 du 4 juin 2015 - art. 2
+
+
 ###### Article R762-1
 
 Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des dispositions suivantes : 
@@ -31068,6 +31094,28 @@ _Modifié par_:
 
 #### Chapitre III : Dispositions applicables en Polynésie française.<a id=365></a>
 
+###### Article R* 763-2
+
+Le premier alinéa du I de l'article R. * 741-1 est applicable en Polynésie française dans sa rédaction résultant du décret n°
+2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements
+d'Ile-de-France. 
+
+Pour son application en Polynésie française, les mots : : " à l'intérieur du territoire français " sont remplacés par les
+mots : " en Polynésie française " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de
+la République en Polynésie française ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2010-687 du 24 juin 2010
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
+
+_Créé par_:
+
+  - Décret n°2015-614 du 4 juin 2015 - art. 2
+
+
 ###### Article R763-1
 
 Le présent livre est applicable en Polynésie française sous réserve des dispositions suivantes : 
@@ -31220,6 +31268,28 @@ _Modifié par_:
 
 
 #### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=366></a>
+
+###### Article R* 764-2
+
+Le premier alinéa du I de l'article R. * 741-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n°
+2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements
+d'Ile-de-France. 
+
+Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du territoire français " sont remplacés par les mots :
+" en Nouvelle-Calédonie " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la
+République en Nouvelle-Calédonie ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2010-687 du 24 juin 2010
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
+
+_Créé par_:
+
+  - Décret n°2015-614 du 4 juin 2015 - art. 2
+
 
 ###### Article R764-1
 
@@ -31413,6 +31483,30 @@ _Codifié par_:
 
 
 #### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=368></a>
+
+###### Article R* 766-3
+
+Le premier alinéa du I de l'article R.* 741-1 est applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant
+du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les
+départements d'Ile-de-France.
+
+Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : "à l'intérieur du territoire français" sont remplacés
+par les mots : "sur le territoire de Saint-Barthélemy" ou : "sur le territoire de Saint-Martin".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2009-906 du 24 juillet 2009 - art. 1-1 (VD)
+
+_Cite_:
+
+  - Décret n°2010-687 du 24 juin 2010
+
+_Créé par_:
+
+  - Décret n°2015-614 du 4 juin 2015 - art. 2
+
 
 ###### Article R766-1
 
