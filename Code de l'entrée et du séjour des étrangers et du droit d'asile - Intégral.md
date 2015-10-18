@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-10-04
+Version Consolidée au 2015-10-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -362,7 +362,7 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#251)
       - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-41)](#358)
         - [Chapitre II : Organisation (art. R732-1 à R732-8)](#359)
         - [Chapitre III : Examen des recours (art. R733-1 à R733-41)](#360)
-          - [Section 1 : Dispositions générales (art. R733-1 à R733-4)](#361)
+          - [Section 1 : Dispositions générales (art. R733-1 à R733-4-1)](#361)
           - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-5 à R733-37)](#362)
             - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#363)
             - [Sous-section 3 : Instruction (art. R733-10 à R733-16)](#364)
@@ -30661,23 +30661,37 @@ Il désigne parmi les personnels de la cour des rapporteurs chargés de l'instru
 
 Il peut présider chacune des formations de jugement. 
 
-Il est assisté de vice-présidents qu'il désigne parmi les présidents de formation de jugement. 
+Il est assisté par un ou des vice-présidents qu'il désigne parmi les présidents de section pour la durée prévue au second
+alinéa de l'article L. 234-3 du code de justice administrative. 
+
+En cas d'absence ou d'empêchement, le président de la cour est suppléé par le vice-président ou le plus ancien des vice-
+présidents. 
 
 Pour les actes de gestion et d'administration courante, le président peut déléguer sa signature au secrétaire général et aux
 secrétaires généraux adjoints ainsi qu'aux fonctionnaires appartenant à un corps de catégorie A et aux agents contractuels
 chargés de fonctions d'un niveau équivalent.
 
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2015-1298 du 16 octobre 2015, les vice-présidents désignés en application du sixième
+alinéa de l'article R. 732-1 du code de l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction antérieure
+au présent décret, exercent leurs fonctions jusqu'au terme de leur mandat en cours
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 2
 
 _Cité par_:
 
   - Décret n°2015-1298 du 16 octobre 2015 - art. 24 (V)
   - Décret n°2018-1137 du 12 décembre 2018 - art. 1 (V)
   - Décret n°2018-1137 du 12 décembre 2018 - art. 2 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. L234-3 (VT)
 
 
 ###### Article R732-2
@@ -30744,11 +30758,12 @@ _Modifié par_:
 
 ###### Article R732-5
 
-La grande formation de la cour comprend la formation de jugement saisie du recours, complétée par un président, deux
+I. - La grande formation de la cour comprend la formation de jugement saisie du recours, complétée par un président, deux
 assesseurs choisis parmi les personnalités mentionnées au 2° de l'article L. 732-1 et deux assesseurs choisis parmi les
 personnalités mentionnées au 3° du même article. 
 
-Elle est présidée par le président de la cour et, en cas d'empêchement, par le plus ancien des vice-présidents. 
+Elle est présidée par le président de la cour et, en cas d'empêchement, par le vice-président ou le plus ancien des vice-
+présidents. 
 
 Les membres qui complètent ainsi la formation de jugement saisie du recours sont désignés selon un tableau établi
 annuellement. 
@@ -30756,11 +30771,14 @@ annuellement.
 Lorsque la formation de jugement saisie du recours est celle du président de la cour, un deuxième président est désigné dans
 les mêmes conditions.
 
+II. - Les formations collégiales de jugement autres que la grande formation peuvent être présidées par les présidents de
+section ou de chambre.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 3
 
 _Cité par_:
 
@@ -30873,8 +30891,7 @@ _Cite_:
 
 ###### Article R733-4
 
-Le président de la cour et les présidents de formation de jugement qu'il désigne à cet effet peuvent, par ordonnance
-motivée : 
+Le président de la cour et les présidents qu'il désigne à cet effet peuvent, par ordonnance motivée : 
 
 1° Donner acte des désistements ; 
 
@@ -30886,17 +30903,26 @@ motivée :
 n'ont pas été régularisés à l'expiration du délai imparti par une demande adressée en ce sens en application de l'article R.
 733-9 ; 
 
-5° Rejeter les recours qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la décision du
-directeur général de l'Office français de protection des réfugiés et des apatrides. 
+5° Rejeter les recours qui ne présentent aucun élément sérieux susceptible de remettre en cause la décision de l'Office
+français de protection des réfugiés et des apatrides ; dans ce cas, l'ordonnance ne peut être prise qu'après que le requérant
+a été mis en mesure de prendre connaissance des pièces du dossier et après examen de l'affaire par un rapporteur. 
 
-Dans le cas prévu au 5°, l'ordonnance ne peut être prise qu'après que le requérant a été mis en mesure de prendre
-connaissance des pièces du dossier et après examen de l'affaire par un rapporteur.
+L'ordonnance mentionne le nom des parties, l'analyse des conclusions ainsi que les visas des dispositions législatives ou
+réglementaires dont elle fait application. Dans le cas prévu au 5°, l'ordonnance vise également les formalités accomplies par
+le requérant afin de prendre connaissance des pièces du dossier ainsi que l'examen de celui-ci par le rapporteur. 
+
+L'ordonnance indique la date à laquelle elle a été signée. La minute est signée du seul magistrat qui l'a rendue. 
+
+Les ordonnances ne sont pas prononcées en audience publique. 
+
+Les dispositions du deuxième alinéa de l'article R. 733-16 ne sont pas applicables lorsqu'il est fait application des
+dispositions du présent article.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -30904,7 +30930,28 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-16
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-9
+
+
+###### Article R733-4-1
+
+Les attributions dévolues par les dispositions réglementaires du présent chapitre à la formation de jugement ou à son
+président sont exercées par le magistrat compétent, en application du deuxième alinéa de l'article L. 731-2, pour statuer sur
+les recours formés contre les décisions de l'Office français de protection des réfugiés et apatrides prises en application
+des articles L. 723-2 ou L. 723-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-11 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
 
 
 ##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=362></a>
@@ -30917,6 +30964,11 @@ Le recours formé par un demandeur d'asile doit contenir les nom, prénoms, date
 du requérant. Il mentionne l'objet de la demande et l'exposé des circonstances de fait et de droit invoquées à son appui. Il
 est établi en langue française. Il doit être signé par le requérant ou son avocat. 
 
+Le recours indique la langue dans laquelle le requérant souhaite être entendu à l'audience. En l'absence de cette indication
+ou si la cour ne peut désigner un interprète dans la langue demandée, le requérant est entendu dans la langue dans laquelle
+il a été entendu à l'Office français de protection des réfugiés et apatrides ou dans une langue dont il est raisonnable de
+penser qu'il la comprend. 
+
 Le recours est accompagné de la décision de l'office. 
 
 Il peut lui être annexé toutes pièces de nature à établir le bien-fondé de la demande. Les pièces ainsi transmises font
@@ -30924,21 +30976,28 @@ l'objet d'une liste numérotée. Les pièces en langue étrangère doivent être
 S'agissant des actes d'état civil ainsi que des actes judiciaires ou de police, cette traduction doit être certifiée conforme
 à l'original par un traducteur assermenté dans les conditions prévues par les articles R. 111-1 et suivants.
 
+**Nota:**
+
+Conformément à l'article 25 du décret n° 2015-1298 du 16 octobre 2015, les dispositions de l'article R. 733-5 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction résultant du présent décret, sont applicables aux
+recours formés auprès de la Cour nationale du droit d'asile contre les décisions de l'Office français de protection des
+réfugiés et apatrides prises à compter du 1er novembre 2015.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2006-1378 du 14 novembre 2006
 
-_Modifié par_:
-
-  - Décret n°2013-751 du 16 août 2013 - art. 1
-
 _Cité par_:
 
   - Décret n°2015-1298 du 16 octobre 2015 - art. 25 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-19 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-17 (VD)
+
+_Modifié par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 6
 
 _Cite_:
 
@@ -30948,32 +31007,24 @@ _Cite_:
 ###### Article R733-6
 
 Un arrêté du ministre de la justice et du ministre chargé de l'asile définit les modes de dépôt ou de transmission des
-recours, des mémoires et des pièces admis par le secrétariat de la cour. S'agissant des transmissions par voie électronique,
-cet arrêté fixe les conditions garantissant la fiabilité, l'intégrité, la sécurité et la confidentialité des échanges. 
+recours, des mémoires, des pièces et des actes de procédure admis par le secrétariat de la cour. 
+
+S'agissant des transmissions par voie électronique, cet arrêté fixe les conditions garantissant la fiabilité, l'intégrité, la
+sécurité et la confidentialité des échanges. 
 
 Les recours sont enregistrés suivant leur date d'arrivée à la cour.
 
-**Nota:**
-
-Conformément à l'article 2 du décret n° 2013-751 du 16 août 2013, les dispositions des articles R. 733-6, R. 733-13, R.
-733-16, R. 733-19 et R. 733-25 du code de l'entrée et du séjour des étrangers et du droit d'asile dans leur rédaction
-résultant du présent décret entrent en vigueur à une date fixée par arrêté du ministre de la justice et du ministre chargé de
-l'asile qui ne pourra être postérieure au 30 avril 2014.
-
-Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans sa rédaction résultant du décret n° 2013-751 du
-16 août 2013, entrent en vigueur à compter du 30 avril 2014.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 _Cité par_:
 
   - Arrêté du 22 avril 2014 - art. 1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-38 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 7
 
 
 ###### Article R733-7
@@ -31007,20 +31058,18 @@ _Cité par_:
 
 ###### Article R733-8
 
-La cour adresse au requérant un avis de réception de son recours. Outre les mentions prévues par l'article L. 731-2, cet avis
-l'informe de son droit à être assisté gratuitement, à l'audience, par un interprète désigné par la cour, et l'invite, dans le
-délai qui lui est imparti, à préciser en quelle langue il souhaite être entendu. 
+La cour adresse au requérant un avis de réception de son recours. 
 
-Cet avis l'informe des modalités de consultation de son dossier. 
+Cet avis l'informe des modalités de consultation de son dossier.
 
-Si la cour ne peut désigner un interprète dans la langue indiquée, le requérant est informé qu'il sera entendu dans une
-langue dont il est raisonnable de penser qu'il la comprend.
+**Nota:**
+
+Conformément à l'article 25 du décret n° 2015-1298 du 16 octobre 2015, les dispositions de l'article R. 733-8 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction résultant du présent décret, sont applicables aux
+recours formés auprès de la Cour nationale du droit d'asile contre les décisions de l'Office français de protection des
+réfugiés et apatrides prises à compter du 1er novembre 2015.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2013-751 du 16 août 2013 - art. 1
 
 _Cité par_:
 
@@ -31028,6 +31077,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-19 (MMN)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-17 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R743-1 (VD)
+
+_Modifié par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 8
 
 _Cite_:
 
@@ -31092,22 +31145,15 @@ _Modifié par_:
 
 Lorsque le requérant est représenté par un avocat, les actes de procédure sont accomplis à l'égard de ce mandataire, à
 l'exception de la notification de l'avis de réception prévu à l'article R. 733-8, de l'avis d'audience prévu à l'article R.
-733-19 et de la décision elle-même, adressés personnellement au requérant par lettre recommandée avec demande d'avis de
-réception. 
+733-19 et de la décision elle-même, adressés personnellement au requérant. 
 
 L'information prévue au deuxième alinéa de l'article R. 733-13 est également adressée personnellement au requérant.
-
-**Nota:**
-
-Conformément au III de l'article 2 du décret n° 2013-751 du 16 août 2013, la référence à l'article R. 733-19 doit être lue
-comme renvoyant, jusqu'au 30 avril 2014, à l'article R. 733-12 dans sa rédaction antérieure au présent décret. Sur le
-fondement du III du même article du décret précité, le dernier alinéa est applicable à compter du 30 avril 2014.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 9
 
 _Cité par_:
 
@@ -31116,32 +31162,47 @@ _Cité par_:
 
 ###### Article R733-12
 
-A l'exception de l'avis de clôture de l'instruction, de l'avis de réception prévu à l'article R. 733-8, de l'avis d'audience
-prévu à l'article R. 733-19 et de la décision elle-même, les communications avec les requérants et les avocats sont faites
-par lettre simple ou par voie électronique selon un procédé technique garantissant la fiabilité, l'intégrité, la sécurité et
-la confidentialité des échanges. 
+Les communications avec les requérants sont effectuées au moyen de lettres simples, à l'exception de l'avis de réception
+prévu à l'article R. 733-8, de l'ordonnance de clôture de l'instruction prévue au premier alinéa de l'article R. 733-13, de
+l'information prévue à l'article R. 733-16, de l'avis d'audience prévu à l'article R. 733-19 et de la décision elle-même,
+notifiés par lettre recommandée avec demande d'avis de réception. 
 
 Sans préjudice des dispositions du premier alinéa de l'article R. 733-11, l'information prévue à l'article R. 733-16 est
 adressée au requérant par lettre recommandée avec demande d'avis de réception. 
 
+Les communications avec les avocats sont effectuées au moyen de lettres simples, à l'exception de l'ordonnance de clôture de
+l'instruction et de l'avis d'audience notifiés par lettre recommandée avec demande d'avis de réception. 
+
+Par dérogation à l'alinéa précédent, les avocats inscrits dans un dispositif permettant la communication par voie
+électronique des actes de procédure dans les conditions définies par l'arrêté prévu à l'article R. 733-6 sont réputés avoir
+reçu la communication ou la notification à la date de première consultation du document qui leur a été ainsi adressé,
+certifiée par l'accusé de réception délivré par l'application informatique, ou, à défaut de consultation dans un délai de
+huit jours à compter de la date de mise à disposition du document dans l'application, à l'issue de ce délai. Sauf demande
+contraire de leur part, les avocats sont alertés de toute nouvelle communication ou notification par un message électronique
+envoyé à l'adresse choisie par eux. 
+
+Lorsque le président de la cour ou le président de formation de jugement désigné statue seul en application du deuxième
+alinéa de l'article L. 731-2, la communication ou la notification est réputée reçue dès sa mise à disposition dans
+l'application. 
+
 Les communications avec l'office sont faites par voie électronique, dans des conditions garantissant la fiabilité,
-l'intégrité, la sécurité et la confidentialité des échanges.
-
-**Nota:**
-
-Conformément au III de l'article 2 du décret n° 2013-751 du 16 août 2013, la référence à l'article R. 733-19 doit être lue
-comme renvoyant, jusqu'au 30 avril 2014, à l'article R. 733-12 dans sa rédaction antérieure au présent décret. Sur le
-fondement du III du même article du décret précité, le deuxième alinéa est applicable à compter du 30 avril 2014.
+l'intégrité, la sécurité et la confidentialité des échanges. L'office est réputé avoir reçu notification des documents qui
+lui ont été ainsi adressés à la date de leur transmission apparaissant dans les rapports de transmission générés par
+l'application informatique.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 10
 
 _Cité par_:
 
   - Arrêté du 18 février 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L731-2 (V)
 
 
 ###### Article R733-13
@@ -31181,6 +31242,51 @@ _Cité par_:
 
   - Arrêté du 22 avril 2014 - art. 1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-19 (VD)
+
+
+###### Article R733-13-1
+
+Pour les affaires relevant de sa compétence en application du deuxième alinéa de l'article L. 731-2, le président de la cour
+ou le président désigné peut, dès l'enregistrement du recours, par une décision qui tient lieu d'avis d'audience, fixer la
+date à laquelle l'affaire sera appelée à l'audience. Dans ce cas, l'instruction écrite est close trois jours avant la date de
+l'audience. 
+
+La décision prévue à l'alinéa précédent est adressée aux parties par tout moyen quinze jours au moins avant le jour où
+l'affaire sera appelée à l'audience. Elle informe les parties de la clôture de l'instruction prévue par cet alinéa.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2018-1159 du 14 décembre 2018 - art. 14
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
+
+
+###### Article R733-13-2
+
+Lorsque le président de la cour ou le président désigné décide avant l'audience, de sa propre initiative ou sur demande, de
+renvoyer l'examen du recours à une formation collégiale en application du deuxième alinéa de l'article L. 731-2, les parties
+en sont avisées par tout moyen. 
+
+Lorsqu'il est saisi par un requérant d'une demande de renvoi à une formation collégiale, le président de la cour ou le
+président désigné peut statuer sur la demande dans sa décision.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 11
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L731-2 (V)
 
 
 ###### Article R733-14
@@ -31266,8 +31372,10 @@ La cour met gratuitement à disposition du requérant, pour l'assister à l'audi
 d'apporter son concours à la justice en son honneur et en sa conscience, devant le président de la cour ou l'un des vice-
 présidents. 
 
-Conformément à l'article R. 733-8, cet interprète est désigné dans la langue indiquée par le requérant ou, à défaut, dans une
-langue dont il est raisonnable de penser qu'il la comprend. 
+Conformément au deuxième alinéa de l'article R. 733-5, l'interprète est désigné dans la langue indiquée par le requérant dans
+son recours ou, à défaut de cette indication ou si la cour ne peut désigner un interprète dans la langue demandée, dans la
+langue dans laquelle il a été entendu à l'Office français de protection des réfugiés et apatrides ou dans une langue dont il
+est raisonnable de penser qu'il la comprend.
 
 Lorsqu'il est fait usage de la possibilité prévue par le deuxième alinéa de l'article L. 733-1, l'interprète est mis à la
 disposition du requérant dans la salle d'audience où il se trouve. 
@@ -31276,11 +31384,18 @@ En cas de difficulté pour obtenir le concours d'un interprète qualifié prése
 ne se tient qu'après que la cour s'est assurée de la présence, dans la salle où elle siège, d'un tel interprète tout au long
 de son déroulement.
 
+**Nota:**
+
+Conformément à l'article 25 du décret n° 2015-1298 du 16 octobre 2015, les dispositions de l'article R. 733-17 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction résultant du présent décret, sont applicables aux
+recours formés auprès de la Cour nationale du droit d'asile contre les décisions de l'Office français de protection des
+réfugiés et apatrides prises à compter du 1er novembre 2015.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 12
 
 _Cité par_:
 
@@ -31291,7 +31406,7 @@ _Cité par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-8
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-5
 
 
 ###### Article R733-18
@@ -31446,14 +31561,18 @@ Chacun de ces procès-verbaux mentionne :
 Le cas échéant, sont également mentionnés le nom de l'avocat et le nom de l'interprète sur le procès-verbal établi dans la
 salle d'audience où ils se trouvent. 
 
-Ces procès-verbaux attestent l'ouverture au public des deux salles d'audience, sous réserve de l'application du sixième
-alinéa de l'article R. 733-24.
+Ces procès-verbaux attestent l'ouverture au public des deux salles d'audience, sous réserve               du prononcé d'un
+huis-clos en application de l'article L. 733-1-1.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 13
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-24 (V)
 
 _Cité par_:
 
@@ -31461,10 +31580,6 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R761-1 (M)
   - Code de l'entrée et du séjour des étrangers et du  - art. R762-1 (M)
   - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-24
 
 
 ###### Article R733-24
@@ -31478,32 +31593,30 @@ avoir été invitées, de donner des signes d'approbation ou de désapprobation,
 Le président de la formation de jugement peut faire expulser toute personne qui n'obtempère pas à ses injonctions, sans
 préjudice des poursuites pénales ou disciplinaires qui pourraient être exercées contre elle. 
 
-Le président de la formation de jugement statue sur les demandes de renvoi présentées par les parties. 
+Le président de la formation de jugement statue sur les demandes de renvoi à une audience ultérieure présentées par les
+parties. 
 
 L'absence d'une des parties ou de son avocat à l'audience n'emporte pas obligation pour le président de la formation de
 jugement de renvoyer l'affaire à une audience ultérieure. 
 
-S'il l'estime utile, en raison des circonstances de l'affaire, notamment lorsqu'une partie le sollicite, le président de la
-formation peut ordonner que l'audience se tienne à huis clos. 
-
-Les décisions prises sur le fondement des quatrième et sixième alinéas ne sont pas motivées et ne sont pas susceptibles de
-recours.
+Les décisions prises sur le fondement du quatrième alinéa ne sont pas motivées et ne sont pas susceptibles de recours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 14
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R733-23 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-23 (V)
 
 
 ###### Article R733-25
 
-Le rapporteur donne lecture du rapport, qui analyse l'objet de la demande et les éléments de fait et de droit exposés par les
-parties, et fait mention des éléments propres à éclairer le débat, sans prendre parti sur le sens de la décision. 
+Le rapporteur donne lecture du rapport, qui analyse, en toute indépendance, l'objet de la demande et les éléments de fait et
+de droit exposés par les parties, et fait mention des éléments propres à éclairer le débat, sans prendre parti sur le sens de
+la décision. 
 
 Les principaux éléments du rapport sont traduits au requérant, lorsqu'il a besoin de l'assistance d'un interprète. 
 
@@ -31530,14 +31643,14 @@ Arrêté du 22 avril 2014, art. 1er : Les dispositions du présent article, dans
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2013-751 du 16 août 2013 - art. 1
-
 _Cité par_:
 
   - Arrêté du 22 avril 2014 - art. 1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-28 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 15
 
 _Cite_:
 
@@ -31644,9 +31757,8 @@ _Créé par_:
 
 Les décisions de la cour sont motivées. 
 
-La décision mentionne que l'audience a été publique, sauf s'il a été fait application des dispositions du sixième alinéa de
-l'article R. 733-24. Dans ce dernier cas, il est mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du
-public. 
+La décision mentionne que l'audience a été publique, sauf s'il a été fait application des dispositions de l'article L.
+733-1-1. Dans ce dernier cas, il est mentionné que l'audience a eu lieu ou s'est poursuivie hors la présence du public. 
 
 Elle contient les nom et prénoms du requérant, l'exposé de l'objet de la demande et des circonstances de droit et de fait
 invoquées par écrit à son appui ainsi que, s'il y a lieu, la mention des observations écrites de l'office. Elle indique, le
@@ -31665,12 +31777,13 @@ secrétaire général de la cour ou par un chef de service.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 16
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L733-1-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L733-1
 
 
@@ -31690,8 +31803,7 @@ _Créé par_:
 
 Le secrétaire général de la cour notifie la décision de la cour au requérant par lettre recommandée avec demande d'avis de
 réception dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Il la notifie également au directeur général
-de l'office. Il informe simultanément du caractère positif ou négatif de cette décision le préfet compétent et, à Paris, le
-préfet de police ainsi que le directeur de l'Office français de l'immigration et de l'intégration. 
+de l'Office français de protection des réfugiés et des apatrides.
 
 La cour communique au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie de l'avis
 de réception. 
@@ -31700,9 +31812,9 @@ Les décisions de rejet sont transmises, sur sa demande, au ministre chargé de 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 17
 
 _Cité par_:
 
@@ -31783,22 +31895,24 @@ _Cite_:
 
 ###### Article R733-36
 
-La cour peut être saisie d'un recours en révision dans le cas où il est soutenu que sa décision est fondée sur des
-circonstances de fait établies de façon frauduleuse. 
+La cour peut être saisie d'un recours en révision dans les cas prévus aux articles L. 711-5 et L. 712-4. 
 
-Le recours doit être exercé dans le délai de deux mois après que la fraude a été constatée. 
+Le recours est exercé dans le délai de deux mois après la constatation des faits de nature à justifier l'exclusion du statut
+de réfugié ou du bénéfice de la protection subsidiaire ou à caractériser une fraude. 
 
 Les dispositions du deuxième alinéa de l'article R. 733-7 sont applicables aux recours en révision.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2013-751 du 16 août 2013 - art. 1
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 19
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-7
+  - Code de l'entrée et du séjour des étrangers et ... - art. L712-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-7 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L711-5
 
 
 ###### Article R733-37
