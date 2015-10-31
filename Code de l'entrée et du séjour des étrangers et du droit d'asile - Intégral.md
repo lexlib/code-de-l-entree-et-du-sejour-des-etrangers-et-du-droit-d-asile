@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2015-10-19
+Version Consolidée au 2015-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -91,7 +91,7 @@ Version Consolidée au 2015-10-19
         - [Chapitre II : Dispositions propres à la Guyane (art. L532-1)](#88)
         - [Chapitre III : Autres cas de reconduite (art. L533-1)](#89)
       - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANCAIS (art. L541-1 à L541-4)](#90)
-      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. L551-1 à L555-3)](#91)
+      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. L551-1 à L556-2)](#91)
         - [Chapitre Ier : Placement en rétention (art. L551-1 à L551-3)](#92)
         - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. L552-1 à L552-13)](#93)
           - [Section 1 : Première saisine du juge des libertés et de la détention (art. L552-1 à L552-6)](#94)
@@ -101,304 +101,343 @@ Version Consolidée au 2015-10-19
         - [Chapitre III : Conditions de la rétention (art. L553-1 à L553-6)](#98)
         - [Chapitre IV : Fin de la rétention (art. L554-1 à L554-3)](#99)
         - [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français (art. L555-1 à L555-3)](#100)
-      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. L561-1 à L563-1)](#101)
-        - [Chapitre Ier (art. L561-1 à L561-3)](#102)
-        - [Chapitre II : Assignation à résidence avec surveillance électronique (art. L562-1 à L562-3)](#103)
-        - [Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée (art. L563-1)](#104)
-      - [TITRE VII : DISPOSITIONS DIVERSES (art. L571-1 à L571-3)](#105)
-    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#106)
-      - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-11)](#107)
-      - [TITRE II : SANCTIONS (art. L621-2 à L626-1)](#108)
-        - [Chapitre Ier :  Entrée irrégulière (art. L621-2)](#109)
-        - [Chapitre II : Aide à l'entrée et au séjour irréguliers (art. L622-1 à L622-10)](#110)
-        - [Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française (art. L623-1 à L623-3)](#111)
-        - [Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence (art. L624-1 à L624-4)](#112)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. L625-1 à L625-6)](#113)
-        - [Chapitre VI : Dispositions diverses. (art. L626-1)](#114)
-    - [LIVRE VII : LE DROIT D'ASILE (art. L711-1 à L767-1)](#115)
-      - [TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE (art. L711-1 à L713-6)](#116)
-        - [Chapitre Ier : La qualité de réfugié (art. L711-1 à L711-6)](#117)
-        - [Chapitre II : La protection subsidiaire (art. L712-1 à L712-4)](#118)
-        - [Chapitre III : Dispositions communes (art. L713-1 à L713-6)](#119)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. L721-1 à L724-3)](#120)
-        - [Chapitre Ier : Missions (art. L721-1 à L721-4)](#121)
-        - [Chapitre II : Organisation (art. L722-1 à L722-5)](#122)
-        - [Chapitre III : Examen des demandes d'asile (art. L723-1 à L723-17)](#123)
-          - [Section 1 : Garanties procédurales et obligations du demandeur (art. L723-3 à L723-10)](#124)
-          - [Section 4 : Demandes de réexamen (art. L723-15 à L723-17)](#125)
-        - [Chapitre IV : Fin de la protection (art. L724-1 à L724-3)](#126)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. L731-1 à L733-5)](#127)
-        - [Chapitre Ier : Missions (art. L731-1 à L731-4)](#128)
-        - [Chapitre II : Organisation (art. L732-1)](#129)
-        - [Chapitre III : Examen des recours (art. L733-1 à L733-5)](#130)
-      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. L741-1 à L744-11)](#131)
-        - [Chapitre Ier : Enregistrement de la demande d'asile (art. L741-1 à L741-4)](#132)
-        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. L742-1 à L742-6)](#133)
-        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. L744-5 à L744-11)](#134)
-          - [Section 1 : Dispositif national d'accueil (art. L744-5)](#135)
-          - [Section 2 : Evaluation des besoins (art. L744-6)](#136)
-          - [Section 5 : Accès au marché du travail (art. L744-11)](#137)
-      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. L751-1 à L753-5)](#138)
-        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. L752-1 à L752-3)](#139)
-        - [Chapitre III : Documents de voyage (art. L753-1 à L753-5)](#140)
-      - [TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER (art. L761-1 à L767-1)](#141)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. L761-1)](#142)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. L762-1)](#143)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. L763-1)](#144)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. L764-1)](#145)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L765-1)](#146)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. L766-1 à L766-3)](#147)
-        - [Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. L767-1)](#148)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. L811-1 à L832-2)](#149)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. L811-1 à L811-9)](#150)
-        - [Chapitre unique (art. L811-1 à L811-9)](#151)
-      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. L812-1 à L812-8)](#152)
-        - [Chapitre unique (art. L812-1 à L812-8)](#153)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-5)](#154)
-        - [Chapitre unique (art. L821-1 à L821-5)](#155)
-      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. L831-1 à L832-2)](#156)
-        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. L831-1)](#157)
-        - [Chapitre II : Mayotte (art. L832-1 à L832-2)](#158)
-    - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#159)
-  - [Partie réglementaire (art. R111-1 à R832-2)](#160)
-    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#161)
-      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-23)](#162)
-        - [Chapitre unique (art. R111-1 à R111-23)](#163)
-          - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12-1)](#164)
-          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-23)](#165)
-      - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#166)
-        - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#167)
-          - [Section 1 : Entrée en France (art. R121-1 à R121-2-1)](#168)
-          - [Section 3 : Séjour d'une durée supérieure à trois mois (art. R121-4 à R121-5-1)](#169)
-          - [Section 4 : Maintien du droit au séjour (art. R121-6 à R121-9)](#170)
-          - [Section 5 : Délivrance du titre de séjour (art. R121-10 à R121-16)](#171)
-            - [Sous-section 1 : Dispositions générales (art. R121-10 à R121-15)](#172)
-            - [Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers (art. R121-16)](#173)
-        - [Chapitre II : Droit au séjour permanent (art. R122-1 à R122-5)](#174)
-      - [TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS (art. D131-1)](#175)
-        - [Chapitre unique (art. D131-1)](#176)
-    - [LIVRE II : L'ENTRÉE EN FRANCE (art. R211-1 à R223-14)](#177)
-      - [TITRE Ier : CONDITIONS D'ADMISSION (art. R211-1 à R213-2)](#178)
-        - [Chapitre Ier : Documents exigés (art. R211-1 à R211-33)](#179)
-          - [Section 1 : Généralités (art. R211-1 à R211-3)](#180)
-          - [Section 2 : Visa (art. R211-4 à R211-10)](#181)
-            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4 à R211-4-2)](#182)
-            - [Sous-section 2 : Recours contre les refus de visa (art. D211-5 à R211-10)](#183)
-          - [Section 3 : Justificatif d'hébergement (art. R211-11 à R211-26)](#184)
-            - [Sous-section 1 : Souscription des attestations d'accueil (art. R211-11 à R211-15)](#185)
-            - [Sous-section 2 : Validation des attestations d'accueil (art. R211-16 à R211-18)](#186)
-            - [Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil (art. R211-19 à R211-26)](#187)
-          - [Section 4 : Autres documents (art. R211-27 à R211-33)](#188)
-            - [Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour (art. R211-27)](#189)
-            - [Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger (art. R211-28)](#190)
-            - [Sous-section 3 : Prise en charge des dépenses médicales et hospitalières (art. R211-29)](#191)
-            - [Sous-section 4 : Garanties de rapatriement (art. R211-30 à R211-31)](#192)
-            - [Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R211-32 à R211-33)](#193)
-        - [Chapitre II : Dispenses (art. R212-1 à R212-11)](#194)
-          - [Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1 (art. R212-1)](#195)
-          - [Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3 (art. R212-2 à R212-5)](#196)
-          - [Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R212-6)](#197)
-          - [Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2 (art. R212-7 à R212-11)](#198)
-        - [Chapitre III : Refus d'entrée (art. R*213-3 à R213-2)](#199)
-      - [TITRE II : MAINTIEN EN ZONE D'ATTENTE (art. R221-1 à R223-14)](#200)
-        - [Chapitre Ier : Conditions du maintien en zone d'attente (art. R221-1 à R221-3)](#201)
-        - [Chapitre II : Prolongation du maintien en zone d'attente (art. R222-1 à R222-4)](#202)
-          - [Section 1 : Décision du juge des libertés et de la détention (art. R222-1 à R222-3)](#203)
-          - [Section 2 : Voies de recours (art. R222-4)](#204)
-        - [Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente (art. R223-1 à R223-14)](#205)
-          - [Section 1 : Dispositions communes (art. R223-1)](#206)
-          - [Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants (art. R*223-4 à R223-7)](#207)
-          - [Section 3 : Conditions d'accès des associations humanitaires (art. R*223-12 à R223-14)](#208)
-    - [LIVRE III : LE SÉJOUR EN FRANCE (art. R311-1 à D331-14)](#209)
-      - [TITRE Ier : LES TITRES DE SÉJOUR (art. R311-1 à R317-3)](#210)
-        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-35)](#211)
-          - [Section 1 : Dispositions relatives aux documents de séjour (art. R311-1 à D311-18-3)](#212)
-            - [Sous-section 1 : Demandes de titre de séjour (art. R311-1 à R311-3)](#213)
-            - [Sous-section 2 : Récépissé des demandes (art. R311-4 à R311-9)](#214)
-            - [Sous-section 3 : Délivrance du titre de séjour (art. R311-10 à R311-13)](#215)
-            - [Sous-section 3-1 : Modèle du titre de séjour (art. R311-13-1)](#216)
-            - [Sous-section 4 : Retrait du titre de séjour (art. R311-14 à R311-16)](#217)
-            - [Sous-section 5 : Restitution du titre de séjour (art. R311-17 à R311-18)](#218)
-            - [Sous-section 6 : Dispositions fiscales (art. D311-18-1 à D311-18-3)](#219)
-          - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. R311-19 à R311-30-16)](#220)
-            - [Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration (art. R311-19 à R311-30)](#221)
-            - [Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine (art. R311-30-1 à R311-30-11)](#222)
-            - [Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille (art. R311-30-12 à R311-30-16)](#223)
-          - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. D311-33 à R311-35)](#224)
-        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#225)
-        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-38)](#226)
-          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#227)
-          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34-4)](#228)
-            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#229)
-            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#230)
-            - [Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires (art. R313-10-1 à R313-10-5)](#231)
-            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique-chercheur" (art. R313-11 à R313-13)](#232)
-            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#233)
-            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19-1)](#234)
-            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#235)
-              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22-1)](#236)
-              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#237)
-            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-34)](#238)
-            - [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne (art. R313-34-1)](#239)
-            - [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille (art. R313-34-2 à R313-34-4)](#240)
-          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-38)](#241)
-        - [Chapitre IV : La carte de résident (art. R314-1 à R314-6)](#242)
-          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#243)
-            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1 à R314-1-4)](#244)
-            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#245)
-          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#246)
-          - [Section 4 : Délivrance de la carte de résident permanent (art. R314-4)](#247)
-          - [Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle (art. R314-5 à R314-6)](#248)
-        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-4 à R315-11)](#249)
-        - [Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale (art. R316-1 à R316-10)](#250)
+        - [Chapitre VI : Demandes d'asile en rétention (art. L556-1 à L556-2)](#101)
+      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. L561-1 à L563-1)](#102)
+        - [Chapitre Ier (art. L561-1 à L561-3)](#103)
+        - [Chapitre II : Assignation à résidence avec surveillance électronique (art. L562-1 à L562-3)](#104)
+        - [Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée (art. L563-1)](#105)
+      - [TITRE VII : DISPOSITIONS DIVERSES (art. L571-1 à L571-3)](#106)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#107)
+      - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-11)](#108)
+      - [TITRE II : SANCTIONS (art. L621-2 à L626-1)](#109)
+        - [Chapitre Ier :  Entrée irrégulière (art. L621-2)](#110)
+        - [Chapitre II : Aide à l'entrée et au séjour irréguliers (art. L622-1 à L622-10)](#111)
+        - [Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française (art. L623-1 à L623-3)](#112)
+        - [Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence (art. L624-1 à L624-4)](#113)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. L625-1 à L625-6)](#114)
+        - [Chapitre VI : Dispositions diverses. (art. L626-1)](#115)
+    - [LIVRE VII : LE DROIT D'ASILE (art. L711-1 à L767-1)](#116)
+      - [TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE (art. L711-1 à L713-6)](#117)
+        - [Chapitre Ier : La qualité de réfugié (art. L711-1 à L711-6)](#118)
+        - [Chapitre II : La protection subsidiaire (art. L712-1 à L712-4)](#119)
+        - [Chapitre III : Dispositions communes (art. L713-1 à L713-6)](#120)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. L721-1 à L724-3)](#121)
+        - [Chapitre Ier : Missions (art. L721-1 à L721-4)](#122)
+        - [Chapitre II : Organisation (art. L722-1 à L722-5)](#123)
+        - [Chapitre III : Examen des demandes d'asile (art. L723-1 à L723-17)](#124)
+          - [Section 1 : Garanties procédurales et obligations du demandeur (art. L723-1 à L723-10)](#125)
+          - [Section 2 : Demandes irrecevables (art. L723-11)](#126)
+          - [Section 3 : Retrait d'une demande et clôture d'examen d'une demande (art. L723-12 à L723-14)](#127)
+          - [Section 4 : Demandes de réexamen (art. L723-15 à L723-17)](#128)
+        - [Chapitre IV : Fin de la protection (art. L724-1 à L724-3)](#129)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. L731-1 à L733-5)](#130)
+        - [Chapitre Ier : Missions (art. L731-1 à L731-4)](#131)
+        - [Chapitre II : Organisation (art. L732-1)](#132)
+        - [Chapitre III : Examen des recours (art. L733-1 à L733-5)](#133)
+      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. L741-1 à L744-11)](#134)
+        - [Chapitre Ier : Enregistrement de la demande d'asile (art. L741-1 à L741-4)](#135)
+        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. L742-1 à L742-6)](#136)
+        - [Chapitre III : Droit au maintien sur le territoire français (art. L743-1 à L743-4)](#137)
+        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. L744-1 à L744-11)](#138)
+          - [Section 1 : Dispositif national d'accueil (art. L744-1 à L744-5)](#139)
+          - [Section 2 : Evaluation des besoins (art. L744-6)](#140)
+          - [Section 3 : Orientation des demandeurs (art. L744-7 à L744-8)](#141)
+          - [Section 4 : Allocation pour demandeur d'asile (art. L744-9 à L744-10)](#142)
+          - [Section 5 : Accès au marché du travail (art. L744-11)](#143)
+      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. L751-1 à L753-5)](#144)
+        - [Chapitre Ier : Information et accès aux droits (art. L751-1 à L751-2)](#145)
+        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. L752-1 à L752-3)](#146)
+        - [Chapitre III : Documents de voyage (art. L753-1 à L753-5)](#147)
+      - [TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER (art. L761-1 à L767-1)](#148)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. L761-1)](#149)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. L762-1)](#150)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. L763-1)](#151)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. L764-1)](#152)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. L765-1)](#153)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. L766-1 à L766-3)](#154)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion (art. L767-1)](#155)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. L811-1 à L832-2)](#156)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. L811-1 à L811-9)](#157)
+        - [Chapitre unique (art. L811-1 à L811-9)](#158)
+      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. L812-1 à L812-8)](#159)
+        - [Chapitre unique (art. L812-1 à L812-8)](#160)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. L821-1 à L821-5)](#161)
+        - [Chapitre unique (art. L821-1 à L821-5)](#162)
+      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. L831-1 à L832-2)](#163)
+        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. L831-1)](#164)
+        - [Chapitre II : Mayotte (art. L832-1 à L832-2)](#165)
+    - [LIVRE IX : LE CODÉVELOPPEMENT (art. L900-1)](#166)
+  - [Partie réglementaire (art. R111-1 à R832-2)](#167)
+    - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. R111-1 à D131-1)](#168)
+      - [TITRE Ier : GÉNÉRALITÉS (art. R111-1 à R111-23)](#169)
+        - [Chapitre unique (art. R111-1 à R111-23)](#170)
+          - [Section 1 : Interprètes traducteurs (art. R111-1 à R111-12-1)](#171)
+          - [Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié (art. R111-13 à R111-23)](#172)
+      - [TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE (art. R121-1 à R122-5)](#173)
+        - [Chapitre Ier : Droit au séjour (art. R121-1 à R121-16)](#174)
+          - [Section 1 : Entrée en France (art. R121-1 à R121-2-1)](#175)
+          - [Section 3 : Séjour d'une durée supérieure à trois mois (art. R121-4 à R121-5-1)](#176)
+          - [Section 4 : Maintien du droit au séjour (art. R121-6 à R121-9)](#177)
+          - [Section 5 : Délivrance du titre de séjour (art. R121-10 à R121-16)](#178)
+            - [Sous-section 1 : Dispositions générales (art. R121-10 à R121-15)](#179)
+            - [Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers (art. R121-16)](#180)
+        - [Chapitre II : Droit au séjour permanent (art. R122-1 à R122-5)](#181)
+      - [TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS (art. D131-1)](#182)
+        - [Chapitre unique (art. D131-1)](#183)
+    - [LIVRE II : L'ENTRÉE EN FRANCE (art. R211-1 à R223-14)](#184)
+      - [TITRE Ier : CONDITIONS D'ADMISSION (art. R211-1 à R213-9)](#185)
+        - [Chapitre Ier : Documents exigés (art. R211-1 à R211-33)](#186)
+          - [Section 1 : Généralités (art. R211-1 à R211-3)](#187)
+          - [Section 2 : Visa (art. R211-4 à R211-10)](#188)
+            - [Sous-section 1 : Instruction des demandes de visa (art. R211-4 à R211-4-2)](#189)
+            - [Sous-section 2 : Recours contre les refus de visa (art. D211-5 à R211-10)](#190)
+          - [Section 3 : Justificatif d'hébergement (art. R211-11 à R211-26)](#191)
+            - [Sous-section 1 : Souscription des attestations d'accueil (art. R211-11 à R211-15)](#192)
+            - [Sous-section 2 : Validation des attestations d'accueil (art. R211-16 à R211-18)](#193)
+            - [Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil (art. R211-19 à R211-26)](#194)
+          - [Section 4 : Autres documents (art. R211-27 à R211-33)](#195)
+            - [Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour (art. R211-27)](#196)
+            - [Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger (art. R211-28)](#197)
+            - [Sous-section 3 : Prise en charge des dépenses médicales et hospitalières (art. R211-29)](#198)
+            - [Sous-section 4 : Garanties de rapatriement (art. R211-30 à R211-31)](#199)
+            - [Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R211-32 à R211-33)](#200)
+        - [Chapitre II : Dispenses (art. R212-1 à R212-11)](#201)
+          - [Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1 (art. R212-1)](#202)
+          - [Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3 (art. R212-2 à R212-5)](#203)
+          - [Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2 (art. R212-6)](#204)
+          - [Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2 (art. R212-7 à R212-11)](#205)
+        - [Chapitre III : Refus d'entrée (art. R213-1 à R213-9)](#206)
+      - [TITRE II : MAINTIEN EN ZONE D'ATTENTE (art. R221-1 à R223-14)](#207)
+        - [Chapitre Ier : Conditions du maintien en zone d'attente (art. R221-1 à R221-3)](#208)
+        - [Chapitre II : Prolongation du maintien en zone d'attente (art. R222-1 à R222-4)](#209)
+          - [Section 1 : Décision du juge des libertés et de la détention (art. R222-1 à R222-3)](#210)
+          - [Section 2 : Voies de recours (art. R222-4)](#211)
+        - [Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente (art. R223-1 à R223-14)](#212)
+          - [Section 1 : Dispositions communes (art. R223-1)](#213)
+          - [Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants (art. R*223-4 à R223-7)](#214)
+          - [Section 3 : Conditions d'accès des associations humanitaires (art. R*223-12 à R223-14)](#215)
+    - [LIVRE III : LE SÉJOUR EN FRANCE (art. R311-1 à D331-14)](#216)
+      - [TITRE Ier : LES TITRES DE SÉJOUR (art. R311-1 à R317-3)](#217)
+        - [Chapitre Ier : Dispositions générales (art. R311-1 à R311-35)](#218)
+          - [Section 1 : Dispositions relatives aux documents de séjour (art. R311-1 à D311-18-3)](#219)
+            - [Sous-section 1 : Demandes de titre de séjour (art. R311-1 à R311-3)](#220)
+            - [Sous-section 2 : Récépissé des demandes (art. R311-4 à R311-9)](#221)
+            - [Sous-section 3 : Délivrance du titre de séjour (art. R311-10 à R311-13)](#222)
+            - [Sous-section 3-1 : Modèle du titre de séjour (art. R311-13-1)](#223)
+            - [Sous-section 4 : Retrait du titre de séjour (art. R311-14 à R311-16)](#224)
+            - [Sous-section 5 : Restitution du titre de séjour (art. R311-17 à R311-18)](#225)
+            - [Sous-section 6 : Dispositions fiscales (art. D311-18-1 à D311-18-3)](#226)
+          - [Section 2 : Dispositions relatives à l'intégration dans la société française (art. R311-19 à R311-30-16)](#227)
+            - [Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration (art. R311-19 à R311-30)](#228)
+            - [Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine (art. R311-30-1 à R311-30-11)](#229)
+            - [Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille (art. R311-30-12 à R311-30-16)](#230)
+          - [Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour (art. D311-33 à R311-35)](#231)
+        - [Chapitre II : La commission du titre de séjour (art. R312-1 à R312-10)](#232)
+        - [Chapitre III : La carte de séjour temporaire (art. R313-1 à R313-38)](#233)
+          - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#234)
+          - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34-4)](#235)
+            - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#236)
+            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#237)
+            - [Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires (art. R313-10-1 à R313-10-5)](#238)
+            - [Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique-chercheur" (art. R313-11 à R313-13)](#239)
+            - [Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle" (art. R313-14)](#240)
+            - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle (art. R313-15 à R313-19-1)](#241)
+            - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale" (art. R313-21 à R313-32)](#242)
+              - [Paragraphe 1 : Dispositions générales (art. R313-20 à R313-22-1)](#243)
+              - [Paragraphe 2 : Commission médicale régionale (art. R313-23 à R313-32)](#244)
+            - [Sous-section 7 : L'admission exceptionnelle au séjour (art. R313-34)](#245)
+            - [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne (art. R313-34-1)](#246)
+            - [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille (art. R313-34-2 à R313-34-4)](#247)
+          - [Section 3 : Renouvellement des cartes de séjour temporaires. (art. R313-35 à R313-38)](#248)
+        - [Chapitre IV : La carte de résident (art. R314-1 à R314-6)](#249)
+          - [Section 2 : Délivrance de la carte de résident (art. R314-1 à R314-2)](#250)
+            - [Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier (art. R314-1 à R314-1-5)](#251)
+            - [Sous-section 2 : Délivrance de plein droit (art. R314-2)](#252)
+          - [Section 3 : Renouvellement de la carte de résident (art. R314-3)](#253)
+          - [Section 4 : Délivrance de la carte de résident permanent (art. R314-4)](#254)
+          - [Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle (art. R314-5 à R314-6)](#255)
+        - [Chapitre V : La carte de séjour portant la mention "compétences et talents" (art. R315-4 à R315-11)](#256)
+        - [Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale (art. R316-1 à R316-10)](#257)
           - [Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
-coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#251)
-          - [Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires (art. R316-6 à R316-10)](#252)
-        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#253)
-      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#254)
-        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à R321-22)](#255)
-          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#256)
-          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#257)
-            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#258)
-            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#259)
-          - [Section 3 : Titres de voyage (art. R321-22)](#260)
-        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#261)
-          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#262)
-          - [Section 2 : Autres activités professionnelles (art. R322-3)](#263)
-      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#264)
-        - [Chapitre unique (art. D331-1 à D331-14)](#265)
-          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#266)
-          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#267)
-    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#268)
-      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#269)
-        - [Chapitre unique (art. R411-1 à R411-6)](#270)
-      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#271)
-        - [Chapitre unique (art. R421-1 à R421-29)](#272)
-          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#273)
-          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#274)
-          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#275)
-          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#276)
-          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#277)
-      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#278)
-        - [Chapitre unique (art. R431-1)](#279)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R571-7)](#280)
-      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-3)](#281)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1 à R511-4)](#282)
-        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-2)](#283)
-          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-2)](#284)
-          - [Section 2 : Procédure contentieuse (art. R512-2)](#285)
-        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#286)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1 à R513-1-1)](#287)
-          - [Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ (art. R513-2 à R513-3)](#288)
-      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#289)
-        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#290)
-        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-9)](#291)
-        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-7)](#292)
-          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#293)
-          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-7)](#294)
-        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#295)
-      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R*531-2 à R533-1)](#296)
-        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R*531-2 à R531-13)](#297)
-          - [Section 1 : Autorités administratives compétentes (art. R*531-2 à R531-4)](#298)
-          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#299)
-          - [Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne (art. R531-10 à R531-13)](#300)
-        - [Chapitre III : Autres cas de reconduite (art. R533-1)](#301)
-      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#302)
-      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R553-18)](#303)
-        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#304)
-        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-24)](#305)
-          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#306)
-          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#307)
-          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#308)
-            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#309)
-            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#310)
-          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-24)](#311)
-            - [Sous-section 1 : Saisine et décision du juge des libertés et de la détention (art. R552-17 à R552-19)](#312)
-            - [Sous-section 2 : Appel (art. R552-20 à R552-23)](#313)
-            - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#314)
-        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-18)](#315)
-          - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#316)
-            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4-1)](#317)
-            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#318)
-            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#319)
-          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#320)
-          - [Section 2 bis : Intervention des personnes morales (art. R553-14 à R553-14-3)](#321)
-            - [Sous-section 1 : Cas des centres de rétention administrative (art. R553-14 à R553-14-1)](#322)
-            - [Sous-section 2 : Cas des locaux de rétention administrative (art. R553-14-2 à R553-14-3)](#323)
-          - [Section 2 ter : Accès des associations humanitaires aux lieux de rétention (art. R553-14-4 à R553-14-8)](#324)
-          - [Section 3 : Demandes d'asile formulées par des étrangers retenus. (art. R553-15 à R553-18)](#325)
-      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. R561-1 à R561-4)](#326)
-        - [Chapitre unique (art. R561-1 à R561-4)](#327)
-      - [TITRE VII : DISPOSITIONS DIVERSES (art. R571-1 à R571-7)](#328)
-        - [Chapitre unique (art. R571-1 à R571-7)](#329)
-    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. R611-1 à R626-4)](#330)
-      - [TITRE Ier : CONTRÔLES (art. R611-1 à R611-43)](#331)
-        - [Chapitre unique (art. R611-1 à R611-43)](#332)
-          - [Section 1 : Application de gestion des dossiers des ressortissants étrangers en France (art. R611-1 à R611-7-4)](#333)
-            - [Sous-section 1 : Finalités du traitement (art. R611-1)](#334)
-            - [Sous-section 2 : Données enregistrées dans le traitement (art. R611-2 à R611-3)](#335)
-            - [Sous-section 3 : Destinataires des données (art. R611-4)](#336)
-            - [Sous-section 4 : Accès aux données en consultation (art. R611-5 à R611-7)](#337)
-            - [Sous-section 5 : Conservation des données (art. R611-7-1)](#338)
-            - [Sous-section 6 : Droits d'accès, de rectification et d'opposition (art. R611-7-2 à R611-7-4)](#339)
-          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#340)
-          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#341)
-          - [Section 6 : Dispositions diverses (art. R611-41-1 à R611-43)](#342)
-      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#343)
-        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#344)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#345)
-          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#346)
-          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#347)
-          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#348)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#349)
-    - [LIVRE VII : LE DROIT D'ASILE (art. R721-1 à R766-2)](#350)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-5)](#351)
-        - [Chapitre Ier : Missions (art. R721-1)](#352)
-        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#353)
-          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#354)
-          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#355)
-          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#356)
-        - [Chapitre III : Examen des demandes d'asile. (art. R723-1 à R723-5)](#357)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-41)](#358)
-        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#359)
-        - [Chapitre III : Examen des recours (art. R733-1 à R733-41)](#360)
-          - [Section 1 : Dispositions générales (art. R733-1 à R733-4-1)](#361)
-          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-5 à R733-37)](#362)
-            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#363)
-            - [Sous-section 3 : Instruction (art. R733-10 à R733-16)](#364)
-            - [Sous-section 4 : Audience (art. R733-17 à R733-27)](#365)
-            - [Sous-section 5 : Jugement (art. R733-28 à R733-33)](#366)
-            - [Sous-section 6 : Demande d'avis au Conseil d'Etat (art. R733-34)](#367)
-            - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#368)
-          - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#369)
-      - [TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE (art. R*741-1 à R742-6)](#370)
-        - [Chapitre Ier : Admission au séjour. (art. R*741-1 à R741-2)](#371)
-        - [Chapitre II : Durée du maintien sur le territoire français. (art. R742-1 à R742-6)](#372)
-      - [TITRE V : DISPOSITIONS DIVERSES. (art. R751-1 à R751-3)](#373)
-      - [TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES (art. R761-1 à R766-2)](#374)
-        - [Chapitre Ier : Dispositions applicables à Mayotte. (art. R761-1)](#375)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna. (art. R* 762-2 à R762-1)](#376)
-        - [Chapitre III : Dispositions applicables en Polynésie française. (art. R* 763-2 à R763-1)](#377)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie. (art. R* 764-2 à R764-1)](#378)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises. (art. R765-1)](#379)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. R* 766-3 à R766-2)](#380)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R832-2)](#381)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#382)
-        - [Chapitre unique (art. R811-1 à R811-16)](#383)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#384)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#385)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#386)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#387)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#388)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#389)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#390)
-      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R832-2)](#391)
-        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#392)
-        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#393)
-  - [Annexes (art. Annexe 6.3 à Annexe 6-8)](#394)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#395)
-    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#396)
-    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#397)
+coopérant avec les autorités judiciaires (art. R316-1 à R316-5)](#258)
+          - [Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires (art. R316-6 à R316-10)](#259)
+        - [Chapitre VII : La carte de séjour portant la mention "retraité" (art. R317-1 à R317-3)](#260)
+      - [TITRE II : LES CONDITIONS DU SÉJOUR (art. R*321-3 à R322-3)](#261)
+        - [Chapitre Ier : Conditions de circulation (art. R*321-3 à R321-22)](#262)
+          - [Section 1 : Dispositions générales (art. R*321-3 à R321-8)](#263)
+          - [Section 2 : Documents de circulation délivrés aux étrangers mineurs (art. D321-9 à D321-21)](#264)
+            - [Sous-section 1 : Le titre d'identité républicain (art. D321-9 à D321-15)](#265)
+            - [Sous-section 2 : Le document de circulation délivré à l'étranger mineur (art. D321-16 à D321-21)](#266)
+          - [Section 3 : Titres de voyage (art. R321-22)](#267)
+        - [Chapitre II : Exercice d'une activité professionnelle (art. R322-1 à R322-3)](#268)
+          - [Section 1 : Activité professionnelle salariée (art. R322-1 à R322-2)](#269)
+          - [Section 2 : Autres activités professionnelles (art. R322-3)](#270)
+      - [TITRE III : L'AIDE AU RETOUR VOLONTAIRE (art. D331-1 à D331-14)](#271)
+        - [Chapitre unique (art. D331-1 à D331-14)](#272)
+          - [Section 1 : Aide publique à la réinsertion des travailleurs étrangers (art. D331-1 à D331-7)](#273)
+          - [Section 2 : Restitution des titres de séjour et de travail (art. D331-8 à D331-14)](#274)
+    - [LIVRE IV : LE REGROUPEMENT FAMILIAL (art. R411-1 à R431-1)](#275)
+      - [TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL (art. R411-1 à R411-6)](#276)
+        - [Chapitre unique (art. R411-1 à R411-6)](#277)
+      - [TITRE II : INSTRUCTION DES DEMANDES (art. R421-1 à R421-29)](#278)
+        - [Chapitre unique (art. R421-1 à R421-29)](#279)
+          - [Section 1 : Demandes de regroupement familial (art. R421-1 à R421-6)](#280)
+          - [Section 2 : Réception des demandes (art. R421-7 à R421-10)](#281)
+          - [Section 3 : Vérification des conditions du regroupement familial (art. R421-11 à R421-19-1)](#282)
+          - [Section 4 : Décision du préfet (art. R421-20 à R421-24)](#283)
+          - [Section 5 : Contrôle médical et introduction en France (art. R421-25 à R421-29)](#284)
+      - [TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR (art. R431-1)](#285)
+        - [Chapitre unique (art. R431-1)](#286)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. R511-1 à R571-7)](#287)
+      - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE (art. R511-1 à R513-3)](#288)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière (art. R511-1 à R511-4)](#289)
+        - [Chapitre II : Procédure administrative et contentieuse (art. R512-1 à R512-2)](#290)
+          - [Section 1 : Procédure administrative (art. R512-1 à R512-1-2)](#291)
+          - [Section 2 : Procédure contentieuse (art. R512-2)](#292)
+        - [Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière (art. R513-1 à R513-3)](#293)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R513-1 à R513-1-1)](#294)
+          - [Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ (art. R513-2 à R513-3)](#295)
+      - [TITRE II : L'EXPULSION (art. R521-1 à R524-2)](#296)
+        - [Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion (art. R521-1)](#297)
+        - [Chapitre II : Procédure administrative (art. R*522-2 à R522-9)](#298)
+        - [Chapitre III : Exécution des arrêtés d'expulsion (art. R*523-2 à R523-7)](#299)
+          - [Section 1 : Décision fixant le pays de renvoi (art. R*523-2 à R523-3)](#300)
+          - [Section 2 : Assignation à résidence (art. R*523-5 à R523-7)](#301)
+        - [Chapitre IV : Abrogation des arrêtés d'expulsion (art. R524-1 à R524-2)](#302)
+      - [TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT (art. R531-1 à R533-1)](#303)
+        - [Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen (art. R531-1 à R531-13)](#304)
+          - [Section 1 : Autorités administratives compétentes (art. R531-1 à R531-4)](#305)
+          - [Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne (art. R531-5 à R531-9)](#306)
+          - [Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne (art. R531-10 à R531-13)](#307)
+        - [Chapitre III : Autres cas de reconduite (art. R533-1)](#308)
+      - [TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS (art. R*541-1)](#309)
+      - [TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE (art. R551-1 à R556-14)](#310)
+        - [Chapitre Ier : Placement en rétention (art. R551-1 à R551-4)](#311)
+        - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention (art. R552-1 à R552-24)](#312)
+          - [Section 1 : Première saisine du juge des libertés et de la détention (art. R552-1 à R552-10)](#313)
+          - [Section 2 : Nouvelle saisine du juge des libertés et de la détention (art. R552-11)](#314)
+          - [Section 3 : Voies de recours (art. R552-12 à R552-16)](#315)
+            - [Sous-section 1 : Appel (art. R552-12 à R552-15)](#316)
+            - [Sous-section 2 : Pourvoi en cassation (art. R552-16)](#317)
+          - [Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public (art. R552-17 à R552-24)](#318)
+            - [Sous-section 1 : Saisine et décision du juge des libertés et de la détention (art. R552-17 à R552-19)](#319)
+            - [Sous-section 2 : Appel (art. R552-20 à R552-23)](#320)
+            - [Sous-section 3 : Pourvoi en cassation (art. R552-24)](#321)
+        - [Chapitre III : Conditions de la rétention (art. R553-1 à R553-14-8)](#322)
+          - [Section 1 : Lieux de rétention (art. R553-1 à R553-8)](#323)
+            - [Sous-section 1 : Centres de rétention administrative (art. R553-1 à R553-4-1)](#324)
+            - [Sous-section 2 : Locaux de rétention administrative (art. R553-5 à R553-6)](#325)
+            - [Sous-section 3 : Dispositions communes (art. R553-7 à R553-8)](#326)
+          - [Section 2 : Droits des étrangers retenus (art. R553-11 à R553-13)](#327)
+          - [Section 2 bis : Intervention des personnes morales (art. R553-14 à R553-14-3)](#328)
+            - [Sous-section 1 : Cas des centres de rétention administrative (art. R553-14 à R553-14-1)](#329)
+            - [Sous-section 2 : Cas des locaux de rétention administrative (art. R553-14-2 à R553-14-3)](#330)
+          - [Section 2 ter : Accès des associations humanitaires aux lieux de rétention (art. R553-14-4 à R553-14-8)](#331)
+        - [Chapitre VI : Demandes d'asile en rétention (art. R556-1 à R556-14)](#332)
+          - [Section 1 : Présentation de la demande d'asile (art. R556-1 à R556-7)](#333)
+          - [Section 2 : Examen de la demande d'asile par l'office (art. R556-8 à R556-10)](#334)
+          - [Section 3 : Droits des demandeurs d'asile (art. R556-11 à R556-13)](#335)
+          - [Section 4 : Dispositions diverses (art. R556-14)](#336)
+      - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. R561-1 à R561-4)](#337)
+        - [Chapitre unique (art. R561-1 à R561-4)](#338)
+      - [TITRE VII : DISPOSITIONS DIVERSES (art. R571-1 à R571-7)](#339)
+        - [Chapitre unique (art. R571-1 à R571-7)](#340)
+    - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. R611-1 à R626-4)](#341)
+      - [TITRE Ier : CONTRÔLES (art. R611-1 à R611-43)](#342)
+        - [Chapitre unique (art. R611-1 à R611-43)](#343)
+          - [Section 1 : Application de gestion des dossiers des ressortissants étrangers en France (art. R611-1 à R611-7-4)](#344)
+            - [Sous-section 1 : Finalités du traitement (art. R611-1)](#345)
+            - [Sous-section 2 : Données enregistrées dans le traitement (art. R611-2 à R611-3)](#346)
+            - [Sous-section 3 : Destinataires des données (art. R611-4)](#347)
+            - [Sous-section 4 : Accès aux données en consultation (art. R611-5 à R611-7)](#348)
+            - [Sous-section 5 : Conservation des données (art. R611-7-1)](#349)
+            - [Sous-section 6 : Droits d'accès, de rectification et d'opposition (art. R611-7-2 à R611-7-4)](#350)
+          - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#351)
+          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#352)
+          - [Section 6 : Dispositions diverses (art. R611-41-1 à R611-43)](#353)
+      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#354)
+        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#355)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-16)](#356)
+          - [Section 1 : Procédure (art. R*625-2 à R625-4)](#357)
+          - [Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas (art. R625-5 à R625-12)](#358)
+          - [Section 3 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#359)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#360)
+    - [LIVRE VII : LE DROIT D'ASILE (art. R711-1 à R767-1)](#361)
+      - [TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE (art. R711-1 à R712-1)](#362)
+        - [Chapitre Ier : La qualité de réfugié (art. R711-1)](#363)
+        - [Chapitre II : La protection subsidiaire (art. R712-1)](#364)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-22)](#365)
+        - [Chapitre Ier : Missions (art. R721-1)](#366)
+        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#367)
+          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#368)
+          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#369)
+          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#370)
+        - [Chapitre III : Examen des demandes d'asile (art. R723-1 à R723-22)](#371)
+          - [Section 1 : Garanties procédurales et obligations du demandeur (art. R723-1 à R723-10)](#372)
+            - [Sous-section 1 : Introduction de la demande (art. R723-1)](#373)
+            - [Sous-section 2 : Délais d'examen (art. R723-2 à R723-4)](#374)
+            - [Sous-section 3 : Entretien personnel (art. R723-5 à R723-9)](#375)
+            - [Sous-section 4 : Examen médical (art. R723-10)](#376)
+          - [Section 2 : Demandes irrecevables (art. R723-11 à R723-12)](#377)
+          - [Section 3 : Retrait d'une demande et clôture d'examen d'une demande (art. R723-13 à R723-14)](#378)
+          - [Section 4 : Demandes de réexamen (art. R723-15 à R723-17)](#379)
+          - [Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides (art. R723-18 à R723-22)](#380)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-41)](#381)
+        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#382)
+        - [Chapitre III : Examen des recours (art. R733-1 à R733-41)](#383)
+          - [Section 1 : Dispositions générales (art. R733-1 à R733-4-1)](#384)
+          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-5 à R733-37)](#385)
+            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#386)
+            - [Sous-section 3 : Instruction (art. R733-10 à R733-16)](#387)
+            - [Sous-section 4 : Audience (art. R733-17 à R733-27)](#388)
+            - [Sous-section 5 : Jugement (art. R733-28 à R733-33)](#389)
+            - [Sous-section 6 : Demande d'avis au Conseil d'Etat (art. R733-34)](#390)
+            - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#391)
+          - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#392)
+      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1 à D744-44)](#393)
+        - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1 à R741-7)](#394)
+        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R*742-1 à R742-4)](#395)
+        - [Chapitre III : Droit au maintien sur le territoire français (art. R743-1 à R743-5)](#396)
+        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à D744-44)](#397)
+          - [Section 1 : Dispositif national d'accueil (art. R744-1 à R744-13)](#398)
+            - [Sous-section 1 : Domiciliation des demandeurs d'asile (art. R744-1 à R744-4)](#399)
+            - [Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile (art. R744-5 à R744-13)](#400)
+          - [Section 2 : Evaluation des besoins (art. R744-14)](#401)
+          - [Section 3 : Allocation pour demandeur d'asile (art. D744-17 à D744-44)](#402)
+            - [Sous-section 1 : Conditions d'attribution (art. D744-17 à D744-30)](#403)
+            - [Sous-section 2 : Gestion et versement (art. D744-31 à D744-40)](#404)
+            - [Sous-section 3 : Communication d'informations (art. D744-41 à D744-44)](#405)
+      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. R752-1 à R753-7)](#406)
+        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#407)
+        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#408)
+      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#409)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#410)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R* 762-2 à R762-1)](#411)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. R* 763-2 à R763-1)](#412)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R* 764-2 à R764-1)](#413)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#414)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. R* 766-3 à R766-4)](#415)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. R*767-2 à R767-1)](#416)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R832-2)](#417)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#418)
+        - [Chapitre unique (art. R811-1 à R811-16)](#419)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#420)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#421)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#422)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#423)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#424)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#425)
+      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#426)
+        - [Chapitre unique (art. R812-1 à R812-7)](#427)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#428)
+      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R832-2)](#429)
+        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#430)
+        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#431)
+  - [Annexes (art. Annexe 6.3 à Annexe 7-1)](#432)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#433)
+    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#434)
+    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#435)
+    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#436)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -1905,17 +1944,100 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L625-7 (V)
 
 
+###### Article L213-8-1
+
+La décision de refuser l'entrée en France à un étranger qui se présente à la frontière et demande à bénéficier du droit
+d'asile ne peut être prise par le ministre chargé de l'immigration que si : 
+
+1° L'examen de la demande d'asile relève de la compétence d'un autre Etat en application du règlement (UE) n° 604/2013 du
+Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre
+responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un
+ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par le même règlement
+avec d'autres Etats ; 
+
+2° La demande d'asile est irrecevable en application de l'article L. 723-11 ; 
+
+3° Ou la demande d'asile est manifestement infondée. 
+
+Constitue une demande d'asile manifestement infondée une demande qui, au regard des déclarations faites par l'étranger et des
+documents le cas échéant produits, est manifestement dénuée de pertinence au regard des conditions d'octroi de l'asile ou
+manifestement dépourvue de toute crédibilité en ce qui concerne le risque de persécutions ou d'atteintes graves. 
+
+Sauf dans le cas où l'examen de la demande d'asile relève de la compétence d'un autre Etat, la décision de refus d'entrée ne
+peut être prise qu'après consultation de l'Office français de protection des réfugiés et apatrides, qui rend son avis dans un
+délai fixé par voie réglementaire et dans le respect des garanties procédurales prévues au chapitre III du titre II du livre
+VII. L'office tient compte de la vulnérabilité du demandeur d'asile. L'avocat ou le représentant d'une des associations
+mentionnées au huitième alinéa de l'article L. 723-6, désigné par l'étranger, est autorisé à pénétrer dans la zone d'attente
+pour l'accompagner à son entretien dans les conditions prévues au même article L. 723-6. 
+
+Sauf si l'accès de l'étranger au territoire français constitue une menace grave pour l'ordre public, l'avis de l'office, s'il
+est favorable à l'entrée en France de l'intéressé au titre de l'asile, lie le ministre chargé de l'immigration. 
+
+L'étranger autorisé à entrer en France au titre de l'asile est muni sans délai d'un visa de régularisation de huit jours.
+Dans ce délai, l'autorité administrative compétente lui délivre, à sa demande, une attestation de demande d'asile lui
+permettant d'introduire sa demande auprès de l'office.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Arrêté du 31 juillet 2015 - art. 1 (V)
+  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R213-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R213-8 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 13
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-11 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-6 (V)
+
+
+###### Article L213-8-2
+
+Le 1° de l'article L. 213-8-1 n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-
+Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-2 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 13
+
+
 ###### Article L213-9
 
-L'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile peut, dans les quarante-huit
-heures suivant la notification de cette décision, en demander l'annulation, par requête motivée, au président du tribunal
-administratif. 
+L'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile et, le cas échéant, d'une
+décision de transfert mentionnée à l'article L. 742-3 peut, dans les quarante-huit heures suivant la notification de ces
+décisions, en demander l'annulation au président du tribunal administratif. 
 
 Le président, ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
 inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative, statue dans un délai de soixante-
 douze heures à compter de sa saisine. 
 
-Aucun autre recours ne peut être introduit contre la décision de refus d'entrée au titre de l'asile. 
+Aucun autre recours ne peut être introduit contre la décision de refus d'entrée au titre de l'asile et, le cas échéant,
+contre la décision de transfert. 
 
 L'étranger peut demander au président du tribunal ou au magistrat désigné à cette fin le concours d'un interprète. L'étranger
 est assisté de son conseil s'il en a un. Il peut demander au président ou au magistrat désigné à cette fin qu'il lui en soit
@@ -1923,8 +2045,8 @@ désigné un d'office. L'audience se déroule sans conclusions du commissaire du
 
 Par dérogation au précédent alinéa, le président du tribunal administratif ou le magistrat désigné à cette fin peut, par
 ordonnance motivée, donner acte des désistements, constater qu'il n'y a pas lieu de statuer sur un recours et rejeter les
-recours ne relevant manifestement pas de la compétence de la juridiction administrative, entachés d'une irrecevabilité
-manifeste non susceptible d'être couverte en cours d'instance ou manifestement mal fondés. 
+recours ne relevant manifestement pas de la compétence de la juridiction administrative ou entachés d'une irrecevabilité
+manifeste non susceptible d'être couverte en cours d'instance. 
 
 L'audience se tient dans les locaux du tribunal administratif compétent. Toutefois, sauf si l'étranger dûment informé dans
 une langue qu'il comprend s'y oppose, celle-ci peut se tenir dans la salle d'audience de la zone d'attente et le président du
@@ -1933,9 +2055,9 @@ par un moyen de communication audiovisuelle qui garantit la confidentialité de 
 zone d'attente et celle du tribunal administratif sont ouvertes au public. L'étranger est assisté de son conseil s'il en a
 un. 
 
-La décision de refus d'entrée au titre de l'asile ne peut être exécutée avant l'expiration d'un délai de quarante-huit heures
-suivant sa notification ou, en cas de saisine du président du tribunal administratif, avant que ce dernier ou le magistrat
-désigné à cette fin n'ait statué. 
+La décision de refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert ne peuvent être exécutées
+avant l'expiration d'un délai de quarante-huit heures suivant leur notification ou, en cas de saisine du président du
+tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin n'ait statué. 
 
 Les dispositions du titre II du présent livre sont applicables. 
 
@@ -1943,25 +2065,27 @@ Le jugement du président du tribunal administratif ou du magistrat désigné pa
 quinze jours devant le président de la cour administrative d'appel territorialement compétente ou un magistrat désigné par ce
 dernier. Cet appel n'est pas suspensif. 
 
-Si le refus d'entrée au titre de l'asile est annulé, il est immédiatement mis fin au maintien en zone d'attente de
-l'étranger, qui est autorisé à entrer en France muni d'un visa de régularisation de huit jours. Dans ce délai, l'autorité
-administrative compétente lui délivre, à sa demande, une autorisation provisoire de séjour lui permettant de déposer sa
-demande d'asile auprès de l'Office français de protection des réfugiés et apatrides. 
+Si le refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert sont annulés, il est immédiatement mis
+fin au maintien en zone d'attente de l'étranger, qui est autorisé à entrer en France muni d'un visa de régularisation de huit
+jours. Dans ce délai, l'autorité administrative compétente lui délivre, à sa demande, l'attestation de demande d'asile lui
+permettant d'introduire sa demande d'asile auprès de l'Office français de protection des réfugiés et apatrides. 
 
-La décision de refus d'entrée au titre de l'asile qui n'a pas été contestée dans le délai prévu au premier alinéa ou qui n'a
-pas fait l'objet d'une annulation dans les conditions prévues au présent article peut être exécutée d'office par
-l'administration.
+La décision de refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert qui n'ont pas été contestées
+dans le délai prévu au premier alinéa ou qui n'ont pas fait l'objet d'une annulation dans les conditions prévues au présent
+article peuvent être exécutées d'office par l'administration.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-2 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Créé par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 24 () JORF 21 novembre 2007
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -1975,10 +2099,16 @@ _Cité par_:
   - Code de justice administrative - art. R777-1-6 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. L222-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 13
 
 _Cite_:
 
-  - Code de justice administrative - art. L222-2-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-3 (V)
+  - Code de justice administrative - art. L222-2-1
 
 
 #### Chapitre IV : Interdiction administrative du territoire<a id=16></a>
@@ -2173,17 +2303,44 @@ _Cite_:
 
 ###### Article L221-1
 
-L'étranger qui arrive en France par la voie ferroviaire, maritime ou aérienne et qui, soit n'est pas autorisé à entrer sur le
-territoire français, soit demande son admission au titre de l'asile, peut être maintenu dans une zone d'attente située dans
-une gare ferroviaire ouverte au trafic international figurant sur une liste définie par voie réglementaire, dans un port ou à
-proximité du lieu de débarquement, ou dans un aéroport, pendant le temps strictement nécessaire à son départ et, s'il est
-demandeur d'asile, à un examen tendant à déterminer si sa demande n'est pas manifestement infondée.
+L'étranger qui arrive en France par la voie ferroviaire, maritime ou aérienne et qui n'est pas autorisé à entrer sur le
+territoire français peut être maintenu dans une zone d'attente située dans une gare ferroviaire ouverte au trafic
+international figurant sur une liste définie par voie réglementaire, dans un port ou à proximité du lieu de débarquement ou
+dans un aéroport, pendant le temps strictement nécessaire à son départ. 
+
+Le présent titre s'applique également à l'étranger qui demande à entrer en France au titre de l'asile, le temps strictement
+nécessaire pour vérifier si l'examen de sa demande relève de la compétence d'un autre Etat en application du règlement (UE)
+n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de
+l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par
+un ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par le même
+règlement, si sa demande n'est pas irrecevable ou si elle n'est pas manifestement infondée. 
+
+Lorsque l'Office français de protection des réfugiés et apatrides, dans le cadre de l'examen tendant à déterminer si la
+demande d'asile n'est pas irrecevable ou manifestement infondée, considère que le demandeur d'asile, notamment en raison de
+sa minorité ou du fait qu'il a été victime de torture, de viol ou d'une autre forme grave de violence psychologique, physique
+ou sexuelle, nécessite des garanties procédurales particulières qui ne sont pas compatibles avec le maintien en zone
+d'attente, il est mis fin à ce maintien. L'étranger est alors muni d'un visa de régularisation de huit jours. Dans ce délai,
+l'autorité administrative compétente lui délivre, à sa demande, une attestation de demande d'asile lui permettant
+d'introduire cette demande auprès de l'office. 
+
+Le maintien en zone d'attente d'un mineur non accompagné, le temps strictement nécessaire à l'examen tendant à déterminer si
+sa demande n'est pas irrecevable ou manifestement infondée, n'est possible que de manière exceptionnelle et seulement dans
+les cas prévus aux 1° et 2° du I, au 1° du II et au 5° du III de l'article L. 723-2. 
 
 Les dispositions du présent titre s'appliquent également à l'étranger qui se trouve en transit dans une gare, un port ou un
 aéroport si l'entreprise de transport qui devait l'acheminer dans le pays de destination ultérieure refuse de l'embarquer ou
-si les autorités du pays de destination lui ont refusé l'entrée et l'ont renvoyé en France.
+si les autorités du pays de destination lui ont refusé l'entrée et l'ont renvoyé en France. 
 
-Le présent titre s'applique également à l'étranger qui arrive en Guyane par la voie fluviale ou terrestre.
+Le présent titre s'applique également à l'étranger qui arrive en Guyane par la voie fluviale ou terrestre. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les modalités de prise en compte
+de la vulnérabilité du demandeur d'asile et, le cas échéant, de ses besoins particuliers.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
@@ -2204,7 +2361,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 10
+  - Loi n°2015-925 du 29 juillet 2015 - art. 13
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-2 (V)
 
 
 ###### Article L221-2
@@ -2681,24 +2842,30 @@ _Cite_:
 Si le maintien en zone d'attente n'est pas prolongé au terme du délai fixé par la dernière décision de maintien, l'étranger
 est autorisé à entrer en France sous le couvert d'un visa de régularisation de huit jours. Il devra avoir quitté ce
 territoire à l'expiration de ce délai, sauf s'il obtient une autorisation provisoire de séjour ou un récépissé de demande de
-carte de séjour ou un récépissé de demande d'asile.
+carte de séjour ou      une attestation de demande d'asile lui permettant d'introduire sa demande d'asile.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 35 quater paragraphe VI
-
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
   - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
   - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R213-7 (VD)
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 13
 
 
 ###### Article L224-2
@@ -2945,16 +3112,22 @@ _Cite_:
 
 ###### Article L311-4
 
-La détention d'un récépissé d'une demande de délivrance ou de renouvellement d'un titre de séjour, d'un récépissé d'une
-demande d'asile ou d'une autorisation provisoire de séjour autorise la présence de l'étranger en France sans préjuger de la
-décision définitive qui sera prise au regard de son droit au séjour. Sauf dans les cas expressément prévus par la loi ou les
-règlements, ces documents n'autorisent pas leurs titulaires à exercer une activité professionnelle.
+La détention      d'une attestation de demande de délivrance ou de renouvellement d'un titre de séjour,      d'une
+attestation de demande d'asile ou d'une autorisation provisoire de séjour autorise la présence de l'étranger en France sans
+préjuger de la décision définitive qui sera prise au regard de son droit au séjour. Sauf dans les cas expressément prévus par
+la loi ou les règlements, ces documents n'autorisent pas leurs titulaires à exercer une activité professionnelle. 
 
 Entre la date d'expiration de la carte de résident ou d'un titre de séjour d'une durée supérieure à un an prévu par une
 stipulation internationale et la décision prise par l'autorité administrative sur la demande tendant à son renouvellement,
 dans la limite de trois mois à compter de cette date d'expiration, l'étranger peut également justifier de la régularité de
 son séjour par la présentation de la carte ou du titre arrivé à expiration. Pendant cette période, il conserve l'intégralité
 de ses droits sociaux ainsi que son droit d'exercer une activité professionnelle.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 311-4 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -2971,39 +3144,52 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
 
 
 ###### Article L311-5
 
-La délivrance d'une autorisation provisoire de séjour, d'un récépissé de demande de titre de séjour ou d'un récépissé de
-demande d'asile n'a pas pour effet de régulariser les conditions de l'entrée en France, sauf s'il s'agit d'un étranger qui
-s'est vu reconnaître la qualité de réfugié.
+La délivrance d'une autorisation provisoire de séjour, d'un récépissé de demande de titre de séjour ou d'une attestation
+mentionnée aux articles L. 741-1, 
+L. 742-1 ou L. 743-1 n'a pas pour effet de régulariser les conditions de l'entrée en France, sauf s'il s'agit d'un étranger
+qui s'est vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en application du livre
+VII.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 311-5 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 45-2658 1945-11-02 art. 6-1, al. 3
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 6-1 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2006-911 du 24 juillet 2006 - art. 2 () JORF 25 juillet 2006
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
   - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-1
 
 
 ###### Article L311-5-1
@@ -10116,9 +10302,112 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=101></a>
+#### Chapitre VI : Demandes d'asile en rétention<a id=101></a>
 
-#### Chapitre Ier<a id=102></a>
+###### Article L556-1
+
+Lorsqu'un étranger placé en rétention en application de l'article L. 551-1 présente une demande d'asile, l'autorité
+administrative peut, si elle estime, sur le fondement de critères objectifs, que cette demande est présentée dans le seul but
+de faire échec à l'exécution de la mesure d'éloignement, maintenir l'intéressé en rétention le temps strictement nécessaire à
+l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides et, en cas de décision de rejet
+ou d'irrecevabilité de celui-ci, dans l'attente de son départ, sans préjudice de l'intervention du juge des libertés et de la
+détention. La décision de maintien en rétention est écrite et motivée. A défaut d'une telle décision, il est immédiatement
+mis fin à la rétention et l'autorité administrative compétente délivre à l'intéressé l'attestation mentionnée à l'article L.
+741-1. 
+
+L'étranger peut demander au président du tribunal administratif l'annulation de la décision de maintien en rétention dans les
+quarante-huit heures suivant sa notification. Le président du tribunal administratif ou le magistrat qu'il désigne à cette
+fin parmi les membres de sa juridiction ou les magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1
+du code de justice administrative statue après la notification de la décision de l'office relative au demandeur, dans un
+délai qui ne peut excéder soixante-douze heures, dans les conditions prévues au III de l'article L. 512-1 du présent code. 
+
+Si, saisi dès le placement en rétention de l'étranger en application du même article L. 512-1, le président du tribunal
+administratif ou le magistrat qu'il désigne à cette fin n'a pas encore statué sur ce premier recours, il statue sur les deux
+requêtes par une seule décision. 
+
+En cas d'annulation de la décision de placement ou de maintien en rétention, il est immédiatement mis fin à la rétention et
+l'autorité administrative compétente délivre à l'intéressé l'attestation mentionnée à l'article L. 741-1. L'article L. 561-1
+est applicable. 
+
+A l'exception des cas mentionnés aux 4° et 5° de l'article L. 743-2, la mesure d'éloignement ne peut être mise à exécution
+avant que l'Office français de protection des réfugiés et apatrides ait rendu sa décision ou, en cas de saisine du président
+du tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin ait statué. 
+
+La demande d'asile est examinée selon la procédure accélérée prévue à l'article L. 723-2. L'office statue dans les conditions
+prévues aux articles L. 723-2 à L. 723-16 dans un délai de quatre-vingt-seize heures. Il tient compte de la vulnérabilité du
+demandeur d'asile. 
+
+Il est mis fin à la rétention si l'office considère qu'il ne peut examiner la demande selon la procédure prévue à l'article
+L. 723-2 ou s'il reconnaît à l'étranger la qualité de réfugié ou lui accorde le bénéfice de la protection subsidiaire. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les modalités de prise en compte
+de la vulnérabilité du demandeur d'asile et, le cas échéant, de ses besoins particuliers.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+  - Loi n°2016-274 du 7 mars 2016 - art. 33
+  - Code de justice administrative - art. L777-2 (V)
+  - Code de justice administrative - art. R777-2 (V)
+  - Code de justice administrative - art. R777-2-1 (VD)
+  - Code de justice administrative - art. R777-2-2 (V)
+  - Code de justice administrative - art. R777-2-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R556-10 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R556-5 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R556-9 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 16
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+  - Code de justice administrative - art. L222-2-1
+
+
+###### Article L556-2
+
+Les deuxième à cinquième alinéas de l'article L. 556-1 ne sont pas applicables en Guyane, en Guadeloupe, à Mayotte, à Saint-
+Barthélemy et à Saint-Martin.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 16
+
+
+### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=102></a>
+
+#### Chapitre Ier<a id=103></a>
 
 ###### Article L561-1
 
@@ -10301,7 +10590,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (VD)
 
 
-#### Chapitre II : Assignation à résidence avec surveillance électronique<a id=103></a>
+#### Chapitre II : Assignation à résidence avec surveillance électronique<a id=104></a>
 
 ###### Article L562-1
 
@@ -10410,7 +10699,7 @@ _Abrogé par_:
   - Loi n°2016-274 du 7 mars 2016 - art. 40
 
 
-#### Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée<a id=104></a>
+#### Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée<a id=105></a>
 
 ###### Article L563-1
 
@@ -10443,7 +10732,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L541-3
 
 
-### TITRE VII : DISPOSITIONS DIVERSES<a id=105></a>
+### TITRE VII : DISPOSITIONS DIVERSES<a id=106></a>
 
 ###### Article L571-1
 
@@ -10536,9 +10825,9 @@ _Anciens textes_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 
 
-## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=106></a>
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=107></a>
 
-### TITRE Ier : CONTRÔLES<a id=107></a>
+### TITRE Ier : CONTRÔLES<a id=108></a>
 
 ###### Article L611-1
 
@@ -11043,9 +11332,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-8
 
 
-### TITRE II : SANCTIONS<a id=108></a>
+### TITRE II : SANCTIONS<a id=109></a>
 
-#### Chapitre Ier :  Entrée irrégulière<a id=109></a>
+#### Chapitre Ier :  Entrée irrégulière<a id=110></a>
 
 ###### Article L621-2
 
@@ -11102,7 +11391,7 @@ _Cite_:
   - Code de procédure pénale - art. 53
 
 
-#### Chapitre II : Aide à l'entrée et au séjour irréguliers<a id=110></a>
+#### Chapitre II : Aide à l'entrée et au séjour irréguliers<a id=111></a>
 
 ###### Article L622-1
 
@@ -11464,7 +11753,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L622-1
 
 
-#### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française<a id=111></a>
+#### Chapitre III : Reconnaissance d'enfant et mariage contracté à seule fin d'obtenir ou de faire obtenir un titre de séjour ou la nationalité française<a id=112></a>
 
 ###### Article L623-1
 
@@ -11574,7 +11863,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L622-4 (V)
 
 
-#### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence<a id=112></a>
+#### Chapitre IV : Méconnaissance des mesures d'éloignement ou d'assignation à résidence<a id=113></a>
 
 ###### Article L624-1
 
@@ -11731,7 +12020,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L571-3
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=113></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=114></a>
 
 ###### Article L625-1
 
@@ -11926,7 +12215,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-4 (V)
 
 
-#### Chapitre VI : Dispositions diverses.<a id=114></a>
+#### Chapitre VI : Dispositions diverses.<a id=115></a>
 
 ###### Article L626-1
 
@@ -11981,11 +12270,11 @@ _Cité par_:
   - Code du travail - art. R5223-35 (V)
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=115></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=116></a>
 
-### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE<a id=116></a>
+### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE<a id=117></a>
 
-#### Chapitre Ier : La qualité de réfugié<a id=117></a>
+#### Chapitre Ier : La qualité de réfugié<a id=118></a>
 
 ###### Article L711-1
 
@@ -12146,7 +12435,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L114-1 (VD)
 
 
-#### Chapitre II : La protection subsidiaire<a id=118></a>
+#### Chapitre II : La protection subsidiaire<a id=119></a>
 
 ###### Article L712-1
 
@@ -12317,7 +12606,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-3
 
 
-#### Chapitre III : Dispositions communes<a id=119></a>
+#### Chapitre III : Dispositions communes<a id=120></a>
 
 ###### Article L713-1
 
@@ -12458,9 +12747,9 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 5
 
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=120></a>
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=121></a>
 
-#### Chapitre Ier : Missions<a id=121></a>
+#### Chapitre Ier : Missions<a id=122></a>
 
 ###### Article L721-1
 
@@ -12590,26 +12879,62 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-2 (V)
 
 
-#### Chapitre II : Organisation<a id=122></a>
+#### Chapitre II : Organisation<a id=123></a>
 
 ###### Article L722-1
 
-L'office est administré par un conseil d'administration comprenant deux parlementaires, désignés l'un par l'Assemblée
-nationale et l'autre par le Sénat, un représentant de la France au Parlement européen désigné par décret, des représentants
-de l'Etat et un représentant du personnel de l'office.
+L'office est administré par un conseil d'administration comprenant deux députés, une femme et un homme, désignés par
+l'Assemblée nationale, deux sénateurs, une femme et un homme, désignés par le Sénat, deux représentants de la France au
+Parlement européen, une femme et un homme, désignés par décret, des représentants de l'Etat et un représentant du personnel
+de l'office. 
 
-Le conseil d'administration fixe les orientations générales concernant l'activité de l'office ainsi que, dans les conditions
-prévues par les dispositions communautaires en cette matière, la liste des pays considérés au niveau national comme des pays
-d'origine sûrs, mentionnés au 2° de l'article L. 741-4. Il délibère sur les modalités de mise en oeuvre des dispositions
-relatives à l'octroi du statut de réfugié ou de la protection subsidiaire.
+Le conseil d'administration comprend, en qualité de représentants de l'Etat, deux personnalités, un homme et une femme,
+nommées par le Premier ministre, un représentant du ministre de l'intérieur, un représentant du ministre chargé de l'asile,
+le secrétaire général du ministère des affaires étrangères, le directeur des affaires civiles et du sceau au ministère de la
+justice, un représentant du ministre chargé des affaires sociales, un représentant du ministre chargé des droits des femmes,
+un représentant du ministre chargé des outre-mer et le directeur du budget au ministère chargé du budget. 
+
+Le conseil d'administration fixe les orientations générales concernant l'activité de l'office et délibère sur les modalités
+de mise en oeuvre des dispositions relatives à l'octroi du statut de réfugié ou de la protection subsidiaire. 
+
+Un pays est considéré comme un pays d'origine sûr lorsque, sur la base de la situation légale, de l'application du droit dans
+le cadre d'un régime démocratique et des circonstances politiques générales, il peut être démontré que, d'une manière
+générale et uniformément pour les hommes comme pour les femmes, il n'y est jamais recouru à la persécution, ni à la torture,
+ni à des peines ou traitements inhumains ou dégradants et qu'il n'y a pas de menace en raison d'une violence qui peut
+s'étendre à des personnes sans considération de leur situation personnelle dans des situations de conflit armé international
+ou interne.
+
+Le conseil d'administration fixe la liste des pays considérés comme des pays d'origine sûrs, dans les conditions prévues à
+l'article 37 et à l'annexe I de la directive 2013/32/UE du Parlement européen et du Conseil, du 26 juin 2013, relative à des
+procédures communes pour l'octroi et le retrait de la protection internationale.
+
+Il examine régulièrement la situation dans les pays considérés comme des pays d'origine sûrs.
+
+Il veille à l'actualité et à la pertinence des inscriptions. Il radie de la liste les pays ne remplissant plus les critères
+mentionnés au quatrième alinéa et peut, en cas d'évolution rapide et incertaine de la situation dans un pays, en suspendre
+l'inscription.
+
+Les présidents des commissions permanentes chargées des affaires étrangères et des commissions permanentes chargées des lois
+constitutionnelles de l'Assemblée nationale et du Sénat, une association de défense des droits de l'homme, une association de
+défense des droits des étrangers ou des demandeurs d'asile ou une association de défense des droits des femmes ou des enfants
+peuvent saisir le conseil d'administration, dans des conditions prévues par décret en Conseil d'Etat, d'une demande tendant à
+l'inscription ou à la radiation d'un Etat sur la liste des pays considérés comme des pays d'origine sûrs.
 
 Le président du conseil d'administration est nommé parmi ses membres par décret sur proposition du ministre chargé de
-l'asile.
+l'asile. 
 
 Le délégué du haut-commissaire des Nations unies pour les réfugiés ainsi que trois personnalités qualifiées nommées par
 décret assistent aux séances du conseil d'administration et peuvent y présenter leurs observations et leurs propositions. Au
 moins l'une des trois personnalités qualifiées susmentionnées représente les organismes participant à l'accueil et à la prise
-en charge des demandeurs d'asile et des réfugiés.
+en charge des demandeurs d'asile et des réfugiés. Les personnalités qualifiées ont voix délibérative concernant la
+détermination de la liste des pays considérés comme des pays d'origine sûrs. En cas de partage des voix sur ce sujet, la voix
+du président du conseil d'administration est prépondérante.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 722-1 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -12621,12 +12946,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 28 () JORF 21 novembre 2007
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -12637,9 +12958,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-2-1 (VD)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
+  - Loi n°2015-925 du 29 juillet 2015 - art. 8
+  - Loi n°2015-925 du 29 juillet 2015 - art. 9
 
 
 ###### Article L722-2
@@ -12750,16 +13072,23 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-9 (V)
 
 
-#### Chapitre III : Examen des demandes d'asile<a id=123></a>
+#### Chapitre III : Examen des demandes d'asile<a id=124></a>
+
+##### Section 1 : Garanties procédurales et obligations du demandeur<a id=125></a>
 
 ###### Article L723-1
 
 L'office statue sur les demandes d'asile dont il est saisi. Il n'est toutefois pas compétent pour connaître d'une demande
-présentée par une personne à laquelle l'admission au séjour a été refusée pour le motif prévu au 1° de l'article L. 741-4.
+dont l'examen relève de la compétence d'un autre Etat en application du règlement (UE) n° 604/2013 du Parlement européen et
+du Conseil, du 26 juin 2013, établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen
+d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un
+apatride, ou en application d'engagements identiques à ceux prévus par le même règlement avec d'autres Etats.
 
-L'office statue par priorité sur les demandes émanant de personnes auxquelles le document provisoire de séjour prévu à
-l'article L. 742-1 a été refusé ou retiré pour l'un des motifs mentionnés aux 2° à 4° de l'article L. 741-4, ou qui se sont
-vu refuser pour l'un de ces motifs le renouvellement de ce document.
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-1 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -12775,8 +13104,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -12787,17 +13116,77 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R742-3 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L742-5 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
 
 
 ###### Article L723-2
 
-L'office se prononce sur la reconnaissance de la qualité de réfugié ou l'octroi de la protection subsidiaire au terme d'une
-instruction unique au cours de laquelle le demandeur d'asile est mis en mesure de présenter les éléments à l'appui de sa
-demande.
+I. - L'office statue en procédure accélérée lorsque : 
+
+1° Le demandeur provient d'un pays considéré comme un pays d'origine sûr en application de l'article L. 722-1 ; 
+
+2° Le demandeur a présenté une demande de réexamen qui n'est pas irrecevable. 
+
+II. - L'office peut, de sa propre initiative, statuer en procédure accélérée lorsque : 
+
+1° Le demandeur a présenté de faux documents d'identité ou de voyage, fourni de fausses indications ou dissimulé des
+informations ou des documents concernant son identité, sa nationalité ou les modalités de son entrée en France afin de
+l'induire en erreur ou a présenté plusieurs demandes d'asile sous des identités différentes ; 
+
+2° Le demandeur n'a soulevé à l'appui de sa demande que des questions sans pertinence au regard de la demande d'asile qu'il
+formule ; 
+
+3° Le demandeur a fait à l'office des déclarations manifestement incohérentes et contradictoires, manifestement fausses ou
+peu plausibles qui contredisent des informations vérifiées relatives au pays d'origine. 
+
+III. - L'office statue également en procédure accélérée lorsque l'autorité administrative chargée de l'enregistrement de la
+demande d'asile constate que : 
+
+1° Le demandeur refuse de se conformer à l'obligation de donner ses empreintes digitales conformément au règlement (UE) n°
+603/2013 du Parlement européen et du Conseil, du 26 juin 2013, relatif à la création d'Eurodac pour la comparaison des
+empreintes digitales aux fins de l'application efficace du règlement (UE) n° 604/2013 établissant les critères et mécanismes
+de détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
+Etats membres par un ressortissant de pays tiers ou un apatride et relatif aux demandes de comparaison avec les données
+d'Eurodac présentées par les autorités répressives des Etats membres et Europol à des fins répressives, et modifiant le
+règlement (UE) n° 1077/2011 portant création d'une agence européenne pour la gestion opérationnelle des systèmes
+d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice ; 
+
+2° Lors de l'enregistrement de sa demande, le demandeur présente de faux documents d'identité ou de voyage, fournit de
+fausses indications ou dissimule des informations ou des documents concernant son identité, sa nationalité ou les modalités
+de son entrée en France afin d'induire en erreur l'autorité administrative ou a présenté plusieurs demandes d'asile sous des
+identités différentes ; 
+
+3° Sans motif légitime, le demandeur qui est entré irrégulièrement en France ou s'y est maintenu irrégulièrement n'a pas
+présenté sa demande d'asile dans le délai de cent vingt jours à compter de son entrée en France ; 
+
+4° Le demandeur ne présente une demande d'asile qu'en vue de faire échec à une mesure d'éloignement ; 
+
+5° La présence en France du demandeur constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de
+l'Etat. 
+
+IV. - La procédure ne peut être mise en œuvre à l'égard de mineurs non accompagnés que dans les cas prévus au I et au 5° du
+III du présent article. 
+
+V. - Dans tous les cas, l'office procède à un examen individuel de chaque demande dans le respect des garanties procédurales
+prévues au présent chapitre. Il peut décider de ne pas statuer en procédure accélérée lorsque cela lui paraît nécessaire pour
+assurer un examen approprié de la demande, en particulier si le demandeur provenant d'un pays inscrit sur la liste mentionnée
+au cinquième alinéa de l'article L. 722-1 invoque des raisons sérieuses de penser que son pays d'origine ne peut pas être
+considéré comme sûr en raison de sa situation personnelle et au regard des motifs de sa demande. 
+
+VI. - La décision de l'office mentionnée au II, celle de l'autorité administrative mentionnée au III ou le refus de l'office
+de ne pas statuer en procédure accélérée prévu au V ne peut pas faire l'objet, devant les juridictions administratives de
+droit commun, d'un recours distinct du recours qui peut être formé, en application de l'article L. 731-2, devant la Cour
+nationale du droit d'asile à l'encontre de la décision de l'office.
+
+**Nota:**
+
+Conformément à l'article 71, III de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
+Le a du 2° du I de l'article 6 s'appliquent aux demandeurs d'asile entrés sur le territoire après cette date et le b du 2° du
+I de l'article 6 sont applicables aux demandes déposées postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -12809,8 +13198,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -12839,8 +13228,14 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-4-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
 
+_Modifié par_:
 
-##### Section 1 : Garanties procédurales et obligations du demandeur<a id=124></a>
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-1
+
 
 ###### Article L723-3
 
@@ -12960,9 +13355,22 @@ _Nouveaux textes_:
 
 ###### Article L723-5
 
-L'office statue sur le renouvellement de la protection subsidiaire au terme de la période d'un an pour laquelle il l'a
-accordée. Procédant à son initiative ou à la demande de l'autorité administrative à un réexamen, il peut mettre fin à tout
-moment au bénéfice de cette protection dans le cas prévu au second alinéa de l'article L. 712-3.
+L'office peut demander à la personne sollicitant l'asile de se soumettre à un examen médical. 
+
+Le fait que la personne refuse de se soumettre à cet examen médical ne fait pas obstacle à ce que l'office statue sur sa
+demande. 
+
+Les certificats médicaux sont pris en compte par l'office parallèlement aux autres éléments de la demande. 
+
+Un arrêté conjoint des ministres chargés de l'asile et de la santé, pris après avis du directeur général de l'office, fixe
+les catégories de médecins qui peuvent pratiquer l'examen médical, ainsi que les modalités d'établissement des certificats
+médicaux.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-5 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -12974,8 +13382,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -12988,9 +13396,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R742-6 (VT)
   - Code de l'entrée et du séjour des étrangers et du  - art. R723-4 (V)
 
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-3
 
 
 ###### Article L723-6
@@ -13179,7 +13591,155 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L733-4 (V)
 
 
-##### Section 4 : Demandes de réexamen<a id=125></a>
+##### Section 2 : Demandes irrecevables<a id=126></a>
+
+###### Article L723-11
+
+L'office peut prendre une décision d'irrecevabilité écrite et motivée, sans vérifier si les conditions d'octroi de l'asile
+sont réunies, dans les cas suivants : 
+
+1° Lorsque le demandeur bénéficie d'une protection effective au titre de l'asile dans un Etat membre de l'Union européenne ; 
+
+2° Lorsque le demandeur bénéficie du statut de réfugié et d'une protection effective dans un Etat tiers et y est
+effectivement réadmissible ; 
+
+3° En cas de demande de réexamen lorsque, à l'issue d'un examen préliminaire effectué selon la procédure définie à l'article
+L. 723-16, il apparaît que cette demande ne répond pas aux conditions prévues au même article. 
+
+La notification de la décision d'irrecevabilité au demandeur d'asile précise les voies et délais de recours. 
+
+Lors de l'entretien personnel prévu à l'article L. 723-6, le demandeur est mis à même de présenter ses observations sur
+l'application du motif d'irrecevabilité mentionné aux 1° ou 2° du présent article à sa situation personnelle. 
+
+L'office conserve la faculté d'examiner la demande présentée par un étranger persécuté en raison de son action en faveur de
+la liberté ou qui sollicite la protection pour un autre motif.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-11 du code de l'entrée et du
+séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-8-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L731-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-11 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-12 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-4-1 (V)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-16 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-6
+
+
+##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande<a id=127></a>
+
+###### Article L723-12
+
+Lorsque le demandeur l'informe du retrait de sa demande d'asile, l'office peut clôturer l'examen de cette demande. Cette
+clôture est consignée dans le dossier du demandeur.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-12 du code de l'entrée et du
+séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-13 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-20 (VD)
+
+
+###### Article L723-13
+
+L'office peut prendre une décision de clôture d'examen d'une demande dans les cas suivants : 
+
+1° Le demandeur, sans motif légitime, n'a pas introduit sa demande à l'office dans les délais prévus par décret en Conseil
+d'Etat et courant à compter de la remise de son attestation de demande d'asile ou ne s'est pas présenté à l'entretien à
+l'office ; 
+
+2° Le demandeur refuse, de manière délibérée et caractérisée, de fournir des informations essentielles à l'examen de sa
+demande en application de l'article L. 723-4 ; 
+
+3° Le demandeur n'a pas informé l'office, dans un délai raisonnable, de son lieu de résidence ou de son adresse et ne peut
+être contacté aux fins d'examen de sa demande d'asile ; 
+
+L'office notifie par écrit sa décision motivée en fait et en droit au demandeur d'asile. Cette notification précise les voies
+et délais de recours.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-13 du code de l'entrée et du
+séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-15 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
+
+
+###### Article L723-14
+
+Si, dans un délai inférieur à neuf mois à compter de la décision de clôture, le demandeur sollicite la réouverture de son
+dossier ou présente une nouvelle demande, l'office rouvre le dossier et reprend l'examen de la demande au stade auquel il
+avait été interrompu. Le dépôt par le demandeur d'une demande de réouverture de son dossier est un préalable obligatoire à
+l'exercice d'un recours devant les juridictions administratives de droit commun, à peine d'irrecevabilité de ce recours. 
+
+Le dossier d'un demandeur ne peut être rouvert qu'une seule fois en application du premier alinéa. 
+
+Passé le délai de neuf mois, la décision de clôture est définitive et la nouvelle demande est considérée comme une demande de
+réexamen.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-15 du code de l'entrée et du
+séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-14 (VD)
+
+
+##### Section 4 : Demandes de réexamen<a id=128></a>
 
 ###### Article L723-15
 
@@ -13265,7 +13825,7 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 11
 
 
-#### Chapitre IV : Fin de la protection<a id=126></a>
+#### Chapitre IV : Fin de la protection<a id=129></a>
 
 ###### Article L724-1
 
@@ -13318,9 +13878,9 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 12
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=127></a>
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=130></a>
 
-#### Chapitre Ier : Missions<a id=128></a>
+#### Chapitre Ier : Missions<a id=131></a>
 
 ###### Article L731-1
 
@@ -13452,7 +14012,7 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 
-#### Chapitre II : Organisation<a id=129></a>
+#### Chapitre II : Organisation<a id=132></a>
 
 ###### Article L732-1
 
@@ -13518,7 +14078,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
 
 
-#### Chapitre III : Examen des recours<a id=130></a>
+#### Chapitre III : Examen des recours<a id=133></a>
 
 ###### Article L733-1
 
@@ -13700,15 +14260,43 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 17
 
 
-### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=131></a>
+### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=134></a>
 
-#### Chapitre Ier : Enregistrement de la demande d'asile<a id=132></a>
+#### Chapitre Ier : Enregistrement de la demande d'asile<a id=135></a>
 
 ###### Article L741-1
 
-Tout étranger présent sur le territoire français qui, n'étant pas déjà admis à séjourner en France sous couvert d'un des
-titres de séjour prévus par le présent code ou les conventions internationales, demande à séjourner en France au titre de
-l'asile forme cette demande dans les conditions fixées au présent chapitre.
+Tout étranger présent sur le territoire français et souhaitant demander l'asile se présente en personne à l'autorité
+administrative compétente, qui enregistre sa demande et procède à la détermination de l'Etat responsable en application du
+règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
+détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
+Etats membres par un ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par
+le même règlement, dans des conditions fixées par décret en Conseil d'Etat. 
+
+L'enregistrement a lieu au plus tard trois jours ouvrés après la présentation de la demande à l'autorité administrative
+compétente, sans condition préalable de domiciliation. Toutefois, ce délai peut être porté à dix jours ouvrés lorsqu'un
+nombre élevé d'étrangers demandent l'asile simultanément. 
+
+L'étranger est tenu de coopérer avec l'autorité administrative compétente en vue d'établir son identité, sa ou ses
+nationalités, sa situation familiale, son parcours depuis son pays d'origine ainsi que, le cas échéant, ses demandes d'asile
+antérieures. Il présente tous documents d'identité ou de voyage dont il dispose. 
+
+Lorsque l'enregistrement de sa demande d'asile a été effectué, l'étranger se voit remettre une attestation de demande d'asile
+dont les conditions de délivrance et de renouvellement sont fixées par décret en Conseil d'Etat. La durée de validité de
+l'attestation est fixée par arrêté du ministre chargé de l'asile. 
+
+La délivrance de cette attestation ne peut être refusée au motif que l'étranger est démuni des documents et visas mentionnés
+à l'article L. 211-1. Elle ne peut être refusée que dans les cas prévus aux 5° et 6° de l'article L. 743-2. 
+
+Cette attestation n'est pas délivrée à l'étranger qui demande l'asile à la frontière ou en rétention.
+
+**Nota:**
+
+Conformément aux II et III de l'article 35 de la loi n° 2015-925 du 29 juillet 2015, ces dispositions, dans leur rédaction
+résultant de la présente loi, s'appliquent aux demandes d'asile présentées à compter du lendemain de la publication de ladite
+loi, en tant qu'elles prévoient que l'enregistrement de la demande d'asile intervient dans un délai de trois jours ouvrés à
+compter de sa présentation et s'appliquent aux demandes d'asile présentées à compter d'une date fixée par décret en Conseil
+d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -13718,8 +14306,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -13748,24 +14336,46 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
 
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 19
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+
 
 ###### Article L741-2
 
-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa demande
-d'admission au séjour relève de l'autorité administrative compétente.
+Lorsque l'examen de la demande d'asile relève de la compétence de la France, l'étranger introduit sa demande auprès de
+l'Office français de protection des réfugiés et apatrides dans un délai fixé par décret en Conseil d'Etat. L'autorité
+administrative compétente informe immédiatement l'office de l'enregistrement de la demande et de la remise de l'attestation
+de demande d'asile. 
+
+L'office ne peut être saisi d'une demande d'asile que si celle-ci a été préalablement enregistrée par l'autorité
+administrative compétente et si l'attestation de demande d'asile a été remise à l'intéressé.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 741-2 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°52-893 1952-07-25 art. 8, al. 1
-  - Loi n°52-893 du 25 juillet 1952 - art. 8 (M)
   - Loi n°52-893 du 25 juillet 1952 - art. 8 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 19
 
 _Cité par_:
 
@@ -13779,8 +14389,26 @@ _Cité par_:
 
 ###### Article L741-3
 
-L'admission au séjour ne peut être refusée au seul motif que l'étranger est démuni des documents et des visas mentionnés à
-l'article L. 211-1.
+Lorsque la demande d'asile est présentée par un mineur sans représentant légal sur le territoire français, le procureur de la
+République, avisé immédiatement par l'autorité administrative, lui désigne sans délai un administrateur ad hoc. Celui-ci
+assiste le mineur et assure sa représentation dans le cadre des procédures administratives et juridictionnelles relatives à
+la demande d'asile. 
+
+L'administrateur ad hoc est désigné par le procureur de la République compétent sur une liste de personnes morales ou
+physiques dont les modalités de constitution sont fixées par décret en Conseil d'Etat. Ce décret précise également les
+conditions de leur indemnisation. 
+
+La mission de l'administrateur ad hoc prend fin dès le prononcé d'une mesure de tutelle. 
+
+Le président du conseil départemental est immédiatement informé, en application de l'article L. 226-2-1 du code de l'action
+sociale et des familles, afin de lui permettre d'évaluer la situation du mineur sans représentant légal et de déterminer les
+actions de protection et d'aide dont ce mineur a besoin.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 741-3 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -13792,8 +14420,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 19
 
 _Cité par_:
 
@@ -13807,39 +14439,21 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L211-1 (V)
+  - Code de l'action sociale et des familles - art. L226-2-1
 
 
 ###### Article L741-4
 
-Sous réserve du respect des stipulations de l'article 33 de la convention de Genève du 28 juillet 1951 relative au statut des
-réfugiés, l'admission en France d'un étranger qui demande à bénéficier de l'asile ne peut être refusée que si :
+Dès que possible après la présentation d'une demande d'asile par un mineur non accompagné, l'autorité administrative procède
+à la recherche des membres de sa famille, tout en protégeant l'intérêt supérieur du mineur. Dans les cas où la vie ou
+l'intégrité physique d'un mineur ou de ses parents proches pourraient être menacées, cette recherche est menée de manière
+confidentielle.
 
-1° L'examen de la demande d'asile relève de la compétence d'un autre Etat en application des dispositions du règlement (CE)
-n° 343/2003 du Conseil du 18 février 2003 établissant les critères et mécanismes de détermination de l'Etat membre
-responsable de l'examen d'une demande d'asile présentée dans l'un des Etats membres par un ressortissant d'un pays tiers, ou
-d'engagements identiques à ceux prévus par ledit règlement avec d'autres Etats ;
+**Nota:**
 
-2° L'étranger qui demande à bénéficier de l'asile a la nationalité d'un pays pour lequel ont été mises en oeuvre les
-stipulations du 5 du C de l'article 1er de la convention de Genève susmentionnée ou d'un pays considéré comme un pays
-d'origine sûr. Un pays est considéré comme tel s'il veille au respect des principes de la liberté, de la démocratie et de
-l'état de droit, ainsi que des droits de l'homme et des libertés fondamentales. La prise en compte du caractère sûr du pays
-d'origine ne peut faire obstacle à l'examen individuel de chaque demande ;
-
-3° La présence en France de l'étranger constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de
-l'Etat ;
-
-4° La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est
-présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente. Constitue, en particulier, un recours
-abusif aux procédures d'asile la présentation frauduleuse de plusieurs demandes d'admission au séjour au titre de l'asile
-sous des identités différentes. Constitue également un recours abusif aux procédures d'asile la demande d'asile présentée
-dans une collectivité d'outre-mer s'il apparaît qu'une même demande est en cours d'instruction dans un autre Etat membre de
-l'Union européenne. Constitue une demande d'asile reposant sur une fraude délibérée la demande présentée par un étranger qui
-fournit de fausses indications, dissimule des informations concernant son identité, sa nationalité ou les modalités de son
-entrée en France afin d'induire en erreur les autorités. 
-
-Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui
-se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4°.
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 741-4 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -13887,19 +14501,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 96
+  - Loi n°2015-925 du 29 juillet 2015 - art. 19
 
 
-#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=133></a>
+#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=136></a>
 
 ###### Article L742-1
 
-Lorsqu'il est admis à séjourner en France en application des dispositions du chapitre Ier du présent titre, l'étranger qui
-demande à bénéficier de l'asile se voit remettre un document provisoire de séjour lui permettant de déposer une demande
-d'asile auprès de l'Office français de protection des réfugiés et apatrides. L'office ne peut être saisi qu'après la remise
-de ce document au demandeur. Après le dépôt de sa demande d'asile, le demandeur se voit délivrer un nouveau document
-provisoire de séjour. Ce document est renouvelé jusqu'à ce que l'office statue et, si un recours est formé devant la Cour
-nationale du droit d'asile, jusqu'à ce que la cour statue.
+Lorsque l'autorité administrative estime que l'examen d'une demande d'asile relève de la compétence d'un autre Etat qu'elle
+entend requérir, l'étranger bénéficie du droit de se maintenir sur le territoire français jusqu'à la fin de la procédure de
+détermination de l'Etat responsable de l'examen de sa demande et, le cas échéant, jusqu'à son transfert effectif à
+destination de cet Etat. L'attestation délivrée en application de l'article L. 741-1 mentionne la procédure dont il fait
+l'objet. Elle est renouvelable durant la procédure de détermination de l'Etat responsable et, le cas échéant, jusqu'à son
+transfert effectif à destination de cet Etat. 
+
+Le présent article ne fait pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne dont l'examen de la
+demande relève de la compétence d'un autre Etat.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
@@ -13911,12 +14534,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 IV JORF 21 novembre 2007
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -13929,6 +14548,7 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. L348-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L751-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L761-1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L766-1 (M)
@@ -13948,12 +14568,34 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R380-1 (Ab)
   - Code du travail - art. L5423-11 (VT)
 
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+
 
 ###### Article L742-2
 
-Par dérogation aux dispositions de l'article L. 742-1, le document provisoire de séjour peut être retiré ou son
-renouvellement refusé lorsqu'il apparaît, postérieurement à sa délivrance, que l'étranger se trouve dans un des cas de non-
-admission prévus aux 1° à 4° de l'article L. 741-4.
+L'autorité administrative peut, aux fins de mise en œuvre de la procédure de détermination de l'Etat responsable de l'examen
+de la demande d'asile et du traitement rapide et du suivi efficace de cette demande, assigner à résidence le demandeur. 
+
+La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois et renouvelée une
+fois dans la même limite de durée, par une décision également motivée. 
+
+Le demandeur astreint à résider dans les lieux qui lui sont fixés doit se présenter aux convocations de l'autorité
+administrative, répondre aux demandes d'information et se rendre aux entretiens prévus dans le cadre de la procédure de
+détermination de l'Etat responsable de l'examen de sa demande d'asile. L'autorité administrative peut prescrire à l'étranger
+la remise de son passeport ou de tout document justificatif de son identité, dans les conditions prévues à l'article L.
+611-2.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
@@ -13965,8 +14607,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
 
 _Cité par_:
 
@@ -13979,20 +14625,26 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
 
 
 ###### Article L742-3
 
-L'étranger admis à séjourner en France bénéficie du droit de s'y maintenir jusqu'à la notification de la décision de l'Office
-français de protection des réfugiés et apatrides ou, si un recours a été formé, jusqu'à la notification de la décision de la
-Cour nationale du droit d'asile. Le a du 3° du II de l'article L. 511-1 n'est pas applicable.
+Sous réserve du second alinéa de l'article L. 742-1, l'étranger dont l'examen de la demande d'asile relève de la
+responsabilité d'un autre Etat peut faire l'objet d'un transfert vers l'Etat responsable de cet examen. 
+
+Toute décision de transfert fait l'objet d'une décision écrite motivée prise par l'autorité administrative. 
+
+Cette décision est notifiée à l'intéressé. Elle mentionne les voies et délais de recours ainsi que le droit d'avertir ou de
+faire avertir son consulat, un conseil ou toute personne de son choix. Lorsque l'intéressé n'est pas assisté d'un conseil,
+les principaux éléments de la décision lui sont communiqués dans une langue qu'il comprend ou dont il est raisonnable de
+penser qu'il la comprend.
 
 **Nota:**
 
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
 
 **Liens relatifs à cet article**
 
@@ -14008,7 +14660,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 68
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
 
 _Cité par_:
 
@@ -14016,6 +14668,7 @@ _Cité par_:
   - Code de justice administrative - art. R777-3 (V)
   - Code de justice administrative - art. R777-3-5 (V)
   - Code de justice administrative - art. R777-3-8 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L111-8 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L213-9 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L553-6 (VD)
@@ -14033,13 +14686,51 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-1 (VD)
 
 
 ###### Article L742-4
 
-Dans le cas où l'admission au séjour a été refusée pour le motif mentionné au 1° de l'article L. 741-4, l'intéressé n'est pas
-recevable à saisir la Cour nationale du droit d'asile.
+I.-L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article L. 742-3 peut, dans le délai de quinze
+jours à compter de la notification de cette décision, en demander l'annulation au président du tribunal administratif. 
+
+Le président ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
+inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue dans un délai de quinze
+jours à compter de sa saisine. 
+
+Aucun autre recours ne peut être introduit contre la décision de transfert. 
+
+L'étranger peut demander au président du tribunal ou au magistrat désigné par lui le concours d'un interprète. L'étranger est
+assisté de son conseil, s'il en a un. Il peut demander au président du tribunal administratif ou au magistrat désigné à cette
+fin qu'il lui en soit désigné un d'office. 
+
+L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
+dûment convoqué, ne se présente pas. 
+
+Toutefois, si, en cours d'instance, l'étranger est placé en rétention en application de l'article L. 551-1 du présent code ou
+assigné à résidence en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au II du
+présent article. 
+
+II.-Lorsqu'une décision de placement en rétention prise en application de l'article L. 551-1 ou d'assignation à résidence
+prise en application de l'article L. 561-2 est notifiée avec la décision de transfert, l'étranger peut, dans les quarante-
+huit heures suivant leur notification, demander au président du tribunal administratif l'annulation de la décision de
+transfert et de la décision de placement en rétention ou d'assignation à résidence. 
+
+Il est statué sur ce recours selon la procédure et dans le délai prévus au III de l'article L. 512-1.
+
+Il est également statué selon la même procédure et dans le même délai sur le recours formé contre une décision de transfert
+par un étranger qui fait l'objet, en cours d'instance, d'une décision de placement en rétention ou d'assignation à résidence.
+Dans ce cas, le délai de soixante-douze heures pour statuer court à compter de la notification par l'administration au
+tribunal de la décision de placement en rétention ou d'assignation à résidence.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, le présent article dans sa rédaction résultant de
+la présente loi, s'applique aux demandes d'asile présentées à compter d'une date fixée par décret en conseil d'Etat, qui ne
+peut être postérieure au 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4). 
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article L. 742-4 s'appliquent aux
+demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -14051,6 +14742,7 @@ _Anciens textes_:
 
 _Cité par_:
 
+  - Loi n°91-647 du 10 juillet 1991 - art. 3 (V)
   - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
   - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
   - Code de justice administrative - art. L777-3 (V)
@@ -14061,23 +14753,40 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+  - Code de justice administrative - art. L222-2-1
 
 
 ###### Article L742-5
 
-Dans le cas où l'admission au séjour a été refusée pour l'un des motifs mentionnés aux 2° à 4° de l'article L. 741-4,
-l'étranger qui souhaite bénéficier de l'asile peut saisir l'office de sa demande. Celle-ci est examinée dans les conditions
-prévues au second alinéa de l'article L. 723-1.
+Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une décision de transfert dès la
+notification de cette décision. 
+
+La décision de transfert ne peut faire l'objet d'une exécution d'office ni avant l'expiration d'un délai de quinze jours ou,
+si une décision de placement en rétention prise en application de l'article L. 551-1 ou d'assignation à résidence prise en
+application de l'article L. 561-2 a été notifiée avec la décision de transfert, avant l'expiration d'un délai de quarante-
+huit heures, ni avant que le tribunal administratif ait statué, s'il a été saisi.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4). 
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article L. 742-4 s'appliquent aux
+demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -14089,8 +14798,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
 
 _Cité par_:
 
@@ -14098,25 +14811,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L723-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
 
 ###### Article L742-6
 
-L'étranger présent sur le territoire français dont la demande d'asile entre dans l'un des cas visés aux 2° à 4° de l'article
-L. 741-4 bénéficie du droit de se maintenir en France jusqu'à la notification de la décision de l'Office français de
-protection des réfugiés et apatrides, lorsqu'il s'agit d'une décision de rejet. En conséquence, aucune mesure d'éloignement
-mentionnée au livre V du présent code ne peut être mise à exécution avant la décision de l'office. 
+Si la décision de transfert est annulée, il est immédiatement mis fin aux mesures de surveillance prévues au livre V.
+L'autorité administrative statue à nouveau sur le cas de l'intéressé.
 
-En cas de reconnaissance de la qualité de réfugié ou d'octroi de la protection subsidiaire, l'autorité administrative abroge
-l'obligation de quitter le territoire français ou l'arrêté de reconduite à la frontière qui a, le cas échéant, été pris. Elle
-délivre sans délai au réfugié la carte de résident prévue au 8° de l'article L. 314-11 et au bénéficiaire de la protection
-subsidiaire la carte de séjour temporaire prévue à l'article L. 313-13.
+**Nota:**
 
-L'étranger présent sur le territoire français dont la demande d'asile entre dans le cas mentionné au 1° de l'article L. 741-4
-bénéficie du droit de se maintenir en France jusqu'à son départ volontaire ou son transfert effectif à destination de l'Etat
-membre responsable de l'examen de sa demande d'asile.
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
+présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4). 
+
+Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article L. 742-4 s'appliquent aux
+demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -14131,7 +14842,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-891 du 8 août 2014 - art. 31
+  - Loi n°2015-925 du 29 juillet 2015 - art. 20
 
 _Cité par_:
 
@@ -14144,16 +14855,395 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
   - Code du travail - art. L5423-11 (VT)
 
+
+#### Chapitre III : Droit au maintien sur le territoire français<a id=137></a>
+
+###### Article L743-1
+
+Le demandeur d'asile dont l'examen de la demande relève de la compétence de la France et qui a introduit sa demande auprès de
+l'Office français de protection des réfugiés et apatrides bénéficie du droit de se maintenir sur le territoire français
+jusqu'à la notification de la décision de l'office ou, si un recours a été formé, jusqu'à la notification de la décision de
+la Cour nationale du droit d'asile. L'attestation délivrée en application de l'article L. 741-1, dès lors que la demande
+d'asile a été introduite auprès de l'office, vaut autorisation provisoire de séjour et est renouvelable jusqu'à ce que
+l'office et, le cas échéant, la cour statuent.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-1 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R743-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-49 (V)
+  - Code de l'éducation - art. L841-5 (VD)
+  - Code de la sécurité sociale. - art. D160-2 (V)
+  - Code de la sécurité sociale. - art. L381-8 (VT)
+  - Code de la sécurité sociale. - art. R380-1 (Ab)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
 
 
-#### Chapitre IV : Conditions d'accueil des demandeurs d'asile<a id=134></a>
+###### Article L743-2
 
-##### Section 1 : Dispositif national d'accueil<a id=135></a>
+Par dérogation à l'article L. 743-1, sous réserve du respect des stipulations de l'article 33 de la convention relative au
+statut des réfugiés, signée à Genève le 28 juillet 1951, et de l'article 3 de la convention européenne de sauvegarde des
+droits de l'homme et des libertés fondamentales, adoptée à Rome le 4 novembre 1950, le droit de se maintenir sur le
+territoire français prend fin et l'attestation de demande d'asile peut être refusée, retirée ou son renouvellement refusé
+lorsque : 
+
+1° L'Office français de protection des réfugiés et apatrides a pris une décision d'irrecevabilité en application des 1° ou 2°
+de l'article L. 723-11 ; 
+
+2° Le demandeur a informé l'office du retrait de sa demande d'asile en application de l'article L. 723-12 ; 
+
+3° L'office a pris une décision de clôture en application de l'article L. 723-13. L'étranger qui obtient la réouverture de
+son dossier en application de l'article L. 723-14 bénéficie à nouveau du droit de se maintenir sur le territoire français ; 
+
+4° L'étranger n'a introduit une première demande de réexamen, qui a fait l'objet d'une décision d'irrecevabilité par l'office
+en application du 3° de l'article L. 723-11, qu'en vue de faire échec à une mesure d'éloignement ; 
+
+5° L'étranger présente une nouvelle demande de réexamen après le rejet définitif d'une première demande de réexamen ; 
+
+6° L'étranger fait l'objet d'une décision définitive d'extradition vers un Etat autre que son pays d'origine ou d'une
+décision de remise sur le fondement d'un mandat d'arrêt européen ou d'une demande de remise par une cour pénale
+internationale. 
+
+Les conditions de renouvellement et de retrait de l'attestation de demande d'asile sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-2 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2000-371 du 26 avril 2000 - art. 46 (V)
+  - Ordonnance n°2000-372 du 26 avril 2000 - art. 48 (V)
+  - Ordonnance n°2002-388 du 20 mars 2002 - art. 48 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-17 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-34 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-3 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R743-1 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-12
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-13
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-14
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-1
+
+
+###### Article L743-3
+
+L'étranger auquel la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement
+refusé ou qui ne bénéficie plus du droit de se maintenir sur le territoire français en application de l'article L. 743-2 et
+qui ne peut être autorisé à demeurer sur le territoire à un autre titre doit quitter le territoire français, sous peine de
+faire l'objet d'une mesure d'éloignement prévue au titre Ier du livre V et, le cas échéant, des pénalités prévues au chapitre
+Ier du titre II du livre VI.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-3 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+
+_Cité par_:
+
+  - Décret n°2018-1142 du 12 décembre 2018 - art. 2
+  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-12 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
+
+
+###### Article L743-4
+
+Sans préjudice des articles L. 556-1 et L. 743-2, lorsque l'étranger sollicitant l'enregistrement d'une demande d'asile a
+fait l'objet, préalablement à la présentation de sa demande, d'une mesure d'éloignement prise en application du livre V,
+celle-ci, qui n'est pas abrogée par la délivrance de l'attestation prévue à l'article L. 741-1, ne peut être mise à exécution
+avant la notification de la décision de l'office, lorsqu'il s'agit d'une décision de rejet, d'irrecevabilité ou de clôture,
+ou, si un recours est formé devant la Cour nationale du droit d'asile contre une décision de rejet, avant la notification de
+la décision de la cour.
+
+**Nota:**
+
+Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-4 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Décret n°2018-1142 du 12 décembre 2018 - art. 8
+  - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
+
+
+#### Chapitre IV : Conditions d'accueil des demandeurs d'asile<a id=138></a>
+
+##### Section 1 : Dispositif national d'accueil<a id=139></a>
+
+###### Article L744-1
+
+Les conditions matérielles d'accueil du demandeur d'asile, au sens de la directive 2013/33/UE du Parlement européen et du
+Conseil, du 26 juin 2013, établissant des normes pour l'accueil des personnes demandant la protection internationale, sont
+proposées à chaque demandeur d'asile par l'Office français de l'immigration et de l'intégration après l'enregistrement de la
+demande d'asile par l'autorité administrative compétente, en application du présent chapitre. Les conditions matérielles
+d'accueil comprennent les prestations et l'allocation prévues au présent chapitre. 
+
+L'office peut déléguer à des personnes morales, par convention, la possibilité d'assurer certaines prestations d'accueil,
+d'information et d'accompagnement social et administratif des demandeurs d'asile pendant la période d'instruction de leur
+demande. 
+
+Le demandeur d'asile qui ne dispose ni d'un hébergement, au sens du 1° de l'article L. 744-3, ni d'un domicile stable
+bénéficie du droit d'élire domicile auprès d'une personne morale conventionnée à cet effet pour chaque département, dans des
+conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-1 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-17 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-39 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-7 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R311-10 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R743-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-3 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-47 (V)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
+
+###### Article L744-2
+
+Le schéma national d'accueil des demandeurs d'asile fixe la répartition des places d'hébergement destinées aux demandeurs
+d'asile sur le territoire national. Il est arrêté par le ministre chargé de l'asile, après avis des ministres chargés du
+logement et des affaires sociales. Il est transmis au Parlement. 
+
+Un schéma régional est établi par le représentant de l'Etat dans la région, après avis du comité régional de l'habitat et de
+l'hébergement concerné et en conformité avec le schéma national d'accueil des demandeurs d'asile. Il fixe les orientations en
+matière de répartition des lieux d'hébergement pour demandeurs d'asile sur le territoire de la région et présente le
+dispositif régional prévu pour l'enregistrement des demandes ainsi que le suivi et l'accompagnement des demandeurs d'asile.
+Il tient compte du plan départemental d'action pour le logement et l'hébergement des personnes défavorisées et est annexé à
+ce dernier, en application du troisième alinéa de l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du
+droit au logement. 
+
+Sans préjudice de la participation financière demandée aux demandeurs d'asile en fonction de leurs ressources, les frais
+d'accueil et d'hébergement dans les lieux d'hébergement destinés aux demandeurs d'asile sont pris en charge par l'Etat.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-2 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°90-449 du 31 mai 1990 - art. 2
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cité par_:
+
+  - Arrêté du 29 octobre 2015 - art. (V)
+  - Arrêté du 21 décembre 2015 (V)
+  - Décret n°2018-142 du 27 février 2018 - art. 8
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-7 (VD)
+  - Code de la construction et de l'habitation. - art. R362-2 (V)
+
+
+###### Article L744-3
+
+Les décisions d'admission dans un lieu d'hébergement pour demandeurs d'asile, de sortie de ce lieu et de changement de lieu
+sont prises par l'Office français de l'immigration et de l'intégration, après consultation du directeur du lieu
+d'hébergement, sur la base du schéma national d'accueil des demandeurs d'asile et, le cas échéant, du schéma régional prévus
+à l'article L. 744-2 et en tenant compte de la situation du demandeur. 
+
+Sont des lieux d'hébergement pour demandeurs d'asile : 
+
+1° Les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1 du code de l'action sociale et des
+familles ; 
+
+2° Toute structure bénéficiant de financements du ministère chargé de l'asile pour l'accueil de demandeurs d'asile et soumise
+à déclaration, au sens de l'article L. 322-1 du même code. 
+
+Les demandeurs d'asile accueillis dans les lieux d'hébergement mentionnés aux 1° et 2° du présent article bénéficient d'un
+accompagnement social et administratif. 
+
+Le représentant de l'Etat dans le département peut s'opposer pour des motifs d'ordre public à la décision d'admission d'un
+demandeur d'asile dans un lieu d'hébergement. Dans ce cas, l'office est tenu de prendre une nouvelle décision d'admission.
+L'office s'assure de la présence dans les lieux d'hébergement des personnes qui y ont été orientées pour la durée de la
+procédure.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-3 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cité par_:
+
+  - Arrêté du 15 novembre 2016 - art. 1 (V)
+  - Code de l'action sociale et des familles - art. L312-8-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 7-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-26 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-35 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-5 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L761-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R742-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-10 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-47 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-8 (VD)
+  - Code général des impôts, CGI. - art. 278-0 bis (VD)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L322-1
+  - Code de l'action sociale et des familles - art. L348-1
+
+
+###### Article L744-4
+
+Dans le cadre de sa mission d'accueil des demandeurs d'asile définie à l'article L. 5223-1 du code du travail, l'Office
+français de l'immigration et de l'intégration coordonne la gestion de l'hébergement dans les lieux d'hébergement mentionnés à
+l'article L. 744-3 du présent code. 
+
+A cette fin, il conçoit, met en œuvre et gère, dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, un traitement automatisé de données relatives aux capacités des lieux
+d'hébergement, à l'utilisation de ces capacités et aux demandeurs d'asile qui y sont accueillis. 
+
+Les personnes morales chargées de la gestion des lieux d'hébergement mentionnés à l'article L. 744-3 sont tenues de déclarer
+à l'office, dans le cadre du traitement automatisé de données, les places disponibles dans les lieux d'hébergement. Ces
+personnes morales sont tenues d'alerter l'autorité administrative compétente en cas d'absence injustifiée et prolongée des
+personnes qui y ont été orientées pour la durée de la procédure et en cas de comportement violent ou de manquement grave au
+règlement du lieu d'hébergement.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-4 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+  - Code du travail - art. L5223-1 (VD)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. L349-3 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-9 (VD)
+  - Code du travail - art. R5223-1 (VD)
+
 
 ###### Article L744-5
 
@@ -14200,7 +15290,7 @@ _Cite_:
   - Code de justice administrative - art. L521-3
 
 
-##### Section 2 : Evaluation des besoins<a id=136></a>
+##### Section 2 : Evaluation des besoins<a id=140></a>
 
 ###### Article L744-6
 
@@ -14269,7 +15359,213 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 23
 
 
-##### Section 5 : Accès au marché du travail<a id=137></a>
+##### Section 3 : Orientation des demandeurs<a id=141></a>
+
+###### Article L744-7
+
+Le bénéfice des conditions matérielles d'accueil, définies à l'article L. 348-1 du code de l'action sociale et des familles
+et à l'article L. 744-1 du présent code, est subordonné à l'acceptation par le demandeur d'asile de l'hébergement proposé,
+déterminé en tenant compte de ses besoins, de sa situation au regard de l'évaluation prévue à l'article L. 744-6 et des
+capacités d'hébergement disponibles. 
+
+Le demandeur est préalablement informé, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la
+comprend, des conséquences de l'acceptation ou du refus de l'hébergement proposé. 
+
+Sans préjudice de l'article L. 345-2-2 du code de l'action sociale et des familles, en cas de refus ou d'abandon de
+l'hébergement proposé en application du premier alinéa du présent article, le demandeur d'asile ne peut être hébergé dans un
+établissement mentionné au 8° du I de l'article L. 312-1 du même code et à l'article L. 322-1 dudit code ou bénéficier de
+l'application de l'article L. 300-1 du code de la construction et de l'habitation. 
+
+Après avis de la Commission nationale de l'informatique et des libertés, un décret en Conseil d'Etat détermine les
+informations qui doivent être fournies par l'Office français de l'immigration et de l'intégration au service intégré
+d'accueil et d'orientation pour la mise en œuvre du troisième alinéa du présent article.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-7 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
+  - Décret n°2017-665 du 27 avril 2017 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-35 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-37-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-8 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
+  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L322-1
+  - Code de l'action sociale et des familles - art. L345-2-2
+  - Code de l'action sociale et des familles - art. L348-1 (VD)
+  - Code de la construction et de l'habitation. - art. L300-1
+
+
+###### Article L744-8
+
+Le bénéfice des conditions matérielles d'accueil peut être : 
+
+1° Suspendu si, sans motif légitime, le demandeur d'asile a abandonné son lieu d'hébergement déterminé en application de
+l'article L. 744-7, n'a pas respecté l'obligation de se présenter aux autorités, n'a pas répondu aux demandes d'informations
+ou ne s'est pas rendu aux entretiens personnels concernant la procédure d'asile ; 
+
+2° Retiré si le demandeur d'asile a dissimulé ses ressources financières ou a fourni des informations mensongères relatives à
+sa situation familiale ou en cas de comportement violent ou de manquement grave au règlement du lieu d'hébergement ; 
+
+3° Refusé si le demandeur présente une demande de réexamen de sa demande d'asile ou s'il n'a pas sollicité l'asile, sans
+motif légitime, dans le délai prévu au 3° du III de l'article L. 723-2.
+
+La décision de suspension, de retrait ou de refus des conditions matérielles d'accueil est écrite et motivée. Elle prend en
+compte la vulnérabilité du demandeur. 
+
+La décision est prise après que l'intéressé a été mis en mesure de présenter ses observations écrites dans les délais
+impartis. 
+
+Lorsque le bénéfice des conditions matérielles d'accueil a été suspendu, le demandeur d'asile peut en demander le
+rétablissement à l'Office français de l'immigration et de l'intégration.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-8 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-38 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-9 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-7
+
+
+##### Section 4 : Allocation pour demandeur d'asile<a id=142></a>
+
+###### Article L744-9
+
+Le demandeur d'asile qui a accepté les conditions matérielles d'accueil proposées en application de l'article L. 744-1
+bénéficie d'une allocation pour demandeur d'asile s'il satisfait à des conditions d'âge et de ressources. L'Office français
+de l'immigration et de l'intégration ordonne son versement dans l'attente de la décision définitive lui accordant ou lui
+refusant une protection au titre de l'asile ou jusqu'à son transfert effectif vers un autre Etat responsable de l'examen de
+sa demande d'asile. 
+
+Le versement de l'allocation prend fin au terme du mois qui suit celui de la notification de la décision définitive
+concernant cette demande. Son montant est révisé, le cas échéant, une fois par an, en fonction de l'évolution des prix, hors
+tabac, prévue dans le rapport économique, social et financier annexé au projet de loi de finances de l'année. 
+
+L'allocation pour demandeur d'asile est incessible et insaisissable. Pour son remboursement, en cas de versement indu,
+l'Office français de l'immigration et de l'intégration peut procéder à des retenues sur les échéances à venir dues à quelque
+titre que ce soit. Le montant des retenues ne peut dépasser un plafond, déterminé selon des modalités prévues par voie
+réglementaire, sauf en cas de remboursement intégral de la dette en un seul versement si le bénéficiaire opte pour cette
+solution. 
+
+Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour effet de faire obstacle à l'insaisissabilité de
+l'allocation. 
+
+Un décret définit le barème de l'allocation pour demandeur d'asile, en prenant en compte les ressources de l'intéressé, son
+mode d'hébergement et, le cas échéant, les prestations offertes par son lieu d'hébergement. Le barème de l'allocation pour
+demandeur d'asile prend en compte le nombre d'adultes et d'enfants composant la famille du demandeur d'asile et accompagnant
+celui-ci. 
+
+Ce décret précise, en outre, les modalités de versement de l'allocation pour demandeur d'asile.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-9 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
+  - Décret n°2015-1329 du 21 octobre 2015 (V)
+  - Décret n°2015-1330 du 21 octobre 2015 (V)
+  - Arrêté du 29 octobre 2015 - art. (V)
+  - Décret n°2017-430 du 29 mars 2017 (V)
+  - Décret n°2018-426 du 31 mai 2018 (V)
+  - Code de l'action sociale et des familles - art. L121-9 (VD)
+  - Code de l'action sociale et des familles - art. R121-12-13-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-19 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-26 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-34 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-40 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-10 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L761-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
+  - Code de la sécurité sociale. - art. L136-1-3 (V)
+  - Code du travail - art. L5223-1 (VD)
+  - Code rural et de la pêche maritime - art. D313-15-1 (V)
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+
+
+###### Article L744-10
+
+Peuvent également bénéficier de l'allocation mentionnée à l'article L. 744-9 pendant une durée déterminée, s'ils satisfont à
+des conditions d'âge et de ressources : 
+
+1° Les ressortissants étrangers bénéficiaires de la protection temporaire, dans les conditions prévues au titre Ier du livre
+VIII ; 
+
+2° Les ressortissants étrangers auxquels une carte de séjour temporaire a été délivrée en application de l'article L. 316-1.
+
+**Nota:**
+
+Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-10 du code de l'entrée et du séjour
+des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
+demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-17 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-45 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+
+
+##### Section 5 : Accès au marché du travail<a id=143></a>
 
 ###### Article L744-11
 
@@ -14292,19 +15588,24 @@ _Cite_:
   - Code du travail - art. L6313-1
 
 
-### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=138></a>
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=144></a>
+
+#### Chapitre Ier : Information et accès aux droits<a id=145></a>
 
 ###### Article L751-1
 
-Lorsque la demande d'asile est formée par un mineur sans représentant légal sur le territoire français, le procureur de la
-République, avisé par l'autorité administrative, lui désigne un administrateur ad hoc. Celui-ci assiste le mineur et assure
-sa représentation dans le cadre des procédures administratives et juridictionnelles relatives à la demande d'asile.
+L'étranger qui a obtenu le statut de réfugié ou le bénéfice de la protection subsidiaire en application du présent livre VII
+et a signé le contrat d'accueil et d'intégration prévu à l'article L. 311-9 bénéficie d'un accompagnement personnalisé pour
+l'accès à l'emploi et au logement. 
 
-L'administrateur ad hoc nommé en application de ces dispositions est désigné par le procureur de la République compétent sur
-une liste de personnes morales ou physiques dont les modalités de constitution sont fixées par décret en Conseil d'Etat. Ce
-décret précise également les conditions de leur indemnisation.
+A cet effet, l'autorité administrative conclut avec les collectivités territoriales et les autres personnes morales
+concernées ou souhaitant participer à cet accompagnement une convention prévoyant les modalités d'organisation de celui-ci.
 
-La mission de l'administrateur ad hoc prend fin dès le prononcé d'une mesure de tutelle.
+**Nota:**
+
+Conformément à l'article 35 IV de la loi n° 2015-925 du 29 juillet 2015, le présent article dans sa rédaction résultant de la
+présente loi, entre en vigueur à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
+novembre 2015.
 
 **Liens relatifs à cet article**
 
@@ -14314,8 +15615,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -14331,76 +15632,53 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R751-1 (VT)
 
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 29
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
+
 
 ###### Article L751-2
 
-Les modalités d'application des dispositions du présent livre sont fixées par décret en Conseil d'Etat, notamment :
+Dans la mise en œuvre des droits accordés aux réfugiés et aux bénéficiaires de la protection subsidiaire, il est tenu compte
+de la situation spécifique des personnes vulnérables ayant des besoins particuliers.
 
-1° Les conditions d'instruction des demandes d'asile dont l'Office français de protection des réfugiés et apatrides est
-saisi ;
+**Nota:**
 
-2° L'autorité compétente pour saisir l'office d'une demande de réexamen mentionnée à l'article L. 723-5 ;
-
-3° Les modalités de désignation des représentants de l'Etat et du représentant du personnel au conseil d'administration,
-ainsi que celles des personnalités qualifiées ;
-
-4° Les modalités de désignation et d'habilitation des agents mentionnés à l'article L. 723-4 ;
-
-5° La durée du mandat des membres de la Cour nationale du droit d'asile ;
-
-6° Les conditions d'exercice des recours prévus aux articles L. 731-2 et L. 731-3 ainsi que les conditions dans lesquelles le
-président et les présidents de section de la Cour nationale du droit d'asile peuvent, après instruction, statuer par
-ordonnance sur les demandes qui ne présentent aucun élément sérieux susceptible de remettre en cause les motifs de la
-décision du directeur général de l'office ;
-
-7° Le délai prévu pour la délivrance du document provisoire de séjour mentionné à l'article L. 742-1 et permettant de déposer
-une demande d'asile ;
-
-8° Le délai dans lequel le demandeur d'asile qui a reçu le document provisoire de séjour susmentionné doit déposer sa demande
-auprès de l'office ;
-
-9° Le délai prévu pour la délivrance, après le dépôt de la demande d'asile auprès de l'office, du nouveau document provisoire
-de séjour mentionné à l'article L. 742-1 ainsi que la nature et la durée de validité de ce document ;
-
-10° Le délai pour la délivrance du titre de séjour après la décision d'octroi par l'office ou la Cour nationale du droit
-d'asile du statut de réfugié ou de la protection subsidiaire ;
-
-11° Les délais dans lesquels l'office doit se prononcer lorsqu'il statue selon la procédure prioritaire prévue au second
-alinéa de l'article L. 723-1.
+Conformément à l'article 35 IV de la loi n° 2015-925 du 29 juillet 2015, les articles L. 751-1 et L. 751-2 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, dans leur rédaction résultant de la présente loi, entrent en vigueur
+à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°52-893 1952-07-25 art. 19, sauf al. 3
-  - Loi n°52-893 du 25 juillet 1952 - art. 19 (Ab)
-
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
-
-_Modifié par_:
-
-  - Loi n°2007-1631 2007-11-20 art. 29 I, III JORF 21 novembre 2007
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 29 () JORF 21 novembre 2007
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
   - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
   - Décret n°2015-1166 du 21 septembre 2015 - art. 30 (VD)
 
+_Modifié par_:
+
+  - Loi n°2015-925 du 29 juillet 2015 - art. 29
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L723-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L723-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L723-5 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L731-2 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L731-3 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
 
 
-#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=139></a>
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=146></a>
 
 ###### Article L752-1
 
@@ -14536,7 +15814,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-10 (VD)
 
 
-#### Chapitre III : Documents de voyage<a id=140></a>
+#### Chapitre III : Documents de voyage<a id=147></a>
 
 ###### Article L753-1
 
@@ -14649,9 +15927,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L753-1
 
 
-### TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER<a id=141></a>
+### TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER<a id=148></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=142></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=149></a>
 
 ###### Article L761-1
 
@@ -14696,7 +15974,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=143></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=150></a>
 
 ###### Article L762-1
 
@@ -14806,7 +16084,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=144></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=151></a>
 
 ###### Article L763-1
 
@@ -14914,7 +16192,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=145></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=152></a>
 
 ###### Article L764-1
 
@@ -15023,7 +16301,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=146></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=153></a>
 
 ###### Article L765-1
 
@@ -15055,7 +16333,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R765-1 (VD)
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=147></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=154></a>
 
 ###### Article L766-1
 
@@ -15222,7 +16500,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
 
 
-#### Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=148></a>
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique et La Réunion<a id=155></a>
 
 ###### Article L767-1
 
@@ -15249,11 +16527,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=149></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=156></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=150></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=157></a>
 
-#### Chapitre unique<a id=151></a>
+#### Chapitre unique<a id=158></a>
 
 ###### Article L811-1
 
@@ -15489,9 +16767,9 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=152></a>
+### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=159></a>
 
-#### Chapitre unique<a id=153></a>
+#### Chapitre unique<a id=160></a>
 
 ###### Article L812-1
 
@@ -15654,9 +16932,9 @@ _Créé par_:
   - Loi n°2015-925 du 29 juillet 2015 - art. 6
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=154></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=161></a>
 
-#### Chapitre unique<a id=155></a>
+#### Chapitre unique<a id=162></a>
 
 ###### Article L821-1
 
@@ -15763,9 +17041,9 @@ _Codifié par_:
   - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
 
 
-### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=156></a>
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=163></a>
 
-#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=157></a>
+#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=164></a>
 
 ###### Article L831-1
 
@@ -15786,7 +17064,7 @@ _Modifié par_:
   - Loi n°2007-1631 du 20 novembre 2007 - art. 56 () JORF 21 novembre 2007
 
 
-#### Chapitre II : Mayotte<a id=158></a>
+#### Chapitre II : Mayotte<a id=165></a>
 
 ###### Article L832-1
 
@@ -15887,7 +17165,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
 
 
-## LIVRE IX : LE CODÉVELOPPEMENT<a id=159></a>
+## LIVRE IX : LE CODÉVELOPPEMENT<a id=166></a>
 
 ###### Article L900-1
 
@@ -15976,15 +17254,15 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-34 (V)
 
 
-# Partie réglementaire<a id=160></a>
+# Partie réglementaire<a id=167></a>
 
-## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=161></a>
+## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=168></a>
 
-### TITRE Ier : GÉNÉRALITÉS<a id=162></a>
+### TITRE Ier : GÉNÉRALITÉS<a id=169></a>
 
-#### Chapitre unique<a id=163></a>
+#### Chapitre unique<a id=170></a>
 
-##### Section 1 : Interprètes traducteurs<a id=164></a>
+##### Section 1 : Interprètes traducteurs<a id=171></a>
 
 ###### Article R111-1
 
@@ -16264,7 +17542,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-8
 
 
-##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié<a id=165></a>
+##### Section 2 : Administrateurs ad hoc désignés pour la représentation des mineurs maintenus en zone d'attente ou demandeurs du statut de réfugié<a id=172></a>
 
 ###### Article R111-13
 
@@ -16539,11 +17817,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=166></a>
+### TITRE II : ENTRÉE ET SÉJOUR DES CITOYENS DE L'UNION EUROPÉENNE, DES RESSORTISSANTS DES AUTRES ÉTATS PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DE LA CONFÉDÉRATION SUISSE AINSI QUE SÉJOUR DES MEMBRES DE LEUR FAMILLE<a id=173></a>
 
-#### Chapitre Ier : Droit au séjour<a id=167></a>
+#### Chapitre Ier : Droit au séjour<a id=174></a>
 
-##### Section 1 : Entrée en France<a id=168></a>
+##### Section 1 : Entrée en France<a id=175></a>
 
 ###### Article R121-1
 
@@ -16638,7 +17916,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-1
 
 
-##### Section 3 : Séjour d'une durée supérieure à trois mois<a id=169></a>
+##### Section 3 : Séjour d'une durée supérieure à trois mois<a id=176></a>
 
 ###### Article R121-4
 
@@ -16750,7 +18028,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-4-1
 
 
-##### Section 4 : Maintien du droit au séjour<a id=170></a>
+##### Section 4 : Maintien du droit au séjour<a id=177></a>
 
 ###### Article R121-6
 
@@ -16883,9 +18161,9 @@ _Créé par_:
   - Décret n°2007-371 du 21 mars 2007 - art. 1 () JORF 22 mars 2007
 
 
-##### Section 5 : Délivrance du titre de séjour<a id=171></a>
+##### Section 5 : Délivrance du titre de séjour<a id=178></a>
 
-##### Sous-section 1 : Dispositions générales<a id=172></a>
+##### Sous-section 1 : Dispositions générales<a id=179></a>
 
 ###### Article R121-10
 
@@ -17122,7 +18400,7 @@ _Créé par_:
   - Décret n°2007-371 du 21 mars 2007 - art. 1 () JORF 22 mars 2007
 
 
-##### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers<a id=173></a>
+##### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers<a id=180></a>
 
 ###### Article R121-16
 
@@ -17179,7 +18457,7 @@ _Cite_:
   - Code du travail - art. L341-2
 
 
-#### Chapitre II : Droit au séjour permanent<a id=174></a>
+#### Chapitre II : Droit au séjour permanent<a id=181></a>
 
 ###### Article R122-1
 
@@ -17360,9 +18638,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R122-4
 
 
-### TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS<a id=175></a>
+### TITRE III : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DE CERTAINS AUTRES ÉTATS<a id=182></a>
 
-#### Chapitre unique<a id=176></a>
+#### Chapitre unique<a id=183></a>
 
 ###### Article D131-1
 
@@ -17505,13 +18783,13 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE II : L'ENTRÉE EN FRANCE<a id=177></a>
+## LIVRE II : L'ENTRÉE EN FRANCE<a id=184></a>
 
-### TITRE Ier : CONDITIONS D'ADMISSION<a id=178></a>
+### TITRE Ier : CONDITIONS D'ADMISSION<a id=185></a>
 
-#### Chapitre Ier : Documents exigés<a id=179></a>
+#### Chapitre Ier : Documents exigés<a id=186></a>
 
-##### Section 1 : Généralités<a id=180></a>
+##### Section 1 : Généralités<a id=187></a>
 
 ###### Article R211-1
 
@@ -17574,9 +18852,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R212-1 (V)
 
 
-##### Section 2 : Visa<a id=181></a>
+##### Section 2 : Visa<a id=188></a>
 
-##### Sous-section 1 : Instruction des demandes de visa<a id=182></a>
+##### Sous-section 1 : Instruction des demandes de visa<a id=189></a>
 
 ###### Article R211-4
 
@@ -17661,7 +18939,7 @@ _Créé par_:
   - Décret n°2008-1115 du 30 octobre 2008 - art. 5
 
 
-##### Sous-section 2 : Recours contre les refus de visa<a id=183></a>
+##### Sous-section 2 : Recours contre les refus de visa<a id=190></a>
 
 ###### Article D211-5
 
@@ -17769,9 +19047,9 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 9
 
 
-##### Section 3 : Justificatif d'hébergement<a id=184></a>
+##### Section 3 : Justificatif d'hébergement<a id=191></a>
 
-##### Sous-section 1 : Souscription des attestations d'accueil<a id=185></a>
+##### Sous-section 1 : Souscription des attestations d'accueil<a id=192></a>
 
 ###### Article R211-11
 
@@ -17892,7 +19170,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 2 : Validation des attestations d'accueil<a id=186></a>
+##### Sous-section 2 : Validation des attestations d'accueil<a id=193></a>
 
 ###### Article R211-16
 
@@ -17950,7 +19228,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil<a id=187></a>
+##### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil<a id=194></a>
 
 ###### Article R211-19
 
@@ -18154,9 +19432,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 4 : Autres documents<a id=188></a>
+##### Section 4 : Autres documents<a id=195></a>
 
-##### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour<a id=189></a>
+##### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour<a id=196></a>
 
 ###### Article R211-27
 
@@ -18194,7 +19472,7 @@ _Cite_:
   - Code de la santé publique - art. R6145-4 (V)
 
 
-##### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger<a id=190></a>
+##### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger<a id=197></a>
 
 ###### Article R211-28
 
@@ -18217,7 +19495,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-27 (V)
 
 
-##### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières<a id=191></a>
+##### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières<a id=198></a>
 
 ###### Article R211-29
 
@@ -18241,7 +19519,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L211-1 (V)
 
 
-##### Sous-section 4 : Garanties de rapatriement<a id=192></a>
+##### Sous-section 4 : Garanties de rapatriement<a id=199></a>
 
 ###### Article R211-30
 
@@ -18292,7 +19570,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R626-3 (V)
 
 
-##### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=193></a>
+##### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=200></a>
 
 ###### Article R211-32
 
@@ -18337,9 +19615,9 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 10
 
 
-#### Chapitre II : Dispenses<a id=194></a>
+#### Chapitre II : Dispenses<a id=201></a>
 
-##### Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1<a id=195></a>
+##### Section 1 : Dispense de produire l'ensemble des documents mentionnés au 2° de l'article L. 211-1<a id=202></a>
 
 ###### Article R212-1
 
@@ -18400,7 +19678,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
 
 
-##### Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3<a id=196></a>
+##### Section 2 : Dispense de produire l'attestation d'accueil mentionnée à l'article L. 211-3<a id=203></a>
 
 ###### Article R212-2
 
@@ -18518,7 +19796,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R211-32 (V)
 
 
-##### Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=197></a>
+##### Section 3 : Dispense de produire la déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2<a id=204></a>
 
 ###### Article R212-6
 
@@ -18543,7 +19821,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R211-32 (V)
 
 
-##### Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2<a id=198></a>
+##### Section 4 : Composition et fonctionnement de la commission mentionnée à l'article L. 212-2<a id=205></a>
 
 ###### Article R212-7
 
@@ -18651,36 +19929,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L212-2
 
 
-#### Chapitre III : Refus d'entrée<a id=199></a>
-
-###### Article R*213-3
-
-L'autorité administrative compétente pour prendre la décision mentionnée à l'article R. 213-2 de refuser l'entrée en France à
-un étranger demandant à bénéficier du droit d'asile est le ministre chargé de l'immigration.
-
-L'étranger est informé du caractère positif ou négatif de cette décision dans une langue dont il est raisonnable de penser
-qu'il la comprend. Lorsqu'il s'agit d'une décision de refus d'entrée en France, l'Office français de protection des réfugiés
-et apatrides transmet sous pli fermé à l'étranger une copie du rapport prévu au quatrième alinéa de l'article R. 213-2. Cette
-transmission est faite en même temps que la remise de la décision du ministre chargé de l'immigration ou, à défaut, dans des
-délais compatibles avec l'exercice effectif par l'étranger de son droit au recours.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2011-1031 du 29 août 2011 - art. 2
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R723-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R733-20 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R733-32 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-2
-
+#### Chapitre III : Refus d'entrée<a id=206></a>
 
 ###### Article R213-1
 
@@ -18712,26 +19961,21 @@ _Cite_:
 ###### Article R213-2
 
 Lorsque l'étranger qui se présente à la frontière demande à bénéficier du droit d'asile, il est informé sans délai, dans une
-langue dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et obligations
-au cours de cette procédure, des conséquences que pourrait avoir le non-respect de ses obligations ou le refus de coopérer
-avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande. 
+langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile et de son
+déroulement, de ses droits et obligations au cours de cette procédure, des conséquences que pourrait avoir le non-respect de
+ses obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
 
-La décision de refus d'entrée ne peut être prise qu'après consultation de l'Office français de protection des réfugiés et
-apatrides, qui procède à l'audition de l'étranger. 
-
-Lorsque l'audition du demandeur d'asile nécessite l'assistance d'un interprète, sa rétribution est prise en charge par
-l'Etat. 
-
-Cette audition fait l'objet d'un rapport écrit qui comprend les informations relatives à l'identité de l'étranger et celle de
-sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses nationalités, le cas échéant ses pays de
-résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de voyage ainsi que les raisons justifiant
-la demande de protection internationale.
+Lorsque l'examen de la demande d'asile est susceptible de relever de la responsabilité d'un autre Etat, l'étranger est
+informé, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, de l'application du règlement
+(UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination
+de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres
+par un ressortissant de pays tiers ou un apatride, dans les conditions fixées par son article 4.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1031 du 29 août 2011 - art. 1
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
 
 _Cité par_:
 
@@ -18740,9 +19984,165 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-1-1 (VT)
 
 
-### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=200></a>
+###### Article R213-3
 
-#### Chapitre Ier : Conditions du maintien en zone d'attente<a id=201></a>
+Toute personne intervenant en zone d'attente peut signaler au responsable de la zone ou à son représentant la situation de
+vulnérabilité d'un demandeur d'asile qu'elle aurait constatée, ou dont le demandeur d'asile aurait fait état.
+
+Le responsable de la zone ou son représentant détermine, le cas échéant, les modalités particulières de maintien en zone
+d'attente tenant compte de la situation de vulnérabilité du demandeur.
+
+Les informations attestant d'une situation particulière de vulnérabilité portées à la connaissance du responsable de la zone
+en application du premier alinéa sont communiquées oralement ou par écrit, après accord du demandeur d'asile, à l'Office
+français de protection des réfugiés et apatrides.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-20 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-32 (V)
+
+
+###### Article R213-4
+
+Sauf dans le cas où l'examen de la demande d'asile relève de la compétence d'un autre Etat, l'étranger est entendu par
+l'Office français de protection des réfugiés et apatrides selon les modalités prévues par les articles R. 723-5 à R. 723-9. 
+
+Toutefois, en cas de besoin et par dérogation à l'article R. 723-8, l'entretien personnel peut ne pas faire l'objet d'un
+enregistrement. Dans ce cas, sa transcription fait l'objet d'un recueil de commentaires. Si l'étranger refuse de confirmer
+que le contenu de la transcription reflète correctement l'entretien personnel, les motifs de son refus sont consignés dans
+l'avis rendu par l'office. Un tel refus n'empêche pas l'office de rendre son avis sur la demande d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R213-9 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-8 (V)
+
+
+###### Article R213-5
+
+L'office transmet son avis au ministre chargé de l'immigration dans le délai de deux jours ouvrés à compter de la demande à
+bénéficier de l'asile consignée par procès-verbal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+
+###### Article R213-6
+
+L'étranger est informé, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, du caractère
+positif ou négatif de la décision prise par le ministre chargé de l'immigration en application de l'article L. 213-8-1. 
+
+Lorsque le ministre prend une décision de refus d'entrée au titre de l'asile, l'office transmet sous pli fermé à l'étranger
+une copie de la transcription mentionnée au I de l'article L. 723-7. Cette transmission est faite au plus tard en même temps
+que la notification de la décision du ministre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-8-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-7
+
+
+###### Article R213-7
+
+Lorsque, à la suite de l'entretien personnel avec le demandeur, l'office considère, en application du troisième alinéa de
+l'article L. 221-1, que l'étranger nécessite des garanties procédurales particulières qui ne sont pas compatibles avec le
+maintien en zone d'attente, il transmet, sans délai, sa décision à l'autorité qui a procédé au maintien en zone d'attente
+ainsi qu'au ministre chargé de l'immigration. Il est alors mis fin à ce maintien. Le visa de régularisation prévu à l'article
+L. 224-1 est remis à l'étranger par le responsable de la zone d'attente ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L221-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L224-1
+
+
+###### Article R213-8
+
+Dans le cas prévu au 1° de l'article L. 213-8-1, l'autorité administrative compétente pour procéder à la détermination de
+l'Etat responsable de l'examen d'une demande d'asile et prendre la décision de transfert vers cet Etat est le ministre chargé
+de l'immigration. La décision de refuser l'entrée en France au titre de l'asile n'a pas à faire l'objet d'une motivation
+distincte de celle de la décision de transfert.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R213-9 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-8-1
+
+
+###### Article R213-9
+
+I.-Le deuxième alinéa de l'article R. 213-2 et l'article R. 213-8 ne sont pas applicables en Guadeloupe, en Guyane, en
+Martinique, à Mayotte, à La Réunion et à Saint-Pierre-et-Miquelon. 
+
+II.-Pour l'application de l'article R. 213-4 en Guadeloupe, en Guyane, à la Martinique, à Mayotte, à La Réunion, et à Saint-
+Pierre-et-Miquelon, au premier alinéa, les mots : “ Sauf dans le cas où l'examen de la demande d'asile relève de la
+compétence d'un autre Etat, ” sont supprimés. 
+
+III.-Le présent chapitre, à l'exception du deuxième alinéa de l'article R. 213-2 et de l'article R. 213-8, est applicable à
+Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour
+l'application de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile. Pour l'application de
+l'article R. 213-4, au premier alinéa, les mots : “ Sauf dans le cas où l'examen de la demande d'asile relève de la
+compétence d'un autre Etat, ” sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2015-925 du 29 juillet 2015
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-8
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
+
+
+### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=207></a>
+
+#### Chapitre Ier : Conditions du maintien en zone d'attente<a id=208></a>
 
 ###### Article R221-1
 
@@ -18808,9 +20208,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Prolongation du maintien en zone d'attente<a id=202></a>
+#### Chapitre II : Prolongation du maintien en zone d'attente<a id=209></a>
 
-##### Section 1 : Décision du juge des libertés et de la détention<a id=203></a>
+##### Section 1 : Décision du juge des libertés et de la détention<a id=210></a>
 
 ###### Article R222-1
 
@@ -18882,7 +20282,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-3
 
 
-##### Section 2 : Voies de recours<a id=204></a>
+##### Section 2 : Voies de recours<a id=211></a>
 
 ###### Article R222-4
 
@@ -18906,9 +20306,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-12 (V)
 
 
-#### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente<a id=205></a>
+#### Chapitre III : Contrôle des droits des étrangers maintenus en zone d'attente<a id=212></a>
 
-##### Section 1 : Dispositions communes<a id=206></a>
+##### Section 1 : Dispositions communes<a id=213></a>
 
 ###### Article R223-1
 
@@ -18940,7 +20340,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R556-11 (VD)
 
 
-##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants<a id=207></a>
+##### Section 2 : Conditions d'accès du délégué du Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants<a id=214></a>
 
 ###### Article R*223-4
 
@@ -18979,7 +20379,7 @@ _Modifié par_:
 L'accès des représentants du haut-commissariat des Nations unies pour les réfugiés à la zone d'attente est subordonné à un
 agrément individuel. 
 
-Cet agrément est délivré pour une durée de trois mois par l'autorité administrative compétente. 
+Cet agrément est délivré pour une durée de trois ans par l'autorité administrative compétente. 
 
 Il est renouvelable pour la même durée. 
 
@@ -18997,15 +20397,15 @@ _Codifié par_:
 
   - Décret n°2006-1378 du 14 novembre 2006
 
-_Modifié par_:
-
-  - Arrêté du 8 décembre 2011 - art. 17 (V)
-
 _Cité par_:
 
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. R*223-4 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 2
 
 
 ###### Article R223-5
@@ -19055,7 +20455,7 @@ _Modifié par_:
   - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Conditions d'accès des associations humanitaires<a id=208></a>
+##### Section 3 : Conditions d'accès des associations humanitaires<a id=215></a>
 
 ###### Article R*223-12
 
@@ -19200,15 +20600,15 @@ _Modifié par_:
   - Décret n°2008-223 du 6 mars 2008 - art. 2
 
 
-## LIVRE III : LE SÉJOUR EN FRANCE<a id=209></a>
+## LIVRE III : LE SÉJOUR EN FRANCE<a id=216></a>
 
-### TITRE Ier : LES TITRES DE SÉJOUR<a id=210></a>
+### TITRE Ier : LES TITRES DE SÉJOUR<a id=217></a>
 
-#### Chapitre Ier : Dispositions générales<a id=211></a>
+#### Chapitre Ier : Dispositions générales<a id=218></a>
 
-##### Section 1 : Dispositions relatives aux documents de séjour<a id=212></a>
+##### Section 1 : Dispositions relatives aux documents de séjour<a id=219></a>
 
-##### Sous-section 1 : Demandes de titre de séjour<a id=213></a>
+##### Sous-section 1 : Demandes de titre de séjour<a id=220></a>
 
 ###### Article R311-1
 
@@ -19472,7 +20872,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
 
 
-##### Sous-section 2 : Récépissé des demandes<a id=214></a>
+##### Sous-section 2 : Récépissé des demandes<a id=221></a>
 
 ###### Article R311-4
 
@@ -19632,7 +21032,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-4 (V)
 
 
-##### Sous-section 3 : Délivrance du titre de séjour<a id=215></a>
+##### Sous-section 3 : Délivrance du titre de séjour<a id=222></a>
 
 ###### Article R311-10
 
@@ -19727,7 +21127,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 3-1 : Modèle du titre de séjour<a id=216></a>
+##### Sous-section 3-1 : Modèle du titre de séjour<a id=223></a>
 
 ###### Article R311-13-1
 
@@ -19759,7 +21159,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 
 
-##### Sous-section 4 : Retrait du titre de séjour<a id=217></a>
+##### Sous-section 4 : Retrait du titre de séjour<a id=224></a>
 
 ###### Article R311-14
 
@@ -19774,11 +21174,11 @@ autre conjoint ou des enfants autres que ceux mentionnés aux articles L. 411-1 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire français pendant une période de plus de trois
 ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ; 
 
-4° Si l'étranger titulaire d'une carte de résident portant la mention "     résident de longue durée-UE " accordée par la
-France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans
-consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire
-français pendant une période de plus de six ans consécutifs, ou a acquis le statut de     résident de longue durée-UE dans un
-autre Etat membre de l'Union européenne ; 
+4° Si l'étranger titulaire d'une carte de résident portant la mention " résident de longue durée-UE " accordée par la France
+a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs
+sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français
+pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-UE dans un autre Etat
+membre de l'Union européenne ; 
 
 5° Si son détenteur fait l'objet d'une mesure d'expulsion ; 
 
@@ -19798,13 +21198,18 @@ illicites. Dans ce cas, la carte de résident délivrée sur le fondement de l'a
 conjoint. 
 
 Par dérogation à l'alinéa précédent, la carte de séjour temporaire portant la mention " salarié " ou " travailleur temporaire
-" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi.
+" ne peut être retirée au motif que l'étranger s'est trouvé, autrement que de son fait, privé d'emploi ; 
+
+11° S'il est mis fin, dans les conditions prévues à l'article L. 311-8-1, au statut de réfugié ou au bénéfice de la
+protection subsidiaire. Dans ce cas, le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier
+réside à Paris, le préfet de police statue dans un délai de quatre mois à compter de la notification de la décision de
+retrait du titre de séjour sur le droit au séjour de l'intéressé à un autre titre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-301 du 6 mars 2014 - art. 7
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 3
 
 _Cité par_:
 
@@ -19812,6 +21217,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-8-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-15
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-6
@@ -19931,7 +21337,7 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Sous-section 5 : Restitution du titre de séjour<a id=218></a>
+##### Sous-section 5 : Restitution du titre de séjour<a id=225></a>
 
 ###### Article R311-17
 
@@ -19963,7 +21369,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D331-8 (V)
 
 
-##### Sous-section 6 : Dispositions fiscales<a id=219></a>
+##### Sous-section 6 : Dispositions fiscales<a id=226></a>
 
 ###### Article D311-18-1
 
@@ -20087,9 +21493,9 @@ _Cite_:
   - Code du travail - art. R5221-18 (V)
 
 
-##### Section 2 : Dispositions relatives à l'intégration dans la société française<a id=220></a>
+##### Section 2 : Dispositions relatives à l'intégration dans la société française<a id=227></a>
 
-##### Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration<a id=221></a>
+##### Sous-section 1 : Dispositions relatives au contrat d'accueil et d'intégration<a id=228></a>
 
 ###### Article R311-19
 
@@ -20497,7 +21903,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-23
 
 
-##### Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine<a id=222></a>
+##### Sous-section 2 : Dispositions relatives à la préparation de l'intégration dans le pays d'origine<a id=229></a>
 
 ###### Article R311-30-1
 
@@ -20851,7 +22257,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-30-1
 
 
-##### Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille<a id=223></a>
+##### Sous-section 3 : Dispositions relatives au contrat d'accueil et d'intégration pour la famille<a id=230></a>
 
 ###### Article R311-30-12
 
@@ -20988,7 +22394,7 @@ _Abrogé par_:
   - Décret n°2016-900 du 1er juillet 2016 - art. 1
 
 
-##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=224></a>
+##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=231></a>
 
 ###### Article D311-33
 
@@ -21177,7 +22583,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
 
 
-#### Chapitre II : La commission du titre de séjour<a id=225></a>
+#### Chapitre II : La commission du titre de séjour<a id=232></a>
 
 ###### Article R312-1
 
@@ -21359,9 +22765,9 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
-#### Chapitre III : La carte de séjour temporaire<a id=226></a>
+#### Chapitre III : La carte de séjour temporaire<a id=233></a>
 
-##### Section 1 : Dispositions générales<a id=227></a>
+##### Section 1 : Dispositions générales<a id=234></a>
 
 ###### Article R313-1
 
@@ -21577,9 +22983,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-4-1 (V)
 
 
-##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=228></a>
+##### Section 2 : Les différentes catégories de cartes de séjour temporaires<a id=235></a>
 
-##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=229></a>
+##### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"<a id=236></a>
 
 ###### Article R313-6
 
@@ -21609,7 +23015,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-34-1 (M)
 
 
-##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=230></a>
+##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=237></a>
 
 ###### Article R313-7
 
@@ -21736,7 +23142,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
 
 
-##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires<a id=231></a>
+##### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires<a id=238></a>
 
 ###### Article R313-10-1
 
@@ -21957,7 +23363,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-3 (V)
 
 
-##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique-chercheur"<a id=232></a>
+##### Sous-section 3 : La carte de séjour temporaire portant la mention "scientifique-chercheur"<a id=239></a>
 
 ###### Article R313-11
 
@@ -22059,7 +23465,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-11 (M)
 
 
-##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=233></a>
+##### Sous-section 4 : La carte de séjour temporaire portant la mention "profession artistique et culturelle"<a id=240></a>
 
 ###### Article R313-14
 
@@ -22094,7 +23500,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R313-36 (M)
 
 
-##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=234></a>
+##### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle<a id=241></a>
 
 ###### Article R313-15
 
@@ -22383,7 +23789,7 @@ _Cite_:
   - Code du travail - art. R5221-31-1
 
 
-##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=235></a>
+##### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"<a id=242></a>
 
 ###### Article R313-21
 
@@ -22406,7 +23812,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
 
 
-##### Paragraphe 1 : Dispositions générales<a id=236></a>
+##### Paragraphe 1 : Dispositions générales<a id=243></a>
 
 ###### Article R313-20
 
@@ -22608,7 +24014,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
 
 
-##### Paragraphe 2 : Commission médicale régionale<a id=237></a>
+##### Paragraphe 2 : Commission médicale régionale<a id=244></a>
 
 ###### Article R313-23
 
@@ -22837,7 +24243,7 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 8
 
 
-##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=238></a>
+##### Sous-section 7 : L'admission exceptionnelle au séjour<a id=245></a>
 
 ###### Article R313-34
 
@@ -22856,7 +24262,7 @@ _Modifié par_:
   - Décret n°2007-1711 du 5 décembre 2007 - art. 1
 
 
-##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne<a id=239></a>
+##### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne<a id=246></a>
 
 ###### Article R313-34-1
 
@@ -22903,7 +24309,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille<a id=240></a>
+##### Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille<a id=247></a>
 
 ###### Article R313-34-2
 
@@ -22977,7 +24383,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-2 (V)
 
 
-##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=241></a>
+##### Section 3 : Renouvellement des cartes de séjour temporaires.<a id=248></a>
 
 ###### Article R313-35
 
@@ -23147,11 +24553,11 @@ _Cite_:
   - Code du travail - art. R341-5 (Ab)
 
 
-#### Chapitre IV : La carte de résident<a id=242></a>
+#### Chapitre IV : La carte de résident<a id=249></a>
 
-##### Section 2 : Délivrance de la carte de résident<a id=243></a>
+##### Section 2 : Délivrance de la carte de résident<a id=250></a>
 
-##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=244></a>
+##### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier<a id=251></a>
 
 ###### Article R314-1
 
@@ -23351,7 +24757,22 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 
-##### Sous-section 2 : Délivrance de plein droit<a id=245></a>
+###### Article R314-1-5
+
+Lorsqu'un  étranger qui dispose déjà d'une carte de résident de longue durée-UE  délivrée par un autre Etat membre de l'Union
+européenne se voit  reconnaître la qualité de réfugié ou accorder le bénéfice de la  protection subsidiaire en France, le
+préfet ou, à Paris, le préfet de  police, en informe les autorités de cet Etat membre afin de leur  permettre de modifier en
+conséquence la rubrique " Remarques " de la carte  de séjour de l'intéressé. Il en va de même lorsque l'étranger était  déjà
+placé sous la protection de cet Etat et que cette protection a été  transférée à la France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 3
+
+
+##### Sous-section 2 : Délivrance de plein droit<a id=252></a>
 
 ###### Article R314-2
 
@@ -23411,7 +24832,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
 
 
-##### Section 3 : Renouvellement de la carte de résident<a id=246></a>
+##### Section 3 : Renouvellement de la carte de résident<a id=253></a>
 
 ###### Article R314-3
 
@@ -23466,7 +24887,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8-2
 
 
-##### Section 4 : Délivrance de la carte de résident permanent<a id=247></a>
+##### Section 4 : Délivrance de la carte de résident permanent<a id=254></a>
 
 ###### Article R314-4
 
@@ -23494,7 +24915,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-3
 
 
-##### Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle<a id=248></a>
+##### Section 5 : Carte de résident délivrée pour une contribution économique exceptionnelle<a id=255></a>
 
 ###### Article R314-5
 
@@ -23565,7 +24986,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-5 (Ab)
 
 
-#### Chapitre V : La carte de séjour portant la mention "compétences et talents"<a id=249></a>
+#### Chapitre V : La carte de séjour portant la mention "compétences et talents"<a id=256></a>
 
 ###### Article R315-4
 
@@ -23769,10 +25190,10 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 12
 
 
-#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale<a id=250></a>
+#### Chapitre VI : Dispositions applicables aux étrangers ayant déposé plainte pour certaines infractions ou témoigné dans une procédure pénale<a id=257></a>
 
 ##### Section 1 : Admission au séjour des étrangers victimes de la traite des êtres humains et du proxénétisme
-coopérant avec les autorités judiciaires<a id=251></a>
+coopérant avec les autorités judiciaires<a id=258></a>
 
 ###### Article R316-1
 
@@ -23946,7 +25367,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile L316-1, L314-1, L314-3 à L314-7
 
 
-##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires<a id=252></a>
+##### Section 2 : Protection, accueil et hébergement des étrangers victimes de la traite des êtres humains et du proxénétisme coopérant avec les autorités judiciaires<a id=259></a>
 
 ###### Article R316-6
 
@@ -23973,21 +25394,21 @@ _Cite_:
 
 ###### Article R316-7
 
-La carte de séjour temporaire "vie privée et familiale" délivrée dans les conditions prévues à l'article R. 316-3 ouvre droit
-à l'exercice d'une activité professionnelle et à la formation professionnelle, en application des dispositions de l'article
-L. 316-1.
+La carte de séjour temporaire " vie privée et familiale " délivrée dans les conditions prévues à l'article R. 316-3 ouvre
+droit à l'exercice d'une activité professionnelle et à la formation professionnelle, en application des dispositions de
+l'article L. 316-1. 
 
-L'étranger détenteur de cette carte de séjour temporaire peut également bénéficier :
+L'étranger détenteur de cette carte de séjour temporaire peut également bénéficier : 
 
 1° De l'ouverture des droits à une protection sociale, dans les conditions mentionnées à l'article L. 380-1 du code de la
 sécurité sociale ; si l'étranger ne remplit pas les conditions prévues par cet article, les soins qui lui sont délivrés sont
 pris en charge dans les conditions prévues au deuxième alinéa de l'article L. 251-1 du code de l'action sociale et des
-familles ;
+familles ; 
 
-2° De l'allocation temporaire d'attente mentionnée au II de l'article L. 351-9 du code du travail ;
+2° De l'allocation pour demandeur d'asile mentionnée à l'article L. 744-9 ; 
 
 3° D'un accompagnement social destiné à l'aider à accéder aux droits et à retrouver son autonomie, assuré par un des
-organismes mentionnés au dernier alinéa de l'article R. 316-1 du présent code ;
+organismes mentionnés au dernier alinéa de l'article R. 316-1 du présent code ; 
 
 4° En cas de danger, d'une protection policière pendant la durée de la procédure pénale.
 
@@ -23995,11 +25416,11 @@ organismes mentionnés au dernier alinéa de l'article R. 316-1 du présent code
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-1352 du 13 septembre 2007 - art. 1 () JORF 15 septembre 2007
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 3
 
 _Cité par_:
 
@@ -24008,12 +25429,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L316-1 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R316-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R316-3 (V)
-  - Code du travail - art. L351-9 (M)
-  - Code de la sécurité sociale. - art. L380-1 (V)
-  - Code de l'action sociale et des familles - art. L251-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R316-3
+  - Code de la sécurité sociale. - art. L380-1
+  - Code de l'action sociale et des familles - art. L251-1
 
 
 ###### Article R316-8
@@ -24083,7 +25503,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
 
 
-#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=253></a>
+#### Chapitre VII : La carte de séjour portant la mention "retraité"<a id=260></a>
 
 ###### Article R317-1
 
@@ -24192,11 +25612,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L317-1 (V)
 
 
-### TITRE II : LES CONDITIONS DU SÉJOUR<a id=254></a>
+### TITRE II : LES CONDITIONS DU SÉJOUR<a id=261></a>
 
-#### Chapitre Ier : Conditions de circulation<a id=255></a>
+#### Chapitre Ier : Conditions de circulation<a id=262></a>
 
-##### Section 1 : Dispositions générales<a id=256></a>
+##### Section 1 : Dispositions générales<a id=263></a>
 
 ###### Article R*321-3
 
@@ -24356,9 +25776,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R522-6 (V)
 
 
-##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=257></a>
+##### Section 2 : Documents de circulation délivrés aux étrangers mineurs<a id=264></a>
 
-##### Sous-section 1 : Le titre d'identité républicain<a id=258></a>
+##### Sous-section 1 : Le titre d'identité républicain<a id=265></a>
 
 ###### Article D321-9
 
@@ -24486,7 +25906,7 @@ _Abrogé par_:
   - Décret n°2019-151 du 28 février 2019 - art. 4
 
 
-##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=259></a>
+##### Sous-section 2 : Le document de circulation délivré à l'étranger mineur<a id=266></a>
 
 ###### Article D321-16
 
@@ -24633,23 +26053,28 @@ _Abrogé par_:
   - Décret n°2019-151 du 28 février 2019 - art. 4
 
 
-##### Section 3 : Titres de voyage<a id=260></a>
+##### Section 3 : Titres de voyage<a id=267></a>
 
 ###### Article R321-22
 
-Tout titre de voyage délivré pour une durée supérieure à un an intègre les éléments de sécurité et les éléments biométriques
-prévus par le règlement (CE) n° 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité
-et les éléments biométriques intégrés dans les passeports et les documents de voyage délivrés par les Etats membres et son
-annexe, modifié par le règlement (CE) n° 444/2009 du Parlement européen et du Conseil du 28 mai 2009.
+Sous réserve des dispositions particulières prévues au chapitre III du titre V du livre VII, tout titre de voyage délivré
+pour une durée supérieure à un an intègre les éléments de sécurité et les éléments biométriques prévus par le règlement (CE)
+n° 2252/2004 du Conseil du 13 décembre 2004 établissant des normes pour les éléments de sécurité et les éléments biométriques
+intégrés dans les passeports et les documents de voyage délivrés par les Etats membres et son annexe, modifié par le
+règlement (CE) n° 444/2009 du Parlement européen et du Conseil du 28 mai 2009. 
 
 Il comporte, outre les mentions énumérées au B de la section 2 de l'annexe 6-4 du présent code, un composant électronique
 contenant les données à caractère personnel énumérées au B de la section 3 de la même annexe.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-638 du 8 juin 2011 - art. 3
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 3
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 
 _Cité par_:
 
@@ -24659,15 +26084,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-7 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-2 (V)
 
-_Cite_:
 
-  - règlement (CE) n°2252/2004
-  - règlement (CE) n°444/2009
+#### Chapitre II : Exercice d'une activité professionnelle<a id=268></a>
 
-
-#### Chapitre II : Exercice d'une activité professionnelle<a id=261></a>
-
-##### Section 1 : Activité professionnelle salariée<a id=262></a>
+##### Section 1 : Activité professionnelle salariée<a id=269></a>
 
 ###### Article R322-1
 
@@ -24710,7 +26130,7 @@ _Cite_:
   - Code du travail R830-1 à R830-5
 
 
-##### Section 2 : Autres activités professionnelles<a id=263></a>
+##### Section 2 : Autres activités professionnelles<a id=270></a>
 
 ###### Article R322-3
 
@@ -24733,11 +26153,11 @@ _Abrogé par_:
   - Décret n°2016-1456 du 28 octobre 2016 - art. 15
 
 
-### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=264></a>
+### TITRE III : L'AIDE AU RETOUR VOLONTAIRE<a id=271></a>
 
-#### Chapitre unique<a id=265></a>
+#### Chapitre unique<a id=272></a>
 
-##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=266></a>
+##### Section 1 : Aide publique à la réinsertion des travailleurs étrangers<a id=273></a>
 
 ###### Article D331-1
 
@@ -24874,7 +26294,7 @@ _Modifié par_:
   - Décret n°2008-224 du 6 mars 2008 - art. 1
 
 
-##### Section 2 : Restitution des titres de séjour et de travail<a id=267></a>
+##### Section 2 : Restitution des titres de séjour et de travail<a id=274></a>
 
 ###### Article D331-8
 
@@ -25013,11 +26433,11 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=268></a>
+## LIVRE IV : LE REGROUPEMENT FAMILIAL<a id=275></a>
 
-### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=269></a>
+### TITRE Ier : LES CONDITIONS DU REGROUPEMENT FAMILIAL<a id=276></a>
 
-#### Chapitre unique<a id=270></a>
+#### Chapitre unique<a id=277></a>
 
 ###### Article R411-1
 
@@ -25053,22 +26473,22 @@ titres mentionnés à l'article R. 411-1 ou des documents suivants :
 
 3° Récépissé d'une demande de première délivrance ou de renouvellement d'un titre de séjour ;
 
-4° Récépissé d'une demande d'asile.
+4° Récépissé d'une demande d'asile ou attestation de demande d'asile.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1561 du 8 décembre 2006 - art. 1 () JORF 10 décembre 2006
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 4
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L411-1 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R411-1 (M)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R411-1
 
 
 ###### Article R411-3
@@ -25207,11 +26627,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R421-27 (V)
 
 
-### TITRE II : INSTRUCTION DES DEMANDES<a id=271></a>
+### TITRE II : INSTRUCTION DES DEMANDES<a id=278></a>
 
-#### Chapitre unique<a id=272></a>
+#### Chapitre unique<a id=279></a>
 
-##### Section 1 : Demandes de regroupement familial<a id=273></a>
+##### Section 1 : Demandes de regroupement familial<a id=280></a>
 
 ###### Article R421-1
 
@@ -25377,7 +26797,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R421-5 (V)
 
 
-##### Section 2 : Réception des demandes<a id=274></a>
+##### Section 2 : Réception des demandes<a id=281></a>
 
 ###### Article R421-7
 
@@ -25456,7 +26876,7 @@ _Modifié par_:
   - Décret n°2011-1049 du 6 septembre 2011 - art. 46
 
 
-##### Section 3 : Vérification des conditions du regroupement familial<a id=275></a>
+##### Section 3 : Vérification des conditions du regroupement familial<a id=282></a>
 
 ###### Article R421-11
 
@@ -25660,7 +27080,7 @@ _Créé par_:
   - Décret n°2006-1561 du 8 décembre 2006 - art. 2 () JORF 10 décembre 2006
 
 
-##### Section 4 : Décision du préfet<a id=276></a>
+##### Section 4 : Décision du préfet<a id=283></a>
 
 ###### Article R421-20
 
@@ -25735,7 +27155,7 @@ _Modifié par_:
   - Décret n°2011-1049 du 6 septembre 2011 - art. 49
 
 
-##### Section 5 : Contrôle médical et introduction en France<a id=277></a>
+##### Section 5 : Contrôle médical et introduction en France<a id=284></a>
 
 ###### Article R421-25
 
@@ -25819,9 +27239,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-27
 
 
-### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=278></a>
+### TITRE III : DÉLIVRANCE DES TITRES DE SÉJOUR<a id=285></a>
 
-#### Chapitre unique<a id=279></a>
+#### Chapitre unique<a id=286></a>
 
 ###### Article R431-1
 
@@ -25847,11 +27267,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L431-1 (V)
 
 
-## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=280></a>
+## LIVRE V : LES MESURES D'ÉLOIGNEMENT<a id=287></a>
 
-### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=281></a>
+### TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANçAIS ET LA RECONDUITE À LA FRONTIÈRE<a id=288></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=282></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français ou d'une mesure de reconduite à la frontière<a id=289></a>
 
 ###### Article R511-1
 
@@ -25951,9 +27371,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R511-5 (VD)
 
 
-#### Chapitre II : Procédure administrative et contentieuse<a id=283></a>
+#### Chapitre II : Procédure administrative et contentieuse<a id=290></a>
 
-##### Section 1 : Procédure administrative<a id=284></a>
+##### Section 1 : Procédure administrative<a id=291></a>
 
 ###### Article R512-1
 
@@ -26038,7 +27458,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-5 (V)
 
 
-##### Section 2 : Procédure contentieuse<a id=285></a>
+##### Section 2 : Procédure contentieuse<a id=292></a>
 
 ###### Article R512-2
 
@@ -26058,9 +27478,9 @@ _Cite_:
   - Code de justice administrative -  Chapitre VI : Le contentieux des obligations de... (V)
 
 
-#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=286></a>
+#### Chapitre III : Exécution des obligations de quitter le territoire français et des mesures de reconduite à la frontière<a id=293></a>
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=287></a>
+##### Section 1 : Décision fixant le pays de renvoi<a id=294></a>
 
 ###### Article R513-1
 
@@ -26094,7 +27514,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (V)
 
 
-##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ<a id=288></a>
+##### Section 2 : Obligations de l'étranger pendant le délai accordé pour son départ<a id=295></a>
 
 ###### Article R513-2
 
@@ -26132,9 +27552,9 @@ _Créé par_:
   - Décret n°2011-820 du 8 juillet 2011 - art. 7
 
 
-### TITRE II : L'EXPULSION<a id=289></a>
+### TITRE II : L'EXPULSION<a id=296></a>
 
-#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=290></a>
+#### Chapitre Ier : Cas dans lesquels un étranger peut faire l'objet d'une mesure d'expulsion<a id=297></a>
 
 ###### Article R521-1
 
@@ -26157,7 +27577,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-22
 
 
-#### Chapitre II : Procédure administrative<a id=291></a>
+#### Chapitre II : Procédure administrative<a id=298></a>
 
 ###### Article R*522-2
 
@@ -26400,9 +27820,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L121-4 (V)
 
 
-#### Chapitre III : Exécution des arrêtés d'expulsion<a id=292></a>
+#### Chapitre III : Exécution des arrêtés d'expulsion<a id=299></a>
 
-##### Section 1 : Décision fixant le pays de renvoi<a id=293></a>
+##### Section 1 : Décision fixant le pays de renvoi<a id=300></a>
 
 ###### Article R*523-2
 
@@ -26463,7 +27883,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*523-2
 
 
-##### Section 2 : Assignation à résidence<a id=294></a>
+##### Section 2 : Assignation à résidence<a id=301></a>
 
 ###### Article R*523-5
 
@@ -26578,7 +27998,7 @@ _Créé par_:
   - Décret n°2015-131 du 7 février 2015 - art. 2
 
 
-#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=295></a>
+#### Chapitre IV : Abrogation des arrêtés d'expulsion<a id=302></a>
 
 ###### Article R524-1
 
@@ -26617,33 +28037,11 @@ _Cité par_:
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
 
 
-### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=296></a>
+### TITRE III : AUTRES MESURES ADMINISTRATIVES D'ÉLOIGNEMENT<a id=303></a>
 
-#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=297></a>
+#### Chapitre Ier : Mesures prises dans le cadre de l'Union européenne et de la convention de Schengen<a id=304></a>
 
-##### Section 1 : Autorités administratives compétentes<a id=298></a>
-
-###### Article R*531-2
-
-L'autorité administrative compétente pour prendre, en application de l'article L. 531-2, la décision de remettre aux
-autorités compétentes d'un Etat membre de l'Union européenne un demandeur d'asile qui se présente à la frontière et dont
-l'examen de la demande relève de la responsabilité de cet Etat, en application des dispositions des conventions
-internationales conclues à cet effet avec les Etats membres de l'Union européenne, est le ministre chargé de l'immigration.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-223 du 6 mars 2008 - art. 2
-
-_Abrogé par_:
-
-  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
-
+##### Section 1 : Autorités administratives compétentes<a id=305></a>
 
 ###### Article R531-1
 
@@ -26667,32 +28065,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (V)
 
 
-###### Article R531-3
-
-L'autorité administrative compétente pour prendre, en application de l'article L. 531-2, la décision de remettre aux
-autorités compétentes d'un Etat membre de l'Union européenne un demandeur d'asile dont l'examen de la demande relève de la
-responsabilité de cet Etat en application des dispositions des conventions internationales conclues à cet effet avec les
-Etats membres de l'Union européenne, est le préfet de département et, à Paris, le préfet de police, pour les demandeurs
-d'asile présents à l'intérieur du territoire français.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 du 14 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
-
-
 ###### Article R531-3-1
 
-L'autorité administrative compétente pour prendre, en application du deuxième alinéa de l'article L. 531-2, la décision de
+L'autorité administrative compétente pour prendre, en application du premier alinéa de l'article L. 531-2, la décision de
 remettre un étranger non ressortissant d'un Etat membre de l'Union européenne aux autorités compétentes d'un Etat membre est
 le préfet de département et, à Paris, le préfet de police.
 
@@ -26700,21 +28075,21 @@ le préfet de département et, à Paris, le préfet de police.
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2007-373 du 21 mars 2007 - art. 38 () JORF 22 mars 2007
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L531-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-2 (V)
 
 
 ###### Article R531-3-2
 
-L'autorité administrative compétente pour prendre, en application du troisième alinéa de l'article L. 531-2, la décision de
-remettre aux autorités compétentes d'un Etat membre de l'Union européenne un étranger titulaire du statut de     résident de
+L'autorité administrative compétente pour prendre, en application du deuxième alinéa de l'article L. 531-2, la décision de
+remettre aux autorités compétentes d'un Etat membre de l'Union européenne un étranger titulaire du statut de résident de
 longue durée-UE accordé par cet autre Etat membre ainsi que son conjoint et ses enfants mentionnés aux I et II de l'article
 L. 313-11-1 est le préfet et, à Paris, le préfet de police.
 
@@ -26726,7 +28101,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-301 du 6 mars 2014 - art. 7
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
 
 _Cite_:
 
@@ -26736,14 +28111,18 @@ _Cite_:
 
 ###### Article R531-3-3
 
-L'autorité administrative compétente pour prendre la décision prévue au quatrième alinéa de l'article L. 531-2 est le préfet
+L'autorité administrative compétente pour prendre la décision prévue au troisième alinéa de l'article L. 531-2 est le préfet
 de département et, à Paris, le préfet de police.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-820 du 8 juillet 2011 - art. 9
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
 
 
 ###### Article R531-4
@@ -26762,7 +28141,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=299></a>
+##### Section 2 : Etrangers ayant fait l'objet d'une mesure d'éloignement prise par un Etat membre de l'Union européenne<a id=306></a>
 
 ###### Article R531-5
 
@@ -26879,21 +28258,21 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
 
 
-##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne<a id=300></a>
+##### Section 3 : Conditions de la remise et de l'éloignement des étrangers titulaires du statut de résident longue durée-UE accordé par un Etat membre de l'Union européenne<a id=307></a>
 
 ###### Article R531-10
 
-I. - Les dispositions du troisième alinéa de l'article L. 531-2 sont applicables à l'étranger titulaire du statut de résident
+I.-Les dispositions du deuxième alinéa de l'article L. 531-2 sont applicables à l'étranger titulaire du statut de résident
 longue durée-UE accordé par un autre Etat membre de l'Union européenne qui aura soit séjourné sur le territoire français plus
 de trois mois consécutifs sans se conformer aux dispositions de l'article L. 313-4-1, soit fait l'objet d'un refus de
 délivrance ou de renouvellement d'une carte de séjour temporaire en application de l'article L. 313-4-1 ou du retrait d'une
-carte de séjour temporaire délivrée en application de l'article L. 313-4-1.
+carte de séjour temporaire délivrée en application de l'article L. 313-4-1. 
 
-II. - Les dispositions du troisième alinéa de l'article L. 531-2 sont également applicables aux membres de la famille
-mentionnés aux I et II de l'article L. 313-11-1 qui auront soit séjourné plus de trois mois consécutifs sur le territoire
-français sans se conformer aux dispositions de l'article L. 313-11-1, soit fait l'objet d'un refus de délivrance ou de
-renouvellement de la carte de séjour temporaire portant la mention "vie privée et familiale" mentionnée à l'article L.
-313-11-1 ou du retrait de cette carte de séjour.
+II.-Les dispositions du deuxième alinéa de l'article L. 531-2 sont également applicables aux membres de la famille mentionnés
+aux I et II de l'article L. 313-11-1 qui auront soit séjourné plus de trois mois consécutifs sur le territoire français sans
+se conformer aux dispositions de l'article L. 313-11-1, soit fait l'objet d'un refus de délivrance ou de renouvellement de la
+carte de séjour temporaire portant la mention " vie privée et familiale " mentionnée à l'article L. 313-11-1 ou du retrait de
+cette carte de séjour.
 
 **Liens relatifs à cet article**
 
@@ -26903,7 +28282,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-301 du 6 mars 2014 - art. 7
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
 
 _Cite_:
 
@@ -26922,12 +28301,12 @@ son territoire.
 
 Toutefois, lorsque l'étranger a la qualité de réfugié ou bénéficie de la protection subsidiaire, il est remis aux autorités
 compétentes de l'Etat membre qui lui a reconnu la qualité de réfugié ou accordé le bénéfice de la protection subsidiaire,
-dans les conditions prévues au troisième alinéa de l'article L. 531-2, après vérification auprès de cet Etat membre que
+dans les conditions prévues au deuxième  alinéa de l'article L. 531-2, après vérification auprès de cet Etat membre que
 l'étranger demeure sous sa protection. 
 
 L'étranger dont le droit au séjour sur le territoire de l'Etat membre de l'Union européenne qui lui a accordé le statut de
 résident de longue durée-UE est maintenu au terme des consultations prévues au premier alinéa ou dont le retrait de ce droit
-est suspendu est remis aux autorités compétentes de cet Etat dans les conditions prévues par le troisième alinéa de l'article
+est suspendu est remis aux autorités compétentes de cet Etat dans les conditions prévues par le deuxième  alinéa de l'article
 L. 531-2.
 
 **Liens relatifs à cet article**
@@ -26938,8 +28317,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-301 du 6 mars 2014 - art. 4
-  - Décret n°2014-301 du 6 mars 2014 - art. 7
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 5
 
 _Cite_:
 
@@ -26998,7 +28376,7 @@ _Modifié par_:
   - Décret n°2014-301 du 6 mars 2014 - art. 7
 
 
-#### Chapitre III : Autres cas de reconduite<a id=301></a>
+#### Chapitre III : Autres cas de reconduite<a id=308></a>
 
 ###### Article R533-1
 
@@ -27016,7 +28394,7 @@ _Abrogé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 19
 
 
-### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=302></a>
+### TITRE IV : LA PEINE D'INTERDICTION DU TERRITOIRE FRANçAIS<a id=309></a>
 
 ###### Article R*541-1
 
@@ -27044,9 +28422,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R571-1 (V)
 
 
-### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=303></a>
+### TITRE V : RÉTENTION D'UN ÉTRANGER DANS DES LOCAUX NE RELEVANT PAS DE L'ADMINISTRATION PÉNITENTIAIRE<a id=310></a>
 
-#### Chapitre Ier : Placement en rétention<a id=304></a>
+#### Chapitre Ier : Placement en rétention<a id=311></a>
 
 ###### Article R551-1
 
@@ -27148,9 +28526,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L553-1 (V)
 
 
-#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=305></a>
+#### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=312></a>
 
-##### Section 1 : Première saisine du juge des libertés et de la détention<a id=306></a>
+##### Section 1 : Première saisine du juge des libertés et de la détention<a id=313></a>
 
 ###### Article R552-1
 
@@ -27345,7 +28723,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
 
 
-##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=307></a>
+##### Section 2 : Nouvelle saisine du juge des libertés et de la détention<a id=314></a>
 
 ###### Article R552-11
 
@@ -27370,9 +28748,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
-##### Section 3 : Voies de recours<a id=308></a>
+##### Section 3 : Voies de recours<a id=315></a>
 
-##### Sous-section 1 : Appel<a id=309></a>
+##### Sous-section 1 : Appel<a id=316></a>
 
 ###### Article R552-12
 
@@ -27486,7 +28864,7 @@ _Cite_:
   - Code de procédure civile - art. 642 (V)
 
 
-##### Sous-section 2 : Pourvoi en cassation<a id=310></a>
+##### Sous-section 2 : Pourvoi en cassation<a id=317></a>
 
 ###### Article R552-16
 
@@ -27500,9 +28878,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=311></a>
+##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public<a id=318></a>
 
-##### Sous-section 1 : Saisine et décision du juge des libertés et de la détention<a id=312></a>
+##### Sous-section 1 : Saisine et décision du juge des libertés et de la détention<a id=319></a>
 
 ###### Article R552-17
 
@@ -27566,7 +28944,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-20 (VD)
 
 
-##### Sous-section 2 : Appel<a id=313></a>
+##### Sous-section 2 : Appel<a id=320></a>
 
 ###### Article R552-20
 
@@ -27666,7 +29044,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-15
 
 
-##### Sous-section 3 : Pourvoi en cassation<a id=314></a>
+##### Sous-section 3 : Pourvoi en cassation<a id=321></a>
 
 ###### Article R552-24
 
@@ -27680,11 +29058,11 @@ _Créé par_:
   - Décret n°2008-817 du 22 août 2008 - art. 4
 
 
-#### Chapitre III : Conditions de la rétention<a id=315></a>
+#### Chapitre III : Conditions de la rétention<a id=322></a>
 
-##### Section 1 : Lieux de rétention<a id=316></a>
+##### Section 1 : Lieux de rétention<a id=323></a>
 
-##### Sous-section 1 : Centres de rétention administrative<a id=317></a>
+##### Sous-section 1 : Centres de rétention administrative<a id=324></a>
 
 ###### Article R553-1
 
@@ -27888,7 +29266,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
 
 
-##### Sous-section 2 : Locaux de rétention administrative<a id=318></a>
+##### Sous-section 2 : Locaux de rétention administrative<a id=325></a>
 
 ###### Article R553-5
 
@@ -27951,7 +29329,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R553-8 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=319></a>
+##### Sous-section 3 : Dispositions communes<a id=326></a>
 
 ###### Article R553-7
 
@@ -28005,13 +29383,13 @@ _Cite_:
   - Code de la santé publique - art. L6112-8
 
 
-##### Section 2 : Droits des étrangers retenus<a id=320></a>
+##### Section 2 : Droits des étrangers retenus<a id=327></a>
 
 ###### Article R553-11
 
 L'administration met un interprète à la disposition des étrangers maintenus en centre ou en local de rétention administrative
-qui ne comprennent pas le français, dans le seul cadre des procédures de non-admission ou d'éloignement dont ils font
-l'objet. Dans les autres cas, la rétribution du prestataire est à la charge de l'étranger.
+qui ne comprennent pas le français, dans le seul cadre des procédures de non-admission ou d'éloignement dont ils font l'objet
+et des demandes d'asile. Dans les autres cas, la rétribution du prestataire est à la charge de l'étranger.
 
 Lorsque l'assistance d'un interprète se fait par téléphone ou un autre moyen de télécommunication, le nom et les coordonnées
 de l'interprète, ainsi que la langue utilisée, sont mentionnés par procès-verbal, dont une copie est remise à l'étranger.
@@ -28020,7 +29398,11 @@ de l'interprète, ainsi que la langue utilisée, sont mentionnés par procès-ve
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 6
 
 _Cité par_:
 
@@ -28060,9 +29442,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R553-3 (V)
 
 
-##### Section 2 bis : Intervention des personnes morales<a id=321></a>
+##### Section 2 bis : Intervention des personnes morales<a id=328></a>
 
-##### Sous-section 1 : Cas des centres de rétention administrative<a id=322></a>
+##### Sous-section 1 : Cas des centres de rétention administrative<a id=329></a>
 
 ###### Article R553-14
 
@@ -28148,7 +29530,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
 
 
-##### Sous-section 2 : Cas des locaux de rétention administrative<a id=323></a>
+##### Sous-section 2 : Cas des locaux de rétention administrative<a id=330></a>
 
 ###### Article R553-14-2
 
@@ -28204,7 +29586,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14-2
 
 
-##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention<a id=324></a>
+##### Section 2 ter : Accès des associations humanitaires aux lieux de rétention<a id=331></a>
 
 ###### Article R553-14-4
 
@@ -28360,135 +29742,305 @@ _Modifié par_:
   - Décret n°2014-676 du 24 juin 2014 - art. 6
 
 
-##### Section 3 : Demandes d'asile formulées par des étrangers retenus.<a id=325></a>
+#### Chapitre VI : Demandes d'asile en rétention<a id=332></a>
 
-###### Article R553-15
+##### Section 1 : Présentation de la demande d'asile<a id=333></a>
 
-L'étranger maintenu dans un centre de rétention qui souhaite demander l'asile présente sa demande dans le délai de cinq jours
-à compter de la notification qui lui a été faite de ce droit conformément à l'article L. 551-3. A cette fin, l'étranger remet
-sa demande soit au chef du centre de rétention soit à son adjoint ou, le cas échéant, au responsable de la gestion des
-dossiers administratifs. 
+###### Article R556-1
 
-L'étranger maintenu dans un local de rétention qui souhaite demander l'asile peut remettre à tout moment sa demande au
-responsable du local de rétention administrative ou à son adjoint. 
-
-La demande d'asile formulée en centre ou en local de rétention est présentée selon les modalités prévues au deuxième alinéa
-de l'article R. 723-1. 
-
-L'étranger maintenu en centre ou local de rétention qui souhaite demander l'asile est informé, sans délai, dans une langue
-dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de ses droits et obligations au
-cours de cette procédure, des conséquences que pourrait avoir le non-respect de ces obligations ou le refus de coopérer avec
-les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
+L'étranger maintenu en centre ou local de rétention administrative qui souhaite demander l'asile est informé, sans délai,
+dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend, de la procédure de demande d'asile, de
+ses droits et de ses obligations au cours de cette procédure, des conséquences que pourrait avoir le non-respect de ces
+obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider à présenter sa demande.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°2006-1378 du 14 novembre 2006
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
-_Modifié par_:
 
-  - Décret n°2011-1031 du 29 août 2011 - art. 3
+###### Article R556-2
 
-_Abrogé par_:
+I. - L'étranger maintenu dans un centre de rétention qui souhaite demander l'asile remet sa demande sous pli fermé soit au
+chef du centre de rétention soit à son adjoint ou, le cas échéant, au responsable de la gestion des dossiers administratifs.
+
+L'étranger maintenu dans un local de rétention qui souhaite demander l'asile remet sa demande sous pli fermé au responsable
+du local de rétention administrative ou à son adjoint.
+
+Le chef du centre de rétention, son adjoint et le responsable de la gestion des dossiers administratifs, ainsi que le
+responsable du local de rétention et son adjoint sont les “autorités dépositaires” au sens de la présente section.
+
+II. - La demande d'asile formulée en centre ou en local de rétention est rédigée en français sur un imprimé établi par
+l'Office français de protection des réfugiés et apatrides. L'imprimé doit être signé et accompagné de deux photographies
+d'identité récentes et, le cas échéant, du document de voyage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+
+###### Article R556-3
+
+Lorsqu'un étranger ayant déposé sa demande d'asile en local de rétention administrative est transféré en centre de rétention
+avant que l'office ait statué, le préfet responsable de la procédure d'éloignement en informe l'office sans délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+
+###### Article R556-4
+
+L'étranger retenu qui souhaite demander l'asile peut bénéficier, pour présenter sa demande, de l'assistance juridique
+apportée par les personnes morales mentionnées aux articles R. 553-14 et R. 553-14-2, en application des conventions qui y
+sont prévues. 
+
+Il peut bénéficier également d'une assistance linguistique pour présenter sa demande, dans les conditions prévues à l'article
+R. 553-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-14-2
 
 
-###### Article R553-16
+###### Article R556-5
 
-L'autorité dépositaire de la demande enregistre la date et l'heure de la remise du dossier de demande d'asile par l'étranger
-sur le registre mentionné à l'article L. 553-1.
+Lorsque l'étranger remet sa demande à l'autorité dépositaire, celle-ci enregistre la date et l'heure de la remise sur le
+registre mentionné à l'article L. 553-1. 
 
-L'autorité dépositaire de la demande saisit sans délai par tout moyen comportant un accusé de réception, notamment par
-télécopie ou par voie électronique sécurisée, le directeur général de l'Office français de protection des réfugiés et
-apatrides du dossier de demande d'asile tel qu'il lui a été remis par l'étranger, en vue de son examen selon les modalités
-prévues à l'article R. 723-3. L'original du dossier est transmis sans délai à l'office. Lorsque cette transmission est faite
-par porteur, un accusé de réception est délivré immédiatement.
+L'autorité dépositaire de la demande en informe sans délai le préfet qui a ordonné le placement en rétention afin que celui-
+ci statue sur le maintien en rétention conformément au premier alinéa de l'article L. 556-1.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2006-1378 du 14 novembre 2006
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L553-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
 
 
-###### Article R553-17
+###### Article R556-6
 
-Si l'intéressé est retenu en centre de rétention administrative, la décision du directeur général de l'office est transmise
-au centre de rétention par télécopie, par voie électronique sécurisée ou par porteur au plus tard à l'échéance du délai de 96
-heures prévu au deuxième alinéa de l'article R. 723-3. Lorsque la décision comporte des pièces jointes, elle est transmise
-par voie postale accélérée. La décision du directeur général de l'office est transmise à l'intéressé par la voie
-administrative par le chef de centre ou son adjoint ou par le responsable de la gestion des dossiers administratifs.
+Dans le cas où le préfet décide du maintien en rétention, l'autorité dépositaire de la demande, dès qu'elle en est informée,
+saisit sans délai, par lettre recommandée avec demande d'avis de réception, le directeur général de l'Office français de
+protection des réfugiés et apatrides du dossier de demande d'asile, tel qu'il lui a été remis sous pli fermé par l'étranger,
+en vue de son examen selon les modalités prévues à l'article R. 723-4. Lorsque cette transmission est faite par porteur, un
+accusé de réception est délivré immédiatement. 
 
-Si l'intéressé est retenu en local de rétention administrative, la décision est transmise au responsable du local dans les
-conditions prévues à l'alinéa précédent en vue de sa notification administrative. La notification est effectuée par le
-responsable du local de rétention ou par son adjoint.
-
-Lorsqu'un étranger ayant déposé sa demande d'asile en local de rétention administrative est transféré en centre de rétention
-administrative avant que l'office ait statué, le préfet responsable de la procédure d'éloignement en informe par télécopie
-l'office.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R553-23 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (VD)
-
-
-###### Article R553-18
-
-Les dispositions de la présente section ne sont pas applicables à l'étranger dont la demande d'asile relève du 1° de
-l'article L. 741-4 et qui est placé en rétention en vue de l'exécution d'une décision de remise en application de l'article
-L. 531-2. 
-
-L'étranger en est informé dans une langue dont il est raisonnable de penser qu'il la comprend.
+L'autorité dépositaire de la demande informe sans délai le directeur général de l'office de la transmission de la demande
+ainsi que de l'identité du demandeur et, le cas échéant, du besoin d'interprète.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1031 du 29 août 2011 - art. 4
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
-_Abrogé par_:
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
+
+
+###### Article R556-7
+
+Les dispositions du présent chapitre ne sont pas applicables à l'étranger dont la demande d'asile relève de l'article L.
+742-1 et qui est placé en rétention en vue de l'exécution d'une décision de transfert en application de l'article L. 742-3. 
+
+L'étranger en est informé dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la comprend.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R556-14 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+
+
+##### Section 2 : Examen de la demande d'asile par l'office<a id=334></a>
+
+###### Article R556-8
+
+Le demandeur est entendu par l'office selon les modalités prévues par les articles R. 723-5 à R. 723-9. 
+
+Toutefois, en cas de besoin et par dérogation à l'article R. 723-8, l'entretien personnel peut ne pas faire l'objet d'un
+enregistrement. Dans ce cas, sa transcription fait l'objet d'un recueil de commentaires. Si le demandeur refuse de confirmer
+que le contenu de la transcription reflète correctement l'entretien personnel, les motifs de son refus sont consignés dans
+son dossier. Un tel refus n'empêche pas l'office de statuer sur la demande d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 7
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-8 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
 
 
-### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=326></a>
+###### Article R556-9
 
-#### Chapitre unique<a id=327></a>
+Lorsque l'office décide, en application du septième alinéa de l'article L. 556-1, de ne pas statuer en procédure accélérée,
+le directeur général de l'office transmet sa décision au chef du centre de rétention, son adjoint ou au responsable de la
+gestion des dossiers administratifs du centre de rétention ou au responsable du local de rétention ou à son adjoint et au
+préfet qui a ordonné le maintien en rétention. 
+
+Le préfet met fin immédiatement à la rétention et communique sa décision au chef du centre de rétention, son adjoint ou au
+responsable de la gestion des dossiers administratifs du centre de rétention ou au responsable du local de rétention ou à son
+adjoint. Il en informe également le directeur général de l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+
+
+###### Article R556-10
+
+I.-Lorsque l'étranger a été maintenu en rétention et que l'office statue en procédure accélérée, le directeur général de
+l'office prend sa décision dans le délai prévu par le deuxième alinéa du I de l'article R. 723-4. 
+
+Il transmet sans délai au responsable du centre ou du local de rétention dans lequel l'étranger est maintenu en application
+de l'article L. 556-1 sa décision de rejet sous pli fermé par lettre recommandée avec demande d'avis de réception. Le pli
+fermé est remis à l'étranger par le responsable du centre ou du local de rétention. 
+
+Simultanément, le directeur général de l'office communique au chef du centre de rétention, à son adjoint ou au responsable de
+la gestion des dossiers administratifs du centre de rétention ou au responsable du local de rétention ou à son adjoint le
+sens de sa décision. 
+
+II.-La décision d'admission au bénéfice d'une protection au titre de l'asile est transmise au centre ou au local de rétention
+par voie électronique sécurisée. Elle est notifiée à l'intéressé par la voie administrative par le chef du centre de
+rétention, son adjoint ou le responsable de la gestion des dossiers administratifs du centre de rétention ou le responsable
+du local de rétention ou son adjoint. Au vu de cette décision, il est immédiatement mis fin à la rétention. 
+
+III.-Les documents fournis par le demandeur lui sont restitués avec la décision. 
+
+IV.-Le chef du centre de rétention, son adjoint ou le responsable de la gestion des dossiers administratifs du centre de
+rétention ou le responsable du local de rétention ou son adjoint informe le préfet ayant décidé du maintien en rétention du
+sens de la décision du directeur général de l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+
+
+##### Section 3 : Droits des demandeurs d'asile<a id=335></a>
+
+###### Article R556-11
+
+Le délégué du Haut-Commissariat des Nations unies pour les réfugiés accède aux lieux de rétention dans les mêmes conditions
+que celles prévues aux articles R. 223-1 à R. 223-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R223-1
+
+
+###### Article R556-12
+
+Toute personne intervenant en rétention peut signaler au chef du centre ou à son représentant, ou au responsable du local de
+rétention, la situation de vulnérabilité d'un demandeur d'asile qu'elle aurait constatée, ou dont le demandeur d'asile aurait
+fait état.
+
+Le chef du centre ou son représentant, ou le responsable du local de rétention, détermine, le cas échéant, les modalités
+particulières de maintien en rétention tenant compte de la situation de vulnérabilité du demandeur.
+
+Les informations attestant d'une situation particulière de vulnérabilité sont transmises oralement ou par écrit, après accord
+du demandeur d'asile, à l'Office français de protection des réfugiés et apatrides.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+
+###### Article R556-13
+
+L'avocat ou le représentant d'une des associations mentionnées au huitième alinéa de l'article L. 723-6, désigné par le
+demandeur d'asile, est autorisé à pénétrer dans le lieu de rétention pour assister à son entretien dans les conditions
+prévues au même article L. 723-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-6
+
+
+##### Section 4 : Dispositions diverses<a id=336></a>
+
+###### Article R556-14
+
+I. - L'article R. 556-7 n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion et à Saint-
+Pierre-et-Miquelon. 
+
+II. - Le présent chapitre, à l'exception de l'article R. 556-7, est applicable à Saint-Barthélemy et à Saint-Martin dans sa
+rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet
+2015 relative à la réforme du droit d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 7
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R556-7
+
+
+### TITRE VI : ASSIGNATION À RÉSIDENCE<a id=337></a>
+
+#### Chapitre unique<a id=338></a>
 
 ###### Article R561-1
 
@@ -28597,9 +30149,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
-### TITRE VII : DISPOSITIONS DIVERSES<a id=328></a>
+### TITRE VII : DISPOSITIONS DIVERSES<a id=339></a>
 
-#### Chapitre unique<a id=329></a>
+#### Chapitre unique<a id=340></a>
 
 ###### Article R571-1
 
@@ -28749,15 +30301,15 @@ _Cite_:
   - Code de procédure pénale - art. R61-36
 
 
-## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=330></a>
+## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=341></a>
 
-### TITRE Ier : CONTRÔLES<a id=331></a>
+### TITRE Ier : CONTRÔLES<a id=342></a>
 
-#### Chapitre unique<a id=332></a>
+#### Chapitre unique<a id=343></a>
 
-##### Section 1 : Application de gestion des dossiers des ressortissants étrangers en France<a id=333></a>
+##### Section 1 : Application de gestion des dossiers des ressortissants étrangers en France<a id=344></a>
 
-##### Sous-section 1 : Finalités du traitement<a id=334></a>
+##### Sous-section 1 : Finalités du traitement<a id=345></a>
 
 ###### Article R611-1
 
@@ -28812,7 +30364,7 @@ _Modifié par_:
   - Décret n°2013-1082 du 29 novembre 2013 - art. 3
 
 
-##### Sous-section 2 : Données enregistrées dans le traitement<a id=335></a>
+##### Sous-section 2 : Données enregistrées dans le traitement<a id=346></a>
 
 ###### Article R611-2
 
@@ -28863,7 +30415,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
-##### Sous-section 3 : Destinataires des données<a id=336></a>
+##### Sous-section 3 : Destinataires des données<a id=347></a>
 
 ###### Article R611-4
 
@@ -28923,7 +30475,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
 
 
-##### Sous-section 4 : Accès aux données en consultation<a id=337></a>
+##### Sous-section 4 : Accès aux données en consultation<a id=348></a>
 
 ###### Article R611-5
 
@@ -29141,7 +30693,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Sous-section 5 : Conservation des données<a id=338></a>
+##### Sous-section 5 : Conservation des données<a id=349></a>
 
 ###### Article R611-7-1
 
@@ -29196,7 +30748,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
 
 
-##### Sous-section 6 : Droits d'accès, de rectification et d'opposition<a id=339></a>
+##### Sous-section 6 : Droits d'accès, de rectification et d'opposition<a id=350></a>
 
 ###### Article R611-7-2
 
@@ -29253,7 +30805,7 @@ _Créé par_:
   - Décret n°2011-638 du 8 juin 2011 - art. 4
 
 
-##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=340></a>
+##### Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa<a id=351></a>
 
 ###### Article R611-8
 
@@ -29523,7 +31075,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=341></a>
+##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=352></a>
 
 ###### Article R611-35
 
@@ -29683,7 +31235,7 @@ _Créé par_:
   - Décret n°2009-1310 du 26 octobre 2009 - art. 1
 
 
-##### Section 6 : Dispositions diverses<a id=342></a>
+##### Section 6 : Dispositions diverses<a id=353></a>
 
 ###### Article R611-41-1
 
@@ -29767,9 +31319,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-9
 
 
-### TITRE II : SANCTIONS<a id=343></a>
+### TITRE II : SANCTIONS<a id=354></a>
 
-#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=344></a>
+#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=355></a>
 
 ###### Article R621-1
 
@@ -29836,9 +31388,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R122-2 (V)
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=345></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=356></a>
 
-##### Section 1 : Procédure<a id=346></a>
+##### Section 1 : Procédure<a id=357></a>
 
 ###### Article R*625-2
 
@@ -29953,7 +31505,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R625-3 (V)
 
 
-##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=347></a>
+##### Section 2 : Dispositif agréé de numérisation et de transmission par les entreprises de transport des documents de voyage et des visas<a id=358></a>
 
 ###### Article R625-5
 
@@ -30123,7 +31675,7 @@ _Abrogé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 36
 
 
-##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=348></a>
+##### Section 3 : Consignation d'une somme par l'entreprise de transport<a id=359></a>
 
 ###### Article R625-13
 
@@ -30191,7 +31743,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-13 (M)
 
 
-#### Chapitre VI : Dispositions diverses<a id=349></a>
+#### Chapitre VI : Dispositions diverses<a id=360></a>
 
 ###### Article R626-1
 
@@ -30288,11 +31840,65 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R321-1 à R321-5
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=350></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=361></a>
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=351></a>
+### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE<a id=362></a>
 
-#### Chapitre Ier : Missions<a id=352></a>
+#### Chapitre Ier : La qualité de réfugié<a id=363></a>
+
+###### Article R711-1
+
+L'autorité administrative compétente pour demander à l'Office français de protection des réfugiés et apatrides, en
+application du premier ou du deuxième alinéa de l'article L. 711-4, de mettre fin au statut de réfugié est le ministre chargé
+de l'asile ou le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier réside à Paris, le préfet
+de police.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 8
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L711-4
+
+
+#### Chapitre II : La protection subsidiaire<a id=364></a>
+
+###### Article R712-1
+
+L'autorité administrative compétente pour demander à l'Office français de protection des réfugiés et apatrides, en
+application du premier ou du troisième alinéa de l'article L. 712-3, de mettre fin au bénéfice de la protection subsidiaire
+est le ministre chargé de l'asile ou le préfet du département où réside habituellement l'étranger ou, lorsque ce dernier
+réside à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 8
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-3
+
+
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=365></a>
+
+#### Chapitre Ier : Missions<a id=366></a>
 
 ###### Article R721-1
 
@@ -30306,61 +31912,69 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Organisation<a id=353></a>
+#### Chapitre II : Organisation<a id=367></a>
 
-##### Section 1 : Le conseil d'administration de l'office<a id=354></a>
+##### Section 1 : Le conseil d'administration de l'office<a id=368></a>
 
 ###### Article R722-1
 
 Le président du conseil d'administration de l'Office français de protection des réfugiés et apatrides est nommé pour une
-durée de trois ans, renouvelable.
+durée de trois ans, renouvelable. 
 
-Les représentants de l'Etat au conseil d'administration sont :
+Les représentants de l'Etat au conseil d'administration sont : 
 
-1° Une personnalité nommée par décret du Premier ministre pour une durée de trois ans ;
+1° Deux personnalités, un homme et une femme, nommés par décret du Premier ministre pour une durée de trois ans ; 
 
-2° Le directeur général des étrangers en France au ministère chargé de l'asile ; 
+2° Le secrétaire général du ministère de l'intérieur ; 
 
-3° Le directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ; 
+3° Le directeur général des étrangers en France au ministère chargé de l'asile ; 
 
 4° Le secrétaire général du ministère des affaires étrangères ; 
 
-5° Le directeur des affaires civiles et du sceau au ministère de la justice ;
+5° Le directeur des affaires civiles et du sceau au ministère de la justice ; 
 
-6° Le directeur du budget au ministère chargé du budget ;
+6° Le directeur général de la cohésion sociale au ministère chargé des affaires sociales ; 
 
-7° Le chef du service de l'asile au ministère chargé de l'asile. 
+7° Le chef du service chargé des droits des femmes au ministère chargé des droits des femmes ; 
+
+8° Le directeur général des outre-mer au ministère chargé des outre-mer ; 
+
+9° Le directeur du budget au ministère chargé du budget. 
 
 Les ministres intéressés désignent des suppléants permanents aux secrétaires généraux, directeurs généraux, directeurs
-d'administration ou chefs de service qui les représentent.
+d'administration ou chefs de service qui les représentent. 
 
 En cas d'empêchement du président, la présidence du conseil est assurée par le directeur général des étrangers en France au
-ministère chargé de l'asile et, à défaut, par le représentant de l'Etat le plus ancien dans ses fonctions.
+ministère chargé de l'asile et, à défaut, par le représentant de l'Etat le plus ancien dans ses fonctions. 
 
 Le représentant du personnel de l'office au conseil d'administration et son suppléant sont élus pour une durée de trois ans
-par le personnel de l'office dans des conditions fixées par arrêté du ministre chargé de l'asile.
+par le personnel de l'office dans des conditions fixées par arrêté du ministre chargé de l'asile. 
 
-Les trois personnalités qualifiées qui assistent aux séances du conseil d'administration sont nommées pour trois ans par
-décret sur proposition du ministre chargé de l'asile après avis des ministres représentés au conseil d'administration.
+Les trois personnalités qualifiées mentionnées à l'article L. 722-1 sont nommées pour trois ans par décret sur proposition du
+ministre chargé de l'asile après avis des ministres représentés au conseil d'administration. 
 
-Le directeur général participe avec voix consultative aux séances du conseil d'administration.
+Le directeur général participe avec voix consultative aux séances du conseil d'administration. 
 
 Le conseil d'administration peut inviter toute personne concernée par l'ordre du jour à assister à ses délibérations.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2014-47 du 21 janvier 2014 - art. 2
-
 _Cité par_:
 
   - Arrêté du 21 mars 2014 (V)
 
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 9
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-1
+
 
 ###### Article R722-2
 
-Dans le cadre de ses attributions fixées à l'article L. 722-1, le conseil d'administration de l'office délibère sur les
+I.-Dans le cadre de ses attributions fixées à l'article L. 722-1, le conseil d'administration de l'office délibère sur les
 objets suivants : 
 
 1° L'organisation générale de l'établissement ; 
@@ -30379,20 +31993,44 @@ Il arrête son règlement intérieur.
 
 Il émet un avis sur les nominations aux emplois de secrétaire général et de chef de division. 
 
-Il étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés et le fonctionnement de
-l'office. 
+II.-Le conseil d'administration étudie et propose au Gouvernement toutes mesures propres à améliorer le sort des réfugiés,
+des bénéficiaires de la protection subsidiaire et des apatrides ainsi que le fonctionnement de l'office. 
 
-Il adresse chaque année le rapport d'activité aux ministres intéressés.
+III.-L'office adresse chaque année le rapport d'activité aux ministres intéressés, qui l'adressent au Parlement en
+application de l'article L. 721-4.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-296 du 1er mars 2012 - art. 1
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 10
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R722-3 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L721-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-1
+
+
+###### Article R722-2-1
+
+Pour l'application des dispositions du huitième alinéa de l'article L. 722-1, les personnalités ou associations mentionnées à
+cet article saisissent le président du conseil d'administration de l'office par lettre recommandée avec demande d'avis de
+réception. La demande mentionne toutes précisions utiles ainsi que les éléments de fait et de droit susceptibles de justifier
+l'inscription ou la radiation d'un Etat de la liste des pays considérés comme des pays d'origine sûrs. Toute association qui
+saisit le président du conseil d'administration de l'office sur ce fondement lui adresse copie de ses statuts. 
+
+Le président du conseil d'administration de l'office n'est pas tenu d'inscrire à l'ordre du jour les demandes abusives,
+notamment par leur nombre, leur caractère répétitif ou systématique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 10
 
 _Cite_:
 
@@ -30402,10 +32040,10 @@ _Cite_:
 ###### Article R722-3
 
 Le conseil d'administration de l'office se réunit au moins deux fois par an et chaque fois que cela est nécessaire, sur
-convocation de son président ou à la demande d'au moins quatre de ses membres adressée au président et comportant un projet
+convocation de son président ou à la demande d'au moins six de ses membres adressée au président et comportant un projet
 d'ordre du jour précis. 
 
-Le conseil ne peut délibérer que si sont présents au moins six de ses membres titulaires ou suppléants. 
+Le conseil ne peut délibérer que si sont présents au moins neuf  de ses membres titulaires ou suppléants. 
 
 Les délibérations sont prises à la majorité relative des membres présents. En cas de partage égal des voix, celle du
 président est prépondérante. 
@@ -30417,52 +32055,59 @@ Les délibérations sur les matières énumérées aux 3°, 4°, 5° et 6° de l
 quinze jours après leur réception par le ministre chargé de l'asile et le ministre chargé du budget, sauf opposition ou
 demande de surseoir à exécution adressée au directeur général de l'office.
 
+Les délibérations en matière d'inscription, de radiation ou de suspension de l'inscription d'un Etat sur la liste des pays
+considérés comme des pays d'origine sûrs sont publiées au Journal officiel de la République française et notifiées par le
+ministre chargé de l'asile à la Commission de l'Union européenne.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 11
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 11
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R722-2
 
 
-##### Section 2 : Le directeur général de l'office<a id=355></a>
+##### Section 2 : Le directeur général de l'office<a id=369></a>
 
 ###### Article R722-4
 
-Le directeur général de l'office est nommé pour une durée de trois ans, renouvelable.
+Le directeur général de l'office est nommé pour une durée de trois ans, renouvelable. 
 
 Les décisions et mesures relevant des compétences dévolues à l'office par les dispositions législatives du présent livre sont
-prises sous sa responsabilité.
+prises sous sa responsabilité. 
 
 Dans le cadre des fonctions plus spécialement dévolues à l'office par l'article L. 721-3, le directeur général est notamment
-habilité à :
+habilité à : 
 
-1° Certifier la situation de famille et l'état civil des intéressés tels qu'ils résultent d'actes passés ou de faits ayant eu
-lieu dans le pays à l'égard duquel les craintes de persécution du réfugié ont été tenues pour fondées et, le cas échéant,
-d'événements postérieurs les ayant modifiés ; les actes et documents établis par l'office ont la valeur d'actes
-authentiques ;
+1° Certifier la situation de famille et l'état civil des réfugiés, bénéficiaires de la protection subsidiaire et apatrides,
+tels qu'ils résultent d'actes passés ou de faits ayant eu lieu avant l'obtention du statut et, le cas échéant, d'événements
+postérieurs les ayant modifiés ; 
 
-2° Attester la conformité avec les lois du pays mentionné au 1° des actes passés dans ce pays ;
+2° Attester la régularité et la conformité des actes passés avec les lois du pays où ils sont survenus ; 
 
 3° Signaler, le cas échéant, les intéressés à l'attention des autorités compétentes, en particulier pour les questions de
 visa, de titre de séjour, d'admission aux établissements d'enseignement et d'une manière générale pour l'accès aux droits
-sociaux auxquels peuvent prétendre les bénéficiaires de l'asile ;
+sociaux auxquels peuvent prétendre les réfugiés, bénéficiaires de la protection subsidiaire ou apatrides ; 
 
-4° Signaler aux autorités compétentes les bénéficiaires de la protection subsidiaire auxquels un titre de voyage doit être
-délivré et indiquer pour chaque cas la liste des pays autorisés.
+4° Indiquer aux autorités compétentes en matière de délivrance de titres de voyage, pour chaque réfugié ou bénéficiaire de la
+protection subsidiaire, la liste des pays dans lesquels il n'est pas autorisé à voyager.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 12
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L721-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L721-3
 
 
 ###### Article R722-5
@@ -30478,7 +32123,7 @@ sous son autorité. A ce titre, il exerce notamment les compétences suivantes :
 
 3° Il recrute, nomme et gère les personnels titulaires et non titulaires de l'office ; 
 
-4° Il préside le comité technique et le comité d'hygiène et de sécurité ; 
+4° Il préside le comité technique et le comité d'hygiène, de sécurité et des conditions de travail  ; 
 
 5° Il conclut les contrats et conventions engageant l'établissement. Il est la personne responsable des marchés ; 
 
@@ -30496,7 +32141,7 @@ besoin.
 
 _Modifié par_:
 
-  - Décret n°2012-296 du 1er mars 2012 - art. 2
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 13
 
 _Cite_:
 
@@ -30506,22 +32151,27 @@ _Cite_:
 ###### Article R722-6
 
 Le directeur général peut déléguer sa signature. Cette délégation peut porter sur les décisions prises en application des
-articles L. 711-1 et L. 712-3 sur la délivrance d'actes et de certificats, et sur les actes de gestion et d'administration
-courante.
+articles L. 711-1 et L. 712-1 et L. 812-2 sur la délivrance d'actes et de certificats, et sur les actes de gestion et
+d'administration courante.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 14
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L711-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L712-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L711-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L812-2
 
 
-##### Section 4 : Opérations comptables et financières<a id=356></a>
+##### Section 4 : Opérations comptables et financières<a id=370></a>
 
 ###### Article R722-8
 
@@ -30571,36 +32221,33 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-5
 
 
-#### Chapitre III : Examen des demandes d'asile.<a id=357></a>
+#### Chapitre III : Examen des demandes d'asile<a id=371></a>
+
+##### Section 1 : Garanties procédurales et obligations du demandeur<a id=372></a>
+
+##### Sous-section 1 : Introduction de la demande<a id=373></a>
 
 ###### Article R723-1
 
-A compter de la remise de l'autorisation provisoire de séjour prévue à l'article L. 742-1, l'étranger demandeur d'asile
-dispose d'un délai de vingt et un jours pour présenter sa demande d'asile complète à l'office.
+A compter de la remise de l'attestation de demande d'asile selon la procédure prévue à l'article R. 741-4, l'étranger dispose
+d'un délai de vingt et un jours pour introduire sa demande d'asile complète auprès de l'office. 
 
-La demande d'asile ou du statut d'apatride est rédigée en français sur un imprimé établi par l'office. L'imprimé doit être
-signé et accompagné de deux photographies d'identité récentes et, le cas échéant, du document de voyage et de la copie du
-document de séjour en cours de validité.
+La demande d'asile est rédigée en français sur un imprimé établi par l'office. L'imprimé doit être signé et accompagné de
+deux photographies d'identité récentes, de la copie de l'attestation de demande d'asile et, le cas échéant, du document de
+voyage et de la copie du titre de séjour en cours de validité. 
 
-Lorsque la demande est présentée complète dans les délais, l'office l'enregistre sans délai et en informe par lettre le
-demandeur.
+Lorsque la demande complète est introduite dans les délais, l'office accuse réception de la demande sans délai et informe par
+lettre le demandeur du caractère complet du dossier. Il en informe également le préfet compétent et le directeur général de
+l'Office français de l'immigration et de l'intégration. 
 
-Dans le cas où l'admission au séjour lui a été refusée pour l'un des motifs mentionnés aux 2° à 4° de l'article L. 741-4,
-l'étranger demandeur d'asile dispose d'un délai de quinze jours pour présenter une demande d'asile complète au préfet de
-département compétent et, à Paris, au préfet de police. La demande d'asile rédigée sur l'imprimé établi par l'office est
-remise sous pli fermé.
-
-Le préfet transmet des réception le dossier à l'office en mentionnant son caractère prioritaire.
+Lorsque la demande n'est pas complète, l'office demande au demandeur de la compléter. Le demandeur dispose à cette fin d'un
+délai supplémentaire de huit jours.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Modifié par_:
-
-  - Décret n°2007-373 du 21 mars 2007 - art. 43 (V) JORF 22 mars 2007
+  - Décret n°2006-1378 du 14 novembre 2006
 
 _Cité par_:
 
@@ -30609,6 +32256,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Décret n°2018-385 du 23 mai 2018 (V)
   - Décret n°2018-385 du 23 mai 2018 - art. 1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R553-15 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-15 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
@@ -30617,71 +32265,26 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R553-15 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R733-7 (V)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-1 (M)
-
-
-###### Article R723-1-1
-
-Le troisième alinéa de l'article R. 213-2 est applicable à l'audition mentionnée au premier alinéa de l'article L. 723-3.
-Celle-ci fait l'objet d'un rapport écrit qui, outre les raisons justifiant l'asile, comprend les informations relatives à
-l'identité de l'étranger et celle de sa famille, les lieux et pays traversés ou dans lesquels il a séjourné, sa ou ses
-nationalités, le cas échéant ses pays de résidence et ses demandes d'asile antérieures, ses documents d'identité et titres de
-voyage. 
-
-Une copie du rapport est transmise à l'intéressé avec la décision du directeur général de l'office lorsque celui-ci refuse la
-reconnaissance de la qualité de réfugié.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-702 du 15 juillet 2008 - art. 4
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 15
 
-_Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R213-2
-
+##### Sous-section 2 : Délais d'examen<a id=374></a>
 
 ###### Article R723-2
 
-Le directeur général de l'office reconnaît la qualité de réfugié ou d'apatride ou accorde le bénéfice de la protection
-subsidiaire au terme d'une instruction unique, au vu des pièces et des informations dont il dispose à la date de sa
-décision. 
-
-La collecte d'informations nécessaires à cette instruction ne doit pas avoir pour effet la divulgation directe, aux auteurs
-présumés de persécutions à l'encontre de l'étranger demandeur d'asile, d'informations concernant la demande d'asile ou le
-fait qu'une demande d'asile a été introduite. 
-
-La décision du directeur général de l'office sur la demande d'asile est communiquée à l'intéressé par lettre recommandée avec
-demande d'avis de réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Lorsqu'une décision ne
-peut pas être prise dans le délai de six mois, l'office en informe l'intéressé dans les quinze jours qui précèdent
-l'expiration de ce délai. 
-
-Simultanément, le directeur général de l'office fait connaître le caractère positif ou négatif de sa décision au préfet de
-département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office français de l'immigration et de
-l'intégration. Il communique au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande, copie
-de l'avis de réception. 
-
-Si le demandeur est placé en rétention administrative, le directeur général de l'office notifie la décision par voie
-administrative et dans les conditions prévues au deuxième alinéa de l'article R. 213-3. Le chef du centre de rétention est
-informé simultanément du sens de la décision.
+L'office statue sur la demande d'asile dans les délais prévus aux paragraphes 3 et 4 de l'article 31 de la directive 2013/32/
+UE du Parlement européen et du Conseil du 26 juin 2013 relative à des procédures communes pour l'octroi et le retrait de la
+protection internationale.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
 
 _Cité par_:
 
@@ -30693,30 +32296,18 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
-
 
 ###### Article R723-3
 
-Lorsqu'il est saisi en application de la procédure prioritaire prévue au second alinéa de l'article L. 723-1, l'office statue
-dans un délai de quinze jours sur la demande d'asile. Ce délai est ramené à 96 heures lorsque le demandeur d'asile est placé
-en rétention administrative en application de l'article L. 551-1. 
-
-Lorsque, à la suite d'une décision de rejet devenue définitive, la personne intéressée entend soumettre à l'office des
-éléments nouveaux, sa demande de réexamen doit être précédée d'une nouvelle demande d'admission au séjour et être présentée
-selon la procédure prévue à l'article R. 723-1. Le délai prévu au premier alinéa de cet article est alors limité à huit
-jours. 
-
-La décision du directeur général de l'office sur la demande de réexamen est communiquée par lettre recommandée avec demande
-d'avis de réception et dans les conditions prévues au deuxième alinéa de l'article R. 213-3.
+Lorsqu'une décision ne peut pas être prise dans le délai de six mois, l'office en informe l'intéressé au moins quinze jours
+avant l'expiration de ce délai. A la demande de l'intéressé, l'office l'informe également des motifs du retard et du délai
+prévisible dans lequel il sera statué sur sa demande.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 6
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
 
 _Cité par_:
 
@@ -30730,24 +32321,42 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R763-1 (M)
   - Code de l'entrée et du séjour des étrangers et du  - art. R764-1 (M)
 
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*213-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
-
 
 ###### Article R723-4
 
-Le préfet compétent et, à Paris, le préfet de police peut saisir l'office d'une demande de réexamen mentionnée à l'article L.
-723-5.
+I.-Lorsque l'office examine une demande d'asile en procédure accélérée en application de l'article L. 723-2, il statue dans
+un délai de quinze jours à compter de l'introduction de la demande. 
+
+Lorsque le demandeur d'asile est maintenu en rétention en application du premier alinéa de l'article L. 556-1, la demande
+d'asile est examinée par l'office dans un délai de quatre-vingt-seize heures à compter de sa réception. 
+
+II.-Lorsque la procédure accélérée est mise en œuvre en application du II de l'article L. 723-2, l'office en informe le
+demandeur au moment de sa convocation à l'entretien personnel. Lorsque l'office n'a pas fait application de la procédure
+accélérée dans les quinze jours suivant l'introduction de la demande d'asile, il conserve la possibilité de statuer selon
+cette procédure à l'issue de l'entretien personnel s'il constate que le demandeur d'asile se trouve dans l'un des cas prévus
+au II de l'article L. 723-2. L'office statue alors dans un délai de quinze jours à compter de l'entretien. La décision de
+l'office mentionne qu'il statue selon la procédure accélérée. 
+
+III.-Lorsque l'office décide, en application du V de l'article L. 723-2 ou du quatrième alinéa de l'article L. 723-3, de ne
+pas statuer en procédure accélérée, il en informe le demandeur. 
+
+IV.-Dans les cas mentionnés au II et au III le préfet compétent est informé par l'office.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
 
 _Cité par_:
 
@@ -30758,23 +32367,19 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
-_Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L723-5 (V)
-
+##### Sous-section 3 : Entretien personnel<a id=375></a>
 
 ###### Article R723-5
 
-Lorsqu'une demande d'asile est rejetée, le directeur général de l'office transmet la décision motivée au ministre chargé de
-l'immigration. A la demande de celui-ci, le directeur général de l'office communique les documents mentionnés à l'article L.
-723-4 aux agents personnellement et spécialement habilités par arrêté préfectoral en raison de leur mission et de leurs
-responsabilités dans le domaine de l'application de la réglementation des étrangers ou de son contentieux.
+Lorsque l'entretien personnel mené avec le demandeur d'asile nécessite l'assistance d'un interprète, sa rétribution est prise
+en charge par l'office.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-223 du 6 mars 2008 - art. 2
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
 
 _Cité par_:
 
@@ -30791,9 +32396,426 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-4
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=358></a>
+###### Article R723-6
 
-#### Chapitre II : Organisation<a id=359></a>
+Le directeur général de l'office fixe par décision la liste des associations habilitées à proposer des représentants en vue
+d'accompagner le demandeur à l'entretien personnel.
+
+L'habilitation ne peut être sollicitée que par des associations régulièrement déclarées depuis au moins cinq années.
+
+L'association doit joindre à sa demande d'habilitation une copie de ses statuts.
+
+Tout refus d'habilitation doit être motivé.
+
+L'habilitation est accordée pour une durée de trois ans. Elle est renouvelable, sur demande, pour la même durée.
+
+Le directeur général de l'office peut, à tout moment, par décision motivée, retirer l'habilitation d'une association.
+
+L'association habilitée notifie au directeur général de l'office la liste de ses représentants accompagnant les demandeurs
+d'asile à l'entretien. Sauf décision de refus dans un délai de deux mois à compter de la notification, ces représentants sont
+réputés agréés pour une durée de trois ans.
+
+Le directeur général de l'office peut retirer, à tout moment, par décision motivée, l'agrément délivré à un représentant
+d'une association.
+
+L'agrément d'un représentant d'une association est retiré sur demande de celle-ci ou lorsque l'habilitation de l'association
+est retirée ou a expiré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+
+###### Article R723-7
+
+A l'issue de l'entretien personnel, le demandeur et son avocat ou le représentant de l'association qui l'accompagne sont
+informés de leur droit d'obtenir communication de la transcription. S'ils en font la demande, elle est consignée dans le
+dossier du demandeur. 
+
+Lorsque la copie de la transcription peut, à l'issue de l'entretien, faire l'objet d'une remise sur place, cette remise est
+consignée dans le dossier du demandeur. Lorsque l'office ne peut pas procéder à cette remise sur place, la copie de la
+transcription est envoyée avant qu'une décision ne soit prise. 
+
+S'il est fait application de la procédure accélérée prévue à l'article L. 723-2, la copie de la transcription est communiquée
+au plus tard lors de la notification de la décision. Le demandeur indique si la transcription doit lui être communiquée ou,
+le cas échéant, à son avocat ou au représentant de l'association conformément aux dispositions du I de l'article L. 723-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-7
+
+
+###### Article R723-8
+
+L'entretien personnel fait également l'objet d'un enregistrement sonore. 
+
+L'intéressé est informé dès le début de l'entretien du déroulement de l'opération d'enregistrement sonore, notamment des
+modalités permettant d'assurer le respect des règles de confidentialité. 
+
+A l'issue de l'entretien, le demandeur est informé de son droit d'accès à l'enregistrement sonore dans les conditions prévues
+à l'article L. 723-7. 
+
+Dans le cas où il existe une impossibilité technique de procéder à l'enregistrement sonore, la transcription fait l'objet
+d'un recueil de commentaires. Si le demandeur refuse de confirmer que le contenu de la transcription reflète correctement
+l'entretien, les motifs de son refus sont consignés dans son dossier. Un tel refus n'empêche pas l'office de statuer sur la
+demande d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R213-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R556-8 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-7
+
+
+###### Article R723-9
+
+L'office peut décider de procéder à l'entretien personnel en ayant recours à un moyen de communication audiovisuelle dans les
+cas suivants :
+
+1° Lorsque le demandeur est dans l'impossibilité de se déplacer, notamment pour des raisons de santé ou des raisons
+familiales ;
+
+2° Lorsqu'il est retenu dans un lieu privatif de liberté ;
+
+3° Lorsqu'il est outre-mer.
+
+Les modalités techniques garantissant la confidentialité de la transmission fidèle des propos tenus au cours de l'entretien
+sont définies par décision du directeur général de l'office.
+
+Le local destiné à recevoir les demandeurs d'asile entendus par un moyen de communication audiovisuelle doit avoir été
+préalablement agréé par le directeur général de l'office. Cet agrément peut être retiré si les conditions énoncées à l'alinéa
+précédent ne sont plus remplies.
+
+L'officier de protection chargé de la conduite de l'entretien a la maîtrise des opérations. Il lui appartient de veiller au
+respect des droits de la personne. Il doit à tout instant pouvoir s'assurer du respect des bonnes conditions d'audition et de
+visionnage. Il peut mettre fin à l'entretien si ces conditions ne sont pas réunies ou si les circonstances de l'espèce
+l'exigent. Dans ce cas, l'entretien a lieu en présence de l'intéressé.
+
+L'intéressé entendu par un moyen de communication audiovisuelle doit, si besoin avec l'aide d'un interprète, être informé par
+l'office avant le commencement de l'entretien du déroulement des opérations, notamment des modalités permettant d'assurer le
+respect des règles de confidentialité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R812-2 (VD)
+
+
+##### Sous-section 4 : Examen médical<a id=376></a>
+
+###### Article R723-10
+
+Pour l'application de l'article L. 723-5, l'office s'assure que le demandeur comprenne que son refus de se soumettre à un
+examen médical ne fait pas obstacle à ce que l'office statue sur sa demande. 
+
+Pour l'application de l'article L. 752-3, l'office informe les parents ou tuteurs légaux de l'intéressée mineure que tout
+refus de se soumettre à l'examen médical ou tout constat de mutilation sera transmis au procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-3
+
+
+##### Section 2 : Demandes irrecevables<a id=377></a>
+
+###### Article R723-11
+
+Lorsque l'office fait usage de la faculté prévue aux 1° ou 2° de l'article L. 723-11, il statue dans un délai d'un mois
+suivant l'introduction de la demande ou, si les motifs d'irrecevabilité sont révélés au cours de l'entretien, dans un délai
+d'un mois suivant cet entretien.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-11
+
+
+###### Article R723-12
+
+Pour l'application du 2° de l'article L. 723-11, l'office saisit le préfet compétent, en lui communiquant tous les éléments
+nécessaires aux vérifications, afin de s'assurer que le demandeur est effectivement réadmissible dans le pays où il bénéficie
+du statut de réfugié. Cette saisine suspend le délai prévu à l'article R. 723-11. A défaut de réponse dans un délai de deux
+mois, l'office statue au fond.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-11
+
+
+##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande<a id=378></a>
+
+###### Article R723-13
+
+Lorsqu'il souhaite retirer sa demande d'asile en application de l'article L. 723-12, l'intéressé en informe l'office au cours
+de l'entretien ou par courrier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-12
+
+
+###### Article R723-14
+
+Lorsqu'à la suite d'une décision de clôture, la personne intéressée entend solliciter la réouverture de son dossier ou
+présente une nouvelle demande, cette démarche doit être précédée d'un nouvel enregistrement auprès du préfet compétent. Ce
+dernier informe le demandeur de la procédure qui lui est applicable, en application de l'article L. 723-14. 
+
+Le délai d'introduction de cette demande en réouverture auprès de l'office est de huit jours à compter de l'enregistrement.
+Le préfet informe l'office de la demande de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-14
+
+
+##### Section 4 : Demandes de réexamen<a id=379></a>
+
+###### Article R723-15
+
+Lorsque dans les cas et conditions prévues à l'article L. 723-15, la personne intéressée entend présenter une demande de
+réexamen, elle doit procéder à une nouvelle demande d'enregistrement auprès du préfet compétent. 
+
+Les dispositions de l'article R. 723-1 sont applicables pour introduire, à la suite de cet enregistrement, la demande d'asile
+auprès de l'office. Toutefois, le délai d'introduction auprès de l'office de la demande de réexamen est dans ce cas de huit
+jours à compter de l'enregistrement. De même, lorsque la demande n'est pas complète, l'office demande au demandeur de la
+compléter et le demandeur dispose à cette fin d'un délai supplémentaire de quatre jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-15
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+
+
+###### Article R723-16
+
+L'office procède à un examen préliminaire, en application de l'article L. 723-16, dans un délai de huit jours suivant
+l'introduction de la demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-16
+
+
+###### Article R723-17
+
+Lorsque, après l'examen préliminaire, l'office décide de poursuivre l'examen de la demande, il en informe sans délai le
+préfet compétent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+
+##### Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides<a id=380></a>
+
+###### Article R723-18
+
+Lorsque le directeur général de l'office a statué en procédure accélérée en application de l'article L. 723-2, la décision en
+fait mention et en indique les motifs de droit et de fait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
+
+###### Article R723-19
+
+I.-La décision du directeur général de l'office est notifiée à l'intéressé par lettre recommandée avec demande d'avis de
+réception. 
+
+II.-La notification de la décision du directeur général de l'office mentionne : 
+
+1° Les modalités d'accès à l'enregistrement sonore de l'entretien personnel prévues au II de l'article L. 723-7. Cet accès
+est possible dans les locaux de l'office, ou par voie électronique sécurisée pour les personnes retenues en rétention ou en
+zone d'attente, avant le dépôt du recours ou, après ce dépôt, auprès de la juridiction administrative compétente ou de la
+Cour nationale du droit d'asile ; 
+
+2° Le délai prévu à l'article 9-4 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique pour demander le
+bénéfice de l'aide juridictionnelle ; 
+
+3° L'obligation pour le requérant, en cas de recours devant la Cour nationale du droit d'asile, d'indiquer dans son recours
+conformément à l'article R. 733-5 en quelle langue il souhaite être entendu par la juridiction. 
+
+III.-La date de notification de la décision de l'office et, le cas échéant, de la Cour nationale du droit d'asile qui figure
+dans le système d'information de l'office et est communiquée au préfet compétent et au directeur général de l'Office français
+de l'immigration et de l'intégration au moyen de traitements informatiques fait foi jusqu'à preuve du contraire.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°91-647 du 10 juillet 1991 - art. 9-4
+  - Code de l'entrée et du séjour des étrangers et ... - art. R733-5 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-7
+
+_Modifié par_:
+
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 25 (V)
+
+_Cité par_:
+
+  - Décret n°2018-385 du 23 mai 2018 (V)
+  - Décret n°2018-385 du 23 mai 2018 - art. 1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R812-3 (V)
+
+
+###### Article R723-20
+
+La décision de clôture prise à la suite du retrait d'une demande d'asile en application de l'article L. 723-12 peut également
+faire l'objet d'une remise contre émargement ou récépissé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-12
+
+
+###### Article R723-21
+
+Le directeur général de l'office fait connaître le caractère positif ou négatif de la décision de l'office ou, en cas de
+recours, de la Cour nationale du droit d'asile au préfet compétent, ainsi qu'au directeur général de l'Office français de
+l'immigration et de l'intégration. Il communique au préfet compétent, à sa demande, une copie de la décision et de l'avis de
+réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+
+###### Article R723-22
+
+En cas de rejet de la demande d'asile et à la demande du préfet, le directeur général de l'office communique les documents
+mentionnés à l'article L. 723-9 aux agents personnellement et spécialement habilités par arrêté préfectoral en raison de leur
+mission et de leurs responsabilités dans le domaine de l'application de la réglementation des étrangers ou de son
+contentieux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 15
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-9
+
+
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=381></a>
+
+#### Chapitre II : Organisation<a id=382></a>
 
 ###### Article R732-1
 
@@ -30990,9 +33012,9 @@ _Cite_:
   - Code de justice administrative - art. R121-13
 
 
-#### Chapitre III : Examen des recours<a id=360></a>
+#### Chapitre III : Examen des recours<a id=383></a>
 
-##### Section 1 : Dispositions générales<a id=361></a>
+##### Section 1 : Dispositions générales<a id=384></a>
 
 ###### Article R733-1
 
@@ -31101,9 +33123,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
 
 
-##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=362></a>
+##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=385></a>
 
-##### Sous-section 2 : Présentation des recours<a id=363></a>
+##### Sous-section 2 : Présentation des recours<a id=386></a>
 
 ###### Article R733-5
 
@@ -31259,7 +33281,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R742-3 (V)
 
 
-##### Sous-section 3 : Instruction<a id=364></a>
+##### Sous-section 3 : Instruction<a id=387></a>
 
 ###### Article R733-10
 
@@ -31511,7 +33533,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-2
 
 
-##### Sous-section 4 : Audience<a id=365></a>
+##### Sous-section 4 : Audience<a id=388></a>
 
 ###### Article R733-17
 
@@ -31853,7 +33875,7 @@ _Créé par_:
   - Décret n°2013-751 du 16 août 2013 - art. 1
 
 
-##### Sous-section 5 : Jugement<a id=366></a>
+##### Sous-section 5 : Jugement<a id=389></a>
 
 ###### Article R733-28
 
@@ -31994,7 +34016,7 @@ _Créé par_:
   - Décret n°2013-751 du 16 août 2013 - art. 1
 
 
-##### Sous-section 6 : Demande d'avis au Conseil d'Etat<a id=367></a>
+##### Sous-section 6 : Demande d'avis au Conseil d'Etat<a id=390></a>
 
 ###### Article R733-34
 
@@ -32022,7 +34044,7 @@ _Cite_:
   - Code de justice administrative - art. R113-2
 
 
-##### Sous-section 8 : Voies de recours<a id=368></a>
+##### Sous-section 8 : Voies de recours<a id=391></a>
 
 ###### Article R733-35
 
@@ -32083,7 +34105,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-7 (V)
 
 
-##### Section 3 : Procédure d'avis de l'article L. 731-3<a id=369></a>
+##### Section 3 : Procédure d'avis de l'article L. 731-3<a id=392></a>
 
 ###### Article R733-38
 
@@ -32189,21 +34211,21 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-3
 
 
-### TITRE IV : DROIT AU SÉJOUR DES DEMANDEURS D'ASILE<a id=370></a>
+### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=393></a>
 
-#### Chapitre Ier : Admission au séjour.<a id=371></a>
+#### Chapitre Ier : Enregistrement de la demande d'asile<a id=394></a>
 
 ###### Article R*741-1
 
-I. Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'examen de sa
-demande d'admission au séjour relève du préfet du département et, à Paris, du préfet de police. 
+I.-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'enregistrement de
+sa demande relève du préfet de département et, à Paris, du préfet de police. 
 
 Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
-département et, à Paris, au préfet de police, pour exercer cette mission dans plusieurs départements. 
+département et, à Paris, au préfet de police pour exercer cette mission dans plusieurs départements. 
 
 II.-Par dérogation aux dispositions du I du présent article, lorsqu'un étranger, placé en rétention administrative, demande à
-bénéficier de l'asile, l'examen de sa demande d'admission au séjour relève du préfet qui a ordonné le placement en rétention
-administrative de l'intéressé.
+bénéficier de l'asile, l'enregistrement de sa demande relève du préfet qui a ordonné le placement en rétention administrative
+de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -32218,36 +34240,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-614 du 4 juin 2015 - art. 1
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 1
 
 
 ###### Article R741-2
 
-L'étranger qui, n'étant pas déjà admis à résider en France, sollicite son admission au séjour au titre de l'asile en
-application de l'article L. 741-1 présente à l'appui de sa demande : 
+Lorsque l'étranger présente sa demande auprès de l'Office français de l'immigration et de l'intégration, des services de
+police ou de gendarmerie ou de l'administration pénitentiaire, la personne est orientée vers l'autorité compétente. Il en est
+de même lorsque l'étranger a introduit directement sa demande auprès de l'Office français de protection des réfugiés et
+apatrides, sans que sa demande ait été préalablement enregistrée par le préfet compétent. Ces autorités fournissent à
+l'étranger les informations utiles en vue de l'enregistrement de sa demande d'asile. Pour cela, elles dispensent à leurs
+personnels la formation adéquate. 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
-
-2° Les documents mentionnés dans l'arrêté prévu par l'article R. 211-1 justifiant qu'il est entré régulièrement en France ou,
-à défaut, toutes indications portant sur les conditions de son entrée en France et ses itinéraires de voyage à partir de son
-pays d'origine ; 
-
-3° Quatre photographies de face, tête nue, de format 3,5 cm x 4,5 cm récentes et parfaitement ressemblantes ; 
-
-4° L'indication de l'adresse où il est possible de lui faire parvenir toute correspondance pendant la durée de validité de
-l'autorisation provisoire de séjour délivrée sur le fondement de l'article R. 742-1. Si le choix d'une adresse se porte sur
-celle d'une association, celle-ci doit être agréée par arrêté préfectoral. L'agrément est accordé pour une durée de trois ans
-renouvelable aux associations régulièrement déclarées depuis au moins trois années dont l'objet est en rapport avec l'aide ou
-l'assistance aux étrangers, et justifiant d'une expérience dans les domaines de l'accueil, de la prise en charge, de la
-domiciliation ou de l'hébergement des demandeurs d'asile, ainsi que de leur aptitude à assurer effectivement la mission de
-réception et de transmission des courriers adressés aux demandeurs d'asile. 
-
-L'indication des pièces à fournir par l'étranger qui sollicite son admission au séjour au titre de l'asile en application du
-présent article est portée à sa connaissance par les services de la préfecture. Ces derniers remettent alors à l'étranger un
-document d'information sur ses droits et sur les obligations qu'il doit respecter eu égard aux conditions d'accueil des
-demandeurs d'asile, ainsi que sur les organisations qui assurent une assistance juridique spécifique et celles susceptibles
-de l'aider ou de l'informer sur les conditions d'accueil dont il peut bénéficier, y compris les soins médicaux. Cette
-information se fait dans une langue dont il est raisonnable de penser que le demandeur d'asile la comprend.
+Pour l'application du deuxième alinéa de l'article L. 741-1, l'autorité administrative compétente peut prévoir que la demande
+est présentée auprès de la personne morale prévue au deuxième alinéa de l'article L. 744-1.
 
 **Liens relatifs à cet article**
 
@@ -32275,7 +34281,55 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1031 du 29 août 2011 - art. 6
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+
+
+###### Article R741-3
+
+L'étranger qui, n'étant pas déjà titulaire d'un titre de séjour, demande l'asile en application de l'article L. 741-1
+présente à l'appui de sa demande en vue de son enregistrement : 
+
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint, de son partenaire avec lequel il
+est lié par une union civile ou de son concubin et de ses enfants à charge ; 
+
+2° Les documents mentionnés dans l'arrêté prévu par l'article R. 211-1 justifiant qu'il est entré régulièrement en France ou,
+à défaut, toutes indications portant sur les conditions de son entrée en France et ses itinéraires de voyage à partir de son
+pays d'origine ; 
+
+3° Quatre photographies de face, tête nue, de format 3,5 cm × 4,5 cm, récentes et parfaitement ressemblantes ; 
+
+4° S'il est hébergé par ses propres moyens, l'indication de l'adresse où il est possible de lui faire parvenir toute
+correspondance pendant la durée de validité de l'attestation de demande d'asile. 
+
+S'il est âgé de 14 ans au moins, il est procédé au relevé des empreintes digitales de tous ses doigts, conformément au
+règlement (UE) n° 603/2013 du 26 juin 2013. 
+
+Si la personne est déjà titulaire d'un titre de séjour délivré par les autorités françaises et en cours de validité, elle
+fournit uniquement un justificatif de domicile et les photographies nécessaires à l'édition de l'attestation de demande
+d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cité par_:
+
+  - Arrêté du 20 octobre 2015 - art. 1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R742-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R766-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R766-4 (VD)
 
 _Cite_:
 
@@ -32283,24 +34337,131 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R211-1
 
 
-#### Chapitre II : Durée du maintien sur le territoire français.<a id=372></a>
+###### Article R741-4
 
-###### Article R742-1
+Après qu'il a satisfait aux obligations prévues à l'article R. 741-3, si l'examen de la demande relève de la compétence de la
+France et sans préjudice des dispositions de l'article R. 741-6, l'étranger est mis en possession de l'attestation de demande
+d'asile mentionnée à l'article L. 741-1. Cette attestation ne permet pas de circuler librement dans les autres Etats membres
+de l'Union européenne. 
 
-Dans un délai de quinze jours après qu'il a satisfait aux obligations prévues à l'article R. 741-2, l'étranger est mis en
-possession d'une autorisation provisoire de séjour portant la mention "en vue de démarches auprès de l'OFPRA", d'une validité
-d'un mois, pour autant qu'il ne soit pas fait application du 1° au 4° de l'article L. 741-4 sans préjudice des dispositions
-du premier alinéa de l'article L. 742-6.
+Lorsqu'une demande est déposée au nom d'un mineur, isolé ou accompagné, une attestation est éditée au nom du mineur. 
 
-Toutefois, s'il s'agit d'un étranger qui a été admis en France au titre de l'asile et porteur d'un visa de long séjour, il
-est mis en possession d'un récépissé de sa demande de titre de séjour qui porte la mention "étranger admis au titre de
-l'asile", d'une durée de validité de six mois renouvelable jusqu'à la décision de l'Office français de protection des
-réfugiés et apatrides, et qui lui permet d'exercer la profession de son choix dans les conditions prévues à l'article L.
-314-4.
+Il est remis au demandeur d'asile l'imprimé mentionné à l'article R. 723-1 lui permettant d'introduire sa demande auprès de
+l'Office français de protection des réfugiés et des apatrides selon la procédure prévue au même article. 
 
-Lorsqu'à la suite d'une décision de rejet devenue définitive sur une précédente demande d'asile, l'intéressé entend soumettre
-à l'Office français de protection des réfugiés et apatrides des éléments nouveaux, la validité de l'autorisation provisoire
-de séjour qui lui est délivrée est limitée à quinze jours.
+Il lui est également remis un document d'information sur la procédure de demande d'asile, sur ses droits et sur les
+obligations qu'il doit respecter au cours de la procédure, sur les conséquences que pourrait avoir le non-respect de ses
+obligations ou le refus de coopérer avec les autorités et sur les moyens dont il dispose pour l'aider à introduire sa demande
+auprès de l'Office français de protection des réfugiés et apatrides. Ce document l'informe également sur ses droits et sur
+les obligations au regard des conditions d'accueil, ainsi que sur les organisations qui assurent une assistance aux
+demandeurs d'asile. Cette information se fait dans une langue qu'il comprend ou dont il est raisonnable de penser que le
+demandeur d'asile la comprend. 
+
+Lorsque le préfet compétent pour enregistrer la demande constate qu'un demandeur d'asile se trouve dans l'un des cas prévus
+aux I et III de l'article L. 723-2, il en informe le demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cité par_:
+
+  - Décret n°2018-385 du 23 mai 2018 - art. 1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R*741-4-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R723-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R766-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R766-4 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-6
+
+
+###### Article R741-5
+
+Lorsque l'étranger n'a pas fourni l'ensemble des éléments mentionnés à l'article R. 741-3 ou lorsque ses empreintes relevées
+en application du même article sont inexploitables, le préfet compétent enregistre la demande sur la base des éléments dont
+il dispose et convoque l'intéressé à une date ultérieure pour compléter l'enregistrement de sa demande ou pour procéder à un
+nouveau relevé de ses empreintes. L'attestation n'est remise qu'une fois que l'ensemble des conditions prévues à l'article R.
+741-3 sont réunies.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
+
+
+###### Article R741-6
+
+Lorsque l'étranger se trouve dans le cas prévu aux 5° ou 6° de l'article L. 743-2, le préfet peut prendre à son encontre une
+décision de refus de délivrance de l'attestation de demande d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
+
+
+###### Article R741-7
+
+Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal qui demandent l'asile,
+mentionnés à l'article L. 741-3, sont désignés et indemnisés conformément aux dispositions des articles R. 111-13 à R.
+111-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 17
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-13
+
+
+#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=395></a>
+
+###### Article R*742-1
+
+L'autorité compétente pour procéder à la détermination de l'Etat responsable de l'examen d'une demande d'asile, assigner à
+résidence un demandeur d'asile en application de l'article L. 742-2 et prendre une décision de transfert en application de
+l'article L. 742-3 est le préfet de département et, à Paris, le préfet de police. 
+
+Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
+département et, à Paris, au préfet de police pour exercer ces missions dans plusieurs départements.
 
 **Liens relatifs à cet article**
 
@@ -32328,35 +34489,24 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 2
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. L314-4 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L741-4 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L742-6 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
 
 
 ###### Article R742-2
 
-Le demandeur d'asile auquel une autorisation provisoire de séjour a été délivrée en application de l'article R. 742-1 est mis
-en possession d'un récépissé de la demande d'asile valant autorisation provisoire de séjour dans un délai maximal de trois
-jours à compter de l'expiration de la validité de l'autorisation provisoire de séjour mentionnée à l'article R. 742-1, sur
-présentation de la lettre de l'Office français de protection des réfugiés et apatrides l'informant de l'enregistrement de sa
-demande d'asile ou de la décision de procéder à un nouvel examen de cette demande.
-
-Ce récépissé porte la mention "récépissé constatant le dépôt d'une demande d'asile". Il a une durée de validité initiale
-comprise entre trois et six mois, fixée par arrêté du ministre chargé de l'asile. Il est renouvelable par périodes de trois
-mois jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides.
-
-L'accès au marché du travail ne peut être autorisé au demandeur d'asile que dans le cas où l'office, pour des raisons qui ne
-sont pas imputables au demandeur, n'a pas statué sur la demande d'asile dans un délai d'un an suivant l'enregistrement de la
-demande. Dans ce cas, le demandeur d'asile est soumis aux règles de droit commun applicables aux travailleurs étrangers pour
-la délivrance d'une autorisation provisoire de travail. La situation de l'emploi lui est opposable.
-
-Indépendamment des dispositions de l'article L. 742-2, si, au plus tard à l'expiration de la durée de validité de
-l'autorisation provisoire de séjour délivrée dans les conditions prévues à l'article R. 742-1, l'étranger ne peut justifier
-de l'enregistrement de sa demande d'asile par l'office, une décision refusant le séjour peut être prise.
+Après qu'il a satisfait aux obligations prévues à l'article R. 741-3, le demandeur d'asile est mis en possession de
+l'attestation de demande d'asile mentionnée à l'article L. 742-1. Elle précise que l'étranger fait l'objet d'une procédure en
+application du règlement n° 604/2013 du 26 juin 2013. Cette attestation ne permet pas de circuler librement dans les autres
+Etats membres de l'Union européenne.
 
 **Liens relatifs à cet article**
 
@@ -32384,34 +34534,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-235 du 21 mars 2013 - art. 1
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 18
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
 
 
 ###### Article R742-3
 
-Sur présentation de l'accusé de réception d'un recours devant la Cour nationale du droit d'asile contre une décision négative
-de l'Office français de protection des réfugiés et apatrides ou du reçu de l'enregistrement du recours délivré par la Cour
-nationale du droit d'asile, le demandeur d'asile obtient le renouvellement du récépissé de la demande d'asile visé à
-l'article R. 742-2 d'une durée de validité de trois mois renouvelable jusqu'à la notification de la décision de la cour. 
-
-Lorsqu'un recours est formé devant la Cour nationale du droit d'asile, le demandeur d'asile qui a obtenu le renouvellement de
-son récépissé dans les conditions prévues à l'alinéa précédent est soumis aux règles de droit commun applicables aux
-travailleurs étrangers pour la délivrance d'une autorisation provisoire de travail. 
-
-Indépendamment des dispositions du deuxième alinéa de l'article L. 723-1 et de l'article L. 742-2, le récépissé prévu au
-premier alinéa peut ne pas être délivré s'il apparaît que le demandeur d'asile auquel a été notifiée une décision de rejet de
-l'Office français de protection des réfugiés et apatrides s'est abstenu de contester celle-ci devant la Cour nationale du
-droit d'asile dans le délai fixé à l'article R. 733-9. 
-
-Dans cette hypothèse, l'étranger peut faire l'objet d'une obligation de quitter le territoire français. S'il bénéficie d'un
-délai de départ volontaire en application du I de l'article L. 511-1 et s'il saisit la Cour nationale du droit d'asile dans
-un délai d'un mois, il lui est délivré le récépissé mentionné au premier alinéa, renouvelable jusqu'à la notification de la
-décision de cette cour.
+L'attestation de demande d'asile peut être retirée ou ne pas être renouvelée lorsque l'étranger se soustrait de manière
+intentionnelle et systématique aux convocations ou contrôles de l'autorité administrative en vue de faire échec à l'exécution
+d'une décision de transfert.
 
 **Liens relatifs à cet article**
 
@@ -32432,205 +34567,1347 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-820 du 8 juillet 2011 - art. 21
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-9
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 18
 
 
 ###### Article R742-4
 
-L'étranger déjà admis à séjourner en France qui sollicite la délivrance d'un récépissé de la demande d'asile au titre des
-dispositions du premier alinéa de l'article R. 742-2 communique, à l'appui de sa demande, l'adresse où il est possible de lui
-faire parvenir toute correspondance dans les conditions prévues au 4° de l'article R. 741-2.
+L'autorité administrative détermine le périmètre dans lequel l'étranger assigné à résidence en application de l'article L.
+742-2 est autorisé à circuler muni des documents justifiant de son identité et de sa situation administrative et au sein
+duquel est fixée sa résidence. Elle lui désigne le service auquel il doit se présenter, selon une fréquence qu'il fixe dans
+la limite d'une présentation par jour, en précisant si cette obligation s'applique les dimanches et les jours fériés ou
+chômés. 
 
-L'étranger qui, le cas échéant, est amené à demander le renouvellement du récépissé délivré au titre des articles R. 742-2 et
-R. 742-3 présente à l'appui de sa demande :
-
-1° Deux photographies de face, tête nue, de format 3,5 cm x 4,5 cm, récentes et parfaitement ressemblantes ;
-
-2° La justification du lieu où il a sa résidence.
+L'étranger peut être assigné à résidence dans l'hébergement prévu au 2° de l'article L. 744-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du  - art. R741-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R742-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R742-3 (V)
-
-
-###### Article R742-5
-
-L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour
-nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident dans les conditions prévues à
-l'article R. 314-2. 
-
-Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de la demande de titre de séjour
-qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable et qui porte la mention " reconnu réfugié
-". 
-
-Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
-314-4.
-
-**Liens relatifs à cet article**
+  - Décret n°2006-1378 du 14 novembre 2006
 
 _Modifié par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
-
-_Abrogé par_:
-
   - Décret n°2015-1166 du 21 septembre 2015 - art. 18
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R761-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
 
 
-###### Article R742-6
+#### Chapitre III : Droit au maintien sur le territoire français<a id=396></a>
 
-L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et
-apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour temporaire
-dans les conditions prévues à l'article R. 313-1. 
+###### Article R743-1
 
-Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour
-qui vaut autorisation de séjour d'une durée de validité de trois mois renouvelable. 
+L'attestation de demande d'asile est renouvelée jusqu'à l'expiration du délai fixé à l'article L. 743-1. 
+
+Le premier renouvellement est effectué sur présentation de la lettre de l'Office français de protection des réfugiés et
+apatrides mentionnée au troisième alinéa de l'article R. 723-1. 
+
+Sous réserve des dispositions prévues à l'article L. 743-2, en cas de recours contre une décision de l'office rejetant une
+demande d'asile, le renouvellement est effectué sur présentation de l'avis de réception d'un recours devant la Cour nationale
+du droit d'asile mentionné à l'article R. 733-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 19
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-8
+
+
+###### Article R743-2
+
+L'étranger qui sollicite le renouvellement de l'attestation de demande d'asile, présente à l'appui de sa demande : 
+
+1° Deux photographies de face, tête nue, de format 3,5 cm × 4,5 cm, récentes et parfaitement ressemblantes ; 
+
+2° La justification du lieu où il a sa résidence ou l'indication de l'adresse d'une personne morale conventionnée dans les
+conditions prévues à l'article L. 744-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 19
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+
+
+###### Article R743-3
+
+L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour
+nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident telle que prévue à l'article
+L. 314-11. 
+
+Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour,
+qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable et qui porte la mention “ reconnu réfugié
+”. 
 
 Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
 314-4. 
 
-Le bénéficiaire de la protection subsidiaire est ensuite mis en possession de la carte de séjour temporaire prévue à
-l'article L. 313-13. 
-
-La carte de séjour temporaire est renouvelée selon les modalités définies aux articles R. 313-35 et R. 313-36 sous réserve de
-l'application des dispositions de l'article L. 723-5.
+Le préfet procède à la délivrance de la carte de résident dans un délai de trois mois, dans les conditions prévues à
+l'article L. 314-11.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°2008-702 du 15 juillet 2008 - art. 9 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1166 du 21 septembre 2015 - art. 18
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 19
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R761-1 (V)
+  - Décret n°2016-253 du 2 mars 2016 - art. 4
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (VD)
+  - Code de la sécurité sociale. - art. D161-15 (Ab)
+  - Code de la sécurité sociale. - art. D512-1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2019-141 du 27 février 2019 - art. 9
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
+
+
+###### Article R743-4
+
+L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et
+apatrides ou la Cour nationale du droit d'asile est admis à déposer une demande de carte de séjour temporaire telle que
+prévue à l'article L. 313-13. 
+
+Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour,
+qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable et qui porte la mention “ a obtenu le
+bénéfice de la protection subsidiaire ”. 
+
+Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
+313-13. 
+
+Le préfet procède à la délivrance de la carte de séjour temporaire dans un délai de trois mois, dans les conditions prévues à
+l'article L. 313-13.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 19
+
+_Cité par_:
+
+  - Décret n°2016-253 du 2 mars 2016 - art. 4
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (VD)
+  - Code de la sécurité sociale. - art. D115-1 (VD)
+  - Code de la sécurité sociale. - art. D161-15 (Ab)
+  - Code de la sécurité sociale. - art. D512-1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2019-141 du 27 février 2019 - art. 9
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
+
+
+###### Article R743-5
+
+Lorsqu'après le rejet définitif de sa demande d'asile, l'étranger dépose une demande de titre de séjour, le préfet statue sur
+cette demande dans un délai d'un mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 19
+
+_Abrogé par_:
+
+  - Décret n°2018-1159 du 14 décembre 2018 - art. 16
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+
+#### Chapitre IV : Conditions d'accueil des demandeurs d'asile<a id=397></a>
+
+##### Section 1 : Dispositif national d'accueil<a id=398></a>
+
+##### Sous-section 1 : Domiciliation des demandeurs d'asile<a id=399></a>
+
+###### Article R744-1
+
+Pour l'application du troisième alinéa de l'article L. 744-1, sont considérés comme des hébergements stables les lieux
+mentionnés à l'article L. 744-3 autres que les établissements hôteliers. 
+
+Ces lieux d'hébergement valent élection de domicile pour les demandeurs d'asile qui y sont hébergés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
+
+###### Article R744-2
+
+Les organismes conventionnés en application de l'article L. 744-1 ou hébergeant de manière stable des demandeurs d'asile
+remettent aux intéressés une déclaration de domiciliation dont le modèle est fixé par arrêté du ministre chargé de l'asile. 
+
+Cette déclaration est délivrée aux demandeurs d'asile en possession d'une attestation de demande d'asile. Elle précise le nom
+et l'adresse de la personne morale, la date de la déclaration, et, le cas échéant, l'énumération des droits ouverts pour
+lesquels cette déclaration peut être utilisée. 
+
+La déclaration de domiciliation est accordée pour une durée d'un an. Elle est renouvelable. 
+
+La déclaration de domiciliation vaut également justificatif de domicile pour l'ouverture d'un compte bancaire en application
+de l'article L. 312-1 du code monétaire et financier. 
+
+L'absence d'une adresse effective ne peut être opposée à un demandeur d'asile pour lui refuser l'exercice d'un droit ou
+l'accès à un service essentiel garanti par la loi, notamment en matière bancaire et postale, dès lors qu'il dispose d'une
+déclaration de domiciliation en cours de validité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L312-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+
+
+###### Article R744-3
+
+I.-Les organismes conventionnés en application de l'article L. 744-1 procèdent à la domiciliation des demandeurs d'asile qui
+sont orientés vers eux par l'Office français de l'immigration et de l'intégration. Ils ne peuvent refuser l'élection de
+domicile que dans les cas prévus par leur convention. 
+
+L'organisme qui assure la domiciliation y met fin lorsque l'intéressé le demande, lorsqu'il acquiert un domicile stable ou
+lorsqu'il ne se manifeste plus. 
+
+L'organisme qui assure la domiciliation y met fin lorsque l'intéressé ne s'est pas présenté pendant plus d'un mois pour
+retirer son courrier, sauf si cette absence est justifiée. 
+
+L'organisme indiqué par la déclaration de domiciliation est tenu de communiquer pour l'exercice de leur mission, en
+application de l'article R. 380-1 du code de la sécurité sociale, aux organismes de sécurité sociale tous éléments utiles
+permettant de vérifier qu'une personne est bien domiciliée auprès de lui. 
+
+II.-Les organismes conventionnés en application de l'article L. 744-1 transmettent chaque année à l'Office français de
+l'immigration et de l'intégration ainsi qu'au préfet de département un bilan de leur activité indiquant : 
+
+1° Le nombre de demandeurs d'asile suivis à la fin de l'année ; 
+
+2° Le nombre de demandeurs d'asile reçus dans l'année et le nombre de demandeurs dont la domiciliation a pris fin en cours
+d'année ; 
+
+3° Les moyens matériels et humains dont dispose la personne morale pour assurer son activité de domiciliation ; 
+
+4° Les conditions de mise en œuvre du cahier des charges.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+  - Code de la sécurité sociale. - art. R380-1 (VD)
+
+
+###### Article R744-4
+
+Les lieux d'hébergement mentionnés à l'article L. 744-3 sont tenus de recevoir la correspondance destinée aux personnes
+domiciliées et de la mettre à leur disposition.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
+
+##### Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile<a id=400></a>
+
+###### Article R744-5
+
+Les centres d'accueil pour demandeurs d'asile sont régis par les dispositions de la présente sous-section ainsi que par les
+dispositions du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+
+###### Article R744-6
+
+Aux fins de la gestion des lieux d'hébergement pour demandeurs d'asile, mentionnés à l'article L. 744-3 autres que les
+établissements hôteliers, le ministre chargé de l'asile fixe par arrêté les documents-types suivants : 
+
+1° Le cahier des charges des lieux d'hébergement pour demandeurs d'asile ; 
+
+2° Le contrat de séjour signé entre le gestionnaire de ces lieux d'hébergement et les demandeurs d'asile accueillis ; 
+
+3° Le règlement de fonctionnement des lieux d'hébergement pour demandeurs d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cité par_:
+
+  - Arrêté du 29 octobre 2015 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
+
+###### Article R744-7
+
+Si le demandeur d'asile accepte l'offre d'hébergement, l'Office français de l'immigration et de l'intégration l'informe du
+lieu qu'il doit rejoindre. 
+
+Ce lieu d'hébergement est situé dans la région où le demandeur d'asile s'est présenté pour l'enregistrement de sa demande
+d'asile ou dans une autre région, en application du schéma national d'accueil mentionné à l'article L. 744-2. 
+
+Le demandeur d'asile qui ne s'est pas présenté au gestionnaire de ce lieu dans les cinq jours suivant la décision de l'office
+est considéré comme ayant refusé l'offre d'hébergement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-2
+
+
+###### Article R744-8
+
+En application de l'article L. 744-3, le préfet peut signifier à l'office son opposition à l'admission d'une personne dans un
+lieu d'hébergement pour demandeur d'asile de son territoire pour des motifs d'ordre public dans un délai de quarante-huit
+heures à partir de la date de la décision d'admission. A cet effet, le préfet a accès au traitement automatisé des données
+géré par l'Office français de l'immigration et de l'intégration concernant les entrées et sorties dans les lieux
+d'hébergement pour demandeurs d'asile situés dans le département.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+
+
+###### Article R744-9
+
+I.-Les modalités de refus ou de réouverture des conditions matérielles d'accueil sont précisées par l'office lors de l'offre
+de prise en charge dans une langue que le demandeur d'asile comprend ou dont il est raisonnable de penser qu'il la comprend. 
+
+II.-Pour l'application du 1° de l'article L. 744-8, un demandeur d'asile est considéré comme ayant abandonné son lieu
+d'hébergement s'il s'en absente plus d'une semaine sans justification valable.
+
+Dès qu'une absence pouvant être considérée comme un abandon du lieu d'hébergement en application de l'alinéa précédent est
+constatée par le gestionnaire dudit lieu, ce dernier en informe sans délai, en application de l'article L. 744-4, l'Office
+français de l'immigration et de l'intégration, qui statue sur la suspension de ses conditions matérielles d'accueil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-8
+
+
+###### Article R744-10
+
+Les personnes hébergées dans un lieu d'hébergement pour demandeurs d'asile mentionné à l'article L. 744-3 dont le niveau de
+ressources mensuelles est égal ou supérieur au montant du revenu de solidarité active défini à l'article L. 262-2 du code de
+l'action sociale et des familles s'acquittent d'une participation financière à leurs frais d'hébergement et d'entretien. Le
+montant de cette participation est fixé par le préfet sur la base d'un barème établi par arrêté des ministres chargés des
+affaires sociales, de l'asile et du budget. La décision est notifiée à l'intéressé par le directeur du lieu d'hébergement. 
+
+Le barème tient compte notamment :
+
+- des ressources de la personne ou de la famille accueillie ;
+
+- des dépenses restant à sa charge pendant la période d'accueil.
+
+La personne accueillie acquitte directement sa contribution au directeur du lieu d'hébergement qui lui en délivre récépissé.
+
+Le montant de la participation financière perçu par la structure d'hébergement vient en déduction pour le calcul de la
+dotation globale de financement prévue à l'article R. 314-150 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cité par_:
+
+  - Arrêté du 26 décembre 2016 - art. 1 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+  - Code de l'action sociale et des familles - art. L262-2
+  - Code de l'action sociale et des familles - art. R314-150
+
+
+###### Article R744-11
+
+Le gestionnaire du lieu d'hébergement signale, dans les meilleurs délais, toute absence injustifiée et prolongée, tout
+comportement violent et tout manquement grave au règlement du lieu d'hébergement à l'Office français de l'immigration et de
+l'intégration et au préfet du département dans lequel se situe le centre. 
+
+Pour l'application du cinquième alinéa de l'article L. 744-5, les actes contraires à l'ordre public sont constatés par le
+préfet du département dans lequel est domiciliée la personne hébergée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-5
+
+
+###### Article R744-12
+
+I.-Dès qu'une décision définitive au sens de l'article L. 743-3 a été prise sur une demande d'asile, l'Office français de
+l'immigration et de l'intégration en informe sans délai le gestionnaire du lieu qui héberge la personne concernée, en
+précisant la date à laquelle cette décision a été notifiée au demandeur. 
+
+Dès que l'information prévue à l'alinéa précédent lui est parvenue, le gestionnaire du lieu d'hébergement communique à la
+personne hébergée la fin de sa prise en charge, qui intervient sous réserve de l'une des procédures suivantes : 
+
+1° Si elle en fait la demande, la personne ayant eu notification d'une décision définitive favorable est maintenue dans le
+centre jusqu'à ce qu'une solution d'hébergement ou de logement soit trouvée, dans la limite d'une durée de trois mois à
+compter de la date de la notification. Durant cette période, elle prépare avec le gestionnaire du lieu les modalités de sa
+sortie. Le gestionnaire prend toutes mesures utiles pour lui faciliter l'accès à ses droits, au service intégré d'accueil et
+d'orientation, ainsi qu'à une offre d'hébergement ou de logement adaptée. A titre exceptionnel, cette période peut être
+prolongée pour une durée maximale de trois mois supplémentaires avec l'accord de l'Office français de l'immigration et de
+l'intégration ; 
+
+2° Si elle en fait la demande, la personne ayant eu notification d'une décision définitive défavorable est maintenue dans le
+lieu d'hébergement pour une durée maximale d'un mois à compter de la date de cette notification. Durant cette période, elle
+prépare avec le gestionnaire les modalités de sa sortie. 
+
+Cette personne est informée par le gestionnaire de ce qu'elle peut, dans le délai de quinze jours à compter de la
+notification, saisir l'Office français de l'immigration et de l'intégration en vue d'obtenir une aide au retour et
+éventuellement une aide à la réinsertion dans son pays d'origine. Si elle présente une telle demande, elle peut, à titre
+exceptionnel, être maintenue dans un lieu d'hébergement pour une durée maximale d'un mois à compter de la décision de
+l'office. 
+
+II.-A l'issue du délai de maintien dans le lieu d'hébergement, le gestionnaire met en œuvre la décision de sortie prise par
+l'Office français de l'immigration et de l'intégration. Il en informe l'office et le préfet de département dans lequel se
+situe le lieu d'hébergement. 
+
+1° Pour l'application du quatrième alinéa de l'article L. 744-5, si une personne se maintient après une décision de rejet
+définitive dans le lieu d'hébergement après l'expiration du délai mentionné en I du présent article, le préfet du département
+dans lequel se situe ce lieu d'hébergement met en demeure cette personne de quitter les lieux dans les deux cas suivants : 
+
+a) La personne ne dispose pas d'un titre de séjour et n'a pas sollicité d'aide au retour volontaire ou a refusé l'offre
+d'aide au retour volontaire qui lui a été présentée par l'Office français de l'immigration et de l'intégration ; 
+
+b) La personne bénéficie d'un titre de séjour en France et a refusé une ou plusieurs offres de logement ou d'hébergement qui
+lui ont été faites en vue de libérer le lieu d'hébergement occupé. 
+
+Si la mise en demeure est infructueuse, le préfet peut, après une décision de rejet définitive et dans les conditions prévues
+à l'article L. 744-5, saisir le président du tribunal administratif afin d'enjoindre à cet occupant de quitter les lieux ; 
+
+2° Pour l'application du cinquième alinéa de l'article L. 744-5, le préfet de département peut dans les conditions prévues
+par cet article saisir le président du tribunal administratif, après mise en demeure restée infructueuse, sur signalement du
+gestionnaire du lieu d'hébergement ou de l'Office français de l'immigration et de l'intégration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cité par_:
+
+  - Arrêté du 29 octobre 2015 - art. (V)
+  - Arrêté du 15 novembre 2016 - art. 4 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-5
+
+
+###### Article R744-13
+
+Le centre d'accueil pour demandeurs d'asile conserve les dossiers des personnes accueillies deux années civiles après leur
+sortie. Les dossiers ainsi conservés peuvent à tout moment faire l'objet d'un contrôle sur place diligenté par le préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+
+##### Section 2 : Evaluation des besoins<a id=401></a>
+
+###### Article R744-14
+
+L'appréciation de la vulnérabilité des demandeurs d'asile est effectuée par les agents de l'Office français de l'immigration
+et de l'intégration, en application de l'article L. 744-6, à l'aide d'un questionnaire dont le contenu est fixé par arrêté
+des ministres chargés de l'asile et de la santé. 
+
+Si le demandeur d'asile présente des documents à caractère médical, en vue de bénéficier de conditions matérielles d'accueil
+adaptée à sa situation, ceux-ci seront examinés par un médecin de l'Office français de l'immigration et de l'intégration, qui
+émet un avis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 20
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-50 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
+
+
+##### Section 3 : Allocation pour demandeur d'asile<a id=402></a>
+
+##### Sous-section 1 : Conditions d'attribution<a id=403></a>
+
+###### Article D744-17
+
+Sont admis au bénéfice de l'allocation pour demandeur d'asile : 
+
+1° Les demandeurs d'asile qui ont accepté les conditions matérielles d'accueil proposées par l'Office français de
+l'immigration et de l'intégration en application de l'article L. 744-1 et qui sont titulaires de l'attestation de demande
+d'asile délivrée en application de l'article L. 741-1 ; 
+
+2° Les ressortissants étrangers admis au séjour mentionnés aux 1° et 2° de l'article L. 744-10.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-18 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-19 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-10
+
+
+###### Article D744-18
+
+Pour bénéficier de l'allocation pour demandeur d'asile, les personnes mentionnées aux 1° et 2° de l'article D. 744-17 doivent
+être âgées de dix-huit ans révolus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-17
+
+
+###### Article D744-19
+
+Pour les personnes mentionnées au 1° de l'article D. 744-17, l'allocation pour demandeur d'asile est due à compter de
+l'acceptation des conditions matérielles d'accueil. Elle leur est attribuée pour la durée fixée au premier alinéa de
+l'article L. 744-9. 
+
+Les personnes mentionnées au 2° de l'article D. 744-17 bénéficient de l'allocation pendant la durée du bénéfice de la
+protection temporaire ou de détention de la carte de séjour temporaire mentionnée à l'article L. 316-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-17
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+
+
+###### Article D744-20
+
+Pour bénéficier de l'allocation pour demandeur d'asile, la personne doit justifier de ressources mensuelles inférieures au
+montant du revenu de solidarité active.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-21 (V)
+
+
+###### Article D744-21
+
+Les ressources prises en considération pour l'application de l'article D. 744-20 comprennent celles de l'intéressé et, le cas
+échéant, de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin, telles qu'elles doivent être déclarées
+à l'administration fiscale pour le calcul de l'impôt sur le revenu avant déduction des divers abattements. Le montant pris en
+compte est le douzième du total des ressources perçues pendant les douze mois précédant celui au cours duquel les ressources
+sont examinées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-36 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-20
+
+
+###### Article D744-22
+
+La condition relative aux ressources peut faire l'objet d'un contrôle ultérieur par l'Office français de l'immigration et de
+l'intégration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-23
+
+Ne sont pas prises en compte pour la détermination du droit à l'allocation pour demandeur d'asile les ressources suivantes :
+
+1° Les prestations familiales ;
+
+2° Les allocations d'assurance ou de solidarité, les rémunérations de stage ou des revenus d'activité perçus pendant la
+période de référence lorsqu'il est justifié que leur perception est interrompue de manière certaine à la date de la demande
+et que le bénéficiaire de ces ressources ne peut prétendre à un revenu de substitution.
+
+La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire est déduite des
+ressources de celui qui la verse.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 26 décembre 2016 - art. 1 (V)
+
+
+###### Article D744-24
+
+Le demandeur d'allocation fait connaître à l'Office français de l'immigration et de l'intégration toutes informations
+relatives à son domicile, à sa situation de famille, à ses activités professionnelles, à ses ressources et à ses biens ainsi
+qu'à ceux des membres du foyer. Il fait connaître à l'office tout changement intervenu dans l'un ou l'autre de ces éléments,
+le cas échéant sous couvert de l'opérateur d'hébergement ou de la structure chargée de son accompagnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-25
+
+Au sein du foyer, le bénéficiaire de l'allocation est celui qui a déposé la demande. Toutefois, le bénéficiaire peut être
+désigné d'un commun accord. Ce droit d'option peut être exercé à tout moment. L'option ne peut être remise en cause qu'au
+bout d'un an, sauf changement de situation, sur demande motivée.
+
+Lorsqu'un même foyer compte plusieurs demandeurs d'asile, une seule allocation peut être versée au foyer, même si plusieurs
+demandes d'allocation sont déposées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-26
+
+En application du cinquième alinéa de l'article L. 744-9, l'allocation pour demandeur d'asile est composée d'un montant
+forfaitaire, dont le niveau varie en fonction du nombre de personnes composant le foyer, et, le cas échéant, d'un montant
+additionnel dans le cas où le demandeur d'asile n'est pas hébergé. 
+
+Pour la détermination du montant de l'allocation, les ressources perçues par le bénéficiaire viennent en déduction du montant
+résultant de l'application du premier alinéa. 
+
+Le barème de l'allocation pour demandeur d'asile figure à l'annexe 7-1 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 7-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-36 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D766-2-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D767-3 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+
+
+###### Article D744-27
+
+Pour la détermination du montant de l'allocation, les enfants non mariés sont pris en compte, à la date d'enregistrement de
+la demande, à la condition d'être à la charge de l'allocataire.
+
+La naissance d'un enfant est prise en compte pour le calcul du montant de l'allocation à compter de la réception de
+l'original de l'extrait d'acte de naissance et, le cas échéant, de l'attestation signée par l'opérateur d'hébergement ou la
+structure chargée de l'accompagnement des demandeurs d'asile.
+
+En cas de divorce, de séparation de droit ou de fait des époux ou de cessation de la vie commune des concubins, l'allocataire
+qui bénéficie de la prise en compte de l'enfant dans le calcul du montant de l'allocation est celui qui en a la charge
+effective et permanente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-28
+
+Le membre majeur de la famille du demandeur d'asile qui le rejoint postérieurement au dépôt de sa demande d'allocation est
+pris en compte dans le calcul de l'allocation s'il a été déclaré par le demandeur lors de l'enregistrement de cette demande.
+Lorsque le membre qui le rejoint est mineur, cette prise en compte est de droit.
+
+Le montant de l'allocation versé à la famille est révisé à compter de la date d'enregistrement par l'Office français de
+l'immigration et de l'intégration du membre de famille ayant rejoint le demandeur d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-29
+
+Le décès d'un membre de la famille, son incarcération ou son hospitalisation prolongée entraînent la suspension ou la
+limitation des droits à l'allocation pour la part imputable à cette personne. Ces événements sont pris en compte à partir de
+leur signalement à l'Office français de l'immigration et de l'intégration, le cas échéant sous couvert de l'opérateur
+d'hébergement ou de la structure chargée de l'accompagnement du demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-30
+
+Le montant de l'allocation versée est révisé après instruction de la demande de modification par l'Office français de
+l'immigration et de l'intégration, à la date de la décision de l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+##### Sous-section 2 : Gestion et versement<a id=404></a>
+
+###### Article D744-31
+
+Le montant de l'allocation pour demandeur d'asile à verser mensuellement à chaque allocataire est arrêté par l'Office
+français de l'immigration et de l'intégration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-32
+
+L'Agence de services et de paiement est chargée, pour le compte de l'Office français de l'immigration et de l'intégration, de
+verser l'allocation aux bénéficiaires dont l'éligibilité a été déterminée préalablement par l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-33
+
+L'office transmet à l'Agence de services et de paiement, par voie dématérialisée, les données mentionnées à l'article D.
+744-41, sans les éléments détaillés de la liquidation. 
+
+Cette transmission sécurisée et non signée électroniquement vaut décision d'attribution, ordre de payer, et constitue l'état
+liquidatif de l'allocation. 
+
+La sécurisation de la transmission de données au moyen d'une habilitation nominative et d'un mot de passe, avec piste
+d'audit, est garantie et vérifiée par l'agent comptable de l'Office français de l'immigration et de l'intégration qui
+transmet les résultats des contrôles à l'agent comptable de l'Agence de services et de paiement. 
+
+L'allocation pour demandeur d'asile est versée mensuellement sur la base de cette transmission, à terme échu, par
+alimentation d'une carte de retrait. De manière transitoire ou par dérogation, notamment dans les départements d'outre-mer,
+l'allocation peut être versée par virement sur un compte bancaire du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-41
+
+
+###### Article D744-34
+
+Le versement de l'allocation prend fin, sur demande de l'Office français de l'immigration et de l'intégration : 
+
+1° Au terme du mois qui suit celui de la notification de la décision définitive concernant la demande d'asile ; 
+
+2° A compter de la date du transfert effectif à destination de l'Etat responsable de l'examen de la demande d'asile ; 
+
+3° Pour les bénéficiaires de la protection temporaire, à la date où s'achève cette protection ou à la date du transfert du
+bénéficiaire vers un autre Etat de l'Union européenne ; 
+
+4° Pour les détenteurs de la carte de séjour temporaire mentionnée à l'article L. 316-1, à la date de fin de validité ou de
+retrait de cette carte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+
+
+###### Article D744-35
+
+Le versement de l'allocation peut être suspendu lorsqu'un bénéficiaire : 
+
+1° A refusé une proposition d'hébergement dans un lieu mentionné à l'article L. 744-3 ; 
+
+2° Sans motif légitime, n'a pas respecté l'obligation de se présenter aux autorités, n'a pas répondu aux demandes
+d'information ou ne s'est pas rendu aux entretiens personnels concernant la procédure d'asile ; 
+
+3° Sans motif légitime, a abandonné son lieu d'hébergement déterminé en application de l'article L. 744-7 ou s'est absenté du
+lieu d'hébergement sans justification valable pendant plus de cinq jours ; 
+
+4° Cesse temporairement de remplir les conditions d'attribution ; 
+
+5° Ne produit pas les documents nécessaires à la vérification de son droit à l'allocation. 
+
+L'interruption du versement de l'allocation prend effet à compter de la date de la décision de suspension.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-7
+
+
+###### Article D744-36
+
+Le bénéfice de l'allocation pour demandeur d'asile peut être retiré par l'Office français de l'immigration et de
+l'intégration si le bénéficiaire a dissimulé tout ou partie de ses ressources, au sens de l'article D. 744-21, a fourni des
+informations mensongères relatives à sa situation familiale, a eu un comportement violent ou a commis des manquements graves
+au règlement du lieu d'hébergement. 
+
+L'interruption du versement de l'allocation prend effet à compter de la date de la décision de retrait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-21
+
+
+###### Article D744-37
+
+Le bénéfice de l'allocation pour demandeur d'asile peut être refusé par l'Office français de l'immigration et de
+l'intégration : 
+
+1° En cas de demande de réexamen de la demande d'asile ; 
+
+2° Si le demandeur, sans motif légitime, n'a pas présenté sa demande d'asile dans le délai prévu au 3° du III de l'article L.
+723-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
+
+###### Article D744-38
+
+La décision de suspension, de retrait ou de refus de l'allocation est écrite, motivée et prise après que l'allocataire a été
+mis en mesure de présenter à l'Office français de l'immigration et de l'intégration ses observations écrites dans le délai de
+quinze jours. Elle prend en compte la vulnérabilité du demandeur.
+
+Lorsque le bénéfice de l'allocation a été suspendu, l'allocataire peut en demander le rétablissement à l'Office français de
+l'immigration et de l'intégration.
+
+La reprise du versement intervient à compter de la date de la décision de réouverture.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-39
+
+L'offre de prise en charge faite au demandeur d'asile en application de l'article L. 744-1 fait mention de la possibilité
+pour le demandeur d'asile de se voir refuser, retirer ou suspendre le bénéfice de l'allocation pour demandeur d'asile dans
+les conditions prévues par la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+
+
+###### Article D744-40
+
+La constatation des allocations indûment versées ainsi que leur recouvrement sont assurés par l'Office français de
+l'immigration et de l'intégration. 
+
+Le montant maximal des retenues pouvant être opérées sur les échéances à venir en cas de versement indu, en application du
+troisième alinéa de l'article L. 744-9, est fixé par arrêté du ministre chargé de l'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
+
+
+##### Sous-section 3 : Communication d'informations<a id=405></a>
+
+###### Article D744-41
+
+L'Office français de l'immigration et de l'intégration communique, mensuellement, à l'Agence de services et de paiement :
+
+1° La liste nominative des personnes bénéficiaires de l'allocation ;
+
+2° Les éléments propres à identifier les allocataires : sexe, nom, prénom, date de naissance, adresse associée au dossier le
+cas échéant, ainsi que les numéros de dossier attribués aux allocataires dans le traitement automatisé de l'Office français
+de l'immigration et de l'intégration ayant pour objet d'assurer la gestion et le pilotage du dispositif des centres d'accueil
+des demandeurs d'asile et dans l'application de gestion des dossiers des ressortissants étrangers en France ;
+
+3° Le montant de l'allocation à verser et le numéro de carte de retrait ou, le cas échéant les coordonnées bancaires des
+allocataires.
+
+Chaque transmission d'informations de l'Office français de l'immigration et de l'intégration à l'Agence de services et de
+paiement donne lieu à un flux de retour vers l'office, pour confirmer la bonne intégration des données. Une fois les fonds et
+l'ordre d'alimentation reçus de l'office, l'Agence de services et de paiement réalise soit le virement des fonds sur les
+comptes bancaires des bénéficiaires, soit l'ordre d'alimentation des cartes de retrait délivrées aux allocataires par
+l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-33 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+
+
+###### Article D744-42
+
+L'Office français de protection des réfugiés et apatrides communique, sans délai, à l'Office français de l'immigration et de
+l'intégration les informations suivantes : la date d'introduction de la demande d'asile, la procédure suivie, la date de la
+décision de clôture ou d'irrecevabilité, la date et le sens de la décision définitive prise par l'Office français de
+protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-43
+
+Le préfet transmet sans délai à l'Office français de l'immigration et de l'intégration les informations relatives à la durée
+de validité des attestations de demande d'asile ainsi que l'état d'avancement des procédures de détermination de l'Etat
+responsable de l'examen de la demande d'asile et de transfert, en particulier les dates de fuite ou de transfert effectif des
+intéressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-44
+
+La direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi indique
+mensuellement à l'Office français de l'immigration et de l'intégration les bénéficiaires de l'allocation disposant d'un
+contrat de travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=406></a>
+
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=407></a>
+
+###### Article R752-1
+
+La demande de réunification familiale est initiée par la demande de visa mentionnée au troisième alinéa du II de l'article L.
+752-1 ; elle est déposée auprès de l'autorité diplomatique ou consulaire dans la circonscription de laquelle résident les
+membres de la famille du réfugié ou du bénéficiaire de la protection subsidiaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R812-4 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
+
+
+###### Article R752-2
+
+Au vu des justificatifs d'identité et des preuves des liens familiaux des membres de la famille du réfugié ou du bénéficiaire
+de la protection subsidiaire, l'autorité diplomatique ou consulaire enregistre la demande de visa au réseau mondial des visas
+et délivre sans délai une attestation de dépôt de la demande. 
+
+Lorsque l'autorité diplomatique ou consulaire estime nécessaire de procéder aux vérifications prévues à l'article L. 111-6,
+elle effectue ces vérifications dès le dépôt de la demande et en informe le demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+_Cité par_:
+
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-13
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-35
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-6
 
 
-### TITRE V : DISPOSITIONS DIVERSES.<a id=373></a>
+###### Article R752-3
 
-###### Article R751-1
+Dès l'enregistrement de la demande par l'autorité diplomatique ou consulaire, le ministre chargé de l'asile sollicite de
+l'Office français de protection des réfugiés et apatrides la certification de la situation de famille du réfugié ou du
+bénéficiaire de la protection subsidiaire ainsi que de son état civil.
 
-Les administrateurs ad hoc chargés d'assister les mineurs non accompagnés d'un représentant légal qui demandent l'asile,
-mentionnés à l'article L. 751-1, sont désignés et indemnisés conformément aux dispositions des articles R. 111-13 à R.
-111-24.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
-
-_Abrogé par_:
-
-  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile.
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L751-1
-
-
-###### Article R751-2
-
-Les services compétents de la préfecture informent l'étranger, déjà admis à résider en France et qui souhaite solliciter la
-reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire, de la procédure de demande d'asile, de
-ses droits et obligations, eu égard à sa situation particulière, au cours de cette procédure, des conséquences que pourrait
-avoir le non-respect de ces obligations ou le refus de coopérer avec les autorités et des moyens dont il dispose pour l'aider
-à présenter sa demande. Cette information est effectuée dans une langue dont il est raisonnable de penser qu'il la comprend.
+L'office transmet la certification de la situation de famille et de l'état civil dans les meilleurs délais au ministre chargé
+de l'asile qui en informe l'autorité diplomatique ou consulaire.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
-
-  - Décret n°2011-1031 du 29 août 2011 - art. 7
-
-_Abrogé par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-###### Article R751-3
+#### Chapitre III : Documents de voyage<a id=408></a>
 
-Lorsqu'un étranger se voit reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en France
-et qu'il dispose déjà d'une carte de résident de longue durée-UE délivrée par un autre Etat membre de l'Union européenne, le
-préfet ou, à Paris, le préfet de police en informe les autorités de cet Etat afin de leur permettre de modifier en
-conséquence la rubrique " Remarques  "   de la carte de séjour de l'intéressé. Il en va de même lorsque l'étranger était déjà
-placé sous la protection de cet Etat et que cette dernière a été transférée à la France.
+###### Article R753-1
+
+Les titres de voyage délivrés en application des articles L. 753-1 et L. 753-2, L. 753-3 comportent les mentions énumérées au
+B de la section 2 de l'annexe 6-4 du présent code.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2014-301 du 6 mars 2014 - art. 6
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
-_Abrogé par_:
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L753-1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R812-4 (VD)
+
+
+###### Article R753-2
+
+Les titres de voyage mentionnés à l'article précédent sont délivrés par le préfet du département où réside habituellement
+l'étranger ou, lorsque ce dernier réside à Paris, le préfet de police.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
+
+
+###### Article R753-3
+
+La délivrance d'un titre de voyage implique la restitution du titre de voyage délivré antérieurement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
 
   - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 
-### TITRE VI : DISPOSITIONS APPLICABLES DANS CERTAINES COLLECTIVITÉS D'OUTRE-MER, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANçAISES<a id=374></a>
+###### Article R753-4
 
-#### Chapitre Ier : Dispositions applicables à Mayotte.<a id=375></a>
+L'étranger qui sollicite un titre de voyage présente à l'appui de sa demande :
+
+1° Le titre de séjour dont il est titulaire ;
+
+2° Deux photographies de face, tête nue, de format 3,5 cm × 4,5 cm, récentes et parfaitement ressemblantes ;
+
+3° Un justificatif de domicile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+
+###### Article R753-5
+
+Lorsque la demande est faite pour un mineur, le demandeur présente :
+
+1° Un document justifiant de la filiation du mineur ;
+
+2° Un document justifiant de sa qualité de représentant légal ;
+
+3° Deux photographies de face du mineur, tête nue, de format 3,5 cm × 4,5 cm, récentes et parfaitement ressemblantes ;
+
+4° Un justificatif de domicile ;
+
+5° Le cas échéant, tout document ou élément justifiant que le mineur est placé sous la protection de l'Office français de
+protection des réfugiés et apatrides.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+
+###### Article R753-6
+
+En dehors des cas de retrait prévus par la loi, le titre de voyage peut être retiré et doit être restitué par l'étranger
+lorsque son titulaire ne remplit plus les conditions auxquelles est subordonnée sa délivrance ou en cas d'acquisition de la
+nationalité française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+
+###### Article R753-7
+
+Le titulaire du titre de voyage est réadmis en France sur simple présentation de ce titre en cours de validité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 21
+
+
+### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=409></a>
+
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=410></a>
+
+###### Article D761-3
+
+La section 3 du chapitre IV du titre IV du présent livre n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 4
+
+
+###### Article R*761-2
+
+L'article R. * 742-1 n'est pas applicable à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+
 
 ###### Article R761-1
 
-Le présent livre est applicable à Mayotte sous réserve des dispositions suivantes : 
+Pour l'application du présent livre à Mayotte : 
 
-1° Au premier alinéa de l'article R. 742-1, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : "
-du 2° au 4° de l'article L. 741-4 " ; 
-
-2° Au troisième alinéa de l'article R. 742-2, les mots : " de droit commun applicables " sont remplacés par les mots : " du
-code du travail localement applicable " ; 
-
-3° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
-code du travail localement applicable ".
+1° Les articles R. 742-2 à R. 742-4 ne sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -32640,23 +35917,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-527 du 23 mai 2014 - art. 10
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna.<a id=376></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=411></a>
 
 ###### Article R* 762-2
 
 Le premier alinéa du I de l'article R. * 741-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du
-décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les
-départements d'Ile-de-France. 
+décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande
+d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
 
 Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérieur du territoire français" sont remplacés par
 les mots : "dans les îles Wallis et Futuna" et les mots : "préfet du département" sont remplacés par les mots :
@@ -32669,48 +35943,45 @@ _Cite_:
   - Décret n°2010-687 du 24 juin 2010
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-614 du 4 juin 2015 - art. 2
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
 
 
 ###### Article R762-1
 
-Le présent livre est applicable dans les îles Wallis et Futuna sous réserve des dispositions suivantes : 
+Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable dans les îles Wallis et Futuna dans sa
+rédaction résultant du décret n° 2015-1298 du 16 octobre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet
+2015 relative à la réforme du droit d'asile et relatif à la procédure applicable devant la Cour nationale du droit d'asile et
+sous réserve des adaptations suivantes : 
 
 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la cour siégeant dans les îles Wallis et Futuna ; 
+fonctionnement de formations de jugement de la cour siégeant dans les îles Wallis et Futuna ; 
 
-1° bis A l'article R. 723-1 : 
+2° Aux articles R. 711-1, R. 712-1 et R. 753-2, les mots : " le préfet du département où réside habituellement l'étranger ou,
+lorsque ce dernier réside à Paris, le préfet de police " sont remplacés par les mots : " l'administrateur supérieur des îles
+Wallis et Futuna " ; 
 
-a) Au quatrième alinéa, les mots " au préfet de département compétent et, à Paris, au préfet de police sont remplacés par les
-mots : " à l'administrateur supérieur des îles Wallis-et-Futuna ; 
+3° Aux articles R. 723-1, R. 723-4, R. 723-12, R. 723-17, R. 723-19, R. 741-2, R. 741-4 et R. 741-5, les mots : " préfet
+compétent " sont remplacés par les mots : " administrateur supérieur des îles Wallis et Futuna " ; 
 
-b) Au cinquième alinéa, les mots " le préfet sont remplacés par les mots : " le préfet sont remplacés par les mots : 
+4° Aux articles R. 723-14 et R. 723-15, les mots : " du préfet compétent " sont remplacés par les mots : " de
+l'administrateur supérieur des îles Wallis et Futuna " ; 
 
-" à l'administrateur supérieur des îles Wallis-et-Futuna ; 
+5° Aux articles R. 723-14, R. 741-6 et R. 743-5, les mots : " le préfet " sont remplacés par les mots : " l'administrateur
+supérieur des îles Wallis et Futuna " ; 
 
-2° Au troisième alinéa de l'article R. 723-2 : 
+6° Le 2° du II de l'article R. 723-19 n'est pas applicable ; 
 
-a) Les mots : " au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
-français de l'immigration et de l'intégration " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis
-et Futuna " ; 
+7° A l'article R. 723-21, les mots : " au préfet compétent, ainsi qu'au directeur général de l'Office français de
+l'immigration et de l'intégration " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna
+" ; 
 
-b) Les mots : " au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande " sont remplacés par
-les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande " ; 
+8° A l'article R. 723-22, les mots : " du préfet " sont remplacés par les mots : " de l'administrateur supérieur des îles
+Wallis et Futuna " et les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté de l'administrateur supérieur
+des îles Wallis et Futuna " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : " de l'article L. 551-1 "
-sont remplacés par les mots : " de l'article 48 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
-
-4° A l'article R. 723-4, les mots : " Le préfet compétent et, à Paris, le préfet de police peut " sont remplacés par les
-mots : 
-
-" L'administrateur supérieur des îles Wallis et Futuna peut " ; 
-
-5° A l'article R. 723-5, le mot : " préfectoral " est remplacé par les mots : " de l'administrateur supérieur des îles Wallis
-et Futuna " ; 
-
-6° A l'article R. 733-32 : 
+9° A l'article R. 733-32 : 
 
 a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
 français de l'immigration et de l'intégration " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis et
@@ -32720,103 +35991,76 @@ b) Au deuxième alinéa, les mots : " au préfet compétent ou, à Paris, au pr�
 " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna, lorsque celui-ci en fait la demande
 " ; 
 
-7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+10° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
 disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " à l'administrateur supérieur des
-îles Wallis et Futuna, qui dispose d'une semaine pour produire ses observations " et au second alinéa de l'article R. 733-40,
-les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots : " à l'administrateur
-supérieur des îles Wallis et Futuna " ;
+îles Wallis et Futuna, qui dispose d'une semaine pour produire ses observations " ; 
 
-8° A l'article R. 741-2 : 
+11° Au second alinéa de l'article R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont
+remplacés par les mots : " à l'administrateur supérieur des îles Wallis et Futuna " ; 
 
-a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
+12° A l'article R. 741-3 : 
 
-b) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
-l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
+a) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2000-371 du 26 avril 2000 " et les mots : " en France " sont remplacés par les mots : " dans les îles Wallis
+et Futuna " ; 
 
-c) Au 4°, les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du représentant de l'administrateur
-supérieur des îles Wallis et Futuna " ; 
+b) Au sixième alinéa, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des empreintes digitales de tous
+ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ; 
 
-d) Au dernier alinéa, les mots : " services de la préfecture " sont remplacés par les mots : " services de l'administrateur
-supérieur des îles Wallis et Futuna " ; 
+13° A l'article R. 741-4 : 
 
-9° A l'article R. 742-1 : 
+a) Au premier alinéa, les mots : " de la France " sont remplacés par les mots : " des îles Wallis et Futuna " ; 
 
-a) Au premier alinéa, les mots : " d'une validité d'un mois " sont remplacés par les mots : " d'une validité de trois mois
-" ; 
-
-b) Au premier alinéa, les mots : " du 1° au 4° de l'article L. 741-4 " sont remplacés par les mots : " du 2° au 4° de
-l'article L. 741-4 " ; 
-
-c) Au premier alinéa, il est ajouté aux mots : " l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6 "
-les mots : " et dans les conditions prévues par l'article L. 761-1 " ; 
-
-d) Au deuxième alinéa, les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
-
-e) Au premier et au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur
-supérieur des îles Wallis et Futuna " ; 
-
-f) A la fin du deuxième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de
-l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
-
-g) Au troisième alinéa, les mots : " quinze jours " sont remplacés par les mots : " un mois " ; 
-
-10° A l'article R. 742-2 : 
-
-a) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
+b) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
 îles Wallis et Futuna " ; 
 
-b) Au troisième alinéa, les mots : " de droit commun applicables " sont remplacés par les mots : " du droit du travail
-localement applicable " ; 
+c) Au premier alinéa, le mot : " autres " est supprimé ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : " de droit commun applicables " sont remplacés par les mots : " du
-droit du travail localement applicable " ; 
+14° A l'article R. 741-7, les mots : " aux dispositions des articles R. 111-13 à R. 111-23 " sont remplacés par les mots : "
+à l'article 50 de l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
 
-12° A l'article R. 742-5 : 
+15° A l'article R. 743-3 : 
 
-a) Au premier alinéa, les mots : " à l'article R. 314-2" sont remplacés par les mots : " par l'ordonnance n° 2000-371 du 26
-avril 2000 " ; 
+a) Au premier alinéa, les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 20 de l'ordonnance n°
+2000-371 du 26 avril 2000 " ; 
 
 b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
 îles Wallis et Futuna " ; 
 
 c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n°
-2000-271 du 26 avril 2000 " ; 
+2000-371 du 26 avril 2000 " ; 
 
-13° A l'article R. 742-6 : 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis
+et Futuna " et les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 20 de l'ordonnance n°
+2000-371 du 26 avril 2000 " ; 
 
-a) Les mots : " à l'article R. 313-1 " et : " aux articles R. 313-35 et R. 313-36 " sont remplacés par les mots : " par
-l'ordonnance n° 2000-371 du 26 avril 2000 " ; 
+16° A l'article R. 743-4 : 
 
-b) Les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 24 de l'ordonnance n° 2000-371 du 26 avril
-2000 " ; 
+a) Au premier alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n°
+2000-371 du 26 avril 2000 " ; 
 
-c) Les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n° 2000-371 du 26
-avril 2000 " ; 
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par l'administrateur supérieur des
+îles Wallis et Futuna " ; 
 
-14° A l'article R. 751-2 : 
+c) Au troisième alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " l'article 17 de l'ordonnance n°
+2000-371 du 26 avril 2000 " ; 
 
-a) Les mots : " en France " sont remplacés par les mots : " dans les îles Wallis et Futuna " ; 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis
+et Futuna " et les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 17 de l'ordonnance n°
+2000-371 du 26 avril 2000 " ; 
 
-b) Les mots : " de la préfecture " sont remplacés par les mots : " de l'administrateur des îles Wallis et Futuna ".
+17° A l'article R. 752-2, les mots : " à l'article L. 111-6 " sont remplacés par les mots : " à l'article 47 de l'ordonnance
+n° 2000-371 du 26 avril 2000 " ; 
+
+18° A l'article R. 752-3 : 
+
+a) Les mots : " le ministre chargé de l'asile " sont remplacés par les mots : " l'administrateur supérieur des îles Wallis et
+Futuna " ; 
+
+b) Les mots : " au ministre chargé de l'asile " sont remplacés par les mots : " à l'administrateur supérieur des îles Wallis
+et Futuna ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2000-371 du 26 avril 2000 - art. 24
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R751-2
 
 _Cité par_:
 
@@ -32826,18 +36070,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-527 du 23 mai 2014 - art. 15
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 18
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française.<a id=377></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=412></a>
 
 ###### Article R* 763-2
 
 Le premier alinéa du I de l'article R. * 741-1 est applicable en Polynésie française dans sa rédaction résultant du décret n°
-2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements
-d'Ile-de-France. 
+2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et
+pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
 
-Pour son application en Polynésie française, les mots : : " à l'intérieur du territoire français " sont remplacés par les
+Pour son application en Polynésie française, les mots : " à l'intérieur du territoire français " sont remplacés par les
 mots : " en Polynésie française " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de
 la République en Polynésie française ".
 
@@ -32845,154 +36089,125 @@ la République en Polynésie française ".
 
 _Cite_:
 
-  - Décret n°2010-687 du 24 juin 2010
+  - Décret n°2015-1177 du 24 septembre 2015
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-614 du 4 juin 2015 - art. 2
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
 
 
 ###### Article R763-1
 
-Le présent livre est applicable en Polynésie française sous réserve des dispositions suivantes : 
+Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable en Polynésie française dans sa rédaction
+résultant du décret n° 2015-1298 du 16 octobre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015 relative
+à la réforme du droit d'asile et relatif à la procédure applicable devant la Cour nationale du droit d'asile et sous réserve
+des adaptations suivantes : 
 
 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la cour siégeant en Polynésie française ; 
+fonctionnement de formations de jugement de la cour siégeant en Polynésie française ; 
 
-1° bis A l'article R. 723-1 : 
+2° Aux articles R. 711-1, R. 712-1 et R. 753-2, les mots : " le préfet du département où réside habituellement l'étranger ou,
+lorsque ce dernier réside à Paris, le préfet de police " sont remplacés par les mots : " le haut-commissaire de la République
+en Polynésie française " ; 
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police" sont remplacés par les
-mots : "au haut-commissaire de la République en Polynésie française" ; 
+3° Aux articles R. 723-1, R. 723-4, R. 723-12, R. 723-17, R. 723-19, R. 741-2, R. 741-4 et R. 741-5, les mots : " préfet
+compétent " sont remplacés par les mots : " haut-commissaire de la République en Polynésie française " ; 
 
-b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "le haut-commissaire de la République en Polynésie
-française" ; 
+4° Aux articles R. 723-14 et R. 723-15, les mots : " du préfet compétent " sont remplacés par les mots : " du haut-
+commissaire de la République en Polynésie française " ; 
 
-2° Au troisième alinéa de l'article R. 723-2 : 
+5° Aux articles R. 723-14, R. 741-6 et R. 743-5, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire
+de la République en Polynésie française " ; 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
-français de l'immigration et de l'intégration" sont remplacés par les mots : "au haut-commissaire de la République en
-Polynésie française" ; 
+6° A l'article R. 723-21 les mots : " au préfet compétent, ainsi qu'au directeur général de l'Office français de
+l'immigration et de l'intégration " sont remplacés par les mots : " au haut-commissaire de la République en Polynésie
+française " ; 
 
-b) Les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en font la demande" sont remplacés par
-les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la demande" ; 
+7° A l'article R. 723-22, les mots : " du préfet " sont remplacés par les mots : " du haut-commissaire de la République en
+Polynésie française " et les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la
+République en Polynésie française " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2000-372 du 26 avril 2000" ; 
+8° A l'article R. 733-32 : 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
-"Le haut-commissaire de la République en Polynésie française peut" ; 
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " le haut-commissaire de la République en
+Polynésie française " ; 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
-Polynésie française" ; 
+b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
+demande " ; 
 
-6° A l'article R. 733-32 : 
-
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l' Office
-français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
-Polynésie française" ; 
-
-b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "au haut-commissaire de la République en Polynésie française, lorsque celui-ci en fait la
-demande" ; 
-
-7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+9° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
 disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " au haut-commissaire de la
-République en Polynésie française, qui dispose d'une semaine pour produire ses observations " et au second alinéa de
-l'article R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots :
-" au haut-commissaire de la République en Polynésie française " ;
+République en Polynésie française, qui dispose d'une semaine pour produire ses observations " ; 
 
-8° A l'article R. 741-2 : 
+10° Au second alinéa de l'article R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont
+remplacés par les mots : " au haut-commissaire de la République en Polynésie française " ; 
 
-a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ; 
+11° A l'article R. 741-3 : 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2000-372 du 26 avril 2000" ; 
+a) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2000-372 du 26 avril 2000 " et les mots : " en France " sont remplacés par les mots : " en Polynésie
+française " ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
-Polynésie française" ; 
+b) Au sixième alinéa, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des empreintes digitales de tous
+ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
-la République en Polynésie française" ; 
+12° A l'article R. 741-4 : 
 
-9° A l'article R. 742-1 : 
+a) Au premier alinéa, les mots : " de la France " sont remplacés par les mots : " de la Polynésie française " ; 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ; 
+b) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ; 
+c) Au premier alinéa, le mot : " autres " est supprimé ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 763-1" ; 
+13° A l'article R. 741-7, les mots : " aux dispositions des articles R. 111-13 à R. 111-23 " sont remplacés par les mots : "
+à l'article 52 de l'ordonnance n° 2000-372 du 26 avril 2000 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Polynésie française" ; 
+14° A l'article R. 743-3 : 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
-la République en Polynésie française" ; 
+a) Au premier alinéa, les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 22 de l'ordonnance n°
+2000-372 du 26 avril 2000 " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
-l'ordonnance n° 2000-372 du 26 avril 2000" ; 
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ; 
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
+2000-372 du 26 avril 2000 " ; 
 
-10° A l'article R. 742-2 : 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire de la République en
+Polynésie française " et les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 22 de l'ordonnance
+n° 2000-372 du 26 avril 2000 " ; 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Polynésie française" ; 
+15° A l'article R. 743-4 : 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
-localement applicable" ; 
+a) Au premier alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n°
+2000-372 du 26 avril 2000 " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
-droit du travail localement applicable" ; 
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-12° A l'article R. 742-5 : 
+c) Au troisième alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance
+n° 2000-372 du 26 avril 2000 " ; 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2000-372 du 26
-avril 2000" ; 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire de la République en
+Polynésie française " et les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance
+n° 2000-372 du 26 avril 2000 " ; 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Polynésie française" ; 
+16° A l'article R. 752-2, les mots : " à l'article L. 111-6 " sont remplacés par les mots : " à l'article 49 de l'ordonnance
+n° 2000-372 du 26 avril 2000 " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
-2000-372 du 26 avril 2000" ; 
+17° A l'article R. 752-3 : 
 
-13° A l'article R. 742-6 : 
+a) Les mots : " le ministre chargé de l'asile " sont remplacés par les mots : " le haut-commissaire de la République en
+Polynésie française " ; 
 
-a) Les mots : "à l'article R. 313-1" et : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2000-372 du 26 avril 2000" ; 
-
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n° 2000-372 du 26 avril
-2000" ; 
-
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2000-372 du 26 avril
-2000" ;
-
-14° A l'article R. 751-2 :
-
-a) Les mots : "en France" sont remplacés par les mots : "en Polynésie française" ;
-
-b) Les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Polynésie française".
+b) Les mots : " au ministre chargé de l'asile " sont remplacés par les mots : " au haut-commissaire de la République en
+Polynésie français ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 18
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 4
-  - Ordonnance n°2000-372 du 26 avril 2000 - art. 50
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-20
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R733-22
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
 
 _Cité par_:
 
@@ -33001,16 +36216,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-527 du 23 mai 2014 - art. 15
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 18
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.<a id=378></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=413></a>
 
 ###### Article R* 764-2
 
 Le premier alinéa du I de l'article R. * 741-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n°
-2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements
-d'Ile-de-France. 
+2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et
+pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
 
 Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du territoire français " sont remplacés par les mots :
 " en Nouvelle-Calédonie " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la
@@ -33020,155 +36235,127 @@ République en Nouvelle-Calédonie ".
 
 _Cite_:
 
-  - Décret n°2010-687 du 24 juin 2010
+  - Décret n°2015-1177 du 24 septembre 2015
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-614 du 4 juin 2015 - art. 2
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
 
 
 ###### Article R764-1
 
-Le présent livre est applicable en Nouvelle-Calédonie sous réserve des dispositions suivantes : 
+Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable en Nouvelle-Calédonie dans sa rédaction
+résultant du décret n° 2015-1298 du 16 octobre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015 relative
+à la réforme du droit d'asile et relatif à la procédure applicable devant la Cour nationale du droit d'asile et sous réserve
+des adaptations suivantes : 
 
 1° Le président de la Cour nationale du droit d'asile peut prendre les mesures nécessaires à la constitution et au
-fonctionnement de sections de la cour siégeant en Nouvelle-Calédonie ; 
+fonctionnement de formations de jugement de la cour siégeant en Nouvelle-Calédonie ; 
 
-1° bis A l'article R. 723-1 : 
+2° Aux articles R. 711-1, R. 712-1 et R. 753-2, les mots : " le préfet du département où réside habituellement l'étranger ou,
+lorsque ce dernier réside à Paris, le préfet de police " sont remplacés par les mots : " le haut-commissaire de la République
+en Nouvelle-Calédonie " ;
 
-a) Au quatrième alinéa, les mots "au préfet de département compétent et, à Paris, au préfet de police" sont remplacés par les
-mots : "au haut-commissaire de la République en Nouvelle-Calédonie" ; 
+3° Aux articles R. 723-1, R. 723-4, R. 723-12, R. 723-17, R. 723-19, R. 741-2, R. 741-4 et R. 741-5, les mots : " préfet
+compétent  "  sont remplacés par les mots : " haut-commissaire de la République en Nouvelle-Calédonie "  ; 
 
-b) Au cinquième alinéa, les mots "le préfet" sont remplacés par les mots : "le haut-commissaire de la République en Nouvelle-
-Calédonie" ; 
+4° Aux articles R. 723-14 et R. 723-15, les mots : " du préfet compétent " sont remplacés par les mots : " le haut-
+commissaire de la République en Nouvelle-Calédonie " ; 
 
-2° Au troisième alinéa de l'article R. 723-2 : 
+5° Aux articles R. 723-14, R. 741-6 et R. 743-5, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire
+de la République en Polynésie française "  ; 
 
-a) Les mots : "au préfet de département compétent et, à Paris, au préfet de police, ainsi qu'au directeur de l'Office
-français de l'immigration et de l'intégration" sont remplacés par les mots : "au haut-commissaire de la République en
-Nouvelle-Calédonie" ; 
+6° Le 2° du II de l'article R. 723-19 n'est pas applicable ; 
 
-b) Au troisième alinéa de l'article, les mots : "au préfet intéressé et, à Paris, au préfet de police, lorsque ceux-ci en
-font la demande" sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci
-en fait la demande" ; 
+7° A l'article R. 723-21, les mots : " le préfet compétent, ainsi qu'au directeur général de l'Office français de
+l'immigration et de l'intégration " sont remplacés par les mots : " le haut-commissaire de la République en Nouvelle-
+Calédonie " ; 
 
-3° Au quatrième alinéa de l'article R. 723-2 et au premier alinéa de l'article R. 723-3, les mots : "de l'article L. 551-1"
-sont remplacés par les mots : "de l'article 50 de l'ordonnance n° 2002-388 du 20 mars 2002" ; 
+8° A l'article R. 723-22, les mots : " du préfet " sont remplacés par les mots : " du haut-commissaire de la République en
+Nouvelle-Calédonie " et les mots : " arrêté préfectoral " sont remplacés par les mots : " arrêté du haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
 
-4° A l'article R. 723-4, les mots : "Le préfet compétent et, à Paris, le préfet de police peut" sont remplacés par les mots :
-"Le haut-commissaire de la République en Nouvelle-Calédonie peut" ; 
+9° A l'article R. 733-32 : 
 
-5° A l'article R. 723-5, le mot : "préfectoral" est remplacé par les mots : "du haut-commissaire de la République en
-Nouvelle-Calédonie" ; 
+a) Au premier alinéa, les mots : " le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
+français de l'immigration et de l'intégration " sont remplacés par les mots : " le haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
 
-6° A l'article R. 733-32 : 
+b) Au deuxième alinéa, les mots : " au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande
+" sont remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
+demande " ; 
 
-a) Au premier alinéa, les mots : "le préfet compétent et, à Paris, le préfet de police, ainsi que le directeur de l'Office
-français de l'immigration et de l'intégration" sont remplacés par les mots : "le haut-commissaire de la République en
-Nouvelle-Calédonie" ; 
-
-b) Au deuxième alinéa, les mots : "au préfet compétent et, à Paris, au préfet de police, lorsque ceux-ci en font la demande"
-sont remplacés par les mots : "au haut-commissaire de la République en Nouvelle-Calédonie, lorsque celui-ci en fait la
-demande" ; 
-
-7° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
+10° Au premier alinéa de l'article R. 733-39, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile, qui
 disposent d'une semaine pour produire leurs observations " sont remplacés par les mots : " au haut-commissaire de la
-République en Nouvelle-Calédonie, qui dispose d'une semaine pour produire ses observations " et au second alinéa de l'article
-R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont remplacés par les mots : " au
-haut-commissaire de la République en Nouvelle-Calédonie " ;
+République en Nouvelle-Calédonie, qui dispose d'une semaine pour produire ses observations " ; 
 
-8° A l'article R. 741-2 : 
+11° Au second alinéa de l'article R. 733-40, les mots : " au ministre de l'intérieur et au ministre chargé de l'asile " sont
+remplacés par les mots : " au haut-commissaire de la République en Nouvelle-Calédonie " ; 
 
-a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ; 
+12° A l'article R. 741-3 : 
 
-b) Au 2°, les mots : "dans l'arrêté prévu par l'article R. 211-1" sont remplacés par les mots : "au 1° de l'article 4 de
-l'ordonnance n° 2002-388 du 20 mars 2002" ; 
+a) Au 2°, les mots : " dans l'arrêté prévu par l'article R. 211-1 " sont remplacés par les mots : " au 1° de l'article 4 de
+l'ordonnance n° 2002-388 du 20 mars 2002 " et les mots : " en France " sont remplacés par les mots : " en Nouvelle-Calédonie
+" ; 
 
-c) Au 4°, les mots : "arrêté préfectoral" sont remplacés par les mots : "arrêté du haut-commissaire de la République en
-Nouvelle-Calédonie" ; 
+b) Au sixième alinéa, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des empreintes digitales de tous
+ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ; 
 
-d) Au dernier alinéa, les mots : "services de la préfecture" sont remplacés par les mots : "services du haut-commissaire de
-la République en Nouvelle-Calédonie" ; 
+13° A l'article R. 741-4 : 
 
-9° A l'article R. 742-1 : 
+a) Au premier alinéa, les mots : " de la France " sont remplacés par les mots : " de la Nouvelle-Calédonie " ; 
 
-a) Au premier alinéa, les mots : "d'une validité d'un mois" sont remplacés par les mots : "d'une validité de trois mois" ; 
+b) Au premier alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Polynésie française " ; 
 
-b) Au premier alinéa, les mots : "du 1° au 4° de l'article L. 741-4" sont remplacés par les mots : "du 2° au 4° de l'article
-L. 741-4" ; 
+c) Au premier alinéa, le mot : " autres " est supprimé ; 
 
-c) Au premier alinéa, il est ajouté aux mots : "l'article L. 741-4 sans préjudice des dispositions de l'article L. 742-6" les
-mots : "et dans les conditions prévues par l'article L. 764-1" ; 
+14° A l'article R. 741-7, les mots : " aux dispositions des articles R. 111-13 à R. 111-23 " sont remplacés par les mots : "
+à l'article 52 de l'ordonnance n° 2002-388 du 20 mars 2002 " ; 
 
-d) Au deuxième alinéa, les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ; 
+15° A l'article R. 743-3 : 
 
-e) Au premier et au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de
-la République en Nouvelle-Calédonie" ; 
+a) Au premier alinéa, les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 22 de l'ordonnance n°
+2002-388 du 20 mars 2002 " ; 
 
-f) A la fin du deuxième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de
-l'ordonnance n° 2002-388 du 20 mars 2002" ; 
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
 
-g) Au troisième alinéa, les mots : "quinze jours" sont remplacés par les mots : "un mois" ; 
+c) Au troisième alinéa, les mots : " à l'article L. 314-4 " sont remplacés par les mots : " à l'article 26 de l'ordonnance n°
+2002-388 du 20 mars 2002 " ; 
 
-10° A l'article R. 742-2 : 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire de la République en
+Nouvelle-Calédonie " et les mots : " à l'article L. 314-11 " sont remplacés par les mots : " à l'article 22 de l'ordonnance
+n° 2002-388 du 20 mars 2002 " ; 
 
-a) Au premier alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Nouvelle-Calédonie" ; 
+16° A l'article R. 743-4 : 
 
-b) Au troisième alinéa, les mots : "de droit commun applicables" sont remplacés par les mots : "du droit du travail
-localement applicable" ; 
+a) Au premier alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance n°
+2002-388 du 20 mars 2002 " ; 
 
-11° Au deuxième alinéa de l'article R. 742-3, les mots : "de droit commun applicables" sont remplacés par les mots : "du
-droit du travail localement applicable" ; 
+b) Au deuxième alinéa, après les mots : " mis en possession " sont insérés les mots : " par le haut-commissaire de la
+République en Nouvelle-Calédonie " ; 
 
-12° A l'article R. 742-5 : 
+c) Au troisième alinéa, les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance
+n° 2002-388 du 20 mars 2002 " ; 
 
-a) Au premier alinéa, les mots : "à l'article R. 314-2" sont remplacés par les mots : "par l'ordonnance n° 2002-388 du 20
-mars 2002" ; 
+d) Au quatrième alinéa, les mots : " le préfet " sont remplacés par les mots : " le haut-commissaire de la République en
+Nouvelle-Calédonie " et les mots : " à l'article L. 313-13 " sont remplacés par les mots : " à l'article 18 de l'ordonnance
+n° 2002-388 du 20 mars 2002 " ; 
 
-b) Au deuxième alinéa, après les mots : "mis en possession" sont insérés les mots : "par le haut-commissaire de la République
-en Nouvelle-Calédonie" ; 
+17° A l'article R. 752-2, les mots : " à l'article L. 111-6 " sont remplacés par les mots : " à l'article 49 de l'ordonnance
+n° 2002-388 du 20 mars 2002 " ; 
 
-c) Au troisième alinéa, les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n°
-2002-388 du 20 mars 2002" ; 
+18° A l'article R. 752-3 : 
 
-13° A l'article R. 742-6 : 
+a) Les mots : " le ministre chargé de l'asile " sont remplacés par les mots : " le haut-commissaire de la République en
+Nouvelle-Calédonie " ; 
 
-a) Les mots : "à l'article R. 313-1" et les mots : "aux articles R. 313-35 et R. 313-36" sont remplacés par les mots : "par
-l'ordonnance n° 2002-388 du 20 mars 2002" ; 
-
-b) Les mots : "à l'article L. 314-4" sont remplacés par les mots : "à l'article 26 de l'ordonnance n° 2002-388 du 20 mars
-2002" ; 
-
-c) Les mots : "à l'article L. 313-13" sont remplacés par les mots : "à l'article 18 de l'ordonnance n° 2002-388 du 20 mars
-2002" ;
-
-14° A l'article R. 751-2 :
-
-a) Les mots : "en France" sont remplacés par les mots : "en Nouvelle-Calédonie" ;
-
-b) les mots : "de la préfecture" sont remplacés par les mots : "du haut-commissaire de la République en Nouvelle-Calédonie".
+b) Les mots : " au ministre chargé de l'asile " sont remplacés par les mots : " au haut-commissaire de la République en
+Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 18
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 26
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 4
-  - Ordonnance n°2002-388 du 20 mars 2002 - art. 50
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*742-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-6
 
 _Cité par_:
 
@@ -33177,58 +36364,64 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-527 du 23 mai 2014 - art. 15
+  - Décret n°2015-1298 du 16 octobre 2015 - art. 18
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises.<a id=379></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=414></a>
 
 ###### Article R765-1
 
-I. - L'étranger qui arrive dans les Terres australes et antarctiques françaises et demande son admission au titre de l'asile
-en application de l'article L. 765-1 présente à l'appui de sa demande :
+I.-L'étranger qui arrive ou séjourne dans les Terres australes et antarctiques françaises et demande l'asile en application
+de l'article L. 765-1 présente à l'appui de sa demande : 
 
-1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ;
+1° Les indications relatives à son état civil et, le cas échéant, à celui de son conjoint et de ses enfants à charge ; 
 
 2° Les documents mentionnés à l'article 7 de la loi n° 71-569 du 15 juillet 1971 relative aux Terres australes et
 antarctiques françaises, justifiant qu'il est entré régulièrement dans les Terres australes et antarctiques françaises ou, à
-défaut, toutes indications portant sur les conditions de son entrée et ses itinéraires de voyage depuis son pays d'origine.
+défaut, toutes indications portant sur les conditions de son entrée et ses itinéraires de voyage depuis son pays d'origine. 
 
-II. - Le récépissé délivré, en application de l'article L. 765-1, à l'étranger qui sollicite dans les Terres australes et
-antarctiques françaises son admission au titre de l'asile porte la mention "Demande d'asile formulée dans les Terres
-australes et antarctiques françaises, en vue de démarches auprès des autorités compétentes de La Réunion".
+II.-Le récépissé délivré, en application de l'article L. 765-1, à l'étranger qui sollicite dans les Terres australes et
+antarctiques françaises l'asile porte la mention " Demande d'asile formulée dans les Terres australes et antarctiques
+françaises, en vue de démarches auprès des autorités compétentes de La Réunion ". 
 
 Le rapport d'audition de l'étranger est transmis à l'administrateur supérieur des Terres australes et antarctiques
-françaises. Celui-ci l'adresse au préfet de La Réunion et à l'Office français de protection des réfugiés et apatrides.
+françaises. Celui-ci l'adresse au préfet de La Réunion et à l'Office français de protection des réfugiés et apatrides. 
 
-III. - L'autorité administrative mentionnée au premier alinéa de l'article L. 765-1 est l'administrateur supérieur des Terres
-australes et antarctiques françaises.
+III.-L'autorité administrative mentionnée au premier alinéa de l'article L. 765-1 est l'administrateur supérieur des Terres
+australes et antarctiques françaises. 
 
-IV. - L'autorité administrative mentionnée à l'article 12 de la loi n° 71-569 du 15 juillet 1971 est l'administrateur
-supérieur des Terres australes et antarctiques françaises.
+IV.-L'autorité administrative mentionnée à l'article 12 de la loi n° 71-569 du 15 juillet 1971 est l'administrateur supérieur
+des Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°71-569 du 15 juillet 1971 - art. 12 (T)
-  - Loi n°71-569 du 15 juillet 1971 - art. 7 (M)
-  - Code de l'entrée et du séjour des étrangers et du  - art. L765-1 (V)
+  - Loi n°71-569 du 15 juillet 1971 - art. 12
+  - Loi n°71-569 du 15 juillet 1971 - art. 7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L765-1
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=380></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=415></a>
 
 ###### Article R* 766-3
 
-Le premier alinéa du I de l'article R.* 741-1 est applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant
-du décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les
-départements d'Ile-de-France.
+Le présent livre, à l'exception du second alinéa du I et du II de l'article R. * 741-1 et de l'article R. * 742-1, est
+applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015
+relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination
+de l'Etat responsable de l'examen de cette demande. 
 
-Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : "à l'intérieur du territoire français" sont remplacés
-par les mots : "sur le territoire de Saint-Barthélemy" ou : "sur le territoire de Saint-Martin".
+Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : " à l'intérieur du territoire français " sont remplacés
+par les mots : " sur le territoire de Saint-Barthélemy " ou " sur le territoire de Saint-Martin " et les mots : " préfet de
+département " sont remplacés par les mots : " représentant de l'Etat dans la collectivité ".
 
 **Liens relatifs à cet article**
 
@@ -33236,28 +36429,55 @@ _Cité par_:
 
   - Décret n°2009-906 du 24 juillet 2009 - art. 1-1 (VD)
 
+_Modifié par_:
+
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+
 _Cite_:
 
-  - Décret n°2010-687 du 24 juin 2010
-
-_Créé par_:
-
-  - Décret n°2015-614 du 4 juin 2015 - art. 2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-###### Article R766-1
+###### Article R*766-5
 
-Le présent livre est applicable à Saint-Barthélemy sous réserve des dispositions suivantes :
-
-1° Les références à la France sont remplacées par les références à la collectivité de Saint-Barthélemy ;
-
-2° Les références au territoire français sont remplacées par les références au territoire de Saint-Barthélemy.
+L'article R. * 742-1 n'est pas applicable à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2011-1049 du 6 septembre 2011 - art. 62
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+
+
+###### Article R766-1
+
+Le présent livre, à l'exception des chapitres II et IV du titre IV est applicable à Saint-Barthélemy dans sa rédaction
+résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015
+relative à la réforme de l'asile et sous réserve des adaptations suivantes : 
+
+1° Les références à la France sont remplacées par les références à la collectivité de Saint-Barthélemy ; 
+
+2° Au sixième alinéa de l'article R. 741-3, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des
+empreintes digitales de tous ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ; 
+
+3° Au premier alinéa de l'article R. 741-4, le mot : " autres " est supprimé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2015-925 du 29 juillet 2015
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 _Cité par_:
 
@@ -33267,30 +36487,97 @@ _Cité par_:
 
 ###### Article R766-2
 
-Le présent livre est applicable à Saint-Martin sous réserve des dispositions suivantes :
+Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable à Saint-Martin dans sa rédaction résultant
+du décret n° 2015-1166 du 21 septembre 2015 pris pour l'application de la loi n°2015-925 du 29 juillet 2015 relative à la
+réforme de l'asile et sous réserve des adaptations suivantes :
 
-1° Les références à la France sont remplacées par les références à la collectivité de Saint-Martin ;
-
-2° Les références au territoire français sont remplacées par les références au territoire de Saint-Martin.
+1° Les références à la France sont remplacées par les références à la collectivité de Saint-Martin.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2011-1049 du 6 septembre 2011 - art. 62
+  - Loi n°2015-925 du 29 juillet 2015
+
+_Modifié par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 _Cité par_:
 
   - Décret n°2019-141 du 27 février 2019 - art. 51 (V)
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=381></a>
+###### Article R766-4
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=382></a>
+Pour l'application du présent livre à Saint-Pierre-et-Miquelon : 
 
-#### Chapitre unique<a id=383></a>
+1° Les références à la France sont remplacées par les références à la collectivité de Saint-Pierre-et-Miquelon ; 
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=384></a>
+2° Au sixième alinéa de l'article R. 741-3, les mots : “ s'il est âgé de 14 ans au moins, il est procédé au relevé des
+empreintes digitales de tous ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 ” sont supprimés ; 
+
+3° Au premier alinéa de l'article R. 741-4, le mot : “ autres ” est supprimé ; 
+
+4° Les chapitres II et IV du titre IV ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
+
+
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=416></a>
+
+###### Article R*767-2
+
+L'article R. * 742-1 n'est pas applicable à la Guadeloupe, en Guyane, à la Martinique et à La Réunion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+
+
+###### Article R767-1
+
+Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion : 
+
+1° Les articles R. 742-2 à R. 742-4 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 22
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+
+
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=417></a>
+
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=418></a>
+
+#### Chapitre unique<a id=419></a>
+
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=420></a>
 
 ###### Article R811-1
 
@@ -33415,9 +36702,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=385></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=421></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=386></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=422></a>
 
 ###### Article R811-5
 
@@ -33525,7 +36812,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=387></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=423></a>
 
 ###### Article R811-10
 
@@ -33593,7 +36880,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=388></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=424></a>
 
 ###### Article R811-13
 
@@ -33647,7 +36934,7 @@ _Modifié par_:
   - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=389></a>
+##### Section 3 : Dispositions diverses<a id=425></a>
 
 ###### Article R811-15
 
@@ -33703,7 +36990,144 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=390></a>
+### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=426></a>
+
+#### Chapitre unique<a id=427></a>
+
+###### Article R812-1
+
+La demande de statut d'apatride est déposée à l'Office français de protection des réfugiés et apatrides. Elle est rédigée en
+français sur un imprimé établi par l'office. L'imprimé doit être signé et accompagné de deux photographies d'identité
+récentes et, le cas échéant, du document de voyage, des documents d'état civil et de la copie du document de séjour en cours
+de validité.
+
+Lorsque la demande introduite est complète, l'office en accuse réception sans délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+
+###### Article R812-2
+
+L'office peut convoquer le demandeur à un entretien personnel. 
+
+Le demandeur est entendu dans la langue de son choix, sauf s'il existe une autre langue qu'il comprend et dans laquelle il
+est à même de communiquer clairement. 
+
+Lorsque l'entretien du demandeur nécessite l'assistance d'un interprète, sa rétribution est prise en charge par l'office. 
+
+L'office peut procéder à un entretien en ayant recours à un moyen de communication audiovisuelle, dans les conditions prévues
+par l'article R. 723-9.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R723-9
+
+
+###### Article R812-3
+
+La décision du directeur général de l'office est notifiée à l'intéressé par lettre recommandée avec demande d'avis de
+réception. 
+
+En cas de décision reconnaissant la qualité d'apatride, le directeur général de l'office en informe le préfet compétent en
+vue de la délivrance de la carte de séjour temporaire mentionnée au 10° de l'article L. 313-11.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+
+
+###### Article R812-4
+
+I.-En application de l'article L. 812-5, les articles R. 752-1 à R. 752-3 relatifs à la réunification familiale et à
+l'intérêt supérieur de l'enfant sont applicables aux étrangers reconnus apatrides. 
+
+II.-Les dispositions des articles R. 753-1 à R. 753-7 sont applicables aux documents de voyage qui peuvent être délivrés en
+application de l'article L. 812-7 aux étrangers reconnus apatrides.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L812-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L812-7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R752-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R753-1
+
+
+###### Article R812-5
+
+Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour
+l'application de la loi relative à la réforme de l'asile, dans les îles Wallis et Futuna sous réserve des dispositions
+suivantes : les mots : “ le préfet compétent ” sont remplacés par les mots : “ l'administrateur supérieur des îles Wallis et
+Futuna ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2015-1166 du 21 septembre 2015
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+
+###### Article R812-6
+
+Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour
+l'application de la loi relative à la réforme de l'asile, en Polynésie française sous réserve des dispositions suivantes :
+les mots : “ le préfet compétent ” sont remplacés par les mots : “ le haut-commissaire de la République en Polynésie
+française ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2015-1166 du 21 septembre 2015
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+
+###### Article R812-7
+
+Le présent titre est applicable, dans sa rédaction résultant du décret n° 2015-1166 du 21 septembre 2015 pris pour
+l'application de la loi relative à la réforme de l'asile, en Nouvelle-Calédonie sous réserve des dispositions suivantes : les
+mots : “l e préfet compétent ” sont remplacés par les mots : “ le haut-commissaire de la République en Nouvelle-Calédonie ”.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2015-1166 du 21 septembre 2015
+
+_Créé par_:
+
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 23
+
+
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=428></a>
 
 ###### Article R821-1
 
@@ -33721,9 +37145,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=391></a>
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=429></a>
 
-#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=392></a>
+#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=430></a>
 
 ###### Article R831-1
 
@@ -33741,7 +37165,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R313-23 à R313-32
 
 
-#### Chapitre II : Mayotte<a id=393></a>
+#### Chapitre II : Mayotte<a id=431></a>
 
 ###### Article R832-1
 
@@ -33861,9 +37285,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
 
 
-# Annexes<a id=394></a>
+# Annexes<a id=432></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=395></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=433></a>
 
 ###### Article Annexe 6.3
 
@@ -33951,7 +37375,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=396></a>
+## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=434></a>
 
 ###### Article Annexe 6-4
 
@@ -34187,7 +37611,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage de plus d'un an
+B. - Mentions figurant sur les titres de voyage 
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -34209,15 +37633,20 @@ a) Titre de voyage pour réfugié (TVR) :
 
 9° Pays d'origine de l'intéressé ;
 
-10° Autorité de délivrance ;
+10° Pays exclus ; 
 
-11° Numéro du titre de voyage ;
+11° Autorité de délivrance ;
 
-12° Signature du titulaire.
+12° Numéro du titre de voyage ;
+
+13° Signature du titulaire ;
+
+14° Numéro d'enregistrement dans le système AGDREF (application de gestion des dossiers des ressortissants étrangers en
+France).
 
 b) Titre de voyage pour apatride (TVA) :
 
-Les données mentionnées sont celles figurant au a.
+Les données mentionnées sont celles figurant au a, à l'exception du 10°.
 
 c) Titre d'identité et de voyage (TIV) :
 
@@ -34319,7 +37748,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1082 du 29 novembre 2013 - art. 9
+  - Décret n°2015-1166 du 21 septembre 2015 - art. 24
 
 _Cité par_:
 
@@ -34332,7 +37761,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
 
 
-## Annexe 6-8 mentionnée à l'article R. 611-36<a id=397></a>
+## Annexe 6-8 mentionnée à l'article R. 611-36<a id=435></a>
 
 ###### Article Annexe 6-8
 
@@ -34411,5 +37840,179 @@ _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D611-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
+
+
+## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=436></a>
+
+###### Article Annexe 7-1
+
+BARÈME DE L'ALLOCATION POUR DEMANDEUR D'ASILE 
+
+Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+COMPOSITION FAMILIALE 
+
+</th>
+      <th>
+
+MONTANT JOURNALIER 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 personne 
+
+</td>
+      <td align="center">
+
+6,80 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 personnes 
+
+</td>
+      <td align="center">
+
+10,20 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 personnes 
+
+</td>
+      <td align="center">
+
+13,60 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 personnes 
+
+</td>
+      <td align="center">
+
+17,00 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 personnes 
+
+</td>
+      <td align="center">
+
+20,40 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 personnes 
+
+</td>
+      <td align="center">
+
+23,80 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 personnes 
+
+</td>
+      <td align="center">
+
+27,20 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 personnes 
+
+</td>
+      <td align="center">
+
+30,60 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 personnes 
+
+</td>
+      <td align="center">
+
+34,00 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+10 personnes 
+
+</td>
+      <td align="center">
+
+37,40 € 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Un montant journalier additionnel de 4,20 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
+charge, auquel aucune place d'hébergement ne peut être proposée dans un des lieux mentionnés à l'article L. 744-3 et qui
+n'est pas hébergé en application des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles.
+
+**Nota:**
+
+Conseil d'Etat, décision n° 394819 du 23 décembre 2016 (ECLI:FR:CECHR:2016:394819.20161223), Art. 1 : Le décret du 21 octobre
+2015 relatif à l'allocation pour demandeur d'asile est annulé en tant que son article 2 ne fixe pas au dernier alinéa de
+l'annexe 7-1 du code de l'entrée et du séjour des étrangers et du droit d'asile un montant journalier additionnel suffisant
+pour permettre aux demandeurs d'asile adultes ayant accepté une offre de prise en charge et auxquels aucune place
+d'hébergement ne peut être proposée de disposer d'un logement sur le marché privé de la location. Cette annulation prendra
+effet à compter de la notification de la présente décision.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-26 (M)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (V)
+  - Code de l'action sociale et des familles - art. L345-2-2 (V)
 
 
