@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -17827,8 +17827,8 @@ _Cite_:
 Les ressortissants qui remplissent les conditions mentionnées à l'article L. 121-1 doivent être munis de l'un des deux
 documents prévus pour l'entrée sur le territoire français par l'article R. 121-1. 
 
-L'assurance maladie mentionnée à l'article L. 121-1 doit couvrir les prestations prévues aux articles L. 321-1 et L. 331-2 du
-code de la sécurité sociale. 
+L'assurance maladie mentionnée à l'article L. 121-1 doit couvrir les prestations prévues aux articles L. 160-8, L. 321-1 et
+L. 160-9 du code de la sécurité sociale. 
 
 Lorsqu'il est exigé, le caractère suffisant des ressources est apprécié en tenant compte de la situation personnelle de
 l'intéressé. En aucun cas, le montant exigé ne peut excéder le montant forfaitaire du revenu de solidarité active mentionné à
@@ -17851,7 +17851,7 @@ continuent à rechercher un emploi et qu'ils ont des chances réelles d'être en
 
 _Modifié par_:
 
-  - Décret n°2015-1709 du 21 décembre 2015 - art. 3
+  - Décret n°2015-1865 du 30 décembre 2015 - art. 11 (V)
 
 _Cité par_:
 
@@ -17862,8 +17862,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-6
-  - Code de la sécurité sociale. - art. L321-1
-  - Code de la sécurité sociale. - art. L331-2
+  - Code de la sécurité sociale. - art. L160-8 (V)
+  - Code de la sécurité sociale. - art. L160-9 (V)
+  - Code de la sécurité sociale. - art. L321-1 (V)
   - Code de la sécurité sociale. - art. L815-1
   - Code de l'action sociale et des familles - art. L262-2
 
