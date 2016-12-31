@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3614,21 +3614,21 @@ _Cite_:
 
 Tout employeur qui embauche un travailleur étranger ou qui accueille un salarié détaché temporairement par une entreprise non
 établie en France dans les conditions prévues au titre VI du livre II de la première partie du code du travail acquitte, lors
-de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe. 
+de la première entrée en France de cet étranger ou lors de sa première admission au séjour en qualité de salarié, une taxe.
 
 Lorsque l'embauche intervient pour une durée supérieure ou égale à douze mois, le montant de cette taxe est égal à 55 % du
-salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5 fois le salaire minimum de croissance. 
+salaire versé à ce travailleur étranger, pris en compte dans la limite de 2,5 fois le salaire minimum de croissance.
 
 Lorsque l'embauche intervient pour un emploi temporaire d'une durée supérieure à trois mois et inférieure à douze mois, le
 montant de cette taxe, fixé par décret, varie selon le niveau du salaire dans des limites comprises entre 50 euros et 300
-euros. 
+euros.
 
 Lorsque l'embauche intervient pour un emploi à caractère saisonnier, le montant de cette taxe est modulé selon la durée de
 l'embauche à raison de 50 euros par mois d'activité salariée complet ou incomplet. Chaque embauche donne lieu à
-l'acquittement de la taxe. 
+l'acquittement de la taxe.
 
 Lorsque l'embauche intervient pour un jeune professionnel recruté dans le cadre d'un accord bilatéral d'échanges de jeunes
-professionnels, le montant de cette taxe est fixé par décret dans des limites comprises entre 50 et 300 €. 
+professionnels, le montant de cette taxe est fixé par décret dans des limites comprises entre 50 et 300 €.
 
 Sont exonérés de la taxe prévue au premier alinéa les employeurs des citoyens de l'Union européenne mentionnés au troisième
 alinéa de l'article L. 121-2, les organismes de recherche publics, les établissements d'enseignement supérieur délivrant un
@@ -3636,10 +3636,10 @@ diplôme conférant un grade de master, les fondations de coopération scientifi
 scientifique et les fondations reconnues d'utilité publique du secteur de la recherche agréées conformément au 4° de
 l'article L. 313-20 qui embauchent, pour une durée supérieure à trois mois, un ressortissant étranger aux fins de mener des
 travaux de recherche ou de dispenser un enseignement de niveau universitaire, quels que soient la durée du contrat et le
-montant de la rémunération. 
+montant de la rémunération.
 
-La taxe prévue au présent article est perçue comme en matière de recettes des établissements publics nationaux à caractère
-administratif. 
+L'Office français de l'immigration et de l'intégration mentionné à l'article L. 121-13 du code de l'action sociale et des
+familles est chargé de constater, de liquider et de recouvrer la taxe prévue au présent article pour le compte de l'Etat.
 
 Les modalités d'application du présent article sont précisées, en tant que de besoin, par décret.
 
@@ -3657,12 +3657,12 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 36 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 89
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
 
 
 ###### Article L311-16
