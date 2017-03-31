@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -436,8 +436,8 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#271)
         - [Chapitre III : Dispositions applicables en Polynésie française (art. R* 763-2 à R763-1)](#432)
         - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R* 764-2 à R764-1)](#433)
         - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#434)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. R* 766-3 à R766-4)](#435)
-        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. R*767-2 à R767-1)](#436)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-4)](#435)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#436)
     - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#437)
       - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#438)
         - [Chapitre unique (art. R811-1 à R811-16)](#439)
@@ -36370,15 +36370,16 @@ _Cite_:
 ###### Article D744-24
 
 Le demandeur d'allocation fait connaître à l'Office français de l'immigration et de l'intégration toutes informations
-relatives à son domicile, à sa situation de famille, à ses activités professionnelles, à ses ressources et à ses biens ainsi
-qu'à ceux des membres du foyer. Il fait connaître à l'office tout changement intervenu dans l'un ou l'autre de ces éléments,
-le cas échéant sous couvert de l'opérateur d'hébergement ou de la structure chargée de son accompagnement.
+relatives à son domicile, à ses modalités d'hébergement, à sa situation de famille, à ses activités professionnelles, à ses
+ressources et à ses biens ainsi qu'à ceux des membres du foyer. Il fait connaître à l'office tout changement intervenu dans
+l'un ou l'autre de ces éléments, le cas échéant sous couvert de l'opérateur d'hébergement ou de la structure chargée de son
+accompagnement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+  - Décret n°2017-430 du 29 mars 2017 - art. 1
 
 
 ###### Article D744-25
@@ -36599,38 +36600,45 @@ _Cite_:
 ###### Article D744-36
 
 Le bénéfice de l'allocation pour demandeur d'asile peut être retiré par l'Office français de l'immigration et de
-l'intégration si le bénéficiaire a dissimulé tout ou partie de ses ressources, au sens de l'article D. 744-21, a fourni des
-informations mensongères relatives à sa situation familiale, a eu un comportement violent ou a commis des manquements graves
-au règlement du lieu d'hébergement. 
+l'intégration en cas de fraude ou si le bénéficiaire a dissimulé tout ou partie de ses ressources, au sens de l'article D.
+744-21, a fourni des informations mensongères relatives à sa situation familiale, a eu un comportement violent ou a commis
+des manquements graves au règlement du lieu d'hébergement. 
+
+Le bénéfice du montant additionnel versé aux personnes non hébergées prévu au premier alinéa de l'article D. 744-26 peut être
+retiré par l'office si le bénéficiaire a fourni des informations mensongères relatives à son domicile ou ses modalités
+d'hébergement. 
 
 L'interruption du versement de l'allocation prend effet à compter de la date de la décision de retrait.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+  - Décret n°2017-430 du 29 mars 2017 - art. 2
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-21
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-26
 
 
 ###### Article D744-37
 
 Le bénéfice de l'allocation pour demandeur d'asile peut être refusé par l'Office français de l'immigration et de
-l'intégration : 
+l'intégration :
 
-1° En cas de demande de réexamen de la demande d'asile ; 
+1° En cas de demande de réexamen de la demande d'asile ;
 
 2° Si le demandeur, sans motif légitime, n'a pas présenté sa demande d'asile dans le délai prévu au 3° du III de l'article L.
-723-2.
+723-2 ;
+
+3° En cas de fraude.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+  - Décret n°2017-430 du 29 mars 2017 - art. 3
 
 _Cite_:
 
@@ -36730,13 +36738,14 @@ _Cité par_:
 L'Office français de protection des réfugiés et apatrides communique, sans délai, à l'Office français de l'immigration et de
 l'intégration les informations suivantes : la date d'introduction de la demande d'asile, la procédure suivie, la date de la
 décision de clôture ou d'irrecevabilité, la date et le sens de la décision définitive prise par l'Office français de
-protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile.
+protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile ainsi que la date de sa
+notification.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+  - Décret n°2017-430 du 29 mars 2017 - art. 4
 
 
 ###### Article D744-43
@@ -37596,6 +37605,37 @@ _Modifié par_:
 
 #### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=435></a>
 
+###### Article D766-1-1
+
+La section 3 du chapitre IV du titre IV du présent livre est applicable à Saint-Barthélemy dans sa rédaction résultant du
+décret n° 2017-430 du 29 mars 2017 portant diverses dispositions relatives à l'allocation pour demandeur d'asile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-430 du 29 mars 2017 - art. 5
+
+
+###### Article D766-2-1
+
+La section 3 du chapitre IV du titre IV du présent livre est applicable à Saint-Martin dans sa rédaction résultant du décret
+n° 2017-430 du 29 mars 2017 portant diverses dispositions relatives à l'allocation pour demandeur d'asile, sous réserve des
+adaptations suivantes : 
+
+1° A l'article D. 744-26, la référence à l'annexe 7-1 est remplacée par la référence au II de la même annexe ;
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-430 du 29 mars 2017 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-26
+
+
 ###### Article R* 766-3
 
 Le présent livre, à l'exception du second alinéa du I et du II de l'article R. * 741-1 et de l'article R. * 742-1, est
@@ -37733,6 +37773,23 @@ _Cite_:
 
 
 #### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=436></a>
+
+###### Article D767-3
+
+Pour l'application de la section 3 du chapitre IV du titre IV du présent livre en Guyane : 
+
+1° A l'article D. 744-26, la référence à l'annexe 7-1 est remplacée par la référence au II de la même annexe ;
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-430 du 29 mars 2017 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-26
+
 
 ###### Article R*767-2
 
@@ -39162,165 +39219,225 @@ _Cite_:
 
 ###### Article Annexe 7-1
 
-BARÈME DE L'ALLOCATION POUR DEMANDEUR D'ASILE 
+I. – Barème de l'allocation pour demandeur d'asile
 
-Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant : 
+Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant :
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-COMPOSITION FAMILIALE 
-
-</th>
+COMPOSITION FAMILIALE</th>
       <th>
 
-MONTANT JOURNALIER 
-
-</th>
+MONTANT JOURNALIER</th>
     </tr>
     <tr>
       <td align="center">
 
-1 personne 
-
-</td>
+1 personne</td>
       <td align="center">
 
-6,80 € 
-
-</td>
+6,80 €</td>
     </tr>
     <tr>
       <td align="center">
 
-2 personnes 
-
-</td>
+2 personnes</td>
       <td align="center">
 
-10,20 € 
-
-</td>
+10,20 €</td>
     </tr>
     <tr>
       <td align="center">
 
-3 personnes 
-
-</td>
+3 personnes</td>
       <td align="center">
 
-13,60 € 
-
-</td>
+13,60 €</td>
     </tr>
     <tr>
       <td align="center">
 
-4 personnes 
-
-</td>
+4 personnes</td>
       <td align="center">
 
-17,00 € 
-
-</td>
+17,00 €</td>
     </tr>
     <tr>
       <td align="center">
 
-5 personnes 
-
-</td>
+5 personnes</td>
       <td align="center">
 
-20,40 € 
-
-</td>
+20,40 €</td>
     </tr>
     <tr>
       <td align="center">
 
-6 personnes 
-
-</td>
+6 personnes</td>
       <td align="center">
 
-23,80 € 
-
-</td>
+23,80 €</td>
     </tr>
     <tr>
       <td align="center">
 
-7 personnes 
-
-</td>
+7 personnes</td>
       <td align="center">
 
-27,20 € 
-
-</td>
+27,20 €</td>
     </tr>
     <tr>
       <td align="center">
 
-8 personnes 
-
-</td>
+8 personnes</td>
       <td align="center">
 
-30,60 € 
-
-</td>
+30,60 €</td>
     </tr>
     <tr>
       <td align="center">
 
-9 personnes 
-
-</td>
+9 personnes</td>
       <td align="center">
 
-34,00 € 
-
-</td>
+34,00 €</td>
     </tr>
     <tr>
       <td align="center">
 
-10 personnes 
-
-</td>
+10 personnes</td>
       <td align="center">
 
-37,40 € 
-
-</td>
+37,40 €</td>
     </tr>
   </tbody>
 </table>
 
-Un montant journalier additionnel de 4,20 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
+Un montant journalier additionnel de 5,40 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
+charge, auquel aucune place d'hébergement ne peut être proposée dans un des lieux mentionnés au 1° de l'article L. 744-3 et
+qui n'est pas hébergé en application des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles.
+(1)
+
+II. – Barème applicable en Guyane et à Saint-Martin
+
+Le montant journalier de l'allocation pour demandeur d'asile est défini en application du barème suivant :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+COMPOSITION FAMILIALE</th>
+      <th>
+
+MONTANT JOURNALIER</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 personne</td>
+      <td align="center">
+
+3,80 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2 personnes</td>
+      <td align="center">
+
+7,20 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3 personnes</td>
+      <td align="center">
+
+10,60 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4 personnes</td>
+      <td align="center">
+
+14,00 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5 personnes</td>
+      <td align="center">
+
+17,40 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6 personnes</td>
+      <td align="center">
+
+20,80 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+7 personnes</td>
+      <td align="center">
+
+23,20 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+8 personnes</td>
+      <td align="center">
+
+27,60 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+9 personnes</td>
+      <td align="center">
+
+30,00 €</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+10 personnes</td>
+      <td align="center">
+
+34,40 €</td>
+    </tr>
+  </tbody>
+</table>
+
+Un montant journalier additionnel de 4,70 € est versé à chaque demandeur d'asile adulte ayant accepté l'offre de prise en
 charge, auquel aucune place d'hébergement ne peut être proposée dans un des lieux mentionnés à l'article L. 744-3 et qui
 n'est pas hébergé en application des dispositions de l'article L. 345-2-2 du code de l'action sociale et des familles.
 
 **Nota:**
 
-Conseil d'Etat, décision n° 394819 du 23 décembre 2016 (ECLI:FR:CECHR:2016:394819.20161223), Art. 1 : Le décret du 21 octobre
-2015 relatif à l'allocation pour demandeur d'asile est annulé en tant que son article 2 ne fixe pas au dernier alinéa de
-l'annexe 7-1 du code de l'entrée et du séjour des étrangers et du droit d'asile un montant journalier additionnel suffisant
-pour permettre aux demandeurs d'asile adultes ayant accepté une offre de prise en charge et auxquels aucune place
-d'hébergement ne peut être proposée de disposer d'un logement sur le marché privé de la location. Cette annulation prendra
-effet à compter de la notification de la présente décision.
+(1) Conformément à la décision du Conseil d'Etat n
+  <sup>o</sup> 410280 du 17 janvier 2018 (ECLI:FR:CECHR:2018:410280.20180117), Art. 1er : Le 2° de l’article 6 du décret du
+29 mars 2017 est annulé en tant qu’il ne fixe pas au dernier alinéa de l’annexe 7-1 du code de l’entrée et du séjour des
+étrangers et du droit d’asile un montant journalier additionnel suffisant pour permettre aux demandeurs d’asile adultes ayant
+accepté une offre de prise en charge et auxquels aucune place d’hébergement ne peut être proposée de disposer d’un logement
+sur le marché privé de la location. Art. 3 : Sous réserve des actions contentieuses engagées à la date de la présente
+décision, l’annulation prononcée à l’article 1er de la présente décision prendra effet au 1er juin 2018. Les effets produits
+avant cette date par les dispositions annulées du 2° de l’article 6 du décret du 29 mars 2017 sont définitifs.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 2
+  - Décret n°2017-430 du 29 mars 2017 - art. 6
 
 _Cité par_:
 
@@ -39328,7 +39445,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (V)
-  - Code de l'action sociale et des familles - art. L345-2-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+  - Code de l'action sociale et des familles - art. L345-2-2
 
 
