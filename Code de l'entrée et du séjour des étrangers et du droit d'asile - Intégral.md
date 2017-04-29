@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -414,11 +414,11 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#271)
             - [Sous-section 7 : Question prioritaire de constitutionnalité (art. R*733-34-1 à R*733-34-8)](#410)
             - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#411)
           - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#412)
-      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1 à D744-44)](#413)
+      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1 à R744-52)](#413)
         - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1 à R741-7)](#414)
         - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R*742-1 à R742-5)](#415)
         - [Chapitre III : Droit au maintien sur le territoire français (art. R743-1 à R743-5)](#416)
-        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à D744-44)](#417)
+        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à R744-52)](#417)
           - [Section 1 : Dispositif national d'accueil (art. R744-1 à R744-13)](#418)
             - [Sous-section 1 : Domiciliation des demandeurs d'asile (art. R744-1 à R744-4)](#419)
             - [Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile (art. R744-5 à R744-13)](#420)
@@ -427,38 +427,40 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#271)
             - [Sous-section 1 : Conditions d'attribution (art. D744-17 à D744-30)](#423)
             - [Sous-section 2 : Gestion et versement (art. D744-31 à D744-40)](#424)
             - [Sous-section 3 : Communication d'informations (art. D744-41 à D744-44)](#425)
-      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. R752-1 à R753-7)](#426)
-        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#427)
-        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#428)
-      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#429)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#430)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R* 762-2 à R762-1)](#431)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. R* 763-2 à R763-1)](#432)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R* 764-2 à R764-1)](#433)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#434)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-4)](#435)
-        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#436)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#437)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#438)
-        - [Chapitre unique (art. R811-1 à R811-16)](#439)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#440)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#441)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#442)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#443)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#444)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#445)
-      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#446)
-        - [Chapitre unique (art. R812-1 à R812-7)](#447)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#448)
-      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#449)
-        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#450)
-        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#451)
-        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#452)
-  - [Annexes (art. Annexe 6.3 à Annexe 7-1)](#453)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#454)
-    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#455)
-    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#456)
-    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#457)
+          - [Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile (art. R744-45 à R744-52)](#426)
+      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. R752-1 à R753-7)](#427)
+        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#428)
+        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#429)
+      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#430)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#431)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R* 762-2 à R762-1)](#432)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. R* 763-2 à R763-1)](#433)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R* 764-2 à R764-1)](#434)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#435)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-4)](#436)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#437)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#438)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#439)
+        - [Chapitre unique (art. R811-1 à R811-16)](#440)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#441)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#442)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#443)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#444)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#445)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#446)
+      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#447)
+        - [Chapitre unique (art. R812-1 à R812-7)](#448)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#449)
+      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#450)
+        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#451)
+        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#452)
+        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#453)
+  - [Annexes (art. Annexe 6.3 à Annexe 7-2)](#454)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#455)
+    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#456)
+    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#457)
+    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#458)
+    - [Annexe 7-2 (mentionnée à l'article R744-46) (art. Annexe 7-2)](#459)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -36822,9 +36824,234 @@ _Créé par_:
   - Décret n°2015-1329 du 21 octobre 2015 - art. 1
 
 
-### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=426></a>
+##### Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile<a id=426></a>
 
-#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=427></a>
+###### Article R744-45
+
+Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé DNA (application de gestion du
+dispositif national d'accueil des demandeurs d'asile), mis en œuvre par l'Office français de l'immigration et de
+l'intégration.
+
+Ce traitement a pour finalités de permettre à l'Office :
+
+1° De coordonner la gestion des lieux d'hébergement dédiés aux demandeurs d'asile et de recenser les offres d'hébergement
+existantes et disponibles ;
+
+2° De procurer les conditions matérielles d'accueil réservées aux demandeurs d'asile, en évaluant leurs besoins ainsi que
+leur vulnérabilité ;
+
+3° D'assurer l'orientation des demandeurs d'asile et leur répartition dans les centres d'hébergement dédiés, conformément aux
+schémas national et régionaux d'accueil des demandeurs d'asile et en fonction des caractéristiques de l'offre et du profil
+des demandeurs ;
+
+4° De vérifier l'acceptation des conditions matérielles d'accueil, et notamment de l'offre d'hébergement, par les demandeurs
+d'asile ;
+
+5° D'allouer l'allocation aux demandeurs d'asile éligibles, aux personnes titulaires d'un titre de séjour remis sur le
+fondement de l'article L. 316-1 ainsi qu'aux bénéficiaires de la protection temporaire, dans les conditions prévues par
+l'article L. 744-10 ;
+
+6° D'assurer l'accompagnement social et administratif des demandeurs d'asile ;
+
+7° De gérer les entrées et les sorties des lieux d'hébergement visés à l'article L. 349-3 du code de l'action sociale et des
+familles ;
+
+8° D'informer le demandeur d'asile sur les dispositifs d'intégration, de retour et de réinsertion que gère l'Office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-10 (V)
+  - Code de l'action sociale et des familles - art. L349-3
+
+
+###### Article R744-46
+
+Les données à caractère personnel et informations relatives aux demandeurs d'asile enregistrées dans le traitement DNA sont
+énumérées à l'annexe 7-2 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 7-2 (V)
+
+
+###### Article R744-47
+
+Sont autorisés à accéder à tout ou partie des données et informations enregistrées dans le traitement, dans la limite de
+leurs attributions et dans la limite du besoin d'en connaître : 
+
+1° Les agents de l'Office français de l'immigration et de l'intégration chargés de la gestion du dispositif national
+d'accueil, affectés à la direction de l'asile, à l'agence comptable et aux bureaux chargés de l'asile au sein de ses
+directions territoriales, individuellement désignés et spécialement habilités à cette fin par le directeur général de
+l'office ; 
+
+2° Les agents chargés de l'accueil des demandeurs d'asile relevant des services centraux et déconcentrés des ministères de
+l'intérieur et des affaires sociales, individuellement désignés et spécialement habilités par le directeur général de
+l'Office français de l'immigration et de l'intégration ; 
+
+3° Les agents des structures mentionnées aux articles L. 744-1 et L. 744-3 et L. 349-2 du code de l'action sociale et des
+familles, individuellement désignés et spécialement habilités par le directeur général de l'Office français de l'immigration
+et de l'intégration. Ces agents accèdent à l'ensemble des données relatives aux personnes suivies par leur structure, à
+l'exception des données relatives à l'allocation pour demandeur d'asile mentionnées aux 2°, 3° et 4° du III de l'annexe 7-2
+du présent code, et aux seules données relatives à leur établissement mentionnées aux IV ou V de l'annexe 7-2 du présent
+code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (V)
+  - Code de l'action sociale et des familles - art. L349-2
+
+
+###### Article R744-48
+
+Peuvent être destinataires de tout ou partie des données et informations enregistrées dans le traitement :
+
+1° Au titre du paiement de l'allocation pour demandeurs d'asile et en application de l'article D. 744-41, les agents de
+l'agence de services et de paiement, individuellement désignés et spécialement habilités par leur directeur général et pour
+les données prévues aux 1° à 7° et 9° à 11° du I, et au 4° du III de l'annexe 7-2 du présent code ;
+
+2° Au titre de l'orientation des demandeurs d'asile et en application des troisième et quatrième alinéas de l'article L.
+744-7 et en cas de refus de l'offre d'hébergement par le demandeur d'asile, les personnes appelées à intervenir dans
+l'instruction des demandes de prise en charge, l'évaluation des demandeurs et leur orientation vers un hébergement, affectées
+au sein des services intégrés d'accueil et d'orientation du ou des départements concernés, individuellement désignées et
+spécialement habilitées par le préfet, pour les seules données prévues aux 1° à 5° du I, 4° à 6° du II et 5° à 8° du III de
+l'annexe 7-2 du présent code ;
+
+3° En application des sixième et septième alinéas de l'article L. 744-6, les agents chargés de l'organisation matérielle des
+entretiens ainsi que les agents instructeurs chargés de l'audition des demandeurs d'asile, affectés au sein de l'Office
+français de protection des réfugiés et apatrides, en cas de détection d'une vulnérabilité pouvant nécessiter des modalités
+particulières d'examen de la demande par cet organisme, sous réserve du consentement du demandeur d'asile et pour les seules
+données et informations mentionnées au 1° du III de l'annexe 7-2 du présent code ;
+
+4° En application du second alinéa de l'article R. 744-14, les personnels de santé de l'Office français de l'immigration et
+de l'intégration pour les données d'état civil du demandeur d'asile et les données relatives à la situation administrative du
+demandeur d'asile mentionnées aux I et II de l'annexe 7-2 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-41 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-7 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-14 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-50 (V)
+
+
+###### Article R744-49
+
+Les données et informations enregistrées dans le traitement DNA sont conservées pour une durée maximale de deux ans à compter
+de la notification de la décision définitive sur la demande d'asile, au sens de l'article L. 743-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-1
+
+
+###### Article R744-50
+
+A l'exception de celles mentionnées dans le présent article, les données du traitement DNA ne font pas l'objet d'une cession
+ni d'une interconnexion, mise en relation ou rapprochement avec un autre traitement.
+
+Les données d'état civil du demandeur d'asile et les données relatives à la situation administrative du demandeur d'asile
+mentionnées aux I et II de l'annexe 7-2 du présent code sont transmises à l'Office français de l'immigration et de
+l'intégration par l'intermédiaire de l'application AGDREF 2, mise en œuvre par la direction générale des étrangers en France
+du ministère de l'intérieur.
+
+Ces mêmes données sont transmises aux personnels de santé de l'Office français de l'immigration et de l'intégration par
+l'intermédiaire du traitement DNA quand le médecin de l'office est saisi pour émettre un avis dans les conditions fixées par
+l'article R. 744-14 du présent code.
+
+Les transmissions mentionnées à l'article R. 744-48 sont effectuées par voie électronique sécurisée, selon des modalités
+garantissant la confidentialité des données transmises.
+
+L'Office français de protection des réfugiés et apatrides conserve dans le traitement INEREC les données et informations
+mentionnées au 1° du III de l'annexe 7-2 du présent code, transmises en application du 3° de l'article R. 744-48. Elles sont
+mises à jour dans ce traitement lors de la transmission par le demandeur, ou l'Office français de l'immigration et de
+l'intégration, d'éléments nouveaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-14 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+
+
+###### Article R744-51
+
+Les consultations du traitement DNA, ainsi que les opérations de création ou de modification de données, font l'objet d'un
+enregistrement comprenant l'identité du consultant, la date, l'heure et l'objet de la consultation. Ces informations sont
+conservées pendant trois ans.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+
+###### Article R744-52
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exercent auprès du directeur général de l'Office français de l'immigration et
+de l'intégration. Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés ne s'applique pas au traitement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 38
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 1
+
+
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=427></a>
+
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=428></a>
 
 ###### Article R752-1
 
@@ -36895,7 +37122,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (VD)
 
 
-#### Chapitre III : Documents de voyage<a id=428></a>
+#### Chapitre III : Documents de voyage<a id=429></a>
 
 ###### Article R753-1
 
@@ -37010,9 +37237,9 @@ _Créé par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 
-### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=429></a>
+### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=430></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=430></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=431></a>
 
 ###### Article D761-3
 
@@ -37061,7 +37288,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=431></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=432></a>
 
 ###### Article R* 762-2
 
@@ -37243,7 +37470,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-2 (V)
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=432></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=433></a>
 
 ###### Article R* 763-2
 
@@ -37424,7 +37651,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-2 (V)
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=433></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=434></a>
 
 ###### Article R* 764-2
 
@@ -37607,7 +37834,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-2 (V)
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=434></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=435></a>
 
 ###### Article R765-1
 
@@ -37650,7 +37877,7 @@ _Modifié par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=435></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=436></a>
 
 ###### Article D766-1-1
 
@@ -37727,60 +37954,41 @@ _Cite_:
 
 ###### Article R766-1
 
-Le présent livre, à l'exception des chapitres II et IV du titre IV est applicable à Saint-Barthélemy dans sa rédaction
-résultant du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant
-diverses dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations
-suivantes : 
+Le présent livre à l'exception du chapitre II du titre IV, est applicable à Saint-Barthélemy dans sa rédaction résultant du
+décret n° 2017-665 du 27 avril 2017 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des
+étrangers en France et sous réserve des adaptations suivantes :
 
-1° Les références à la France sont remplacées par les références à la collectivité de Saint-Barthélemy ; 
+1° Les références à la France sont remplacées par les références à la collectivité de Saint-Barthélemy ;
 
-2° Au sixième alinéa de l'article R. 741-3, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des
-empreintes digitales de tous ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ; 
+2°  Au sixième alinéa de l'article R. 741-3, les mots : " s'il est âgé de 14 ans au moins, il est procédé au relevé des
+empreintes digitales de tous ses doigts, conformément au règlement (UE) n° 603/2013 du 26 juin 2013 " sont supprimés ;
 
 3° Au premier alinéa de l'article R. 741-4, le mot : " autres " est supprimé.
-
-**Nota:**
-
-Conformément au II de l'article 39 du décret n° 2016-1457 du 28 octobre 2016, les mots : " du décret n° 2015-1166 du 21
-septembre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile " sont
-remplacés par les mots : " du décret n° 2016-1457 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars
-2016 relative au droit des étrangers en France et portant diverses dispositions relatives à la lutte contre l'immigration
-irrégulière ".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2016-274 du 7 mars 2016
-  - Code de l'entrée et du séjour des étrangers et ... - art. R741-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R741-4 (V)
-
-_Modifié par_:
-
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 17
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 39
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
 
 _Cité par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 3
+
+_Modifié par_:
 
   - Décret n°2017-665 du 27 avril 2017 - art. 3
 
 
 ###### Article R766-2
 
-Le présent livre, à l'exception des chapitres II et IV du titre IV, est applicable à Saint-Martin dans sa rédaction résultant
-du décret n° 2016-1456 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars 2016 et portant diverses
-dispositions relatives à l'entrée, au séjour et au travail des étrangers en France et sous réserve des adaptations
-suivantes :
+Le présent livre à l'exception du chapitre II du titre IV, est applicable à Saint-Martin dans sa rédaction résultant du
+décret n° 2017-665 du 27 avril 2017 et portant diverses dispositions relatives à l'entrée, au séjour et au travail des
+étrangers en France et sous réserve des adaptations suivantes :
 
 1° Les références à la France sont remplacées par les références à la collectivité de Saint-Martin.
-
-**Nota:**
-
-Conformément au II de l'article 39 du décret n° 2016-1457 du 28 octobre 2016, les mots : " du décret n° 2015-1166 du 21
-septembre 2015 pris pour l'application de la loi n° 2015-925 du 29 juillet 2015 relative à la réforme du droit d'asile " sont
-remplacés par les mots : " du décret n° 2016-1457 du 28 octobre 2016 pris pour l'application de la loi n° 2016-274 du 7 mars
-2016 relative au droit des étrangers en France et portant diverses dispositions relatives à la lutte contre l'immigration
-irrégulière ".
 
 **Liens relatifs à cet article**
 
@@ -37790,8 +37998,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 17
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 39
+  - Décret n°2017-665 du 27 avril 2017 - art. 3
 
 
 ###### Article R766-4
@@ -37819,7 +38026,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
 
 
-#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=436></a>
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=437></a>
 
 ###### Article D767-3
 
@@ -37870,13 +38077,13 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=437></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=438></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=438></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=439></a>
 
-#### Chapitre unique<a id=439></a>
+#### Chapitre unique<a id=440></a>
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=440></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=441></a>
 
 ###### Article R811-1
 
@@ -38001,9 +38208,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=441></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=442></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=442></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=443></a>
 
 ###### Article R811-5
 
@@ -38111,7 +38318,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=443></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=444></a>
 
 ###### Article R811-10
 
@@ -38179,7 +38386,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=444></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=445></a>
 
 ###### Article R811-13
 
@@ -38233,7 +38440,7 @@ _Modifié par_:
   - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=445></a>
+##### Section 3 : Dispositions diverses<a id=446></a>
 
 ###### Article R811-15
 
@@ -38289,9 +38496,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=446></a>
+### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=447></a>
 
-#### Chapitre unique<a id=447></a>
+#### Chapitre unique<a id=448></a>
 
 ###### Article R812-1
 
@@ -38426,7 +38633,7 @@ _Créé par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 23
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=448></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=449></a>
 
 ###### Article R821-1
 
@@ -38444,9 +38651,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=449></a>
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=450></a>
 
-#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=450></a>
+#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=451></a>
 
 ###### Article R831-1
 
@@ -38468,7 +38675,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
 
 
-#### Chapitre II : Mayotte<a id=451></a>
+#### Chapitre II : Mayotte<a id=452></a>
 
 ###### Article R832-1
 
@@ -38645,7 +38852,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
 
 
-#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=452></a>
+#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=453></a>
 
 ###### Article R833-1
 
@@ -38701,9 +38908,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-75 (V)
 
 
-# Annexes<a id=453></a>
+# Annexes<a id=454></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=454></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=455></a>
 
 ###### Article Annexe 6.3
 
@@ -38791,7 +38998,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=455></a>
+## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=456></a>
 
 ###### Article Annexe 6-4
 
@@ -39185,7 +39392,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
 
 
-## Annexe 6-8 mentionnée à l'article R. 611-36<a id=456></a>
+## Annexe 6-8 mentionnée à l'article R. 611-36<a id=457></a>
 
 ###### Article Annexe 6-8
 
@@ -39266,7 +39473,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
 
 
-## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=457></a>
+## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=458></a>
 
 ###### Article Annexe 7-1
 
@@ -39498,5 +39705,165 @@ _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
   - Code de l'action sociale et des familles - art. L345-2-2
+
+
+## Annexe 7-2 (mentionnée à l'article R744-46)<a id=459></a>
+
+###### Article Annexe 7-2
+
+LISTE DES DONNÉES À CARACTÈRE PERSONNEL ET INFORMATIONS SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DU
+DISPOSITIF NATIONAL D'ACCUEIL DES DEMANDEURS D'ASILE, DÉNOMMÉE DNA
+
+I. – Etat-civil du demandeur d'asile (ou du titulaire d'un titre de séjour remis sur le fondement de l'article L. 316-1 ou du
+bénéficiaire de la protection temporaire dans les conditions de l'article L. 744-10) :
+
+1° Nom de naissance, nom d'usage, prénom ;
+
+2° Date de naissance ;
+
+3° Sexe ;
+
+4° Lieu de naissance ;
+
+5° Nationalité ;
+
+6° Date d'entrée en France ;
+
+7° Conditions d'entrée en France ;
+
+8° Langue (s) parlée (s) ;
+
+9° Situation familiale (célibataire, marié, divorcé, séparé, concubin, séparé) ;
+
+10° Le cas échéant, nom et prénom du conjoint et des enfants du demandeur ;
+
+11° Coordonnées du demandeur : adresse postale, téléphone, courriel.
+
+II. – Situation administrative du demandeur d'asile au regard du séjour et de la procédure d'asile :
+
+1° Date d'enregistrement de la demande d'asile ;
+
+2° Type de procédure d'asile (normale, accélérée, réexamen, Dublin) ;
+
+3° Numéros AGDREF, INEREC et éventuellement SKIPPER correspondant au recours formé devant la Cour nationale du droit d'asile
+du demandeur d'asile ;
+
+4° Date de délivrance de l'attestation de demande d'asile ;
+
+5° Durée de validité de l'attestation d'asile ;
+
+6° Dates de renouvellement ou de retrait de l'attestation de demande d'asile ;
+
+7° Données relatives à la procédure d'instruction de la demande d'asile : date d'introduction auprès de l'Office français de
+protection des réfugiés et apatrides ; sens et dates de décision et de notification des décisions définitives de l'Office
+français de protection des réfugiés et apatrides et de la Cour nationale du droit d'asile ; sens et dates de décisions et de
+notification de recevabilité ou d'irrecevabilité des demandes de réexamens ; dates de clôture et de réouverture des dossiers
+de demandes d'asile ;
+
+8° Date de transfert vers l'Etat membre responsable ou du constat de fuite, pour les demandeurs relevant de la procédure
+prévue par le règlement n° 604-2013 du 26 juin 2013 ;
+
+9° Date de l'obligation de quitter le territoire français.
+
+III. – Conditions d'accueil du demandeur d'asile :
+
+1° Données de détection de la vulnérabilité des demandeurs d'asile prévues au deuxième alinéa de l'article L. 744-6 et
+relatives aux besoins d'adaptation des conditions d'accueil, telles que précisées dans l'arrêté prévu à l'article R. 744-14,
+saisies sous la forme d'un choix oui/ non, à l'exception de données de santé à caractère personnel pertinentes qui n'auraient
+pas été volontairement communiquées par le demandeur d'asile ;
+
+2° Avis du médecin de l'Office français de l'immigration et de l'intégration prévu à l'article R. 744-14 relatif à
+l'adaptation des conditions d'accueil ;
+
+3° Niveau et type de ressources du demandeur ;
+
+4° Coordonnées bancaires du demandeur (ou du titulaire d'un titre de séjour remis sur le fondement de l'article L. 316-1 ou
+du bénéficiaire de la protection temporaire dans les conditions de l'article L. 744-10) : organisme bancaire, numéro IBAN,
+numéro BIC, numéro de carte Office français de l'immigration et de l'intégration remise au demandeur, montants versés au
+demandeur au titre de l'allocation pour demandeur d'asile ;
+
+5° Lieu et typologie de l'hébergement proposé au demandeur d'asile ;
+
+6° Date de notification de l'offre d'hébergement et de la décision d'acceptation, du constat de non-présentation dans le lieu
+d'hébergement ou de refus du demandeur ;
+
+7° Dates d'entrée et de sortie dans le lieu d'hébergement ;
+
+8° Modalités d'entrée dans les lieux d'hébergement et de sortie de ces lieux (qu'il s'agisse d'un lieu d'hébergement dédié
+aux demandeurs d'asile au sens de l'article L. 744-3 ou d'un hébergement dans le cadre des dispositions de l'article L.
+345-2-2 du code de l'action sociale et des familles ;
+
+9° Dates d'affiliation du demandeur à l'assurance maladie, de visite médicale à l'entrée ;
+
+10° Demandes de logement déposées (dates, organismes) ;
+
+11° Dates des suspensions, refus, retraits et éventuelles réouvertures des conditions matérielles d'accueil aux demandeurs
+d'asile ;
+
+12° Dates de sollicitation et d'obtention de l'aide juridictionnelle ;
+
+13° Dates d'entretien avec l'Office français de protection des réfugiés et apatrides et d'audience avec la Cour nationale du
+droit d'asile ;
+
+14° Dates de demande d'une aide au retour volontaire et date d'acceptation ou de refus de cette demande ;
+
+15° Dates de signature du contrat d'intégration républicaine et de convocation à cette fin.
+
+IV. – Lieux d'hébergement et d'accompagnement des demandeurs d'asile visés aux articles L. 744-1 et L. 744-3 :
+
+1° Nom du lieu d'hébergement ;
+
+2° Adresse du lieu d'hébergement ;
+
+3° Date d'ouverture et capacité d'accueil du lieu d'hébergement ;
+
+4° Type du lieu d'hébergement (collectif, diffus, nombre de places adaptés aux personnes à mobilité réduite, proximité avec
+des équipements médicaux) ;
+
+5° Coordonnées du responsable du lieu d'hébergement (nom, prénom, téléphone, adresse courriel) ;
+
+6° Coordonnées de l'opérateur gestionnaire du lieu d'hébergement (nom, téléphone, adresse courriel) ;
+
+7° Nombre et typologie des places vacantes dans le lieu d'hébergement.
+
+V. – Lieux d'hébergement visés à l'article L. 349-2 du code de l'action sociale et des familles :
+
+1° Nom du lieu d'hébergement ;
+
+2° Adresse du lieu d'hébergement ;
+
+3° Date d'ouverture et capacité d'accueil du lieu d'hébergement ;
+
+4° Type du lieu d'hébergement (collectif, diffus, nombre de places adaptés aux personnes à mobilité réduite, proximité avec
+des équipements médicaux) ;
+
+5° Coordonnées du responsable du lieu d'hébergement (nom, prénom, téléphone, adresse courriel) ;
+
+6° Coordonnées de l'opérateur gestionnaire du lieu d'hébergement (nom, téléphone, adresse courriel) ;
+
+7° Nombre et typologie des places vacantes dans le lieu d'hébergement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-665 du 27 avril 2017 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-10 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-6 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-14 (V)
+  - Code de l'action sociale et des familles - art. L345-2-2
+  - Code de l'action sociale et des familles - art. L349-2
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-46 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-47 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
 
 
