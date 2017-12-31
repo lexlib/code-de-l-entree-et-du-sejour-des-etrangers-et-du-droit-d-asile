@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -1807,20 +1807,21 @@ _Cite_:
 
 ###### Article L213-6
 
-Lorsqu'un refus d'entrée a été prononcé, et à compter de cette décision, les frais de prise en charge de l'étranger non
-ressortissant d'un Etat membre de l'Union européenne, pendant le délai nécessaire à son réacheminement, ainsi que les frais
-de réacheminement, incombent à l'entreprise de transport qui l'a débarqué en France.
+Lorsqu'un refus d'entrée a été prononcé, et à compter de cette décision jusqu'à la sortie de la zone d'attente, les frais de
+prise en charge de l'étranger non ressortissant d'un Etat membre de l'Union européenne ainsi que les frais de réacheminement
+incombent à l'entreprise de transport qui l'a débarqué en France. Il en est de même à compter de la décision de maintien en
+zone d'attente prise dans les cas prévus au cinquième alinéa de l'article L. 221-1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 45-2658 1945-11-02 art. 35 ter, al. 5
-
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 148
 
 _Cité par_:
 
@@ -3648,31 +3649,31 @@ _Cite_:
 
 ###### Article L311-18
 
-La délivrance et le renouvellement d'un titre de séjour aux étrangers mentionnés aux deuxième et dernière phrases du deuxième
-alinéa de l'article L. 313-12, aux articles L. 316-1, L. 316-3, L. 316-4 ou au dernier alinéa de l'article L. 431-2 sont
-exonérés de la perception des taxes prévues aux articles L. 311-13 et L. 311-14 et du droit de timbre prévu à l'article L.
-311-16.
+La délivrance, le renouvellement d'un titre de séjour et la fourniture d'un duplicata d'un titre de séjour aux étrangers
+mentionnés aux deuxième et dernière phrases du deuxième alinéa de l'article L. 313-12, aux articles L. 316-1, L. 316-3, L.
+316-4 ou au dernier alinéa de l'article L. 431-2 sont exonérés de la perception des taxes prévues aux articles L. 311-13 et
+L. 311-14 et du droit de timbre prévu à l'article L. 311-16.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-873 du 4 août 2014 - art. 45
 
 _Cité par_:
 
   - Arrêté du 14 avril 2017 - art.
   - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 40
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-12 (M)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (M)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-14
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-16
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-12
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L431-2
 
 
 #### Chapitre II : La commission du titre de séjour<a id=32></a>
@@ -15271,25 +15272,29 @@ Le demandeur d'asile qui a accepté les conditions matérielles d'accueil propos
 bénéficie d'une allocation pour demandeur d'asile s'il satisfait à des conditions d'âge et de ressources. L'Office français
 de l'immigration et de l'intégration ordonne son versement dans l'attente de la décision définitive lui accordant ou lui
 refusant une protection au titre de l'asile ou jusqu'à son transfert effectif vers un autre Etat responsable de l'examen de
-sa demande d'asile. 
+sa demande d'asile.
 
-Le versement de l'allocation prend fin au terme du mois qui suit celui de la notification de la décision définitive
-concernant cette demande. Son montant est revalorisé le 1er avril de chaque année par application du coefficient mentionné à
-l'article L. 161-25 du code de la sécurité sociale. 
+Le versement de l'allocation prend fin au terme du mois au cours duquel est expiré le délai de recours contre la décision de
+l'Office français de protection des réfugiés et apatrides, a été notifiée la décision de rejet de la Cour nationale du droit
+d'asile ou a pris fin le droit du demandeur à se maintenir sur le territoire français dans les conditions prévues à l'article
+L. 743-2. Pour les personnes qui obtiennent la qualité de réfugié prévue à l'article L. 711-1 ou le bénéfice de la protection
+subsidiaire prévue à l'article L. 712-1, le bénéfice de l'allocation prend fin au terme du mois qui suit celui de la
+notification de la décision. Son montant est revalorisé le 1er avril de chaque année par application du coefficient mentionné
+à l'article L. 161-25 du code de la sécurité sociale.
 
 L'allocation pour demandeur d'asile est incessible et insaisissable. Pour son remboursement, en cas de versement indu,
 l'Office français de l'immigration et de l'intégration peut procéder à des retenues sur les échéances à venir dues à quelque
 titre que ce soit. Le montant des retenues ne peut dépasser un plafond, déterminé selon des modalités prévues par voie
 réglementaire, sauf en cas de remboursement intégral de la dette en un seul versement si le bénéficiaire opte pour cette
-solution. 
+solution.
 
 Les blocages de comptes courants de dépôts ou d'avances ne peuvent avoir pour effet de faire obstacle à l'insaisissabilité de
-l'allocation. 
+l'allocation.
 
 Un décret définit le barème de l'allocation pour demandeur d'asile, en prenant en compte les ressources de l'intéressé, son
 mode d'hébergement et, le cas échéant, les prestations offertes par son lieu d'hébergement. Le barème de l'allocation pour
 demandeur d'asile prend en compte le nombre d'adultes et d'enfants composant la famille du demandeur d'asile et accompagnant
-celui-ci. 
+celui-ci.
 
 Ce décret précise, en outre, les modalités de versement de l'allocation pour demandeur d'asile.
 
@@ -15298,10 +15303,7 @@ calcul et de versement pour tenir compte de la situation particulière des dépa
 
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-9 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
-demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
-novembre 2015.
+
 
 **Liens relatifs à cet article**
 
@@ -15327,7 +15329,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 106
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 147
 
 _Cite_:
 
@@ -16866,86 +16868,57 @@ _Modifié par_:
 
 ###### Article L832-1
 
-Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
+Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
 
-1° Aux articles L. 313-4-1, L. 311-15, L. 313-11-1, L. 314-8 et L. 411-5, les mots : " salaire minimum de croissance " sont
-remplacés par les mots : " salaire minimum interprofessionnel garanti " ;
+1° (Abrogé) 
 
-2° Au deuxième alinéa de l'article L. 313-5, la référence à l'article L. 341-4 du code du travail est remplacée par la
-référence à l'article L. 330-3 du code du travail applicable à Mayotte ;
+2° (Abrogé) 
 
-3° (abrogé)
+3° (Abrogé) 
 
-4° A l'article L. 313-10 :
+4° (Abrogé) 
 
-a) Au 2°, les références aux articles L. 1262-1 et L. 1262-2 du code du travail sont remplacées par la référence à l'article
-L. 330-4 du code du travail applicable à Mayotte ;
+4° bis (Abrogé) 
 
-b) Au premier alinéa du 1°, au 2° et à l'avant-dernier alinéa, les références à l'article L. 5221-2 du code du travail sont
-remplacées par la référence à l'article L. 330-2 du code du travail applicable à Mayotte ;
+4° ter (Abrogé) 
 
-c) Au second alinéa du 1°, la référence à l'article L. 5422-1 du code du travail est remplacée par la référence à l'article
-L. 327-5 du code du travail applicable à Mayotte ;
+5° (Abrogé) 
 
-4° bis A l'article L. 313-20 :
+6° (Abrogé) 
 
-a) Au quatorzième alinéa, la référence à l'article L. 5221-2 du code du travail est remplacée par la référence à l'article L.
-330-2 du code du travail applicable à Mayotte ;
+7° (Abrogé) 
 
-b) A l'avant-dernier alinéa, la référence à l'article L. 5422-1 du code du travail est remplacée par la référence à l'article
-L. 327-5 du code du travail applicable à Mayotte ;
+8° (Abrogé) 
 
-4° ter Au I de l'article L. 313-24, la référence : " du 2° de l'article L. 1262-1 du code du travail " est remplacée par la
-référence : " de l'article L. 330-4 du code du travail applicable à Mayotte " ;
+9° (Abrogé) 
 
-5° A l'article L. 322-1, les références aux articles L. 1261-1, L. 5221-1 à L. 5221-3, L. 5221-5, L. 5221-7, L. 5523-1 à L.
-5523-3 et L. 8323-2 du code du travail sont remplacées par les références aux articles L. 330-1 à L. 330-4 du code du travail
-applicable à Mayotte ;
+10° (Abrogé) 
 
-6° Au quatrième alinéa de l'article L. 121-2, à l'article L. 311-11 et aux 1°, 3° et 5° de l'article L. 313-10, la référence
-à l'article L. 341-2 du code du travail est remplacée par la référence à l'article L. 330-2 du code du travail applicable à
-Mayotte ;
-
-7° A l'article L. 322-1 et au 8° du I de l'article L. 511-1, les références aux articles L. 5523-2, L. 5523-3, L. 5221-5 et
-L. 5221-7 du code du travail sont remplacées par les références à l'article L. 330-3 du code du travail applicable à
-Mayotte ;
-
-8° Au premier alinéa de l'article L. 311-15, la référence au titre VI du livre II de la première partie du code du travail
-est remplacée par la référence à l'article L. 330-4 du code du travail applicable à Mayotte ;
-
-9° Au second alinéa de l'article L. 313-5 et au premier alinéa de l'article L. 314-6, la référence à l'article L. 341-6 du
-code du travail est remplacée par la référence à l'article L. 330-5 du code du travail applicable à Mayotte ;
-
-10° Au premier alinéa de l'article L. 626-1, la référence à l'article L. 8253-1 est remplacée par la référence à l'article L.
-330-6-1 du code du travail applicable à Mayotte ;
-
-11° Au deuxième alinéa de l'article L. 626-1, les références aux articles L. 8256-7 et L. 8256-8 du code du travail sont
-remplacées par la référence à l'article L. 342-6 du code du travail applicable à Mayotte ;
+11° (Abrogé) 
 
 12° Aux articles L. 313-4-1 et L. 313-11-1, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée
-par la référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 ;
+par la référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
 
 13° A l'article L. 411-5, la référence à l'article L. 821-1 du code de la sécurité sociale est remplacée par la référence à
-l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 ;
+l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
 
 14° Aux articles L. 222-6, L. 552-9 et L. 552-10, la référence à la " cour d'appel " est remplacée par la référence à la "
-chambre d'appel de Mamoudzou " ;
+chambre d'appel de Mamoudzou " ; 
 
 15° La formation linguistique mentionnée au 2° de l'article L. 311-9 et le niveau relatif à la connaissance de la langue
 française mentionné à l'article L. 314-2 font l'objet, dans des conditions fixées par décret en Conseil d'Etat, d'une mise en
-œuvre progressive ; (1)
+œuvre progressive ; (1) 
 
 16° La carte de séjour prévue au 11° de l'article L. 313-11 est délivrée, après avis médical, selon une procédure définie par
 décret en Conseil d'Etat. Ce décret précise les conditions dans lesquelles le collège médical, qui comprend un médecin de
 l'Office français de l'immigration et de l'intégration exerçant dans le département, peut délibérer au moyen d'une conférence
-téléphonique ou audiovisuelle ;
+téléphonique ou audiovisuelle ; 
 
-17° Au 3° de l'article L. 611-12, la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à
-l'article L. 326-1 du code du travail applicable à Mayotte ;
+17° (Abrogé) 
 
 18° A la seconde phrase du premier alinéa du III de l'article L. 512-1, au premier alinéa de l'article L. 551-1, à la
 première phrase de l'article L. 552-1, à l'article L. 552-3, au premier alinéa de l'article L. 552-7 et à la dernière phrase
-du premier alinéa de l'article L. 555-1, les mots : “ quarante-huit heures ” sont remplacés par les mots : “ cinq jours ” ;
+du premier alinéa de l'article L. 555-1, les mots : “ quarante-huit heures ” sont remplacés par les mots : “ cinq jours ” ; 
 
 19° Aux premier, deuxième et troisième alinéas de l'article L. 552-7, les mots : “ vingt-huit jours ” sont remplacés par les
 mots : “ vingt-cinq jours ”.
@@ -16959,37 +16932,24 @@ en vigueur à Mayotte le 1er janvier 2018.
 
 _Modifié par_:
 
-  - Loi n°2017-256 du 28 février 2017 - art. 105
-  - Loi n°2017-256 du 28 février 2017 - art. 31
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 17
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L555-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-6
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-11
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-15
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-9
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-5
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L322-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-5
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-9
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-12
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L626-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L555-1
 
 
 ###### Article L832-2
