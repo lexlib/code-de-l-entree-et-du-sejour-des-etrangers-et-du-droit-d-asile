@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-03-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -25618,30 +25618,30 @@ _Créé par_:
 
 Pour l'application des dispositions des articles L. 314-8, L. 314-8-1, L. 314-8-2 et L. 314-9, l'étranger présente à l'appui
 de sa demande de carte de résident ou de carte de résident portant la mention " résident de longue durée-UE ", outre les
-pièces mentionnées à l'article R. 311-2-2, les pièces suivantes : 
+pièces mentionnées à l'article R. 311-2-2, les pièces suivantes :
 
-1° Un justificatif de domicile ; 
+1° Un justificatif de domicile ;
 
 2° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle
-il ne vit pas en France en état de polygamie ; 
+il ne vit pas en France en état de polygamie ;
 
-3° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ; 
+3° Trois photographies de face, tête nue, de format 3,5 x 4,5 cm, récentes et parfaitement ressemblantes ;
 
-4° Les pièces justifiant : 
+4° Les pièces justifiant :
 
-a) Qu'il entre dans l'un des cas prévus à l'article L. 314-9 ; 
+a) Qu'il entre dans l'un des cas prévus à l'article L. 314-9 ;
 
 b) Ou, s'il ne relève pas de ces dispositions qu'il satisfait aux conditions prévues aux articles L. 314-8, L. 314-8-1 ou L.
-314-8-2 ; 
+314-8-2 ;
 
-5° Pour l'appréciation de la condition d'intégration prévue à l'article L. 314-2 : 
+5° Pour l'appréciation de la condition d'intégration prévue à l'article L. 314-2 :
 
-a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ; 
+a) Une déclaration sur l'honneur par laquelle il s'engage à respecter les principes qui régissent la République française ;
 
-b) (abrogé) 
-
-c) Tout document de nature à attester sa connaissance suffisante de la langue française, notamment le diplôme initial de
-langue française. 
+b) Les diplômes ou certifications permettant d'attester de sa maitrise du français à un niveau égal ou supérieur au niveau A2
+du cadre européen commun de référence pour les langues du Conseil de l'Europe tel qu'adopté par le comité des ministres du
+Conseil de l'Europe dans sa recommandation CM/ Rec (2008) 7 du 2 juillet 2008, dont la liste est définie par un arrêté du
+ministre chargé de l'accueil et de l'intégration.
 
 Lorsque les moyens d'existence de l'intéressé sont tirés de l'exercice d'une activité professionnelle soumise à
 l'autorisation d'une autorité de l'Etat, cette autorisation peut être accordée ou renouvelée par le préfet.
@@ -25662,7 +25662,7 @@ _Cite_:
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R314-4 (M)
 
 
 ###### Article R314-1-1
