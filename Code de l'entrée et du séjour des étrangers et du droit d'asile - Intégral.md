@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-03-07
+Version Consolidée au 2018-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -135,7 +135,7 @@ Version Consolidée au 2018-03-07
         - [Chapitre III : Examen des recours (art. L733-1 à L733-5)](#132)
       - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. L741-1 à L744-11)](#133)
         - [Chapitre Ier : Enregistrement de la demande d'asile (art. L741-1 à L741-4)](#134)
-        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. L742-1 à L742-6)](#135)
+        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. L742-1 à L742-7)](#135)
         - [Chapitre III : Droit au maintien sur le territoire français (art. L743-1 à L743-4)](#136)
         - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. L744-1 à L744-11)](#137)
           - [Section 1 : Dispositif national d'accueil (art. L744-1 à L744-5)](#138)
@@ -490,30 +490,29 @@ _Codifié par_:
 ###### Article L111-2
 
 Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, en Guadeloupe, en Guyane, en Martinique,
-à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin. 
+à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
 
-Il régit l'exercice du droit d'asile sur l'ensemble du territoire de la République. 
+Il régit l'exercice du droit d'asile sur l'ensemble du territoire de la République.
 
-Ses dispositions s'appliquent sous réserve des conventions internationales. 
+Ses dispositions s'appliquent sous réserve des conventions internationales.
 
 Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-
-Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés : 
+Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés :
 
-1° (Abrogé) ; 
+1° (Abrogé) ;
 
 2° Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis
-et Futuna ; 
+et Futuna ;
 
 3° Ordonnance n° 2000-372 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers en Polynésie
-française ; 
+française ;
 
-4° Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-
-Calédonie ; 
+4° Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ;
 
-5° Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises. 
+5° Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises.
 
 Sont également applicables aux îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie les dispositions de
-l'article L. 214-8 et du neuvième alinéa de l'article L. 561-1.
+l'article L. 214-8 et du treizième alinéa de l'article L. 561-1.
 
 **Liens relatifs à cet article**
 
@@ -527,8 +526,8 @@ _Cite_:
   - Ordonnance n°2000-372 du 26 avril 2000
   - Ordonnance n°2000-371 du 26 avril 2000
   - Ordonnance n°2002-388 du 20 mars 2002
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-8
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 _Codifié par_:
 
@@ -544,7 +543,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2015-124 du 5 février 2015 - art. 1
+  - Loi n°2018-187 du 20 mars 2018 - art. 4
 
 
 ###### Article L111-3
@@ -9327,30 +9326,72 @@ _Codifié par_:
 
 ###### Article L551-1
 
-Dans les cas prévus aux 1° à 7° du I de l'article L. 561-2, l'étranger qui ne présente pas de garanties de représentation
+I.- Dans les cas prévus aux 1° à 7° du I de l'article L. 561-2, l'étranger qui ne présente pas de garanties de représentation
 effectives propres à prévenir le risque mentionné au 3° du II de l'article L. 511-1 peut être placé en rétention par
 l'autorité administrative dans des locaux ne relevant pas de l'administration pénitentiaire, pour une durée de quarante-huit
-heures. 
+heures.
 
-La décision de placement en rétention ne peut être prise avant l'expiration d'un délai de sept jours à compter du terme d'un
-précédent placement prononcé en vue de l'exécution de la même mesure d'éloignement. Toutefois, si le précédent placement en
-rétention a pris fin après que l'étranger s'était soustrait aux mesures de surveillance dont il faisait l'objet, l'autorité
-administrative peut décider d'un nouveau placement en rétention avant l'expiration de ce délai. 
+II.-Toutefois, dans le cas prévu au 1° bis du I de l'article L. 561-2, l'étranger ne peut être placé en rétention que pour
+prévenir un risque non négligeable de fuite, sur la base d'une évaluation individuelle prenant en compte l'état de
+vulnérabilité de l'intéressé, et uniquement dans la mesure où le placement en rétention est proportionné et si les
+dispositions du même article L. 561-2 ne peuvent être effectivement appliquées. Le risque non négligeable de fuite peut, sauf
+circonstance particulière, être regardé comme établi dans les cas suivants :
 
-Le premier alinéa du présent article n'est pas applicable à l'étranger accompagné d'un mineur, sauf : 
+1° Si l'étranger s'est précédemment soustrait, dans un autre Etat membre, à la détermination de l'Etat responsable de
+l'examen de sa demande d'asile ou à l'exécution d'une décision de transfert ;
 
-1° S'il n'a pas respecté l'une des prescriptions d'une précédente mesure d'assignation à résidence ; 
+2° Si l'étranger a été débouté de sa demande d'asile dans l'Etat membre responsable ;
 
-2° Si, à l'occasion de la mise en œuvre de la mesure d'éloignement, il a pris la fuite ou opposé un refus ; 
+3° Si l'étranger est de nouveau présent sur le territoire français après l'exécution effective d'une mesure de transfert ;
+
+4° Si l'étranger s'est soustrait à l'exécution d'une précédente mesure d'éloignement ;
+
+5° Si l'étranger refuse de se soumettre au relevé de ses empreintes digitales ou s'il altère volontairement ces dernières
+pour empêcher leur enregistrement ;
+
+6° Si l'étranger, aux fins de se maintenir sur le territoire français, a contrefait, falsifié ou établi sous un autre nom que
+le sien un titre de séjour ou un document d'identité ou de voyage ;
+
+7° Si l'étranger a dissimulé des éléments de son identité, de son parcours migratoire, de sa situation familiale ou de ses
+demandes antérieures d'asile, la circonstance tirée de ce qu'il ne peut justifier de la possession de documents d'identité ou
+de voyage en cours de validité ne pouvant toutefois suffire, à elle seule, à établir une telle dissimulation ;
+
+8° Si l'étranger qui ne bénéficie pas des conditions matérielles d'accueil prévues au chapitre IV du titre IV du livre VII ne
+peut justifier du lieu de sa résidence effective ou permanente ;
+
+9° Si l'étranger qui a refusé le lieu d'hébergement proposé en application de l'article L. 744-7 ne peut justifier du lieu de
+sa résidence effective ou permanente ou si l'étranger qui a accepté le lieu d'hébergement proposé a abandonné ce dernier sans
+motif légitime ;
+
+10° Si l'étranger ne se présente pas aux convocations de l'autorité administrative, ne répond pas aux demandes d'information
+et ne se rend pas aux entretiens prévus dans le cadre de la procédure de détermination de l'Etat responsable de l'examen de
+sa demande d'asile ou de l'exécution de la décision de transfert sans motif légitime ;
+
+11° Si l'étranger s'est précédemment soustrait aux obligations prévues aux articles L. 513-4, L. 552-4, L. 561-1, L. 561-2 et
+L. 742-2 ;
+
+12° Si l'étranger a explicitement déclaré son intention de ne pas se conformer à la procédure de détermination de l'Etat
+responsable de l'examen de sa demande d'asile ou à la procédure de transfert.
+
+III.- En toute hypothèse, la décision de placement en rétention ne peut être prise avant l'expiration d'un délai de sept
+jours à compter du terme d'un précédent placement prononcé en vue de l'exécution de la même mesure d'éloignement. Toutefois,
+si le précédent placement en rétention a pris fin après que l'étranger s'était soustrait aux mesures de surveillance dont il
+faisait l'objet, l'autorité administrative peut décider d'un nouveau placement en rétention avant l'expiration de ce délai.
+
+Les I et II du présent article ne sont pas applicables à l'étranger accompagné d'un mineur, sauf :
+
+1° S'il n'a pas respecté l'une des prescriptions d'une précédente mesure d'assignation à résidence ;
+
+2° Si, à l'occasion de la mise en œuvre de la mesure d'éloignement, il a pris la fuite ou opposé un refus ;
 
 3° Si, en considération de l'intérêt du mineur, le placement en rétention de l'étranger dans les quarante-huit heures
 précédant le départ programmé préserve l'intéressé et le mineur qui l'accompagne des contraintes liées aux nécessités de
-transfert. 
+transfert.
 
-Dans les cas énumérés aux 1° à 3°, la durée du placement en rétention est la plus brève possible, eu égard au temps
-strictement nécessaire à l'organisation du départ. Dans tous les cas, le placement en rétention d'un étranger accompagné d'un
-mineur n'est possible que dans un lieu de rétention administrative bénéficiant de chambres isolées et adaptées,
-spécifiquement destinées à l'accueil des familles. 
+Dans les cas énumérés aux 1° à 3° du présent III, la durée du placement en rétention est la plus brève possible, eu égard au
+temps strictement nécessaire à l'organisation du départ. Dans tous les cas, le placement en rétention d'un étranger
+accompagné d'un mineur n'est possible que dans un lieu de rétention administrative bénéficiant de chambres isolées et
+adaptées, spécifiquement destinées à l'accueil des familles.
 
 L'intérêt supérieur de l'enfant doit être une considération primordiale pour l'application du présent article.
 
@@ -9364,10 +9405,6 @@ _Codifié par_:
 
   - Ordonnance n°2004-1248 du 24 novembre 2004
   - Loi n°2006-911 du 24 juillet 2006
-
-_Modifié par_:
-
-  - Loi n°2016-274 du 7 mars 2016 - art. 35
 
 _Cité par_:
 
@@ -9402,9 +9439,13 @@ _Cité par_:
   - Code de la santé publique - art. R6112-10 (Ab)
   - Code du travail - art. L 8252-4 (VD)
 
+_Modifié par_:
+
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
 
 
 ###### Article L551-2
@@ -9566,13 +9607,8 @@ _Cite_:
 
 ###### Article L552-3
 
-L'ordonnance de prolongation de la rétention court à compter de l'expiration du délai de quarante-huit heures fixé à
-l'article L. 551-1.
-
-**Nota:**
-
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+L'ordonnance de prolongation de la rétention court à compter de l'expiration du délai de quarante-huit heures fixé au I de
+l'articleL. 551-1.
 
 **Liens relatifs à cet article**
 
@@ -9587,7 +9623,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 36
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
 
 _Cité par_:
 
@@ -9714,22 +9750,22 @@ _Cité par_:
 
 ###### Article L552-7
 
-Quand un délai de vingt-huit jours s'est écoulé depuis l'expiration du délai de quarante-huit heures mentionné à l'article L.
-551-1 et en cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque l'impossibilité
-d'exécuter la mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de l'intéressé, de la
-dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge des libertés et de
-la détention est à nouveau saisi. 
+Quand un délai de vingt-huit jours s'est écoulé depuis l'expiration du délai de quarante-huit heures mentionné au I de
+l'article L. 551-1 et en cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque
+l'impossibilité d'exécuter la mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de
+l'intéressé, de la dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge
+des libertés et de la détention est à nouveau saisi.
 
 Le juge peut également être saisi lorsque, malgré les diligences de l'administration, la mesure d'éloignement n'a pu être
 exécutée en raison du défaut de délivrance des documents de voyage par le consulat dont relève l'intéressé ou de l'absence de
 moyens de transport et qu'il est établi par l'autorité administrative compétente que l'une ou l'autre de ces circonstances
 doit intervenir à bref délai. Il peut également être saisi aux mêmes fins lorsque la délivrance des documents de voyage est
 intervenue trop tardivement, malgré les diligences de l'administration, pour pouvoir procéder à l'exécution de la mesure
-d'éloignement dans le délai de vingt-huit jours mentionné au premier alinéa. 
+d'éloignement dans le délai de vingt-huit jours mentionné au premier alinéa.
 
 Le juge statue par ordonnance dans les conditions prévues aux articles L. 552-1 et L. 552-2. S'il ordonne la prolongation de
 la rétention, l'ordonnance de prolongation court à compter de l'expiration du délai de vingt-huit jours mentionné au premier
-alinéa du présent article et pour une nouvelle période d'une durée maximale de quinze jours. 
+alinéa du présent article et pour une nouvelle période d'une durée maximale de quinze jours.
 
 Par dérogation aux dispositions de l'alinéa précédent, si l'étranger a été condamné à une peine d'interdiction du territoire
 pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à
@@ -9737,7 +9773,7 @@ son encontre pour un comportement lié à des activités à caractère terrorist
 de la détention près le tribunal de grande instance de Paris peut, dès lors qu'il existe une perspective raisonnable
 d'exécution de la mesure d'éloignement et qu'aucune décision d'assignation à résidence ne permettrait un contrôle suffisant
 de cet étranger, ordonner la prolongation de la rétention pour une durée d'un mois qui peut être renouvelée. La durée
-maximale de la rétention ne doit pas excéder six mois. 
+maximale de la rétention ne doit pas excéder six mois.
 
 L'article L. 552-6 est applicable.
 
@@ -9769,11 +9805,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 36
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-6
 
 
@@ -10072,7 +10108,13 @@ _Codifié par_:
 ###### Article L553-6
 
 Un décret en Conseil d'Etat définit les modalités selon lesquelles les étrangers maintenus en rétention bénéficient d'actions
-d'accueil, d'information et de soutien, pour permettre l'exercice effectif de leurs droits et préparer leur départ.
+d'accueil, d'information et de soutien, pour permettre l'exercice effectif de leurs droits et préparer leur départ. Il
+précise les modalités de prise en compte de la vulnérabilité et, le cas échéant, des besoins particuliers des demandeurs
+d'asile ou des étrangers faisant l'objet d'une requête aux fins de prise en charge ou de reprise en charge, en application du
+règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de
+détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
+Etats membres par un ressortissant de pays tiers ou un apatride, ou d'une décision de transfert notifiée conformément à
+l'article L. 742-3.
 
 **Liens relatifs à cet article**
 
@@ -10082,12 +10124,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
 
 _Cité par_:
 
   - Décret n°2018-528 du 28 juin 2018 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
 
 
 ###### Article L553-7
@@ -10120,7 +10170,14 @@ _Cite_:
 ###### Article L554-1
 
 Un étranger ne peut être placé ou maintenu en rétention que pour le temps strictement nécessaire à son départ.
-L'administration doit exercer toute diligence à cet effet.
+L'administration doit exercer toute diligence à cet effet. 
+
+L'étranger ne peut être placé ou maintenu en rétention au titre du 1° bis du I de l'article L. 561-2 que pour le temps
+strictement nécessaire à la détermination de l'Etat responsable de l'examen de sa demande d'asile et, le cas échéant, à
+l'exécution d'une décision de transfert. Lorsqu'un Etat requis a refusé de prendre en charge ou de reprendre en charge
+l'étranger, il est immédiatement mis fin à la rétention de ce dernier, sauf si une demande de réexamen est adressée à cet
+Etat dans les plus brefs délais ou si un autre Etat peut être requis. En cas d'accord d'un Etat requis, la décision de
+transfert est notifiée à l'étranger dans les plus brefs délais.
 
 **Liens relatifs à cet article**
 
@@ -10130,8 +10187,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
 
 ###### Article L554-2
@@ -10279,14 +10344,18 @@ _Codifié par_:
 ###### Article L556-1
 
 Lorsqu'un étranger placé en rétention en application de l'article L. 551-1 présente une demande d'asile, l'autorité
-administrative peut, si elle estime, sur le fondement de critères objectifs, que cette demande est présentée dans le seul but
-de faire échec à l'exécution de la mesure d'éloignement, maintenir l'intéressé en rétention le temps strictement nécessaire à
-l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides et, en cas de décision de rejet
-ou d'irrecevabilité de celui-ci, dans l'attente de son départ. Cette décision de maintien en rétention n'affecte ni le
-contrôle du juge des libertés et de la détention exercé sur la décision de placement en rétention en application de l'article
-L. 512-1 ni sa compétence pour examiner la prolongation de la rétention en application du chapitre II du titre V du livre V.
-La décision de maintien en rétention est écrite et motivée. A défaut d'une telle décision, il est immédiatement mis fin à la
-rétention et l'autorité administrative compétente délivre à l'intéressé l'attestation mentionnée à l'article L. 741-1. 
+administrative peut procéder pendant la rétention à la détermination de l'Etat membre responsable de l'examen de cette
+demande conformément à l'article L. 742-1 et, le cas échéant, à l'exécution d'office du transfert dans les conditions prévues
+à l'article L. 742-5. Si la France est l'Etat membre responsable de l'examen de cette demande et si l'autorité administrative
+estime, sur le fondement de critères objectifs, que cette demande est présentée dans le seul but de faire échec à l'exécution
+de la mesure d'éloignement, elle peut prendre une décision de maintien en rétention de l'étranger pendant le temps
+strictement nécessaire à l'examen de sa demande d'asile par l'Office français de protection des réfugiés et apatrides et, en
+cas de décision de rejet ou d'irrecevabilité de celle-ci, dans l'attente de son départ. Cette décision de maintien en
+rétention n'affecte ni le contrôle du juge des libertés et de la détention exercé sur la décision de placement en rétention
+en application de l'article L. 512-1 ni sa compétence pour examiner la prolongation de la rétention en application du
+chapitre II du titre V du livre V. La décision de maintien en rétention est écrite et motivée. A défaut d'une telle décision,
+il est immédiatement mis fin à la rétention et l'autorité administrative compétente délivre à l'intéressé l'attestation
+mentionnée à l'article L. 741-1. 
 
 L'étranger peut demander au président du tribunal administratif l'annulation de la décision de maintien en rétention dans les
 quarante-huit heures suivant sa notification pour contester les motifs retenus par l'autorité administrative pour estimer que
@@ -10343,15 +10412,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 33
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-5
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
   - Code de justice administrative - art. L222-2-1
 
@@ -10388,29 +10459,39 @@ _Créé par_:
 Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoire français ou ne peut ni regagner son pays
 d'origine ni se rendre dans aucun autre pays, l'autorité administrative peut, jusqu'à ce qu'existe une perspective
 raisonnable d'exécution de son obligation, l'autoriser à se maintenir provisoirement sur le territoire français en
-l'assignant à résidence, dans les cas suivants : 
+l'assignant à résidence, dans les cas suivants :
 
 1° Si l'étranger fait l'objet d'une obligation de quitter le territoire français sans délai ou si le délai de départ
-volontaire qui lui a été accordé est expiré ; 
+volontaire qui lui a été accordé est expiré ;
 
 2° Si l'étranger doit être remis aux autorités d'un Etat membre de l'Union européenne en application des articles L. 531-1 ou
-L. 531-2 ou transféré vers l'Etat responsable de sa demande d'asile en application de l'article L. 742-3 ; 
+L. 531-2 ou transféré vers l'Etat responsable de sa demande d'asile en application de l'article L. 742-3 ;
 
-3° Si l'étranger doit être reconduit à la frontière en application de l'article L. 531-3 ; 
+3° Si l'étranger doit être reconduit à la frontière en application de l'article L. 531-3 ;
 
 4° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction de retour ou d'une interdiction de
-circulation sur le territoire français ; 
+circulation sur le territoire français ;
 
 5° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa
-de l'article 131-30 du code pénal ; 
+de l'article 131-30 du code pénal ;
 
-6° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire. 
+6° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire.
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, renouvelable une
-fois dans la même limite de durée, par une décision également motivée. Par exception, dans le cas prévu au 4° du présent
-article, elle peut être renouvelée tant que l'interdiction de retour ou l'interdiction de circulation sur le territoire
-français demeure exécutoire. La durée de six mois ne s'applique ni aux cas mentionnés au 5° du présent article, ni à ceux
-mentionnés aux articles L. 523-3 à L. 523-5 du présent code. 
+fois dans la même limite de durée, par une décision également motivée.
+
+Par exception :
+
+a) Dans le cas prévu au 4° du présent article, la décision d'assignation à résidence peut être renouvelée tant que
+l'interdiction de retour ou l'interdiction de circulation sur le territoire français demeure exécutoire ;
+
+b) Dans le cas d'un étranger faisant l'objet d'un arrêté d'expulsion en application des articles L. 523-3 à L. 523-5, la
+durée maximale de six mois ne s'applique pas ;
+
+c) Dans le cas prévu au 5° du présent article, la durée maximale de six mois ne s'applique pas. Au-delà d'une durée de cinq
+ans, le maintien sous assignation à résidence fait l'objet d'une décision spécialement motivée faisant état des circonstances
+particulières justifiant cette prolongation au regard, notamment, de l'absence de garanties suffisantes de représentation de
+l'étranger ou si sa présence constitue une menace grave pour l'ordre public.
 
 L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter
 périodiquement aux services de police ou aux unités de gendarmerie. Il doit également se présenter, lorsque l'autorité
@@ -10420,15 +10501,10 @@ du territoire de la République peut, quel que soit l'endroit où il se trouve, 
 par l'autorité administrative dans l'ensemble du territoire de la République. L'autorité administrative peut prescrire à
 l'étranger la remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à
 l'article L. 611-2. Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité
-administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation. 
+administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation.
 
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
 624-4.
-
-**Nota:**
-
-Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
-d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -10440,7 +10516,7 @@ _Cité par_:
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L111-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L513-5 (VD)
@@ -10464,7 +10540,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 39
+  - Loi n°2018-187 du 20 mars 2018 - art. 4
 
 _Nouveaux textes_:
 
@@ -10482,72 +10558,82 @@ _Cite_:
 ###### Article L561-2
 
 I.-L'autorité administrative peut prendre une décision d'assignation à résidence à l'égard de l'étranger qui ne peut quitter
-immédiatement le territoire français mais dont l'éloignement demeure une perspective raisonnable, lorsque cet étranger : 
+immédiatement le territoire français mais dont l'éloignement demeure une perspective raisonnable, lorsque cet étranger :
 
 1° Doit être remis aux autorités compétentes d'un Etat membre de l'Union européenne en application des articles L. 531-1 ou
-L. 531-2 ou fait l'objet d'une décision de transfert en application de l'article L. 742-3 ; 
+L. 531-2 ;
 
-2° Fait l'objet d'un arrêté d'expulsion ; 
+1° bis Fait l'objet d'une décision de transfert en application de l'article L. 742-3 ou d'une requête aux fins de prise en
+charge ou de reprise en charge en application du règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin
+2013 établissant les critères et mécanismes de détermination de l'Etat membre responsable de l'examen d'une demande de
+protection internationale introduite dans l'un des Etats membres par un ressortissant de pays tiers ou un apatride ;
+
+2° Fait l'objet d'un arrêté d'expulsion ;
 
 3° Doit être reconduit à la frontière en exécution d'une interdiction judiciaire du territoire prise en application du
-deuxième alinéa de l'article 131-30 du code pénal ; 
+deuxième alinéa de l'article 131-30 du code pénal ;
 
 4° Fait l'objet d'un signalement aux fins de non-admission ou d'une décision d'éloignement exécutoire prise en application de
-l'article L. 531-3 du présent code ; 
+l'article L. 531-3 du présent code ;
 
 5° Fait l'objet d'une obligation de quitter le territoire français prise moins d'un an auparavant et pour laquelle le délai
-pour quitter le territoire est expiré ou n'a pas été accordé ; 
+pour quitter le territoire est expiré ou n'a pas été accordé ;
 
 6° Doit être reconduit d'office à la frontière en exécution d'une interdiction de retour sur le territoire français, d'une
-interdiction de circulation sur le territoire français ou d'une interdiction administrative du territoire ; 
+interdiction de circulation sur le territoire français ou d'une interdiction administrative du territoire ;
 
 7° Ayant fait l'objet d'une décision d'assignation à résidence en application des 1° à 6° du présent article ou de placement
 en rétention administrative en application de l'article L. 551-1, n'a pas déféré à la mesure d'éloignement dont il fait
-l'objet ou, y ayant déféré, est revenu en France alors que cette mesure est toujours exécutoire. 
+l'objet ou, y ayant déféré, est revenu en France alors que cette mesure est toujours exécutoire.
 
-Les trois derniers alinéas de l'article L. 561-1 sont applicables, sous réserve que la durée maximale de l'assignation ne
-puisse excéder une durée de quarante-cinq jours, renouvelable une fois. 
+Les sept derniers alinéas de l'article L. 561-1 sont applicables, sous réserve que la durée maximale de l'assignation ne
+puisse excéder une durée de quarante-cinq jours, renouvelable une fois pour les cas relevant des 1° et 2° à 7° du présent I,
+ou trois fois pour les cas relevant du 1° bis.
 
-Lorsqu'il apparaît qu'un étranger assigné à résidence en application du présent article ne présente plus de garanties de
-représentation effectives propres à prévenir le risque mentionné au 3° du II de l'article L. 511-1, notamment parce qu'il n'a
-pas respecté les prescriptions liées à l'assignation à résidence ou qu'à l'occasion de la mise en œuvre de la mesure
-d'éloignement il a pris la fuite ou opposé un refus, l'article L. 551-1 est applicable. 
+L'article L. 551-1 est applicable lorsqu'un étranger assigné à résidence en application du présent article :
+
+a) Ne présente plus de garanties de représentation effectives propres à prévenir le risque mentionné au 3° du II de l'article
+L. 511-1 ;
+
+b) Présente un risque non négligeable de fuite, tel que défini aux 1° à 12° du II de l'article L. 551-1, dans le cas d'un
+étranger faisant l'objet d'une requête aux fins de prise en charge ou de reprise en charge, en application du règlement (UE)
+n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 précité, ou d'une décision de transfert notifiée conformément
+à l'article L. 742-3.
 
 II.-En cas d'impossibilité d'exécution d'office de la mesure d'éloignement résultant de l'obstruction volontaire de
 l'étranger assigné à résidence en application du I du présent article, l'autorité administrative peut demander au juge des
 libertés et de la détention de l'autoriser à requérir les services de police ou les unités de gendarmerie pour qu'ils
 visitent le domicile de l'étranger afin de s'assurer de sa présence et de le reconduire à la frontière ou, si le départ n'est
-pas possible immédiatement, de lui notifier une décision de placement en rétention. 
+pas possible immédiatement, de lui notifier une décision de placement en rétention.
 
 Le juge des libertés et de la détention, saisi par requête, statue dans un délai de vingt-quatre heures. A peine de nullité,
 sa décision est motivée. Le juge s'assure du caractère exécutoire de la décision d'éloignement que la mesure vise à exécuter
 et de l'obstruction volontaire de l'étranger à ladite exécution, dûment constatée par l'autorité administrative, résultant
 notamment de l'absence de réponse de l'étranger à sa demande de présentation pour les nécessités de son exécution. La
-décision mentionne l'adresse des lieux dans lesquels les opérations de visite peuvent être effectuées. 
+décision mentionne l'adresse des lieux dans lesquels les opérations de visite peuvent être effectuées.
 
-L'ordonnance ayant autorisé la visite est exécutoire pendant quatre-vingt-seize heures au seul vu de la minute. Elle est
+L'ordonnance ayant autorisé la visite est exécutoire pendant cent quarante-quatre heures au seul vu de la minute. Elle est
 notifiée sur place à l'étranger dans une langue qu'il comprend ou, à défaut, à l'occupant des lieux, qui en reçoit copie
-intégrale contre récépissé. L'acte de notification comporte mention des voies de recours. 
+intégrale contre récépissé. L'acte de notification comporte mention des voies de recours.
 
 Les opérations de visite sont effectuées sous le contrôle du magistrat qui les a autorisées, qui peut se déplacer sur les
 lieux pour veiller au respect des dispositions légales. Ces opérations ne peuvent être commencées avant 6 heures ni après 21
 heures. Elles ne peuvent, à peine de nullité, avoir un autre objet que l'exécution de la mesure d'éloignement visée dans la
-décision du juge des libertés et de la détention. 
+décision du juge des libertés et de la détention.
 
 Il est dressé un procès-verbal mentionnant les dates et heures de début et de fin des opérations et les conditions de leur
 déroulement. Ce procès-verbal est présenté à la signature de l'étranger ou, à défaut, de l'occupant des lieux ; en cas de
 refus, mention est faite de ce refus et de ses motifs déclarés. Le procès-verbal est transmis au juge des libertés et de la
-détention, copie en ayant été remise à l'étranger ou, à défaut, à l'occupant des lieux. 
+détention, copie en ayant été remise à l'étranger ou, à défaut, à l'occupant des lieux.
 
 Les ordonnances mentionnées au présent article sont susceptibles d'appel devant le premier président de la cour d'appel ou
 son délégué, qui est saisi sans forme et doit statuer dans un délai de quarante-huit heures à compter de sa saisine. L'appel
 n'est pas suspensif. Le premier président de la cour d'appel ou son délégué peut, par ordonnance motivée et sans avoir
-préalablement convoqué les parties, rejeter les déclarations d'appel manifestement irrecevables. 
+préalablement convoqué les parties, rejeter les déclarations d'appel manifestement irrecevables.
 
 Lorsque l'étranger fait l'objet d'un arrêté d'expulsion, d'une interdiction judiciaire du territoire français ou d'une
 interdiction administrative du territoire français, la condition d'impossibilité d'exécution d'office de la mesure
-d'éloignement résultant de l'obstruction volontaire de l'étranger, prévue au premier alinéa du présent II, n'est pas
-requise. 
+d'éloignement résultant de l'obstruction volontaire de l'étranger, prévue au premier alinéa du présent II, n'est pas requise.
 
 Le présent II est applicable à l'étranger assigné à résidence en application des articles L. 523-3 à L. 523-5, L. 552-4 ou L.
 561-1.
@@ -10568,10 +10654,6 @@ _Codifié par_:
 
   - Ordonnance n°2004-1248 du 24 novembre 2004
   - Loi n°2006-911 du 24 juillet 2006
-
-_Modifié par_:
-
-  - Loi n°2016-274 du 7 mars 2016 - art. 40
 
 _Cité par_:
 
@@ -10602,22 +10684,27 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-6 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-7 (V)
-  - Code du travail - art. L 8252-4 (V)
+  - Code du travail - art. L 8252-4 (VD)
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
+  - Loi n°2018-187 du 20 mars 2018 - art. 1
+  - Loi n°2018-187 du 20 mars 2018 - art. 4
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-3
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
   - Code pénal - art. 131-30
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
 
 
 ###### Article L561-2-1
@@ -14325,22 +14412,28 @@ administrative compétente, qui enregistre sa demande et procède à la détermi
 règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
 détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
 Etats membres par un ressortissant de pays tiers ou un apatride, ou en application d'engagements identiques à ceux prévus par
-le même règlement, dans des conditions fixées par décret en Conseil d'Etat. 
+le même règlement, dans des conditions fixées par décret en Conseil d'Etat. Tout demandeur reçoit, dans une langue qu'il
+comprend ou dont il est raisonnable de supposer qu'il la comprend, une information sur ses droits et obligations en
+application dudit règlement, dans les conditions prévues à son article 4.
 
 L'enregistrement a lieu au plus tard trois jours ouvrés après la présentation de la demande à l'autorité administrative
 compétente, sans condition préalable de domiciliation. Toutefois, ce délai peut être porté à dix jours ouvrés lorsqu'un
-nombre élevé d'étrangers demandent l'asile simultanément. 
+nombre élevé d'étrangers demandent l'asile simultanément.
 
 L'étranger est tenu de coopérer avec l'autorité administrative compétente en vue d'établir son identité, sa ou ses
 nationalités, sa situation familiale, son parcours depuis son pays d'origine ainsi que, le cas échéant, ses demandes d'asile
-antérieures. Il présente tous documents d'identité ou de voyage dont il dispose. 
+antérieures. Il présente tous documents d'identité ou de voyage dont il dispose.
+
+Au moment de sa présentation auprès de l'autorité administrative en vue de l'enregistrement d'une première demande d'asile en
+France, l'étranger ne peut être regardé comme présentant le risque non négligeable de fuite défini aux 1° à 12° du II de
+l'article L. 551-1 du présent code.
 
 Lorsque l'enregistrement de sa demande d'asile a été effectué, l'étranger se voit remettre une attestation de demande d'asile
 dont les conditions de délivrance et de renouvellement sont fixées par décret en Conseil d'Etat. La durée de validité de
-l'attestation est fixée par arrêté du ministre chargé de l'asile. 
+l'attestation est fixée par arrêté du ministre chargé de l'asile.
 
 La délivrance de cette attestation ne peut être refusée au motif que l'étranger est démuni des documents et visas mentionnés
-à l'article L. 211-1. Elle ne peut être refusée que dans les cas prévus aux 5° et 6° de l'article L. 743-2. 
+à l'article L. 211-1. Elle ne peut être refusée que dans les cas prévus aux 5° et 6° de l'article L. 743-2.
 
 Cette attestation n'est pas délivrée à l'étranger qui demande l'asile à la frontière ou en rétention.
 
@@ -14391,12 +14484,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 19
+  - Loi n°2018-187 du 20 mars 2018 - art. 2
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
 
 
 ###### Article L741-2
@@ -14629,39 +14722,31 @@ _Cite_:
 
 ###### Article L742-2
 
-L'autorité administrative peut, aux fins de mise en œuvre de la procédure de détermination de l'Etat responsable de l'examen
-de la demande d'asile et du traitement rapide et du suivi efficace de cette demande, assigner à résidence le demandeur. 
+L'étranger assigné à résidence en application du 1° bis du I de l'article L. 561-2 doit se présenter aux convocations de
+l'autorité administrative, répondre aux demandes d'information et se rendre aux entretiens prévus dans le cadre de la
+procédure de détermination de l'Etat responsable de l'examen de sa demande d'asile ou de l'exécution de la décision de
+transfert. L'autorité administrative peut prescrire à l'étranger la remise de son passeport ou de tout document justificatif
+de son identité, dans les conditions prévues à l'article L. 611-2.
 
-La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois et renouvelée une
-fois dans la même limite de durée, par une décision également motivée. 
-
-Le demandeur astreint à résider dans les lieux qui lui sont fixés doit se présenter aux convocations de l'autorité
-administrative, répondre aux demandes d'information et se rendre aux entretiens prévus dans le cadre de la procédure de
-détermination de l'Etat responsable de l'examen de sa demande d'asile. L'autorité administrative peut prescrire à l'étranger
-la remise de son passeport ou de tout document justificatif de son identité, dans les conditions prévues à l'article L.
-611-2. 
-
-Si le demandeur astreint à résider dans les lieux qui lui sont fixés n'a pas déféré, sans motif légitime, aux convocations de
+Si l'étranger astreint à résider dans les lieux qui lui sont fixés n'a pas déféré, sans motif légitime, aux convocations de
 l'autorité administrative et aux entretiens prévus dans le cadre de la procédure de détermination de l'Etat responsable de la
-demande d'asile, l'autorité administrative peut le faire conduire par les services de police ou les unités de gendarmerie en
-vue de cette démarche, dans les conditions et pour le temps strictement nécessaires à celle-ci. 
+demande d'asile ou de l'exécution de la décision de transfert, l'autorité administrative peut le faire conduire par les
+services de police ou les unités de gendarmerie en vue de cette démarche, dans les conditions et pour le temps strictement
+nécessaires à celle-ci.
 
-En cas d'impossibilité de faire conduire le demandeur résultant d'une obstruction volontaire de sa part, l'autorité
+En cas d'impossibilité de faire conduire l'étranger résultant d'une obstruction volontaire de sa part, l'autorité
 administrative peut demander au juge des libertés et de la détention de l'autoriser à requérir les services de police ou les
-unités de gendarmerie pour qu'ils visitent le domicile du demandeur afin de s'assurer de sa présence, de le conduire pour
-assurer les présentations nécessaires à la poursuite de la procédure de détermination de l'Etat responsable de la demande
-d'asile et, si les conditions en sont remplies, de lui notifier une décision de transfert à destination de l'Etat responsable
-de sa demande ainsi que, le cas échéant, une décision d'assignation à résidence en application de l'article L. 561-2 ou une
-décision de placement en rétention. 
+unités de gendarmerie pour qu'ils visitent le domicile de l'étranger afin de s'assurer de sa présence, de le conduire pour
+assurer les présentations nécessaires et, si les conditions en sont remplies, de lui notifier une décision de transfert à
+destination de l'Etat responsable de sa demande ainsi que, le cas échéant, une décision de placement en rétention.
 
 Le juge des libertés et de la détention, saisi par requête, statue dans les vingt-quatre heures. A peine de nullité, sa
-décision est motivée. Le juge s'assure de l'obstruction volontaire du demandeur aux demandes de présentation qui lui sont
-faites dans le cadre de la procédure de détermination de l'Etat responsable de la demande d'asile, dûment constatée par
-l'autorité administrative. La décision mentionne l'adresse des lieux dans lesquels les opérations de visite peuvent être
-effectuées. L'ordonnance du juge des libertés et de la détention est exécutoire dans les conditions fixées aux troisième à
-sixième alinéas du II de l'article L. 561-2. 
+décision est motivée. Le juge s'assure de l'obstruction volontaire de l'étranger aux demandes de présentation qui lui sont
+faites, dûment constatée par l'autorité administrative. La décision mentionne l'adresse des lieux dans lesquels les
+opérations de visite peuvent être effectuées. L'ordonnance du juge des libertés et de la détention est exécutoire dans les
+conditions fixées aux troisième à sixième alinéas du II de l'article L. 561-2.
 
-Les opérations de visite ne peuvent, à peine de nullité, avoir d'autres finalités que celles énumérées au cinquième alinéa du
+Les opérations de visite ne peuvent, à peine de nullité, avoir d'autres finalités que celles énumérées au troisième alinéa du
 présent article.
 
 **Nota:**
@@ -14683,7 +14768,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 34
+  - Loi n°2018-187 du 20 mars 2018 - art. 3
 
 _Cité par_:
 
@@ -14696,7 +14781,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
 
 
@@ -14763,30 +14848,31 @@ _Cite_:
 
 ###### Article L742-4
 
-I. - L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article L. 742-3 peut, dans le délai de quinze
-jours à compter de la notification de cette décision, en demander l'annulation au président du tribunal administratif. 
+I. - L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article L. 742-3 peut, dans le délai de sept
+jours à compter de la notification de cette décision, en demander l'annulation au président du tribunal administratif.
 
 Le président ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
 inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue dans un délai de quinze
-jours à compter de sa saisine. 
+jours à compter de sa saisine.
 
-Aucun autre recours ne peut être introduit contre la décision de transfert. 
+Aucun autre recours ne peut être introduit contre la décision de transfert.
 
 L'étranger peut demander au président du tribunal ou au magistrat désigné par lui le concours d'un interprète. L'étranger est
 assisté de son conseil, s'il en a un. Il peut demander au président du tribunal administratif ou au magistrat désigné à cette
-fin qu'il lui en soit désigné un d'office. 
+fin qu'il lui en soit désigné un d'office.
 
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
-dûment convoqué, ne se présente pas. 
+dûment convoqué, ne se présente pas.
 
 Toutefois, si, en cours d'instance, l'étranger est placé en rétention en application de l'article L. 551-1 du présent code ou
 assigné à résidence en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au II du
-présent article. 
+présent article.
 
 II. - Lorsqu'une décision de placement en rétention prise en application de l'article L. 551-1 ou d'assignation à résidence
-prise en application de l'article L. 561-2 est notifiée avec la décision de transfert, l'étranger peut, dans les quarante-
-huit heures suivant leur notification, demander au président du tribunal administratif l'annulation de la décision de
-transfert et de la décision d'assignation à résidence. 
+prise en application de l'article L. 561-2 est notifiée avec la décision de transfert ou lorsque celle-ci est notifiée alors
+que l'étranger fait déjà l'objet d'une telle décision de placement en rétention ou d'assignation à résidence, l'étranger
+peut, dans les quarante-huit heures suivant leur notification, demander au président du tribunal administratif l'annulation
+de la décision de transfert et de la décision d'assignation à résidence.
 
 Il est statué sur ce recours selon la procédure et dans le délai prévus au III de l'article L. 512-1.
 
@@ -14797,8 +14883,7 @@ tribunal de la décision de placement en rétention ou d'assignation à résiden
 
 **Nota:**
 
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+
 
 **Liens relatifs à cet article**
 
@@ -14810,7 +14895,6 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
   - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
   - Décret n°2015-1364 du 28 octobre 2015 - art. 4 (VD)
   - Code de justice administrative - art. L777-3 (V)
@@ -14826,7 +14910,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 33
+  - Loi n°2018-187 du 20 mars 2018 - art. 3
 
 _Cite_:
 
@@ -14840,21 +14924,13 @@ _Cite_:
 ###### Article L742-5
 
 Les articles L. 551-1 et L. 561-2 sont applicables à l'étranger faisant l'objet d'une décision de transfert dès la
-notification de cette décision. 
+notification de cette décision.
 
 La décision de transfert ne peut faire l'objet d'une exécution d'office ni avant l'expiration d'un délai de quinze jours ou,
 si une décision de placement en rétention prise en application de l'article L. 551-1 ou d'assignation à résidence prise en
-application de l'article L. 561-2 a été notifiée avec la décision de transfert, avant l'expiration d'un délai de quarante-
-huit heures, ni avant que le tribunal administratif ait statué, s'il a été saisi.
-
-**Nota:**
-
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-1 du code de l'entrée et du
-séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
-présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4). 
-
-Conformément à l'article 4 du décret n° 2015-1364 du 28 octobre 2015, les dispositions de l'article L. 742-4 s'appliquent aux
-demandes d'asile ayant fait l'objet d'une décision de transfert prise à compter du 1er novembre 2015.
+application de l'article L. 561-2 a été notifiée avec la décision de transfert ou si celle-ci a été notifiée alors que
+l'étranger fait déjà l'objet d'une telle décision de placement en rétention ou d'assignation à résidence, avant l'expiration
+d'un délai de quarante-huit heures, ni avant que le tribunal administratif ait statué, s'il a été saisi.
 
 **Liens relatifs à cet article**
 
@@ -14864,14 +14940,9 @@ _Anciens textes_:
   - Loi n°52-893 du 25 juillet 1952 - art. 8 (M)
   - Loi n°52-893 du 25 juillet 1952 - art. 8 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance n°2004-1248 du 24 novembre 2004
-  - Loi n°2006-911 du 24 juillet 2006
-
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 20
+  - Loi n°2018-187 du 20 mars 2018 - art. 3
 
 _Cité par_:
 
@@ -14922,6 +14993,39 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R742-1 (V)
   - Code du travail - art. L5423-11 (VT)
+
+
+###### Article L742-7
+
+La procédure de transfert vers l'Etat responsable de l'examen de la demande d'asile ne peut être engagée dans le cas de
+défaillances systémiques dans l'Etat considéré mentionné au 2 de l'article 3 du règlement (UE) n° 604/2013 du Parlement
+européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l'Etat membre responsable
+de l'examen d'une demande de protection internationale introduite dans l'un des Etats membres par un ressortissant de pays
+tiers ou un apatride.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2658 1945-11-02 art. 32 ter, ecqc l'octroi de la qualité de réfugié ou le bénéfice de la protection subsidiaire
+
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2018-187 du 20 mars 2018 - art. 3
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L761-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-1 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L766-2 (M)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L762-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L763-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
 
 
 #### Chapitre III : Droit au maintien sur le territoire français<a id=136></a>
