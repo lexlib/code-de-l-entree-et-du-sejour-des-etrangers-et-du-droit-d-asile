@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-03-22
+Version Consolidée au 2018-05-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -21335,6 +21335,37 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-7 (VD)
 
 
+###### Article R311-10-1
+
+Par dérogation au premier alinéa de l'article R. 311-10, lorsque la demande de titre de séjour est déposée auprès de la
+préfecture du département des Bouches-du-Rhône, le préfet de ce département est compétent pour délivrer un titre de séjour
+aux étrangers, ainsi qu'aux membres de leur famille, travaillant dans le cadre de l'accord sur l'établissement de
+l'organisation internationale ITER pour l'énergie de fusion en vue de la mise en œuvre conjointe du projet ITER fait à Paris
+le 21 novembre 2006 ou pour le centre de recherche sis à Saint-Paul-lez-Durance du Commissariat à l'énergie atomique et aux
+énergies alternatives et employés par : 
+
+1° Un contractant ou un sous-traitant d'un contractant de l'organisation internationale mentionnée au premier alinéa ; 
+
+2° Les agences domestiques prévues à l'article 8 de l'accord mentionné au premier alinéa ou un contractant ou un sous-
+traitant d'un contractant de l'une de ces agences ; 
+
+3° Le commissariat mentionné au premier alinéa ou l'un de ses contractants ou sous-traitants d'un contractant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-335 du 4 mai 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-10
+
+_Cité par_:
+
+  - Code du travail - art. R5221-15-1 (V)
+
+
 ###### Article R311-11
 
 La délivrance d'un titre de séjour est refusée à l'étranger qui ne remplit pas les conditions auxquelles les dispositions du
@@ -21345,8 +21376,7 @@ exercer celle-ci.
 Pour l'application des articles L. 313-7-2 et L. 313-24, la délivrance d'un titre de séjour est également refusée à
 l'étranger qui effectue une mission dans un établissement ou une entreprise qui a été créée dans le but principal de
 faciliter l'entrée d'étrangers entrant dans les prévisions des articles L. 313-7-2 et L. 313-24 ainsi que lorsque
-l'employeur, l'établissement ou l'entreprise d'accueil de l'étranger ne respecte pas la législation relative au travail et à
-la protection sociale. 
+l'employeur, ou l'entreprise d'accueil de l'étranger a été condamné en vertu de l'article L. 8256-1 du code du travail. 
 
 Pour l'application des articles L. 313-7-2 et L. 313-24, la délivrance d'un titre de séjour est également refusée à
 l'étranger lorsque la durée maximale de séjour est atteinte, respectivement d'un an pour les étrangers visés à l'article L.
@@ -21366,13 +21396,40 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+  - Décret n°2018-335 du 4 mai 2018 - art. 3
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-24 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-2
   - Code du travail - art. L5221-2
+  - Code du travail - art. L8256-1
+
+
+###### Article R311-11-1
+
+La délivrance d'un titre de séjour peut être refusée à l'étranger, pour l'application des articles L. 313-7-2 et L. 313-24
+lorsque l'employeur, l'établissement ou l'entreprise d'accueil de l'étranger a été sanctionné pour avoir méconnu les
+interdictions définies aux 1° à 4° de l'article L. 8211-1 du code du travail ou a été condamné en vertu de l'article L.
+8256-2 du même code ou a manqué à ses obligations légales en matière de sécurité sociale, de fiscalité ou de droits en
+matière de travail ou de conditions de travail. 
+
+Pour l'application du II de l'article L. 313-7-2 et du IV de l'article L. 313-24, la délivrance d'un titre de séjour peut
+également être refusée à l'étranger lorsque son titre de séjour portant la mention “ ICT ”, délivré dans le premier Etat
+membre, expire durant la procédure d'instruction de sa demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-335 du 4 mai 2018 - art. 4
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-2
+  - Code du travail - art. L8211-1
+  - Code du travail - art. L8256-2
 
 
 ###### Article R311-12-1
@@ -21484,40 +21541,41 @@ retrait du titre de séjour sur le droit au séjour de l'intéressé à un autre
 
 12° Si dans le cadre de l'application des articles L. 313-7-2 et L. 313-24, le titre de séjour a été délivré à l'étranger
 dont l'établissement ou l'entreprise d'emploi a été créé en France dans le but principal de faciliter l'entrée et le séjour
-d'étrangers effectuant une mission en France dans le cadre du 2° de l'article L. 1262-1 du code du travail, ou lorsque la
-durée maximale de la mission est atteinte.
+d'étrangers effectuant une mission en France dans le cadre du 2° de l'article L. 1262-1 du code du travail ou si l'employeur
+ou l'entreprise d'accueil de l'étranger a été condamné en vertu de l'article L. 8256-1 du code du travail.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-21 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-24 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-64 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-8-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
-  - Code pénal - art. 222-9
-  - Code du travail - art. L1262-1 (V)
+  - Décret n°2018-335 du 4 mai 2018 - art. 5
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-8-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-21
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-64
+  - Code pénal - art. 222-9
+  - Code du travail - art. L1262-1
+  - Code du travail - art. L8256-1
+
 
 ###### Article R311-15
 
-I. - Le titre de séjour peut être retiré : 
+I.-Le titre de séjour peut être retiré : 
 
 1° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour pluriannuelle, a commis des faits qui
-l'exposent à l'une des condamnations prévues aux articles 222-34 à 222-40, 224-1-A à 224-1-C, 225-4-1 à 225-4-4,  225-4-7,
-225-5 à 225-11, 225-12-1 et 225-12-2, 225-12-5 à 225-12-7, 225-13 à 225-15, au 7° de l'article 311-4 et aux articles 312-12-1
-et 321-6-1 du code pénal ; 
+l'exposent à l'une des condamnations prévues aux articles 222-34 à 222-40,224-1-A à 224-1-C, 225-4-1 à 225-4-4,225-4-7,225-5
+à 225-11,225-12-1 et 225-12-2,225-12-5 à 225-12-7,225-13 à 225-15, au 7° de l'article 311-4 et aux articles 312-12-1 et
+321-6-1 du code pénal ; 
 
 2° Si l'étranger, titulaire d'une carte de séjour temporaire ou d'une carte de séjour pluriannuelle, a occupé un travailleur
 étranger en infraction avec les dispositions de l'article L. 5221-8 du code du travail ou a méconnu les dispositions de
@@ -21562,9 +21620,11 @@ subsidiaire dans les cas mentionnés à l'article L. 314-7-1 ;
 titre de séjour ou ne défère pas aux convocations ; 
 
 13° Si l'employeur, l'établissement ou l'entreprise d'accueil, de l'étranger entrant dans les prévisions des articles L.
-313-7-2 et L. 313-24 ne respecte pas la législation relative au travail et à la protection sociale. 
+313-7-2 et L. 313-24 a été sanctionné pour avoir méconnu les interdictions définies aux 1° à 4° de l'article L. 8211-1 du
+code du travail ou a été condamné en vertu de l'article L. 8256-2 du même code ou a manqué à ses obligations légales en
+matière de sécurité sociale, de fiscalité ou de droits en matière de travail ou de conditions de travail. 
 
-II. - La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire : 
+II.-La carte de résident peut être retirée et remplacée de plein droit par une carte de séjour temporaire : 
 
 1° Si l'étranger, titulaire d'une carte de résident, ne peut faire l'objet d'une mesure d'expulsion en application des
 articles L. 521-2 ou L. 521-3 du présent code et a été condamné de manière définitive sur le fondement des articles
@@ -21579,46 +21639,48 @@ l'ordre public, ne peut faire l'objet d'une mesure d'expulsion en application de
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+  - Décret n°2018-335 du 4 mai 2018 - art. 6
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-24 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L431-2 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-4-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-5-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-7-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-8
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-9
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L431-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-4
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L521-3
-  - Code pénal - art. 222-34 (V)
-  - Code pénal - art. 224-1 A (V)
-  - Code pénal - art. 225-12-1 (V)
-  - Code pénal - art. 225-12-5 (V)
-  - Code pénal - art. 225-13 (V)
-  - Code pénal - art. 225-4-1 (V)
-  - Code pénal - art. 225-4-7 (V)
-  - Code pénal - art. 225-5 (V)
-  - Code pénal - art. 311-4 (V)
-  - Code pénal - art. 312-12-1 (V)
-  - Code pénal - art. 321-6-1 (V)
+  - Code pénal - art. 222-34
+  - Code pénal - art. 224-1 A
+  - Code pénal - art. 225-12-1
+  - Code pénal - art. 225-12-5
+  - Code pénal - art. 225-13
+  - Code pénal - art. 225-4-1
+  - Code pénal - art. 225-4-7
+  - Code pénal - art. 225-5
+  - Code pénal - art. 311-4
+  - Code pénal - art. 312-12-1
+  - Code pénal - art. 321-6-1
   - Code pénal - art. 433-3
   - Code pénal - art. 433-4
   - Code pénal - art. 433-5
   - Code pénal - art. 433-5-1
   - Code pénal - art. 433-6
   - Code du travail - art. L5221-5
-  - Code du travail - art. L5221-8 (V)
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
+  - Code du travail - art. L5221-8
+  - Code du travail - art. L8211-1
+  - Code du travail - art. L8256-2
 
 
 ###### Article R311-16
@@ -23628,40 +23690,42 @@ _Cite_:
 
 ###### Article R313-23
 
-Le rapport médical visé à l'article R. 313-22 est établi par un médecin de l'Office français de l'immigration et de
-l'intégration à partir d'un certificat médical établi par le médecin qui le suit habituellement ou par un médecin praticien
-hospitalier inscrits au tableau de l'ordre, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa de
-l'article R. 313-22. Le médecin de l'office peut solliciter, le cas échéant, le médecin qui suit habituellement le demandeur
-ou le médecin praticien hospitalier. Il en informe le demandeur. Il peut également convoquer le demandeur pour l'examiner et
-faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant
-de son identité. A défaut de réponse dans le délai de quinze jours, ou si le demandeur ne se présente pas à la convocation
-qui lui a été fixée, ou s'il n'a pas présenté les documents justifiant de son identité le médecin de l'office établit son
-rapport au vu des éléments dont il dispose et y indique que le demandeur n'a pas répondu à sa convocation ou n'a pas justifié
-de son identité. Il transmet son rapport médical au collège de médecins. 
+Le rapport médical mentionné à l'article R. 313-22 est établi par un médecin de l'Office français de l'immigration et de
+l'intégration à partir d'un certificat médical établi par le médecin qui suit habituellement le demandeur ou par un médecin
+praticien hospitalier inscrits au tableau de l'ordre, dans les conditions prévues par l'arrêté mentionné au deuxième alinéa
+de l'article R. 313-22. Le médecin de l'office peut solliciter, le cas échéant, le médecin qui suit habituellement le
+demandeur ou le médecin praticien hospitalier. Il en informe le demandeur. Il peut également convoquer le demandeur pour
+l'examiner et faire procéder aux examens estimés nécessaires. Le demandeur présente au service médical de l'office les
+documents justifiant de son identité. A défaut de réponse dans le délai de quinze jours, ou si le demandeur ne se présente
+pas à la convocation qui lui a été fixée, ou s'il n'a pas présenté les documents justifiant de son identité le médecin de
+l'office établit son rapport au vu des éléments dont il dispose et y indique que le demandeur n'a pas répondu à sa
+convocation ou n'a pas justifié de son identité. Il transmet son rapport médical au collège de médecins.
 
 Sous couvert du directeur général de l'Office français de l'immigration et de l'intégration le service médical de l'office
 informe le préfet qu'il a transmis au collège de médecins le rapport médical. En cas de défaut de présentation de l'étranger
-lorsqu'il a été convoqué par le médecin de l'office ou de présentation des examens complémentaires demandés dans les
-conditions prévues au premier alinéa, il en informe également le préfet ; dans ce cas le récépissé prévu à l'article R. 311-4
-n'est pas délivré. 
+lorsqu'il a été convoqué par le médecin de l'office ou de production des examens complémentaires demandés dans les conditions
+prévues au premier alinéa, il en informe également le préfet ; dans ce cas le récépissé de demande de première délivrance de
+carte de séjour prévu à l'article R. 311-4 n'est pas délivré. Lorsque l'étranger dépose une demande de renouvellement de
+titre de séjour, le récépissé est délivré dès la réception, par le service médical de l'office, du certificat médical
+mentionné au premier alinéa.
 
 Le collège à compétence nationale, composé de trois médecins, émet un avis dans les conditions de l'arrêté mentionné au
 premier alinéa du présent article. La composition du collège et, le cas échéant, de ses formations est fixée par décision du
-directeur général de l'office. Le médecin ayant établi le rapport médical ne siège pas au sein du collège. 
+directeur général de l'office. Le médecin ayant établi le rapport médical ne siège pas au sein du collège.
 
-Le collège peut délibérer au moyen d'une conférence téléphonique ou audiovisuelle. 
+Le collège peut délibérer au moyen d'une conférence téléphonique ou audiovisuelle.
 
 Le collège peut demander au médecin qui suit habituellement le demandeur, au médecin praticien hospitalier ou au médecin qui
 a rédigé le rapport de lui communiquer, dans un délai de quinze jours, tout complément d'information. Le demandeur en est
 simultanément informé. Le collège de médecins peut entendre et, le cas échéant, examiner le demandeur et faire procéder aux
 examens estimés nécessaires. Le demandeur présente au service médical de l'office les documents justifiant de son identité.
 Il peut être assisté d'un interprète et d'un médecin. Lorsque l'étranger est mineur, il est accompagné de son représentant
-légal. 
+légal.
 
 L'avis est rendu par le collège dans un délai de trois mois à compter de la transmission par le demandeur des éléments
 médicaux conformément à la première phrase du premier alinéa. Lorsque le demandeur n'a pas présenté au médecin de l'office ou
 au collège les documents justifiant son identité, n'a pas produit les examens complémentaires qui lui ont été demandés ou n'a
-pas répondu à la convocation du médecin de l'office ou du collège qui lui a été adressée, l'avis le constate. 
+pas répondu à la convocation du médecin de l'office ou du collège qui lui a été adressée, l'avis le constate.
 
 L'avis est transmis au préfet territorialement compétent, sous couvert du directeur général de l'Office français de
 l'immigration et de l'intégration.
@@ -23672,18 +23736,18 @@ _Codifié par_:
 
   - Décret n°2006-1378 du 14 novembre 2006
 
-_Modifié par_:
-
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
-
 _Cité par_:
 
   - Arrêté du 27 décembre 2016 - art. 1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-36 (V)
 
+_Modifié par_:
+
+  - Décret n°2018-335 du 4 mai 2018 - art. 7
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-4
 
 
 ###### Article R313-24
