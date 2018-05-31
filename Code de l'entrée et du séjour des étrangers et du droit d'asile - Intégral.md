@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-05-07
+Version Consolidée au 2018-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -7590,47 +7590,47 @@ I de l'article L. 511-1 ou sur le fondement de l'article L. 511-3-1 et qui dispo
 premier alinéa du II de l'article L. 511-1 ou au sixième alinéa de l'article L. 511-3-1 peut, dans le délai de trente jours
 suivant sa notification, demander au tribunal administratif l'annulation de cette décision, ainsi que l'annulation de la
 décision relative au séjour, de la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur
-le territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
+le territoire français ou d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant.
 
 L'étranger peut demander le bénéfice de l'aide juridictionnelle au plus tard lors de l'introduction de sa requête en
-annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine. 
+annulation. Le tribunal administratif statue dans un délai de trois mois à compter de sa saisine.
 
 Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article.
 
 I bis.-L'étranger qui fait l'objet d'une obligation de quitter le territoire français sur le fondement des 1°, 2°, 4° ou 6°
 du I de l'article L. 511-1 et qui dispose du délai de départ volontaire mentionné au premier alinéa du II du même article L.
 511-1 peut, dans un délai de quinze jours à compter de sa notification, demander au président du tribunal administratif
 l'annulation de cette décision, ainsi que l'annulation de la décision mentionnant le pays de destination et de la décision
-d'interdiction de retour sur le territoire français qui l'accompagnent le cas échéant. 
+d'interdiction de retour sur le territoire français qui l'accompagnent le cas échéant.
 
 L'étranger qui fait l'objet d'une interdiction de retour prévue au sixième alinéa du III du même article L. 511-1 peut, dans
-le délai de quinze jours suivant sa notification, demander l'annulation de cette décision. 
+le délai de quinze jours suivant sa notification, demander l'annulation de cette décision.
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou parmi
 les magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue
-dans un délai de six semaines à compter de sa saisine. 
+dans un délai de six semaines à compter de sa saisine.
 
 L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
-interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise.
 
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
 dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
-tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office.
 
 Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 du présent code ou assigné à résidence
-en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article.
 
 II. ― L'étranger qui fait l'objet d'une obligation de quitter le territoire sans délai peut, dans les quarante-huit heures
 suivant sa notification par voie administrative, demander au président du tribunal administratif l'annulation de cette
 décision, ainsi que l'annulation de la décision relative au séjour, de la décision refusant un délai de départ volontaire, de
 la décision mentionnant le pays de destination et de la décision d'interdiction de retour sur le territoire français ou
-d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant. 
+d'interdiction de circulation sur le territoire français qui l'accompagnent le cas échéant.
 
-Il est statué sur ce recours selon la procédure et dans les délais prévus, selon les cas, aux I ou I bis. 
+Il est statué sur ce recours selon la procédure et dans les délais prévus, selon les cas, aux I ou I bis.
 
 Toutefois, si l'étranger est placé en rétention en application de l'article L. 551-1 ou assigné à résidence en application de
-l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article. 
+l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au III du présent article.
 
 III. ― En cas de placement en rétention en application de l'article L. 551-1, l'étranger peut demander au président du
 tribunal administratif l'annulation de l'obligation de quitter le territoire français, de la décision refusant un délai de
@@ -7641,12 +7641,12 @@ placement en rétention. La décision de placement en rétention ne peut être c
 détention, dans un délai de quarante-huit heures à compter de sa notification, suivant la procédure prévue à la section 1 du
 chapitre II du titre V du présent livre et dans une audience commune aux deux procédures, sur lesquelles le juge statue par
 ordonnance unique lorsqu'il est également saisi aux fins de prolongation de la rétention en application de l'article L.
-552-1. 
+552-1.
 
 L'étranger faisant l'objet d'une décision d'assignation à résidence prise en application de l'article L. 561-2 peut, dans le
 même délai, demander au président du tribunal administratif l'annulation de cette décision. Les décisions mentionnées au
 premier alinéa du présent III peuvent être contestées dans le même recours lorsqu'elles sont notifiées avec la décision
-d'assignation. 
+d'assignation.
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
 magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
@@ -7657,28 +7657,31 @@ proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle
 langue qu'il comprend, s'y oppose, l'audience peut se tenir dans cette salle et le juge siéger au tribunal dont il est
 membre, relié à la salle d'audience, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité
 de la transmission. La salle d'audience située à proximité du lieu de rétention et celle du tribunal administratif sont
-ouvertes au public. 
+ouvertes au public.
 
 L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
-interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise. 
+interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise.
 
 L'audience est publique. Elle se déroule sans conclusions du rapporteur public, en présence de l'intéressé, sauf si celui-ci,
 dûment convoqué, ne se présente pas. L'étranger est assisté de son conseil s'il en a un. Il peut demander au président du
-tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office. 
+tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit désigné un d'office.
 
 Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
 territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
 d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
-compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation. 
+compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation.
 
-IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon la procédure et dans les délais prévus au III.
-Dès la notification de l'obligation de quitter le territoire français, l'étranger est informé, dans une langue qu'il
-comprend, qu'il peut demander l'assistance d'un interprète ainsi que d'un conseil.
+IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon la procédure prévue au III. Dès la notification
+de l'obligation de quitter le territoire français, l'étranger est informé, dans une langue qu'il comprend, qu'il peut
+demander l'assistance d'un interprète ainsi que d'un conseil.
 
 **Nota:**
 
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+Dans sa décision n° 2018-709 QPC du 1er juin 2018, le Conseil constitutionnel a déclaré les mots " et dans les délais "
+figurant à la première phrase du paragraphe IV de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du
+droit d'asile, dans sa rédaction résultant de la loi n° 2016-274 du 7 mars 2016 relative au droit des étrangers en France,
+contraires à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter de la date de
+publication de la décision du Conseil constitutionnel, soit à compter du 1er juin 2018.
 
 **Liens relatifs à cet article**
 
@@ -7726,16 +7729,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2004-1248 du 24 novembre 2004
-  - Loi n°2006-911 du 24 juillet 2006
-
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 27
-  - Loi n°2016-274 du 7 mars 2016 - art. 28
-  - Loi n°2016-274 du 7 mars 2016 - art. 33
+  - Décision n°2018-709 QPC du 1er juin 2018 - art. 1, v. init.
 
 _Cite_:
 
