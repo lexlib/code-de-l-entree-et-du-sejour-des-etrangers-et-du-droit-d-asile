@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-06-02
+Version Consolidée au 2018-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -30148,29 +30148,54 @@ _Cité par_:
 ###### Article R553-12
 
 Pendant la durée de leur séjour en rétention, les étrangers sont hébergés et nourris à titre gratuit. Ils sont soignés
-gratuitement.
+gratuitement. S'ils en font la demande, ils sont examinés par un médecin de l'unité médicale du centre de rétention
+administrative, qui assure, le cas échéant, la prise en charge médicale durant la rétention administrative.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2018-528 du 28 juin 2018 - art. 1
 
 
 ###### Article R553-13
 
-Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil, d'information,
-de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment
-sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de
-vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la conduite de ces actions,
-l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine les conditions
-d'affectation et d'intervention des agents de cet établissement public.
+I.-Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil,
+d'information, de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui
+portent notamment sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives,
+l'achat de produits de vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la
+conduite de ces actions, l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine
+les conditions d'affectation et d'intervention des agents de cet établissement public. 
+
+II.-L'étranger ou le demandeur d'asile, placé en rétention administrative en application du II de l'article L. 551-1, peut,
+indépendamment de l'examen de son état de vulnérabilité par l'autorité administrative lors de son placement en rétention,
+faire l'objet, à sa demande, d'une évaluation de son état de vulnérabilité par des agents de l'Office français de
+l'immigration et de l'intégration dans le cadre de la convention prévue au I et, en tant que de besoin, par un médecin de
+l'unité médicale du centre de rétention administrative. 
+
+A l'issue de cette évaluation, l'agent de l'Office français de l'immigration et de l'intégration et le médecin qui en ont été
+chargés peuvent formuler des avis sur les éventuels besoins d'adaptation des conditions de rétention de l'étranger visé à
+l'alinéa précédent ou sur son maintien en rétention lorsque ce dernier est incompatible avec son état de vulnérabilité. Le
+responsable du centre de rétention ou son représentant détermine, le cas échant, les modalités particulières de maintien en
+rétention tenant compte de la situation de vulnérabilité de la personne et, en cas d'incompatibilité du maintien en rétention
+avec cet état, en avise l'autorité administrative compétente. 
+
+Le cas échéant, le médecin peut également formuler un avis sur la nécessité d'une prise en charge médicale durant le
+transfert vers l'Etat membre responsable de l'examen de la demande d'asile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Décret n°2018-528 du 28 juin 2018 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (V)
 
 _Cité par_:
 
