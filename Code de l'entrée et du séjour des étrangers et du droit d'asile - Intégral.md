@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-06-02
+Version Consolidée au 2018-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -10308,20 +10308,10 @@ de l'article 131-30 du code pénal ;
 6° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire.
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, renouvelable une
-fois dans la même limite de durée, par une décision également motivée.
-
-Par exception :
-
-a) Dans le cas prévu au 4° du présent article, la décision d'assignation à résidence peut être renouvelée tant que
-l'interdiction de retour ou l'interdiction de circulation sur le territoire français demeure exécutoire ;
-
-b) Dans le cas d'un étranger faisant l'objet d'un arrêté d'expulsion en application des articles L. 523-3 à L. 523-5, la
-durée maximale de six mois ne s'applique pas ;
-
-c) Dans le cas prévu au 5° du présent article, la durée maximale de six mois ne s'applique pas. Au-delà d'une durée de cinq
-ans, le maintien sous assignation à résidence fait l'objet d'une décision spécialement motivée faisant état des circonstances
-particulières justifiant cette prolongation au regard, notamment, de l'absence de garanties suffisantes de représentation de
-l'étranger ou si sa présence constitue une menace grave pour l'ordre public.
+fois dans la même limite de durée, par une décision également motivée. Par exception, dans le cas prévu au 4° du présent
+article, elle peut être renouvelée tant que l'interdiction de retour ou l'interdiction de circulation sur le territoire
+français demeure exécutoire. La durée de six mois ne s'applique ni aux cas mentionnés, ni à ceux mentionnés aux articles L.
+523-3 à L. 523-5 du présent code.
 
 L'étranger astreint à résider dans les lieux qui lui sont fixés par l'autorité administrative doit se présenter
 périodiquement aux services de police ou aux unités de gendarmerie. Il doit également se présenter, lorsque l'autorité
@@ -10335,6 +10325,14 @@ administrative peut le faire conduire par les services de police ou de gendarmer
 
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
 624-4.
+
+**Nota:**
+
+Dans sa décision n° 2017-674 QPC du 1er décembre 2017 (NOR : CSCX1733942S), le Conseil constitutionnel a déclaré les mots "
+au 5° du présent article " figurant à la dernière phrase du huitième alinéa de l'article L. 561-1 du code de l'entrée et du
+séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la loi n° 2016-274 du 7 mars 2016 relative au droit
+des étrangers en France, contraires à la Constitution. La déclaration d'inconstitutionnalité prend effet le 30 juin 2018 dans
+les conditions fixées au paragraphe 25.
 
 **Liens relatifs à cet article**
 
@@ -10359,7 +10357,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L541-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L624-4 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R*541-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-1 (V)
@@ -10370,7 +10368,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 4
+  - Décision n°2017-674 QPC du 1er décembre 2017 - art. 1, v. init.
 
 _Nouveaux textes_:
 
@@ -29897,29 +29895,50 @@ _Cité par_:
 ###### Article R553-12
 
 Pendant la durée de leur séjour en rétention, les étrangers sont hébergés et nourris à titre gratuit. Ils sont soignés
-gratuitement.
+gratuitement. S'ils en font la demande, ils sont examinés par un médecin de l'unité médicale du centre de rétention
+administrative, qui assure, le cas échéant, la prise en charge médicale durant la rétention administrative.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2018-528 du 28 juin 2018 - art. 1
 
 
 ###### Article R553-13
 
-Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil, d'information,
-de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui portent notamment
-sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives, l'achat de produits de
-vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la conduite de ces actions,
-l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine les conditions
-d'affectation et d'intervention des agents de cet établissement public.
+I. - Les étrangers placés ou maintenus dans un centre de rétention administrative bénéficient d'actions d'accueil,
+d'information, de soutien moral et psychologique et d'aide pour préparer les conditions matérielles de leur départ, qui
+portent notamment sur la récupération des bagages des personnes retenues, la réalisation de formalités administratives,
+l'achat de produits de vie courante et, le cas échéant, les liens avec le pays d'origine, notamment la famille. Pour la
+conduite de ces actions, l'Etat a recours à l'Office français de l'immigration et de l'intégration. Une convention détermine
+les conditions d'affectation et d'intervention des agents de cet établissement public.
+
+II. - L'étranger ou le demandeur d'asile, placé en rétention administrative en application du II de l'article L. 551-1, peut,
+indépendamment de l'examen de son état de vulnérabilité par l'autorité administrative lors de son placement en rétention,
+faire l'objet, à sa demande, d'une évaluation de son état de vulnérabilité par des agents de l'Office français de
+l'immigration et de l'intégration dans le cadre de la convention prévue au I et, en tant que de besoin, par un médecin de
+l'unité médicale du centre de rétention administrative.
+
+A l'issue de cette évaluation, l'agent de l'Office français de l'immigration et de l'intégration et le médecin qui en ont été
+chargés peuvent formuler des avis sur les éventuels besoins d'adaptation des conditions de rétention de l'étranger visé à
+l'alinéa précédent ou sur son maintien en rétention lorsque ce dernier est incompatible avec son état de vulnérabilité. Le
+responsable du centre de rétention ou son représentant détermine, le cas échant, les modalités particulières de maintien en
+rétention tenant compte de la situation de vulnérabilité de la personne et, en cas d'incompatibilité du maintien en rétention
+avec cet état, en avise l'autorité administrative compétente.
+
+Le cas échéant, le médecin peut également formuler un avis sur la nécessité d'une prise en charge médicale durant le
+transfert vers l'Etat membre responsable de l'examen de la demande d'asile.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-331 du 25 mars 2009 - art. 5 (V)
+  - Décret n°2018-528 du 28 juin 2018 - art. 2
 
 _Cité par_:
 
