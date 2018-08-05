@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-06-30
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -857,7 +857,7 @@ Cet observatoire transmet un rapport au Parlement avant le 1er octobre de chaque
 
 Cet observatoire comprend un représentant du ministre de l'intérieur, du ministre chargé de l'asile, du ministre chargé de
 l'outre-mer, du ministre chargé du budget, de l'Office français de protection des réfugiés et apatrides, de l'Office français
-de l'immigration et de l'intégration ainsi que trois députés et trois sénateurs, désignés par leur assemblée respective.
+de l'immigration et de l'intégration ainsi que trois députés et trois sénateurs.
 
 **Liens relatifs à cet article**
 
@@ -875,7 +875,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 32
+  - Loi n°2018-699 du 3 août 2018 - art. 75
 
 
 ### TITRE II : ENTRÉE ET SÉJOUR DES RESSORTISSANTS DES ÉTATS MEMBRES DE L'UNION EUROPÉENNE OU PARTIES À L'ACCORD SUR L'ESPACE ÉCONOMIQUE EUROPÉEN ET DES RESSORTISSANTS SUISSES AINSI QUE SEJOUR DES MEMBRES DE LEUR FAMILLE<a id=5></a>
@@ -13112,19 +13112,24 @@ _Cité par_:
 
 ###### Article L722-1
 
-L'office est administré par un conseil d'administration comprenant deux députés, une femme et un homme, désignés par
-l'Assemblée nationale, deux sénateurs, une femme et un homme, désignés par le Sénat, deux représentants de la France au
-Parlement européen, une femme et un homme, désignés par décret, des représentants de l'Etat et un représentant du personnel
-de l'office. 
+L'office est administré par un conseil d'administration comprenant :
+
+1° Deux députés et deux sénateurs ;
+
+2° Deux représentants de la France au Parlement européen, une femme et un homme, désignés par décret ;
+
+3° Des représentants de l'Etat ;
+
+4° Et un représentant du personnel de l'office.
 
 Le conseil d'administration comprend, en qualité de représentants de l'Etat, deux personnalités, un homme et une femme,
 nommées par le Premier ministre, un représentant du ministre de l'intérieur, un représentant du ministre chargé de l'asile,
 le secrétaire général du ministère des affaires étrangères, le directeur des affaires civiles et du sceau au ministère de la
 justice, un représentant du ministre chargé des affaires sociales, un représentant du ministre chargé des droits des femmes,
-un représentant du ministre chargé des outre-mer et le directeur du budget au ministère chargé du budget. 
+un représentant du ministre chargé des outre-mer et le directeur du budget au ministère chargé du budget.
 
 Le conseil d'administration fixe les orientations générales concernant l'activité de l'office et délibère sur les modalités
-de mise en oeuvre des dispositions relatives à l'octroi du statut de réfugié ou de la protection subsidiaire. 
+de mise en oeuvre des dispositions relatives à l'octroi du statut de réfugié ou de la protection subsidiaire.
 
 Un pays est considéré comme un pays d'origine sûr lorsque, sur la base de la situation légale, de l'application du droit dans
 le cadre d'un régime démocratique et des circonstances politiques générales, il peut être démontré que, d'une manière
@@ -13150,7 +13155,7 @@ peuvent saisir le conseil d'administration, dans des conditions prévues par dé
 l'inscription ou à la radiation d'un Etat sur la liste des pays considérés comme des pays d'origine sûrs.
 
 Le président du conseil d'administration est nommé parmi ses membres par décret sur proposition du ministre chargé de
-l'asile. 
+l'asile.
 
 Le délégué du haut-commissaire des Nations unies pour les réfugiés ainsi que trois personnalités qualifiées nommées par
 décret assistent aux séances du conseil d'administration et peuvent y présenter leurs observations et leurs propositions. Au
@@ -13189,8 +13194,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 8
-  - Loi n°2015-925 du 29 juillet 2015 - art. 9
+  - Loi n°2018-699 du 3 août 2018 - art. 75
 
 
 ###### Article L722-2
