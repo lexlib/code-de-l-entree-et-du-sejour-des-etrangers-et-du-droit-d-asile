@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-09-12
+Version Consolidée au 2018-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -39174,98 +39174,77 @@ _Cite_:
 
 ###### Article R832-1
 
-Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
+Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
 
-I.-Aux articles D. 311-18-2, R. 313-10-2, R. 313-16-1, R. 313-34-1, R. 313-34-1-1, R. 313-22-1, R. 313-34-1, R. 313-36-1, R.
-313-45, R. 313-51, R. 313-65, R. 313-67, R. 313-68, R. 313-79 et R. 314-1-1, les mots : " salaire minimum de croissance "
-sont remplacés par les mots : " salaire minimum interprofessionnel garanti ". 
+I.- (Abrogé)
 
 II.-A l'article R. 313-14, les références au directeur régional des entreprises, de la concurrence, de la consommation, du
 travail et de l'emploi et au directeur régional des affaires culturelles sont remplacées par les références au directeur des
-entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au représentant de l'Etat. 
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi et au représentant de l'Etat.
 
 III.-Aux articles R. 111-1, R. 111-2, R. 111-13, R. 111-14, R. 111-16, R. 111-18, R. 111-23, R. 421-6, R. 552-10, R. 552-12 à
 R. 552-16 et R. 552-20 à R. 552-22, les mots : " cour d'appel " sont remplacés par les mots : " chambre d'appel de Mamoudzou
-". 
+".
 
-IV. (abrogé) 
+IV. (abrogé)
 
 V.-Au 4° du I de l'article R. 611-12, les mots : " commandement du groupement de gendarmerie " sont remplacés par les mots :
-" commandant de la gendarmerie ". 
+" commandant de la gendarmerie ".
 
 VI.-1° A l'article R. 121-4, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée par la référence
-à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002. 
+à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002.
 
 A l'article R. 121-4, les références aux articles L. 160-8 et L. 160-9 du code de la sécurité sociale sont remplacées par la
 référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à
-Mayotte. 
+Mayotte.
 
 Aux articles R. 121-4 et R. 121-11 à R. 121-14, les références aux articles L. 160-8, L. 321-1 et L. 160-9 du code de la
 sécurité sociale sont remplacées par la référence à l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
-l'amélioration de la santé publique à Mayotte ; 
+l'amélioration de la santé publique à Mayotte ;
 
-2° Aux articles R. 121-16, R. 311-6, R. 311-11 la référence à l'article L. 5221-2 du code du travail est remplacée par la
-référence à l'article L. 330-2 du code du travail applicable à Mayotte ; 
+2° (Abrogé)
 
-3° A l'article R. 811-4 la référence à l'article L. 341-4 du code du travail est remplacée par la référence à l'article L.
-330-3 du code du travail applicable à Mayotte ; 
+3° (Abrogé)
 
-3° bis Aux articles R. 311-3, R. 311-14, R. 313-14, R. 313-15 et R. 313-15-1, les références aux articles L. 1262-1 et L.
-1262-2 du code du travail sont remplacées par la référence à l'article L. 330-4 du code du travail applicable à Mayotte ; 
+3° bis (Abrogé)
 
-4° A l'article R. 311-15, la référence à l'article L. 5221-8 du code du travail est remplacée par la référence à l'article L.
-330-5 du code du travail applicable à Mayotte et la référence à l'article L. 5221-5 du code du travail est remplacée par la
-référence à l'article L. 330-3 du code du travail applicable à Mayotte ; 
+4° (Abrogé)
 
-5° (Abrogé) ; 
+5° (Abrogé) ;
 
-6° A l'article R. 313-7, la référence au titre II du livre IX du code du travail est remplacée par la référence au titre III
-du livre VII du code du travail applicable à Mayotte ; 
+6° (Abrogé)
 
-7° Aux articles R. 313-10-1 et R. 313-10-3, la référence à l'article L. 6351-1 du code du travail est remplacée par la
-référence à l'article L. 731-2 du code du travail applicable à Mayotte ; 
+7° (Abrogé)
 
-8° Aux articles R. 313-10-4 et R. 313-10-8, la référence à l'article L. 8271-1-2 du code du travail est remplacée par la
-référence à l'article L. 312-5 du code du travail applicable à Mayotte ; 
+8° (Abrogé)
 
-9° Aux articles R. 313-15 et R. 313-15-1, la référence aux articles R. 5221-1 et suivants du code du travail est remplacée
-par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte ; 
+9° (Abrogé)
 
-10° (abrogé) 
+10° (abrogé)
 
 11° A l'article R. 316-7, la référence à l'article L. 160-1 du code de la sécurité sociale est remplacée par la référence à
-l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte ; 
+l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique à Mayotte ;
 
-12° A l'article R. 322-1, la référence aux articles R. 5221-1 à R. 5221-48 du code du travail est remplacée par la référence
-aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte ; 
+12° (Abrogé)
 
-13° Au 2° de l'article R. 611-5, la référence à l'article L. 8113-7 du code du travail est remplacée par la référence à
-l'article L. 610-9 du code du travail applicable à Mayotte, la référence à l'article L. 8271-19 du code du travail est
-remplacée par la référence à l'article L. 330-9 du code du travail applicable à Mayotte. 
+13° Au 6° de l'article R. 611-5, les références aux articles L. 115-6 et L. 161-25-1 du code de la sécurité sociale sont
+remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la
+santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du code de la sécurité sociale
+sont remplacées par les dispositions applicables localement, la référence à l'article L. 512-2 du code de la sécurité sociale
+est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la
+généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte et la
+référence à l'article L. 831-1 du code de la sécurité sociale est remplacée par la référence à l'article 42-1 de l'ordonnance
+n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ;
 
-Au 6° de l'article R. 611-5, la référence à l'article L. 5411-4 du code du travail est remplacée par la référence à l'article
-L. 326-48 du code du travail applicable à Mayotte, les références aux articles L. 115-6 et L. 161-25-1 du code de la sécurité
-sociale sont remplacées par la référence à l'article 19 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à
-l'amélioration de la santé publique à Mayotte, les références aux articles L. 115-7, L. 161-16-1 et L. 161-18-1 du code de la
-sécurité sociale sont remplacées par les dispositions applicables localement, la référence à l'article L. 512-2 du code de la
-sécurité sociale est remplacée par la référence à l'article 4 de l'ordonnance n° 2002-149 du 7 février 2002 relative à
-l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de
-Mayotte et la référence à l'article L. 831-1 du code de la sécurité sociale est remplacée par la référence à l'article 42-1
-de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte ; 
+14° (Abrogé)
 
-14° Aux articles R. 611-5 et R. 626-1, la référence à l'article L. 8251-1 du code du travail est remplacée par la référence à
-l'article L. 330-5 du code du travail applicable à Mayotte ; 
+15° (Abrogé)
 
-15° Aux articles R. 611-5 et R. 626-2, la référence à l'article L. 8271-17 du code du travail est remplacée par la référence
-aux articles L. 330-11 et L. 610-15 du code du travail applicable à Mayotte ; 
+15° bis (Abrogé)
 
-15° bis A l'article R. 611-41-2, la référence à l'article L. 5312-1 du code du travail est remplacée par la référence à
-l'article L. 326-1 du code du travail applicable à Mayotte ; 
+16° (Abrogé)
 
-16° A l'article R. 811-4, les références aux articles R. 341-1, R. 341-3, R. 341-4 et R. 341-7 du code du travail sont
-remplacées par la référence aux articles R. 330-1 à R. 330-7 du code du travail applicable à Mayotte. 
-
-VII.-Le dernier alinéa de l'article R. 553-9 est supprimé. 
+VII.- (Abrogé)
 
 VIII.-Au deuxième alinéa de l'article R. 313-22, les mots : " rapport médical établi par un médecin de l'Office français de
 l'immigration et de l'intégration " sont complétés par les mots : " " ou par un médecin praticien hospitalier ".
@@ -39274,7 +39253,7 @@ l'immigration et de l'intégration " sont complétés par les mots : " " ou par 
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 18
+  - Décret n°2018-953 du 31 octobre 2018 - art. 14
 
 _Cité par_:
 
@@ -39282,46 +39261,46 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-13 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-16 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R121-11 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R121-16 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R121-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-11 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-14 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-15 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-8 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-15 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-16-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-22 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-34-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-36-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-51 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-65 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-7 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-79 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R314-1-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R316-7 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R322-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R421-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R552-10 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R552-20 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R553-9 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-41-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R626-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R626-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R811-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D311-18-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-13
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-16
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-23
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-16
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R121-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-14
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-15
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-6
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-8
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-15
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-16-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-22
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-34-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-36-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-45
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-51
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-65
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-79
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R314-1-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R316-7
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R322-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R421-6
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-10
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-20
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R553-9
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-12
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-41-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R626-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R626-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R811-4
 
 
 ###### Article R832-2
