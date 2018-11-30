@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-11-07
+Version Consolidée au 2018-12-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -15149,16 +15149,18 @@ _Cité par_:
 
 Le demandeur d'asile dont l'examen de la demande relève de la compétence de la France et qui a introduit sa demande auprès de
 l'Office français de protection des réfugiés et apatrides bénéficie du droit de se maintenir sur le territoire français
-jusqu'à la notification de la décision de l'office ou, si un recours a été formé, jusqu'à la notification de la décision de
-la Cour nationale du droit d'asile. L'attestation délivrée en application de l'article L. 741-1, dès lors que la demande
-d'asile a été introduite auprès de l'office, vaut autorisation provisoire de séjour et est renouvelable jusqu'à ce que
-l'office et, le cas échéant, la cour statuent.
+jusqu'à la notification de la décision de l'office ou, si un recours a été formé, dans le délai prévu à l'article L. 731-2
+contre une décision de rejet de l'office, soit jusqu'à la date de la lecture en audience publique de la décision de la Cour
+nationale du droit d'asile, soit, s'il est statué par ordonnance, jusqu'à la date de la notification de celle-ci.
+L'attestation délivrée en application de l'article L. 741-1, dès lors que la demande d'asile a été introduite auprès de
+l'office, vaut autorisation provisoire de séjour et est renouvelable jusqu'à ce que l'office et, le cas échéant, la cour
+statuent.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-1 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au II de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions s'appliquent aux
+décisions rendues par la Cour nationale du droit d'asile à compter du premier jour du troisième mois suivant la publication
+de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -15181,9 +15183,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L381-8 (VT)
   - Code de la sécurité sociale. - art. R380-1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2018-778 du 10 septembre 2018 - art. 12
 
 _Cite_:
 
