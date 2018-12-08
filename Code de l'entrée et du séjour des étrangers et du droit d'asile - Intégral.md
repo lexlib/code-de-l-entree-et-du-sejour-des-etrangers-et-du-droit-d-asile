@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2018-12-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3267,38 +3267,51 @@ _Cité par_:
 
 L'Etat met, dans le pays d'origine, à la disposition de l'étranger qui souhaite s'installer durablement sur le territoire
 français une information, dans une langue qu'il comprend, sur la vie en France ainsi que sur les droits et devoirs qui y sont
-liés. 
+liés.
 
 L'étranger admis pour la première fois au séjour en France ou qui entre régulièrement en France entre l'âge de seize ans et
 l'âge de dix-huit ans révolus et qui souhaite s'y maintenir durablement s'engage dans un parcours personnalisé d'intégration
-républicaine visant à favoriser son autonomie et son insertion dans la société française. Ce parcours comprend notamment : 
+républicaine. Ce parcours a pour objectifs la compréhension par l'étranger primo-arrivant des valeurs et principes de la
+République, l'apprentissage de la langue française, l'intégration sociale et professionnelle et l'accès à l'autonomie.
+
+Il comprend notamment :
 
 1° La formation civique prescrite par l'Etat, relative aux principes, aux valeurs et aux institutions de la République, à
-l'exercice des droits et devoirs liés à la vie en France ainsi qu'à l'organisation de la société française ; 
+l'exercice des droits et devoirs liés à la vie en France ainsi qu'à l'organisation de la société française ;
 
-2° La formation linguistique prescrite par l'Etat, visant à l'acquisition de la langue française ; 
+2° La formation linguistique prescrite par l'Etat, visant à l'acquisition de la langue française ;
 
-3° Un accompagnement adapté à ses besoins pour faciliter ses conditions d'accueil et d'intégration. 
+2° bis Un conseil en orientation professionnelle et un accompagnement destiné à favoriser son insertion professionnelle, en
+association avec les structures du service public de l'emploi ;
+
+3° Un accompagnement adapté à ses besoins pour faciliter ses conditions d'accueil et d'intégration.
 
 Dans les départements et les régions d'outre-mer, la formation mentionnée au 1° du présent article comporte un volet relatif
-à l'histoire et à la géographie du département et de la région d'outre-mer de résidence de l'étranger. 
+à l'histoire et à la géographie du département et de la région d'outre-mer de résidence de l'étranger.
 
-Ces formations sont prises en charge par l'Etat. 
+La formation mentionnée au 2° du présent article comprend un nombre d'heures d'enseignement de la langue française suffisant
+pour permettre à l'étranger primo-arrivant d'occuper un emploi et de s'intégrer dans la société française. Cette formation
+peut donner lieu à une certification standardisée permettant d'évaluer le niveau de langue de l'étranger. A la demande
+motivée de l'étranger, celui-ci peut être dispensé du conseil mentionné au 2° bis.
+
+Les éléments mentionnés aux 1° à 3° sont pris en charge par l'Etat. Ils peuvent être organisés en association avec les
+acteurs économiques, sociaux et citoyens, nationaux ou locaux.
 
 L'étranger qui s'engage dans le parcours mentionné au deuxième alinéa conclut avec l'Etat un contrat d'intégration
-républicaine par lequel il s'engage à suivre ces formations. 
+républicaine par lequel il s'engage à suivre ces formations et dispositifs d'accompagnement et à respecter les principes et
+valeurs de la République.
 
 Est dispensé de la signature du contrat d'intégration républicaine l'étranger titulaire de la carte de séjour mentionnée aux
 articles L. 313-6, L. 313-7 et L. 313-7-1, au 2° de l'article L. 313-10, aux 8° et 11° de l'article L. 313-11 et aux articles
-L. 313-20, L. 313-21, L. 313-23 et L. 313-24. 
+L. 313-20, L. 313-21, L. 313-23 et L. 313-24 ou de la carte de résident mentionnée au 7° de l'article L. 314-11.
 
 Est également dispensé de la signature de ce contrat l'étranger ayant effectué sa scolarité dans un établissement
 d'enseignement secondaire français pendant au moins trois années scolaires ou qui a suivi des études supérieures en France
 d'une durée au moins égale à une année universitaire. Il en est de même de l'étranger âgé de seize à dix-huit ans révolus
-pouvant prétendre à un titre de séjour et relevant de l'article L. 314-12. 
+pouvant prétendre à un titre de séjour et relevant de l'article L. 314-12.
 
 L'étranger n'ayant pas conclu un contrat d'intégration républicaine lorsqu'il a été admis pour la première fois au séjour en
-France peut demander à signer ultérieurement un tel contrat. 
+France peut demander à signer ultérieurement un tel contrat.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article. Il détermine la durée du contrat
 d'intégration républicaine, les formations prévues et les conditions de leur suivi et de leur validation, dont la
@@ -3307,14 +3320,17 @@ document permettant de s'assurer de l'assiduité de celui-ci aux formations qui 
 
 **Nota:**
 
-Conformément au I de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions entrent en vigueur à compter d'une
-date fixée par décret, et au plus tard le 1er juillet 2016.
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui lui sont postérieures en
+ce qui concerne les dispositions du douzième alinéa de l'article L. 311-9 telles qu'elles résultent du 1° de l'article 64 de
+ladite loi et aux parcours d'intégration républicaine engagés à compter de cette même date en ce qui concerne les
+dispositions des deuxième, troisième, sixième, neuvième, dixième et onzième alinéas tels qu'ils résultent des dispositions de
+l'article 48 de la loi précitée.
+
+Le décret n° 2018-1096 du 6 décembre 2018 a fixé la date d'entrée en vigueur des dispositions résultant du 1° de l'article 64
+de la loi n° 2018-778 du 10 septembre 2018 au 9 décembre 2018 conformément aux dispositions de son article 2.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2016-274 du 7 mars 2016 - art. 1
 
 _Cité par_:
 
@@ -3338,13 +3354,18 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R314-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du  - art. L711-2 (M)
 
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 48
+  - Loi n°2018-778 du 10 septembre 2018 - art. 64
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L314-12 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L313-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-12
 
 
 ##### Section 3 : Dispositions relatives aux cas de délivrance de l'autorisation provisoire de séjour<a id=30></a>
@@ -6039,8 +6060,8 @@ durée de son service dans ces mêmes formations, a été blessé en combattant 
 6° A l'étranger qui a servi en France dans une unité combattante d'une armée alliée ou qui, résidant antérieurement sur le
 territoire de la République, a également combattu dans les rangs d'une armée alliée ;
 
-7° A l'étranger ayant servi dans la Légion étrangère, comptant au moins trois ans de services dans l'armée française,
-titulaire du certificat de bonne conduite ;
+7° A l'étranger servant ou ayant servi dans la Légion étrangère, comptant au moins trois ans de services dans l'armée
+française et titulaire du certificat de bonne conduite, sans que soit applicable la condition de régularité du séjour ;
 
 8° A l'étranger reconnu réfugié en application du livre VII ainsi qu'à :
 
@@ -6065,7 +6086,7 @@ l'année qui suit leur dix-huitième anniversaire ou entrant dans les prévision
 10° A l'étranger qui remplit les conditions prévues au second alinéa de l'article L. 316-1 ;
 
 11° A l'étranger titulaire d'une carte de séjour portant la mention " retraité " qui justifie de sa volonté de s'établir en
-France et d'y résider à titre principal.
+France et d'y résider à titre principal ;
 
 L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayant une filiation légalement établie, y compris
 l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
@@ -6073,8 +6094,11 @@ de cette décision lorsqu'elle a été prononcée à l'étranger.
 
 **Nota:**
 
-Conformément au II de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions sont abrogées à une date fixée par
-décret en Conseil d'Etat, et au plus tard à compter du 1er novembre 2016
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une date
+fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliquent aux demandes qui lui sont postérieures.
+
+Le décret n° 2018-1096 du 6 décembre 2018 a fixé la date d'entrée en vigueur des dispositions du 7° de l'article L. 314-11
+telles qu'elles résultent du 3° de l'article 64 de la loi n° 2018-778 du 10 septembre 2018, au 9 décembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -6091,7 +6115,7 @@ _Cité par_:
   - Décret n°2018-1096 du 6 décembre 2018 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 1635-0 bis (Ab)
   - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L211-2 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-8-1 (V)
@@ -6127,12 +6151,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 21
+  - Loi n°2018-778 du 10 septembre 2018 - art. 64
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L316-1 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
+  - Code de l'entrée et du séjour des étrangers et ... - art. L752-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
 
 
 ###### Article L314-12
