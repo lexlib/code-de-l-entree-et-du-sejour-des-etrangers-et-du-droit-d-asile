@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -76,7 +76,7 @@ Version Consolidée au 2018-12-01
         - [Chapitre unique (art. L431-1 à L431-3)](#73)
       - [TITRE IV : DISPOSITIONS COMMUNES (art. L441-1)](#74)
         - [Chapitre unique (art. L441-1)](#75)
-    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L571-3)](#76)
+    - [LIVRE V : LES MESURES D'ÉLOIGNEMENT (art. L511-1 à L571-4)](#76)
       - [TITRE Ier : L'OBLIGATION DE QUITTER LE TERRITOIRE FRANCAIS, L'INTERDICTION DE RETOUR SUR LE TERRITOIRE FRANCAIS ET L'INTERDICTION DE CIRCULATION SUR LE TERRITOIRE FRANCAIS (art. L511-1 à L514-1)](#77)
         - [Chapitre Ier :  Cas dans lesquels un étranger peut faire l'objet d'une obligation de quitter le territoire français, d'une interdiction de retour sur le territoire français et d'une interdiction de circulation sur le territoire français (art. L511-1 à L511-5)](#78)
         - [Chapitre II : Procédure administrative et contentieuse (art. L512-1 à L512-6)](#79)
@@ -105,7 +105,7 @@ Version Consolidée au 2018-12-01
       - [TITRE VI : ASSIGNATION À RÉSIDENCE (art. L561-1 à L563-1)](#102)
         - [Chapitre Ier (art. L561-1 à L561-3)](#103)
         - [Chapitre III : Assignation à résidence avec interdiction de se trouver en relation avec une personne nommément désignée (art. L563-1)](#104)
-      - [TITRE VII : DISPOSITIONS DIVERSES (art. L571-1 à L571-3)](#105)
+      - [TITRE VII : DISPOSITIONS DIVERSES (art. L571-1 à L571-4)](#105)
     - [LIVRE VI : CONTRÔLES ET SANCTIONS (art. L611-1 à L626-1)](#106)
       - [TITRE Ier : CONTRÔLES (art. L611-1 à L611-12)](#107)
       - [TITRE II : SANCTIONS (art. L621-2 à L626-1)](#108)
@@ -145,7 +145,7 @@ Version Consolidée au 2018-12-01
           - [Section 4 : Allocation pour demandeur d'asile (art. L744-9 à L744-10)](#142)
           - [Section 5 : Accès au marché du travail (art. L744-11)](#143)
       - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. L751-1 à L753-5)](#144)
-        - [Chapitre Ier : Information et accès aux droits (art. L751-1 à L751-2)](#145)
+        - [Chapitre Ier : Information et accès aux droits (art. L751-1 à L751-3)](#145)
         - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. L752-1 à L752-3)](#146)
         - [Chapitre III : Documents de voyage (art. L753-1 à L753-5)](#147)
       - [TITRE VI : DISPOSITIONS RELATIVES AUX  OUTRE-MER (art. L761-1 à L767-1)](#148)
@@ -684,9 +684,15 @@ Lorsqu'un étranger fait l'objet d'une mesure de non-admission en France, de mai
 rétention, de retenue pour vérification du droit de circulation ou de séjour ou de transfert vers l'Etat responsable de
 l'examen de sa demande d'asile et qu'il ne parle pas le français, il indique au début de la procédure une langue qu'il
 comprend. Il indique également s'il sait lire. Ces informations sont mentionnées sur la décision de non-admission, de
-maintien, de placement ou de transfert ou dans le procès-verbal prévu à l'article L. 611-1-1. Ces mentions font foi sauf
-preuve contraire. La langue que l'étranger a déclaré comprendre est utilisée jusqu'à la fin de la procédure. Si l'étranger
-refuse d'indiquer une langue qu'il comprend, la langue utilisée est le français.
+maintien, de placement ou de transfert ou dans le procès-verbal prévu au quatorzième alinéa du I de l'article L. 611-1-1. Ces
+mentions font foi sauf preuve contraire. La langue que l'étranger a déclaré comprendre est utilisée jusqu'à la fin de la
+procédure. Si l'étranger refuse d'indiquer une langue qu'il comprend, la langue utilisée est le français.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -703,14 +709,14 @@ _Cité par_:
 
   - Loi n°2012-1560 du 31 décembre 2012 - art. 16 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L111-9 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (M)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L221-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L221-4 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. L551-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (VD)
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 20
+  - Loi n°2018-778 du 10 septembre 2018 - art. 65
 
 
 ###### Article L111-8
@@ -1784,6 +1790,29 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-2
 
 
+###### Article L213-3-1
+
+En cas de réintroduction temporaire du contrôle aux frontières intérieures prévue au chapitre II du titre III du règlement
+(UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l'Union relatif au régime de
+franchissement des frontières par les personnes (code frontières Schengen), les décisions mentionnées à l'article L. 213-2
+peuvent être prises à l'égard de l'étranger qui, en provenance directe du territoire d'un Etat partie à la convention signée
+à Schengen le 19 juin 1990, a pénétré sur le territoire métropolitain en franchissant une frontière intérieure terrestre sans
+y être autorisé et a été contrôlé dans une zone comprise entre cette frontière et une ligne tracée à dix kilomètres en deçà.
+Les modalités de ces contrôles sont définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux contrôles qui lui sont
+postérieurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 19
+
+
 ###### Article L213-4
 
 Lorsque l'entrée en France est refusée à un étranger non ressortissant d'un Etat membre de l'Union européenne, l'entreprise
@@ -2003,45 +2032,44 @@ _Créé par_:
 
 L'étranger qui a fait l'objet d'un refus d'entrée sur le territoire français au titre de l'asile et, le cas échéant, d'une
 décision de transfert mentionnée à l'article L. 742-3 peut, dans les quarante-huit heures suivant la notification de ces
-décisions, en demander l'annulation au président du tribunal administratif. 
+décisions, en demander l'annulation au président du tribunal administratif.
 
 Le président, ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
 inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative, statue dans un délai de soixante-
-douze heures à compter de sa saisine. 
+douze heures à compter de sa saisine.
 
 Aucun autre recours ne peut être introduit contre la décision de refus d'entrée au titre de l'asile et, le cas échéant,
-contre la décision de transfert. 
+contre la décision de transfert.
 
 L'étranger peut demander au président du tribunal ou au magistrat désigné à cette fin le concours d'un interprète. L'étranger
 est assisté de son conseil s'il en a un. Il peut demander au président ou au magistrat désigné à cette fin qu'il lui en soit
-désigné un d'office. L'audience se déroule sans conclusions du commissaire du Gouvernement. 
+désigné un d'office. L'audience se déroule sans conclusions du commissaire du Gouvernement.
 
 Par dérogation au précédent alinéa, le président du tribunal administratif ou le magistrat désigné à cette fin peut, par
 ordonnance motivée, donner acte des désistements, constater qu'il n'y a pas lieu de statuer sur un recours et rejeter les
 recours ne relevant manifestement pas de la compétence de la juridiction administrative ou entachés d'une irrecevabilité
-manifeste non susceptible d'être couverte en cours d'instance. 
+manifeste non susceptible d'être couverte en cours d'instance.
 
-L'audience se tient dans les locaux du tribunal administratif compétent. Toutefois, sauf si l'étranger dûment informé dans
-une langue qu'il comprend s'y oppose, celle-ci peut se tenir dans la salle d'audience de la zone d'attente et le président du
-tribunal ou le magistrat désigné à cette fin siéger au tribunal dont il est membre, relié à la salle d'audience, en direct,
-par un moyen de communication audiovisuelle qui garantit la confidentialité de la transmission. La salle d'audience de la
-zone d'attente et celle du tribunal administratif sont ouvertes au public. L'étranger est assisté de son conseil s'il en a
-un. 
+L'audience se tient dans les locaux du tribunal administratif compétent. Toutefois, celle-ci peut se tenir dans la salle
+d'audience de la zone d'attente et le président du tribunal ou le magistrat désigné à cette fin siéger au tribunal dont il
+est membre, relié à la salle d'audience, en direct, par un moyen de communication audiovisuelle qui garantit la
+confidentialité de la transmission. La salle d'audience de la zone d'attente et celle du tribunal administratif sont ouvertes
+au public. L'étranger est assisté de son conseil s'il en a un.
 
 La décision de refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert ne peuvent être exécutées
 avant l'expiration d'un délai de quarante-huit heures suivant leur notification ou, en cas de saisine du président du
-tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin n'ait statué. 
+tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin n'ait statué.
 
-Les dispositions du titre II du présent livre sont applicables. 
+Les dispositions du titre II du présent livre sont applicables.
 
 Le jugement du président du tribunal administratif ou du magistrat désigné par lui est susceptible d'appel dans un délai de
 quinze jours devant le président de la cour administrative d'appel territorialement compétente ou un magistrat désigné par ce
-dernier. Cet appel n'est pas suspensif. 
+dernier. Cet appel n'est pas suspensif.
 
 Si le refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert sont annulés, il est immédiatement mis
 fin au maintien en zone d'attente de l'étranger, qui est autorisé à entrer en France muni d'un visa de régularisation de huit
 jours. Dans ce délai, l'autorité administrative compétente lui délivre, à sa demande, l'attestation de demande d'asile lui
-permettant d'introduire sa demande d'asile auprès de l'Office français de protection des réfugiés et apatrides. 
+permettant d'introduire sa demande d'asile auprès de l'Office français de protection des réfugiés et apatrides.
 
 La décision de refus d'entrée au titre de l'asile et, le cas échéant, la décision de transfert qui n'ont pas été contestées
 dans le délai prévu au premier alinéa ou qui n'ont pas fait l'objet d'une annulation dans les conditions prévues au présent
@@ -2049,9 +2077,9 @@ article peuvent être exécutées d'office par l'administration.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 213-8-2 du code de l'entrée et du
-séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
-présentées à compter du 1er novembre 2015 (Décret n° 2015-1364 du 28 octobre 2015, article 4).
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette date.
 
 **Liens relatifs à cet article**
 
@@ -2070,17 +2098,16 @@ _Cité par_:
   - Code de justice administrative - art. R777-1-1 (V)
   - Code de justice administrative - art. R777-1-5 (V)
   - Code de justice administrative - art. R777-1-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L222-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L723-7 (V)
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 13
+  - Loi n°2018-778 du 10 septembre 2018 - art. 20
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L742-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
   - Code de justice administrative - art. L222-2-1
 
 
@@ -2675,21 +2702,26 @@ _Cite_:
 
 Le juge des libertés et de la détention statue au siège du tribunal de grande instance. Toutefois, si une salle d'audience
 attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée sur l'emprise
-ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle. 
+ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle.
 
 En cas de nécessité, le président du tribunal de grande instance peut décider de tenir une seconde audience au siège du
-tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée. 
+tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée.
 
-Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une
-langue qu'il comprend ne s'est pas opposé, l'audience peut également se dérouler avec l'utilisation de moyens de
-télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans chacune des
-deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées. 
+Par décision du juge prise sur une proposition de l'autorité administrative, l'audience peut également se dérouler avec
+l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors
+dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
 
 Sous réserve de l'application de l'article 435 du code de procédure civile, le juge des libertés et de la détention statue
 publiquement.
 
 L'étranger est maintenu à disposition de la justice dans des conditions fixées par le procureur de la République pendant le
 temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette date.
 
 **Liens relatifs à cet article**
 
@@ -2699,7 +2731,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 15
+  - Loi n°2018-778 du 10 septembre 2018 - art. 20
 
 _Cité par_:
 
@@ -2715,7 +2747,16 @@ _Cite_:
 
 Si l'ordonnance met fin au maintien en zone d'attente, elle est immédiatement notifiée au procureur de la République. A moins
 que le procureur de la République n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice
-pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
+pendant un délai de dix heures à compter de la notification de l'ordonnance au procureur de la République. Durant cette
+période, l'étranger peut, s'il le souhaite, contacter son avocat et un tiers, rencontrer un médecin et s'alimenter.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables, en ce qui concerne les
+dispositions de la dernière phrase de l'article L. 222-5 résultant du 2° de l'article 21 de ladite loi, aux demandes déposées
+postérieurement à cette date. Le mot "dix" à la seconde phrase de l'article L. 222-5 tel qu'il résulte du 1° du même article
+21, s'applique aux décisions prises après cette date.
 
 **Liens relatifs à cet article**
 
@@ -2730,7 +2771,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 16
+  - Loi n°2018-778 du 10 septembre 2018 - art. 21
 
 
 ##### Section 2 : Voies de recours<a id=21></a>
@@ -2739,18 +2780,30 @@ _Modifié par_:
 
 L'ordonnance est susceptible d'appel devant le premier président de la cour d'appel ou son délégué. Celui-ci est saisi sans
 forme et doit statuer dans les quarante-huit heures de sa saisine. Par décision du premier président de la cour d'appel ou de
-son délégué, prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une langue
-qu'il comprend ne s'est pas opposé, l'audience peut se dérouler avec l'utilisation de moyens de télécommunication
-audiovisuelle dans les conditions prévues au troisième alinéa de l'article L. 222-4. Le droit d'appel appartient à
-l'intéressé, au ministère public et au représentant de l'Etat dans le département. L'appel n'est pas suspensif. 
+son délégué, prise sur une proposition de l'autorité administrative, l'audience peut se dérouler avec l'utilisation de moyens
+de télécommunication audiovisuelle dans les conditions prévues au troisième alinéa de l'article L. 222-4. Le droit d'appel
+appartient à l'intéressé, au ministère public et au représentant de l'Etat dans le département. Le premier président de la
+cour d'appel ou son délégué peut, par ordonnance motivée et sans avoir préalablement convoqué les parties, rejeter les
+déclarations d'appel manifestement irrecevables. L'appel n'est pas suspensif.
 
 Toutefois, le ministère public peut demander au premier président de la cour d'appel ou à son délégué de déclarer son recours
-suspensif. Dans ce cas, l'appel, accompagné de la demande, est formé dans un délai de six heures à compter de la notification
+suspensif. Dans ce cas, l'appel, accompagné de la demande, est formé dans un délai de dix heures à compter de la notification
 de l'ordonnance au procureur de la République et transmis au premier président de la cour d'appel ou à son délégué. Celui-ci
 décide, sans délai, s'il y a lieu, au vu des pièces du dossier, de donner à cet appel un effet suspensif. Il statue par une
 ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la disposition
 de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du ministère public,
-jusqu'à ce qu'il soit statué sur le fond.
+jusqu'à ce qu'il soit statué sur le fond. Durant cette période, l'étranger peut, s'il le souhaite, contacter son avocat et un
+tiers, rencontrer un médecin et s'alimenter
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette date en ce qui concerne la troisième phrase et l'avant dernière phrase du premier alinéa de l'article
+L. 222-6 tel qu'il résulte des dispositions des 2° et 3° de l'article 20 de ladite loi et la dernière phrase du second alinéa
+résultant des dispositions du 2° de l'article 21 de la même loi et s'appliquent aux décisions prises après cette même date en
+ce qui concerne le mot "dix" à la deuxième phrase du second alinéa tel qu'il résulte des dispositions du 1° du même article
+21.
 
 **Liens relatifs à cet article**
 
@@ -2772,11 +2825,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 16
+  - Loi n°2018-778 du 10 septembre 2018 - art. 20
+  - Loi n°2018-778 du 10 septembre 2018 - art. 21
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L222-4 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-4
 
 
 ##### Section 3 : Dispositions communes<a id=22></a>
@@ -7159,8 +7213,10 @@ territoire français à l'expiration de ce titre ;
 lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
 
 6° Si la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement refusé à
-l'étranger ou si l'étranger ne bénéficie plus du droit de se maintenir sur le territoire français en application de l'article
-L. 743-2, à moins qu'il ne soit titulaire d'un titre de séjour en cours de validité ;
+l'étranger ou si l'étranger ne bénéficie plus du droit de se maintenir sur le territoire français en application des articles
+L. 743-1 et L. 743-2 , à moins qu'il ne soit titulaire d'un titre de séjour en cours de validité. Lorsque, dans l'hypothèse
+mentionnée à l'article L. 311-6, un refus de séjour a été opposé à l'étranger, la mesure peut être prise sur le seul
+fondement du présent 6° ;
 
 7° Si le comportement de l'étranger qui ne réside pas régulièrement en France depuis plus de trois mois constitue une menace
 pour l'ordre public ;
@@ -7296,6 +7352,12 @@ situation et au comportement de l'intéressé.
 Les modalités de constat de la date d'exécution de l'obligation de quitter le territoire français de l'étranger faisant
 l'objet d'une interdiction de retour sont déterminées par voie réglementaire.
 
+**Nota:**
+
+Conformément aux dispositions du III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les dispositions du 6° du I
+de l'article L. 511-1 telles qu'elles résultent du 1° de l'article 23 de ladite loi entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette date.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7325,6 +7387,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
@@ -7344,11 +7407,9 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2018-778 du 10 septembre 2018 - art. 23
-  - Loi n°2018-778 du 10 septembre 2018 - art. 62
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
@@ -7636,6 +7697,10 @@ du I de l'article L. 511-1 et qui dispose du délai de départ volontaire mentio
 l'annulation de cette décision, ainsi que l'annulation de la décision mentionnant le pays de destination et de la décision
 d'interdiction de retour sur le territoire français qui l'accompagnent le cas échéant.
 
+La même procédure s'applique lorsque l'étranger conteste une obligation de quitter le territoire fondée sur le 6° du I dudit
+article L. 511-1 et une décision relative au séjour intervenue concomitamment. Dans cette hypothèse, le président du tribunal
+administratif ou le juge qu'il désigne à cette fin statue par une seule décision sur les deux contestations.
+
 L'étranger qui fait l'objet d'une interdiction de retour prévue au sixième alinéa du III du même article L. 511-1 peut, dans
 le délai de quinze jours suivant sa notification, demander l'annulation de cette décision.
 
@@ -7673,7 +7738,9 @@ placement en rétention. La décision de placement en rétention ne peut être c
 détention, dans un délai de quarante-huit heures à compter de sa notification, suivant la procédure prévue à la section 1 du
 chapitre II du titre V du présent livre et dans une audience commune aux deux procédures, sur lesquelles le juge statue par
 ordonnance unique lorsqu'il est également saisi aux fins de prolongation de la rétention en application de l'article L.
-552-1.
+552-1. Le juge des libertés et de la détention informe sans délai le tribunal administratif territorialement compétent, par
+tout moyen, du sens de sa décision. La méconnaissance des dispositions de l'avant-dernière phrase du présent alinéa est sans
+conséquence sur la régularité et le bien-fondé de procédures ultérieures d'éloignement et de rétention.
 
 L'étranger faisant l'objet d'une décision d'assignation à résidence prise en application de l'article L. 561-2 peut, dans le
 même délai, demander au président du tribunal administratif l'annulation de cette décision. Les décisions mentionnées au
@@ -7682,14 +7749,13 @@ d'assignation.
 
 Le président du tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les
 magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue au
-plus tard soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus
-proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L. 551-1 du présent code. Si une
-salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée à
-proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. Sauf si l'étranger, dûment informé dans une
-langue qu'il comprend, s'y oppose, l'audience peut se tenir dans cette salle et le juge siéger au tribunal dont il est
-membre, relié à la salle d'audience, en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité
-de la transmission. La salle d'audience située à proximité du lieu de rétention et celle du tribunal administratif sont
-ouvertes au public.
+plus tard quatre-vingt-seize heures à compter de l'expiration du délai de recours. Il peut se transporter au siège de la
+juridiction judiciaire la plus proche du lieu où se trouve l'étranger si celui-ci est retenu en application de l'article L.
+551-1 du présent code. Si une salle d'audience attribuée au ministère de la justice lui permettant de statuer publiquement a
+été spécialement aménagée à proximité immédiate de ce lieu de rétention, il peut statuer dans cette salle. L'audience peut se
+tenir dans cette salle et le juge siéger au tribunal dont il est membre, relié à la salle d'audience, en direct, par un moyen
+de communication audiovisuelle qui garantit la confidentialité de la transmission. La salle d'audience située à proximité du
+lieu de rétention et celle du tribunal administratif sont ouvertes au public.
 
 L'étranger peut demander au président du tribunal administratif ou au magistrat désigné à cette fin le concours d'un
 interprète et la communication du dossier contenant les pièces sur la base desquelles la décision contestée a été prise.
@@ -7700,20 +7766,28 @@ tribunal administratif ou au magistrat désigné à cette fin qu'il lui en soit 
 
 Il est également statué selon la procédure prévue au présent III sur le recours dirigé contre l'obligation de quitter le
 territoire français par un étranger qui est l'objet en cours d'instance d'une décision de placement en rétention ou
-d'assignation à résidence en application de l'article L. 561-2. Le délai de soixante-douze heures pour statuer court à
-compter de la notification par l'administration au tribunal de la décision de placement en rétention ou d'assignation.
+d'assignation à résidence en application de l'article L. 561-2. Le président du tribunal administratif ou le magistrat
+désigné à cette fin statue dans un délai de cent quarante-quatre heures à compter de la notification par l'administration au
+tribunal de la décision de placement en rétention ou d'assignation.
 
-IV.-Lorsque l'étranger est en détention, il est statué sur son recours selon la procédure prévue au III. Dès la notification
-de l'obligation de quitter le territoire français, l'étranger est informé, dans une langue qu'il comprend, qu'il peut
-demander l'assistance d'un interprète ainsi que d'un conseil.
+IV.-En cas de détention de l'étranger, celui-ci est informé dans une langue qu'il comprend, dès la notification de
+l'obligation de quitter le territoire français, qu'il peut, avant même l'introduction de sa requête, demander au président du
+tribunal administratif l'assistance d'un interprète ainsi que d'un conseil.
+
+Lorsqu'il apparaît, en cours d'instance, que l'étranger détenu est susceptible d'être libéré avant que le juge statue,
+l'autorité administrative en informe le président du tribunal administratif ou le magistrat désigné qui statue sur le recours
+dirigé contre l'obligation de quitter le territoire français selon la procédure prévue au III et dans un délai de huit jours
+à compter de l'information du tribunal par l'administration.
 
 **Nota:**
 
-Dans sa décision n° 2018-709 QPC du 1er juin 2018, le Conseil constitutionnel a déclaré les mots " et dans les délais "
-figurant à la première phrase du paragraphe IV de l'article L. 512-1 du code de l'entrée et du séjour des étrangers et du
-droit d'asile, dans sa rédaction résultant de la loi n° 2016-274 du 7 mars 2016 relative au droit des étrangers en France,
-contraires à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter de la date de
-publication de la décision du Conseil constitutionnel, soit à compter du 1er juin 2018.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019. Elles s'appliquent en ce qui concerne les
+dispositions du deuxième alinéa du I bis de l'article L. 512-1 telles qu'elles résultent du 1° de l'article 24 de ladite loi
+aux demandes déposées postérieurement à cette date. En ce qui concerne les dispositions des premier et troisième alinéas du
+III et du IV de l'article L. 512-1 telles qu'elles résultent des a et b du 2° et du 3° du même article 24 elles s'appliquent
+aux recours qui sont postérieur à cette même date et en ce qui concerne les dispositions du dernier alinéa du III résultant
+du c du 2° de l'article 24 susmentionné aux décisions prises après celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -7755,7 +7829,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L533-1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R512-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R551-3 (V)
@@ -7763,12 +7837,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décision n°2018-709 QPC du 1er juin 2018 - art. 1, v. init.
+  - Loi n°2018-778 du 10 septembre 2018 - art. 24
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
@@ -7906,14 +7980,18 @@ _Cite_:
 ###### Article L512-5
 
 L'étranger qui fait l'objet d'une obligation de quitter le territoire français peut solliciter un dispositif d'aide au retour
-dans son pays d'origine, sauf s'il a été placé en rétention. A Mayotte, l'étranger ne peut bénéficier d'une aide au retour
-mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet économique viable, d'une aide à la
-réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de mesures d'accompagnement, dans des
-conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-mer.
+dans son pays d'origine. Lorsqu'il sollicite une telle aide alors qu'il est placé en rétention, cette circonstance n'est pas
+à elle seule susceptible de justifier le refus de prolongation du maintien en rétention. A Mayotte, l'étranger ne peut
+bénéficier d'une aide au retour mais, dans des circonstances exceptionnelles et sous réserve de l'existence d'un projet
+économique viable, d'une aide à la réinsertion économique, ou, s'il est accompagné d'un ou plusieurs enfants mineurs, de
+mesures d'accompagnement, dans des conditions définies par arrêté du ministre de l'intérieur et du ministre chargé des outre-
+mer.
 
 **Nota:**
 
-
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -7926,16 +8004,16 @@ _Codifié par_:
   - Ordonnance n°2004-1248 du 24 novembre 2004
   - Loi n°2006-911 du 24 juillet 2006
 
-_Modifié par_:
-
-  - Ordonnance n°2014-464 du 7 mai 2014 - art. 13
-
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L611-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R512-1-2 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L513-1 (M)
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 25
 
 
 ###### Article L512-6
@@ -8094,14 +8172,20 @@ _Cite_:
 
 L'étranger auquel un délai de départ volontaire a été accordé en application du II de l'article L. 511-1 peut, dès la
 notification de l'obligation de quitter le territoire français, être astreint à se présenter à l'autorité administrative ou
-aux services de police ou aux unités de gendarmerie pour y indiquer ses diligences dans la préparation de son départ. 
+aux services de police ou aux unités de gendarmerie pour y indiquer ses diligences dans la préparation de son départ.
+
+Cet étranger peut également être contraint à résider dans le lieu qu'une décision motivée de l'autorité administrative
+désigne. Cette décision est prise pour une durée qui ne peut se poursuivre au delà de l'expiration du délai de départ
+volontaire. Le premier alinéa du présent article est applicable. L'autorité administrative peut prescrire à l'étranger la
+remise de son passeport ou de tout document justificatif de son identité dans les conditions prévues à l'article L. 611-2.
 
 Un décret en Conseil d'Etat prévoit les modalités d'application du présent article.
 
 **Nota:**
 
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8133,7 +8217,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 43
+  - Loi n°2018-778 du 10 septembre 2018 - art. 26
 
 
 ###### Article L513-5
@@ -8142,13 +8226,13 @@ Si l'étranger assigné à résidence en application des articles L. 523-3 à L.
 déféré, sans motif légitime, à une demande de présentation aux autorités consulaires du pays dont il est raisonnable de
 penser qu'il a la nationalité, en vue de la délivrance d'un document de voyage, l'autorité administrative peut le faire
 conduire auprès de ces autorités par les services de police ou les unités de gendarmerie en vue de cette démarche, dans les
-conditions et pour le temps strictement nécessaires à celle-ci. 
+conditions et pour le temps strictement nécessaires à celle-ci.
 
 En cas d'impossibilité de faire conduire l'étranger auprès des autorités consulaires résultant d'une obstruction volontaire
 de sa part, l'autorité administrative peut demander au juge des libertés et de la détention de l'autoriser à requérir les
 services de police ou les unités de gendarmerie pour qu'ils visitent le domicile de l'étranger afin de s'assurer de sa
 présence et de le conduire auprès des autorités consulaires et, si les conditions en sont remplies, de lui notifier une
-décision de placement en rétention. 
+décision de placement en rétention.
 
 Le juge des libertés et de la détention, saisi par requête, statue dans les vingt-quatre heures. A peine de nullité, sa
 décision est motivée. Le juge s'assure de l'obstruction volontaire de l'étranger à la demande de présentation aux autorités
@@ -8157,25 +8241,32 @@ autorités consulaires en vue de préparer l'exécution d'une décision d'éloig
 dans lesquels les opérations de visite peuvent être effectuées. L'ordonnance du juge des libertés et de la détention est
 exécutoire dans les conditions fixées aux troisième à sixième alinéas du II de l'article L. 561-2.
 
+Le présent article est également applicable dans le cas prévu au second alinéa de l'article L. 541-3.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 34
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L523-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+  - Loi n°2018-778 du 10 septembre 2018 - art. 31
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-2-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L531-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L541-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R513-5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R513-6 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
 
 
 #### Chapitre IV : Dispositions propres à la Guyane, à la Guadeloupe, à Mayotte, à Saint-Barthélemy et à Saint-Martin<a id=81></a>
@@ -8870,22 +8961,52 @@ _Cite_:
 
 ###### Article L531-1
 
-Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-1, L. 512-3, L. 512-4, L. 513-1 et L. 531-3,
-l'étranger non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se conformer aux
-dispositions des articles  L. 211-1  et L. 311-1 peut être remis aux autorités compétentes de l'Etat membre qui l'a admis à
-entrer ou à séjourner sur son territoire, ou dont il provient directement, en application des dispositions des conventions
-internationales conclues à cet effet avec les Etats membres de l'Union européenne, en vigueur au 13 janvier 2009. 
+I. - Par dérogation aux articles L. 213-2 et L. 213-3, L. 511-1 à L. 511-3, L. 512-1, L. 512-3, L. 512-4, L. 513-1 et L.
+531-3, l'étranger non ressortissant d'un Etat membre de l'Union européenne qui a pénétré ou séjourné en France sans se
+conformer aux dispositions des articles L. 211-1  et L. 311-1 peut être remis aux autorités compétentes de l'Etat membre qui
+l'a admis à entrer ou à séjourner sur son territoire, ou dont il provient directement, en application des dispositions des
+conventions internationales conclues à cet effet avec les Etats membres de l'Union européenne, en vigueur au 13 janvier 2009.
 
 L'étranger visé au premier alinéa est informé de cette remise par décision écrite et motivée prise par une autorité
-administrative définie par décret en Conseil d'Etat. 
+administrative définie par décret en Conseil d'Etat.
 
 Cette décision peut être exécutée d'office par l'administration après que l'étranger a été mis en mesure de présenter des
 observations et d'avertir ou de faire avertir son consulat, un conseil ou toute personne de son choix.
 
+II. - L'autorité administrative peut, par décision motivée, assortir la décision de remise prise en application du premier
+alinéa du I à l'encontre d'un étranger titulaire d'un titre de séjour dans un autre Etat membre de l'Union européenne d'une
+interdiction de circulation sur le territoire français d'une durée maximale de trois ans.
+
+Toutefois, cette interdiction de circulation sur le territoire français n'est applicable à l'étranger détenteur d'une carte
+de résident portant la mention “résident de longue durée-UE” en cours de validité accordée par un autre Etat membre ou d'une
+carte de séjour portant la mention “carte bleue européenne” en cours de validité accordée par un autre Etat membre de l'Union
+européenne ou à l'étranger et aux membres de sa famille, admis à séjourner sur le territoire d'un Etat membre de l'Union
+européenne et bénéficiant d'un transfert temporaire intragroupe conformément à la directive 2014/66/UE du Parlement européen
+et du Conseil du 15 mai 2014 établissant les conditions d'entrée et de séjour des ressortissants de pays tiers dans le cadre
+d'un transfert temporaire intragroupe que lorsque leur séjour en France constitue un abus de droit ou si leur comportement
+personnel constitue, du point de vue de l'ordre public ou de la sécurité publique, une menace réelle, actuelle et
+suffisamment grave à l'encontre d'un intérêt fondamental de la société.
+
+Le prononcé et la durée de l'interdiction de circulation sont décidés par l'autorité administrative en tenant compte de la
+durée de présence de l'étranger sur le territoire français, de la nature et de l'ancienneté de ses liens avec la France, de
+la circonstance qu'il a déjà fait l'objet ou non d'une mesure d'éloignement et de la menace pour l'ordre public que
+représente sa présence sur le territoire français.
+
+L'autorité administrative peut à tout moment abroger l'interdiction de circulation. Lorsque l'étranger sollicite l'abrogation
+de l'interdiction de circulation, sa demande n'est recevable que s'il justifie résider hors de France depuis au moins un an.
+
+Cette condition ne s'applique pas :
+
+1° Pendant le temps où l'étranger purge en France une peine d'emprisonnement ferme ;
+
+2° Lorsque l'étranger fait l'objet d'une mesure d'assignation à résidence prise en application des articles L. 561-1 ou L.
+561-2.
+
 **Nota:**
 
-Conformément au II  de l'article 67 de la loi n° 2016-274 du 7 mars 2016, ces dispositions entrent en vigueur à une date
-fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -8913,18 +9034,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 30
+  - Loi n°2018-778 du 10 septembre 2018 - art. 27
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L213-2 (M)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-3 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L213-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-3
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
 
 
 ###### Article L531-2
@@ -9290,6 +9411,18 @@ Les dispositions du dernier alinéa de l'article L. 214-4, de l'article L. 513-2
 des articles L. 513-5 et L. 561-1 sont applicables à la reconduite à la frontière des étrangers faisant l'objet d'une
 interdiction du territoire, prévue au deuxième alinéa de l'article 131-30 du code pénal.
 
+Lorsqu'ils ne sont plus assignés à résidence en application de l'article L. 561-1 du présent code, les étrangers faisant
+l'objet d'une interdiction judiciaire du territoire peuvent être astreints à déclarer l'adresse des locaux où ils résident à
+l'autorité administrative, aux services de police ou aux unités de gendarmerie et à se présenter, sur convocation, à ces
+mêmes services en vue des démarches nécessaires aux fins d'exécution de l'interdiction du territoire. Ils doivent également
+se présenter, lorsque l'autorité administrative le leur demande, aux autorités consulaires, en vue de la délivrance d'un
+document de voyage
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -9299,15 +9432,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 34
+  - Loi n°2018-778 du 10 septembre 2018 - art. 31
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-5 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L513-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-4
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code pénal - art. 131-30
 
 _Cité par_:
@@ -9361,13 +9494,12 @@ _Codifié par_:
 I.- Dans les cas prévus aux 1° à 7° du I de l'article L. 561-2, l'étranger qui ne présente pas de garanties de représentation
 effectives propres à prévenir le risque mentionné au 3° du II de l'article L. 511-1 peut être placé en rétention par
 l'autorité administrative dans des locaux ne relevant pas de l'administration pénitentiaire, pour une durée de quarante-huit
-heures.
+heures, en prenant en compte son état de vulnérabilité et tout handicap.
 
 II.-Toutefois, dans le cas prévu au 1° bis du I de l'article L. 561-2, l'étranger ne peut être placé en rétention que pour
-prévenir un risque non négligeable de fuite, sur la base d'une évaluation individuelle prenant en compte l'état de
-vulnérabilité de l'intéressé, et uniquement dans la mesure où le placement en rétention est proportionné et si les
-dispositions du même article L. 561-2 ne peuvent être effectivement appliquées. Le risque non négligeable de fuite peut, sauf
-circonstance particulière, être regardé comme établi dans les cas suivants :
+prévenir un risque non négligeable de fuite et uniquement dans la mesure où le placement en rétention est proportionné et si
+les dispositions du même article L. 561-2 ne peuvent être effectivement appliquées. Le risque non négligeable de fuite peut,
+sauf circonstance particulière, être regardé comme établi dans les cas suivants :
 
 1° Si l'étranger s'est précédemment soustrait, dans un autre Etat membre, à la détermination de l'Etat responsable de
 l'examen de sa demande d'asile ou à l'exécution d'une décision de transfert ;
@@ -9378,15 +9510,14 @@ l'examen de sa demande d'asile ou à l'exécution d'une décision de transfert ;
 
 4° Si l'étranger s'est soustrait à l'exécution d'une précédente mesure d'éloignement ;
 
-5° Si l'étranger refuse de se soumettre au relevé de ses empreintes digitales ou s'il altère volontairement ces dernières
-pour empêcher leur enregistrement ;
+5° (Aborgé) ;
 
 6° Si l'étranger, aux fins de se maintenir sur le territoire français, a contrefait, falsifié ou établi sous un autre nom que
 le sien un titre de séjour ou un document d'identité ou de voyage ;
 
-7° Si l'étranger a dissimulé des éléments de son identité, de son parcours migratoire, de sa situation familiale ou de ses
-demandes antérieures d'asile, la circonstance tirée de ce qu'il ne peut justifier de la possession de documents d'identité ou
-de voyage en cours de validité ne pouvant toutefois suffire, à elle seule, à établir une telle dissimulation ;
+7° Si l'étranger a dissimulé des éléments de son identité la circonstance tirée de ce qu'il ne peut justifier de la
+possession de documents d'identité ou de voyage en cours de validité ne pouvant toutefois suffire, à elle seule, à établir
+une telle dissimulation ;
 
 8° Si l'étranger qui ne bénéficie pas des conditions matérielles d'accueil prévues au chapitre IV du titre IV du livre VII ne
 peut justifier du lieu de sa résidence effective ou permanente ;
@@ -9428,18 +9559,22 @@ au temps strictement nécessaire à l'organisation du départ. Dans tous les cas
 accompagné d'un mineur n'est possible que dans un lieu de rétention administrative bénéficiant de chambres isolées et
 adaptées, spécifiquement destinées à l'accueil des familles.
 
-L'intérêt supérieur de l'enfant doit être une considération primordiale pour l'application du présent article.
+L'intérêt supérieur de l'enfant doit être une considération primordiale pour l'application du présent article ;
+
+IV. - Le handicap moteur, cognitif ou psychique et les besoins d'accompagnement de l'étranger sont pris en compte pour
+déterminer les conditions de son placement en rétention.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+date.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Ordonnance 45-2658 1945-11-02 art. 35 bis, paragraphe I, al. 1 à 6
-
-_Codifié par_:
-
-  - Ordonnance n°2004-1248 du 24 novembre 2004
-  - Loi n°2006-911 du 24 juillet 2006
 
 _Cité par_:
 
@@ -9460,7 +9595,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L562-1 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-25 (VT)
@@ -9476,7 +9611,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 28
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 _Cite_:
 
@@ -9568,19 +9703,23 @@ _Cite_:
 
 ###### Article L552-1
 
-Quand un délai de   quarante-huit heures  s'est écoulé depuis la décision de placement en rétention, le juge des libertés et
-de la détention est saisi aux fins de prolongation de la rétention. Le juge statue dans les vingt-quatre heures de sa saisine
-par ordonnance au siège du tribunal de grande instance dans le ressort duquel se situe le lieu de placement en rétention de
-l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si celui-ci,
-dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des
-libertés et de la détention qu'il lui soit désigné un conseil d'office. Si une salle d'audience attribuée au ministère de la
-justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, le
-juge  statue dans cette salle.
+Le juge des libertés et de la détention est saisi dans les quarante-huit heures suivant la notification du placement en
+rétention aux fins de prolongation de la rétention au delà de cette durée. Il statue dans les quarante-huit heures suivant sa
+saisine par ordonnance au siège du tribunal de grande instance dans le ressort duquel se situe le lieu de placement en
+rétention de l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si
+celui-ci, dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge
+des libertés et de la détention qu'il lui soit désigné un conseil d'office. Si une salle d'audience attribuée au ministère de
+la justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention,
+le juge statue dans cette salle.
+
+Il informe sans délai et par tous moyens du sens de sa décision le tribunal administratif saisi, le cas échéant, par
+l'étranger d'un recours dirigé contre la mesure d'éloignement qui le vise
 
 **Nota:**
 
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -9590,11 +9729,11 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Loi n°91-647 du 10 juillet 1991 - art. 3 (VD)
+  - Loi n°91-647 du 10 juillet 1991 - art. 3 (V)
   - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
   - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
   - Arrêté du 23 novembre 2011 - art. 2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-8 (VT)
@@ -9610,7 +9749,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 36
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 
 ###### Article L552-2
@@ -9676,16 +9815,16 @@ Le juge peut ordonner l'assignation à résidence de l'étranger lorsque celui-c
 effectives, après remise à un service de police ou à une unité de gendarmerie de l'original du passeport et de tout document
 justificatif de son identité, en échange d'un récépissé valant justification de l'identité et sur lequel est portée la
 mention de la mesure d'éloignement en instance d'exécution. L'assignation à résidence concernant un étranger qui s'est
-préalablement soustrait à l'exécution d'une obligation de quitter le territoire français en vigueur, d'une interdiction de
-retour sur le territoire français en vigueur, d'une interdiction de circulation sur le territoire français en vigueur, d'une
-interdiction administrative du territoire en vigueur, d'une mesure de reconduite à la frontière en vigueur, d'une
-interdiction du territoire dont il n'a pas été relevé, ou d'une mesure d'expulsion en vigueur doit faire l'objet d'une
-motivation spéciale.
+préalablement soustrait à l'exécution d'une obligation de quitter le territoire français, d'une interdiction de retour sur le
+territoire français, d'une interdiction de circulation sur le territoire français, d'une interdiction administrative du
+territoire, d'une mesure de reconduite à la frontière, d'une interdiction du territoire, ou d'une mesure d'expulsion doit
+faire l'objet d'une motivation spéciale.
 
 **Nota:**
 
-Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
-d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux recours qui lui sont
+postérieurs.
 
 **Liens relatifs à cet article**
 
@@ -9697,11 +9836,6 @@ _Codifié par_:
 
   - Ordonnance n°2004-1248 du 24 novembre 2004
   - Loi n°2006-911 du 24 juillet 2006
-
-_Modifié par_:
-
-  - Loi n°2016-274 du 7 mars 2016 - art. 28
-  - Loi n°2016-274 du 7 mars 2016 - art. 37
 
 _Cité par_:
 
@@ -9715,15 +9849,25 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R561-5 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
+
 
 ###### Article L552-5
 
 L'étranger est astreint à résider dans les lieux qui lui sont fixés par le juge. A la demande du juge, l'étranger justifie
-que le lieu proposé pour l'assignation satisfait aux exigences de garanties de représentation effectives. L'étranger se
-présente quotidiennement aux services de police ou aux unités de gendarmerie territorialement compétents au regard du lieu
-d'assignation, en vue de l'exécution de la mesure d'éloignement. Le non-respect des prescriptions liées à l'assignation à
-résidence est sanctionné dans les conditions prévues au premier alinéa de l'article L. 624-4. Le procureur de la République
-est saisi dans les meilleurs délais.
+que le local affecté à son habitation principale proposé pour l'assignation satisfait aux exigences de garanties de
+représentation effectives. L'étranger se présente quotidiennement aux services de police ou aux unités de gendarmerie
+territorialement compétents au regard du lieu d'assignation, en vue de l'exécution de la mesure d'éloignement. Le non-respect
+des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues au premier alinéa de l'article
+L. 624-4. Le procureur de la République est saisi dans les meilleurs délais.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -9742,7 +9886,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 50
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 _Cite_:
 
@@ -9753,12 +9897,14 @@ _Cite_:
 
 Lorsqu'une ordonnance met fin à la rétention ou assigne l'étranger à résidence, elle est immédiatement notifiée au procureur
 de la République. A moins que ce dernier n'en dispose autrement, l'étranger est alors maintenu à la disposition de la justice
-pendant un délai de six heures à compter de la notification de l'ordonnance au procureur de la République.
+pendant un délai de dix heures à compter de la notification de l'ordonnance au procureur de la République. Durant cette
+période, l'étranger peut, s'il le souhaite, contacter son avocat et un tiers, rencontrer un médecin et s'alimenter.
 
 **Nota:**
 
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -9773,11 +9919,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 55
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-8 (VT)
 
 
@@ -9791,16 +9937,14 @@ l'impossibilité d'exécuter la mesure d'éloignement résulte de la perte ou de
 l'intéressé, de la dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge
 des libertés et de la détention est à nouveau saisi.
 
-Le juge peut également être saisi lorsque, malgré les diligences de l'administration, la mesure d'éloignement n'a pu être
-exécutée en raison du défaut de délivrance des documents de voyage par le consulat dont relève l'intéressé ou de l'absence de
-moyens de transport et qu'il est établi par l'autorité administrative compétente que l'une ou l'autre de ces circonstances
-doit intervenir à bref délai. Il peut également être saisi aux mêmes fins lorsque la délivrance des documents de voyage est
-intervenue trop tardivement, malgré les diligences de l'administration, pour pouvoir procéder à l'exécution de la mesure
-d'éloignement dans le délai de vingt-huit jours mentionné au premier alinéa.
+Le juge peut également être saisi lorsque la mesure d'éloignement n'a pu être exécutée en raison du défaut de délivrance des
+documents de voyage par le consulat dont relève l'intéressé ou de l'absence de moyens de transport. Il peut également être
+saisi aux mêmes fins lorsque la délivrance des documents de voyage est intervenue trop tardivement pour procéder à
+l'exécution de la mesure d'éloignement.
 
 Le juge statue par ordonnance dans les conditions prévues aux articles L. 552-1 et L. 552-2. S'il ordonne la prolongation de
-la rétention, l'ordonnance de prolongation court à compter de l'expiration du délai de vingt-huit jours mentionné au premier
-alinéa du présent article et pour une nouvelle période d'une durée maximale de quinze jours.
+la rétention, celle-ci court à compter de l'expiration du délai de vingt-huit jours mentionné au premier alinéa du présent
+article et pour une nouvelle période d'une durée maximale de trente jours.
 
 Par dérogation aux dispositions de l'alinéa précédent, si l'étranger a été condamné à une peine d'interdiction du territoire
 pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à
@@ -9810,12 +9954,37 @@ d'exécution de la mesure d'éloignement et qu'aucune décision d'assignation à
 de cet étranger, ordonner la prolongation de la rétention pour une durée d'un mois qui peut être renouvelée. La durée
 maximale de la rétention ne doit pas excéder six mois.
 
+Avant l'expiration de la durée maximale de rétention prévue aux troisième ou quatrième alinéas, le juge compétent peut, à
+titre exceptionnel, être à nouveau saisi lorsque, dans les quinze derniers jours, l'étranger a fait obstruction à l'exécution
+d'office de la mesure d'éloignement ou présenté, dans le seul but de faire échec à la mesure d'éloignement, une demande de
+protection contre l'éloignement au titre du 10° de l'article L. 511-4 ou du 5° de l'article L. 521-3 ou une demande d'asile
+dans les conditions prévues aux articles L. 551-3 et L. 556-1 ou lorsque la mesure d'éloignement n'a pu être exécutée en
+raison du défaut de délivrance des documents de voyage par le consulat dont relève l'intéressé et qu'il est établi par
+l'autorité administrative compétente que cette délivrance doit intervenir à bref délai. L'étranger est maintenu en rétention
+jusqu'à ce que le juge des libertés et de la détention ait statué. Le juge statue par ordonnance dans les conditions prévues
+au présent article. S'il ordonne la prolongation de la rétention, la prolongation court à compter de l'expiration de la
+dernière période de rétention pour une nouvelle période d'une durée maximale de quinze jours. Si l'une des circonstances
+mentionnées à la première phrase du présent alinéa survient au cours d'une période de prolongation ordonnée en application du
+présent alinéa, le juge peut être à nouveau saisi dans les mêmes conditions. Toutefois, la rétention ne peut être prolongée
+plus de deux fois en application du présent alinéa et sa durée maximale ne peut excéder quatre-vingt-dix jours ou, par
+dérogation, deux cent-dix jours dans le cas prévu au quatrième alinéa.
+
 L'article L. 552-6 est applicable.
 
 **Nota:**
 
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+Par décision du Conseil constitutionnel n° 2018-770 DC du 6 septembre 2018, publiée au Journal officiel du 10 septembre 2018,
+les mots "quatre-vingt-dix jours" figurant à la dernière phrase de l'avant dernier alinéa de l'article L. 552-7 du code de
+l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la loi n°2018-778 du 10 septembre
+2018 pour une immigration maîtrisée, un droit d’asile effectif et une intégration réussie, sont déclarés conformes à la
+Constitution sous la réserve énoncée au paragraphe 75. Conformément à ce paragraphe, "l'autorité judiciaire conserve la
+possibilité d'interrompre à tout moment la prolongation du maintien en rétention, de sa propre initiative ou à la demande de
+l'étranger, lorsque les circonstances de droit ou de fait le justifient".
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date en ce qui concerne les dispositions des deuxième, troisième et avant dernier alinéas de l'article L. 552-7
+dans sa rédaction résultant du 8° de l'article 29 de la loi précitée.
 
 **Liens relatifs à cet article**
 
@@ -9840,12 +10009,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 1
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L552-6 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-6
 
 
 ###### Article L552-8
@@ -9917,17 +10086,19 @@ L'appel n'est pas suspensif. Toutefois, le ministère public peut demander au pr
 délégué de déclarer son recours suspensif lorsqu'il lui apparaît que l'intéressé ne dispose pas de garanties de
 représentation effectives ou en cas de menace grave pour l'ordre public. Dans ce cas, l'appel, accompagné de la demande qui
 se réfère à l'absence de garanties de représentation effectives ou à la menace grave pour l'ordre public, est formé dans un
-délai de six heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier
+délai de dix heures à compter de la notification de l'ordonnance au procureur de la République et transmis au premier
 président de la cour d'appel ou à son délégué. Celui-ci décide, sans délai, s'il y a lieu de donner à cet appel un effet
 suspensif, en fonction des garanties de représentation dont dispose l'étranger ou de la menace grave pour l'ordre public, par
 une ordonnance motivée rendue contradictoirement qui n'est pas susceptible de recours. L'intéressé est maintenu à la
 disposition de la justice jusqu'à ce que cette ordonnance soit rendue et, si elle donne un effet suspensif à l'appel du
-ministère public, jusqu'à ce qu'il soit statué sur le fond.
+ministère public, jusqu'à ce qu'il soit statué sur le fond. Durant cette période, l'étranger peut, s'il le souhaite,
+contacter son avocat et un tiers, rencontrer un médecin et s'alimenter.
 
 **Nota:**
 
-Le décret n° 2011-820 du 8 juillet 2011, article 22, a fixé la date d'entrée en vigueur de ces dispositions au 18 juillet
-2011, conformément à l'article 111 de la loi n° 2011-672 du 16 juin 2011.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -9942,7 +10113,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-672 du 16 juin 2011 - art. 58
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
+  - Loi n°2018-778 du 10 septembre 2018 - art. 32
 
 
 ##### Section 4 : Dispositions communes<a id=97></a>
@@ -9965,10 +10137,16 @@ _Codifié par_:
 
 ###### Article L552-12
 
-Par décision du juge prise sur une proposition de l'autorité administrative à laquelle l'étranger dûment informé dans une
-langue qu'il comprend ne s'est pas opposé, les audiences prévues au présent chapitre peuvent se dérouler avec l'utilisation
-de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors dressé, dans
-chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
+Par décision du juge prise sur une proposition de l'autorité administrative, les audiences prévues au présent chapitre
+peuvent se dérouler avec l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la
+transmission. Il est alors dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des
+opérations effectuées.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -9978,12 +10156,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 47 () JORF 21 novembre 2007
+  - Loi n°2018-778 du 10 septembre 2018 - art. 29
 
 _Cité par_:
 
@@ -10151,6 +10329,13 @@ détermination de l'Etat membre responsable de l'examen d'une demande de protect
 Etats membres par un ressortissant de pays tiers ou un apatride, ou d'une décision de transfert notifiée conformément à
 l'article L. 742-3.
 
+Il précise les conditions d'accessibilité adaptées aux lieux de rétention.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -10162,13 +10347,13 @@ _Codifié par_:
   - Ordonnance n°2004-1248 du 24 novembre 2004
   - Loi n°2006-911 du 24 juillet 2006
 
-_Modifié par_:
-
-  - Loi n°2018-187 du 20 mars 2018 - art. 1
-
 _Cité par_:
 
   - Décret n°2018-528 du 28 juin 2018 (V)
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 30
 
 _Cite_:
 
@@ -10390,42 +10575,43 @@ rétention n'affecte ni le contrôle du juge des libertés et de la détention e
 en application de l'article L. 512-1 ni sa compétence pour examiner la prolongation de la rétention en application du
 chapitre II du titre V du livre V. La décision de maintien en rétention est écrite et motivée. A défaut d'une telle décision,
 il est immédiatement mis fin à la rétention et l'autorité administrative compétente délivre à l'intéressé l'attestation
-mentionnée à l'article L. 741-1. 
+mentionnée à l'article L. 741-1.
 
 L'étranger peut demander au président du tribunal administratif l'annulation de la décision de maintien en rétention dans les
 quarante-huit heures suivant sa notification pour contester les motifs retenus par l'autorité administrative pour estimer que
 sa demande d'asile a été présentée dans le seul but de faire échec à l'exécution de la mesure d'éloignement. Le président du
 tribunal administratif ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats
 honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du code de justice administrative statue après la
-notification de la décision de l'office relative au demandeur, dans un délai qui ne peut excéder soixante-douze heures, dans
-les conditions prévues au III de l'article L. 512-1 du présent code. 
+notification de la décision de l'office relative au demandeur, dans un délai qui ne peut excéder quatre-vingt-seize heures à
+compter de l'expiration du délai de recours, dans les conditions prévues au III de l'article L. 512-1 du présent code.
 
 Si, saisi dès le placement en rétention de l'étranger en application du même article L. 512-1, le président du tribunal
 administratif ou le magistrat qu'il désigne à cette fin n'a pas encore statué sur ce premier recours, il statue sur les deux
-requêtes par une seule décision. 
+requêtes par une seule décision.
 
 En cas d'annulation de la décision de maintien en rétention, il est immédiatement mis fin à la rétention et l'autorité
 administrative compétente délivre à l'intéressé l'attestation mentionnée à l'article L. 741-1. L'article L. 561-1 est
-applicable. 
+applicable.
 
 A l'exception des cas mentionnés aux 4° et 5° de l'article L. 743-2, la mesure d'éloignement ne peut être mise à exécution
 avant que l'Office français de protection des réfugiés et apatrides ait rendu sa décision ou, en cas de saisine du président
-du tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin ait statué. 
+du tribunal administratif, avant que ce dernier ou le magistrat désigné à cette fin ait statué.
 
 La demande d'asile est examinée selon la procédure accélérée prévue à l'article L. 723-2. L'office statue dans les conditions
 prévues aux articles L. 723-2 à L. 723-16 dans un délai de quatre-vingt-seize heures. Il tient compte de la vulnérabilité du
-demandeur d'asile. 
+demandeur d'asile.
 
 Il est mis fin à la rétention si l'office considère qu'il ne peut examiner la demande selon la procédure prévue à l'article
-L. 723-2 ou s'il reconnaît à l'étranger la qualité de réfugié ou lui accorde le bénéfice de la protection subsidiaire. 
+L. 723-2 ou s'il reconnaît à l'étranger la qualité de réfugié ou lui accorde le bénéfice de la protection subsidiaire.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise les modalités de prise en compte
 de la vulnérabilité du demandeur d'asile et, le cas échéant, de ses besoins particuliers.
 
 **Nota:**
 
-Conformément à l'article 67 III de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions s'appliquent aux décisions
-prises à compter du 1er novembre 2016.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière.
 
 **Liens relatifs à cet article**
 
@@ -10447,15 +10633,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 1
+  - Loi n°2018-778 du 10 septembre 2018 - art. 62
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-5
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
@@ -10520,8 +10706,8 @@ Par exception :
 a) Dans le cas prévu au 4° du présent article, la décision d'assignation à résidence peut être renouvelée tant que
 l'interdiction de retour ou l'interdiction de circulation sur le territoire français demeure exécutoire ;
 
-b) Dans le cas d'un étranger faisant l'objet d'un arrêté d'expulsion en application des articles L. 523-3 à L. 523-5, la
-durée maximale de six mois ne s'applique pas ;
+b) Dans les cas prévus aux articles L. 523-3 à L. 523-5 et au 6° du présent article, la durée maximale de six mois ne
+s'applique pas ;
 
 c) Dans le cas prévu au 5° du présent article, la durée maximale de six mois ne s'applique pas. Au-delà d'une durée de cinq
 ans, le maintien sous assignation à résidence fait l'objet d'une décision spécialement motivée faisant état des circonstances
@@ -10538,8 +10724,21 @@ l'étranger la remise de son passeport ou de tout document justificatif de son i
 l'article L. 611-2. Si l'étranger présente une menace d'une particulière gravité pour l'ordre public, l'autorité
 administrative peut le faire conduire par les services de police ou de gendarmerie jusqu'aux lieux d'assignation.
 
+L'autorité administrative peut également, aux fins de préparation du départ de l'étranger, lui désigner, en tenant compte des
+impératifs de la vie privée et familiale, une plage horaire pendant laquelle il doit demeurer dans les locaux où il réside,
+dans la limite de trois heures consécutives par période de vingt-quatre heures. Lorsque l'étranger est assigné à résidence en
+application des 5° ou 6° ou au titre d'une des mesures prévues aux articles L. 523-3 à L. 523-5 ou si son comportement
+constitue une menace pour l'ordre public, la durée de cette plage horaire peut être portée à dix heures consécutives par
+période de vingt-quatre heures.
+
 Le non-respect des prescriptions liées à l'assignation à résidence est sanctionné dans les conditions prévues à l'article L.
 624-4.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -10551,7 +10750,7 @@ _Cité par_:
   - Décret n°2014-1294 du 23 octobre 2014 - art. (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L111-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L511-3-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L512-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L513-5 (VD)
@@ -10575,19 +10774,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 4
+  - Loi n°2018-778 du 10 septembre 2018 - art. 31
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L531-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
+  - Code pénal - art. 131-30
 
 _Nouveaux textes_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L571-1 (VD)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
-  - Code pénal - art. 131-30
 
 
 ###### Article L561-2
@@ -10647,7 +10846,7 @@ et de l'obstruction volontaire de l'étranger à ladite exécution, dûment cons
 notamment de l'absence de réponse de l'étranger à sa demande de présentation pour les nécessités de son exécution. La
 décision mentionne l'adresse des lieux dans lesquels les opérations de visite peuvent être effectuées.
 
-L'ordonnance ayant autorisé la visite est exécutoire pendant cent quarante-quatre heures au seul vu de la minute. Elle est
+L'ordonnance ayant autorisé la visite est exécutoire pendant quatre-vingt-seize heures au seul vu de la minute. Elle est
 notifiée sur place à l'étranger dans une langue qu'il comprend ou, à défaut, à l'occupant des lieux, qui en reçoit copie
 intégrale contre récépissé. L'acte de notification comporte mention des voies de recours.
 
@@ -10675,9 +10874,9 @@ Le présent II est applicable à l'étranger assigné à résidence en applicati
 
 **Nota:**
 
-Conformément à l'article 67 II et III de la loi n° 2016-274 du 7 mars 2016, ces dispositions entrent en vigueur à une date
-fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016, les dispositions du I s'appliquent décisions prises
-à compter du 1er novembre 2016.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -10708,7 +10907,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-2-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L562-1 (VT)
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L742-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R511-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R531-11 (V)
@@ -10723,23 +10922,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 1
-  - Loi n°2018-187 du 20 mars 2018 - art. 4
+  - Loi n°2018-778 du 10 septembre 2018 - art. 33
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VT)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L511-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L523-3
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L531-3
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
   - Code pénal - art. 131-30
-
-_Nouveaux textes_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L571-2 (VD)
 
 
 ###### Article L561-2-1
@@ -10912,6 +11110,69 @@ _Anciens textes_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L561-3 (VT)
 
 
+###### Article L571-4
+
+I. - Le demandeur d'asile qui fait l'objet d'une mesure d'expulsion, prise en application des articles L. 521-1, L. 521-2, L.
+521-3 ou L. 521-5, d'une peine d'interdiction du territoire, prise en application de l'article 131-30 du code pénal ou d'une
+interdiction administrative du territoire, prise en application des articles L. 214-1 ou L. 214-2 du présent code, et dont la
+demande d'asile est en cours d'examen ou a été présentée postérieurement à la notification de cette mesure, peine ou
+interdiction peut être assigné à résidence ou placé en rétention le temps strictement nécessaire à l'examen de sa demande
+d'asile par l'Office français de protection des réfugiés et apatrides et, en cas de décision de rejet ou d'irrecevabilité,
+dans l'attente de son départ.
+
+Lorsque le demandeur est assigné à résidence, les dispositions de l'article L. 561-2 relatives à la durée maximale et aux
+modalités de l'assignation à résidence sont applicables.
+
+Lorsque le demandeur est placé en rétention, les dispositions du titre V du présent livre relatives à la durée maximale et
+aux modalités du placement en rétention sont applicables. La décision de placement en rétention ne peut être prononcée que
+pour des raisons impérieuses de protection de l'ordre public ou de la sécurité nationale établies sur la base d'une
+évaluation individuelle du demandeur, si d'autres mesures moins coercitives ne peuvent être efficacement appliquées. Elle
+prend en compte la vulnérabilité du demandeur.
+
+II. - A la demande de l'autorité administrative, et sans préjudice des cas prévus aux 5° et 6° de l'article L. 743-2,
+l'office statue sur la demande d'asile de l'étranger ainsi assigné à résidence ou placé en rétention selon les modalités
+prévues à l'article L. 723-2 et dans le délai prévu à l'article L. 556-1. Sans préjudice d'autres mesures de surveillance
+décidées par l'autorité administrative ou l'autorité judiciaire, il est mis fin à la rétention si l'office reconnaît à
+l'étranger la qualité de réfugié ou lui accorde le bénéfice de la protection subsidiaire.
+
+III. - En cas de décision de rejet ou d'irrecevabilité par l'office, l'étranger peut, dans les quarante-huit heures suivant
+la notification de cette décision, demander au président du tribunal administratif de suspendre l'exécution de la mesure
+d'éloignement jusqu'à l'expiration du délai de recours devant la Cour nationale du droit d'asile ou, si celle-ci est saisie,
+soit jusqu'à la date de la lecture en audience publique de la décision de la cour, soit, s'il est statué par ordonnance,
+jusqu'à la date de la notification de celle-ci. La mesure d'éloignement ne peut être mise à exécution pendant ce délai de
+quarante-huit heures ou, en cas de saisine du président du tribunal administratif, avant que ce dernier ou le magistrat qu'il
+désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires inscrits sur la liste mentionnée à
+l'article L. 222-2-1 du code de justice administrative ait statué. Le président du tribunal administratif ou le magistrat
+désigné à cette fin statue dans les conditions prévues au III de l'article L. 512-1 du présent code. Il fait droit à la
+demande de l'étranger lorsque celui-ci présente des éléments sérieux de nature à justifier, au titre de sa demande d'asile,
+son maintien sur le territoire durant l'examen de son recours par la cour. La suspension de l'exécution de la mesure
+d'éloignement ne met pas fin à l'assignation à résidence ou à la rétention de l'étranger, qui se poursuit dans les conditions
+et limites prévues au présent livre.
+
+IV. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il précise notamment les modalités de
+prise en compte de la vulnérabilité du demandeur d'asile et, le cas échéant, de ses besoins particuliers.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 34
+
+_Cité par_:
+
+  - Code de justice administrative - art. L777-4 (VD)
+
+_Cite_:
+
+  - Code pénal - art. 131-30
+  - Code de justice administrative - art. L222-2-1
+
+
 ## LIVRE VI : CONTRÔLES ET SANCTIONS<a id=106></a>
 
 ### TITRE Ier : CONTRÔLES<a id=107></a>
@@ -10976,15 +11237,15 @@ I. ― Si, à l'occasion d'un contrôle effectué en application de l'article L.
 étranger n'est pas en mesure de justifier de son droit de circuler ou de séjourner en France, il peut être conduit dans un
 local de police ou de gendarmerie et y être retenu par un officier de police judiciaire de la police nationale ou de la
 gendarmerie nationale aux fins de vérification de son droit de circulation ou de séjour sur le territoire français. Dans ce
-cas, l'officier de police judiciaire ou, sous le contrôle de celui-ci, un agent de police judiciaire met l'étranger en mesure
-de fournir par tout moyen les pièces et documents requis et procède, s'il y a lieu, aux opérations de vérification
-nécessaires. Le procureur de la République est informé dès le début de la retenue. 
+cas, l'officier de police judiciaire ou, sous le contrôle de celui-ci, un agent de police judiciaire procède aux auditions de
+l'étranger. Sous le contrôle de l'officier de police judiciaire, l'étranger est mis en mesure de fournir par tout moyen les
+pièces et documents requis. Il est procédé, s'il y a lieu, aux opérations de vérification nécessaires. Le procureur de la
+République est informé dès le début de la retenue.
 
-L'officier de police judiciaire ou, sous le contrôle de celui-ci, un agent de police judiciaire informe aussitôt l'étranger,
-dans une langue qu'il comprend ou dont il est raisonnable de supposer qu'il la comprend, des motifs de son placement en
-retenue et de la durée maximale de la mesure ainsi que du fait qu'il bénéficie : 
+L'étranger est aussitôt informé, dans une langue qu'il comprend ou dont il est raisonnable de supposer qu'il la comprend, des
+motifs de son placement en retenue et de la durée maximale de la mesure ainsi que du fait qu'il bénéficie :
 
-1° Du droit d'être assisté par un interprète ; 
+1° Du droit d'être assisté par un interprète ;
 
 2° Du droit d'être assisté par un avocat désigné par lui ou commis d'office par le bâtonnier, qui est alors informé de cette
 demande par tous moyens et sans délai. Dès son arrivée, l'avocat peut communiquer pendant trente minutes avec la personne
@@ -10993,69 +11254,87 @@ retenue dans des conditions qui garantissent la confidentialité de l'entretien.
 débuter sans la présence de l'avocat avant l'expiration d'un délai d'une heure suivant l'information adressée à celui-ci.
 Toutefois, les opérations de vérification ne nécessitant pas la présence de l'étranger peuvent être effectuées dès le début
 de la retenue. Au cours des auditions, l'avocat peut prendre des notes. A la fin de la retenue, l'avocat peut, à sa demande,
-consulter le procès-verbal établi en application du treizième alinéa du présent I ainsi que le certificat médical y étant, le
-cas échéant, annexé et formuler des observations écrites également annexées ; 
+consulter le procès-verbal établi en application du quatorzième alinéa du présent I ainsi que le certificat médical y étant,
+le cas échéant, annexé et formuler des observations écrites également annexées ;
 
 3° Du droit d'être examiné par un médecin désigné par l'officier de police judiciaire. Le médecin se prononce sur l'aptitude
-au maintien de la personne en retenue et procède à toutes constatations utiles ; 
+au maintien de la personne en retenue et procède à toutes constatations utiles ;
 
 4° Du droit de prévenir à tout moment sa famille et toute personne de son choix et de prendre tout contact utile afin
 d'assurer l'information et, le cas échéant, la prise en charge des enfants dont il assure normalement la garde, qu'ils
 l'aient ou non accompagné lors de son placement en retenue. Si des circonstances particulières l'exigent, l'officier de
 police judiciaire prévient lui-même la famille et la personne choisie. En tant que de besoin, il informe le procureur de la
-République aux fins d'instruction dans l'intérêt des enfants ; 
+République aux fins d'instruction dans l'intérêt des enfants ;
 
-5° Du droit d'avertir ou de faire avertir les autorités consulaires de son pays. 
+5° Du droit d'avertir ou de faire avertir les autorités consulaires de son pays.
 
-Lorsque l'étranger ne parle pas le français, il est fait application de l'article L. 111-7. 
+Lorsque l'étranger ne parle pas le français, il est fait application de l'article L. 111-7.
 
 L'étranger ne peut être retenu que pour le temps strictement exigé par l'examen de son droit de circulation ou de séjour et,
-le cas échéant, le prononcé et la notification des décisions administratives applicables. La retenue ne peut excéder seize
-heures à compter du début du contrôle mentionné au premier alinéa du présent I. Le procureur de la République peut mettre fin
-à la retenue à tout moment. 
+le cas échéant, le prononcé et la notification des décisions administratives applicables. La retenue ne peut excéder vingt-
+quatre heures à compter du début du contrôle mentionné au premier alinéa du présent I. Le procureur de la République peut
+mettre fin à la retenue à tout moment.
+
+Pour les seules nécessités de la vérification du droit de séjour et de circulation, il peut être procédé, sous le contrôle de
+l'officier de police judiciaire et en présence de l'étranger, avec l'accord de ce dernier ou, à défaut, après avoir informé
+par tout moyen le procureur de la République, à l'inspection des bagages et effets personnels de l'étranger et à leur
+fouille. En cas de découverte d'une infraction, il est établi un procès-verbal distinct de celui prévu au quatorzième alinéa,
+qui mentionne le lieu et les dates et heures de début et de fin de ces opérations et dont un exemplaire est transmis sans
+délai au procureur de la République.
 
 Les mesures de contrainte exercées sur l'étranger sont strictement proportionnées à la nécessité des opérations de
 vérification et de son maintien à la disposition de l'officier de police judiciaire. L'étranger ne peut être soumis au port
 des menottes ou des entraves que s'il est considéré soit comme dangereux pour autrui ou pour lui-même, soit comme susceptible
-de tenter de prendre la fuite. 
+de tenter de prendre la fuite.
 
 Durant la retenue, lorsque sa participation aux opérations de vérification n'est pas nécessaire, l'étranger ne peut être
-placé dans une pièce occupée simultanément par une ou plusieurs personnes gardées à vue. 
+placé dans une pièce occupée simultanément par une ou plusieurs personnes gardées à vue.
 
 Si l'étranger ne fournit pas d'éléments permettant d'apprécier son droit de circulation ou de séjour, les opérations de
 vérification peuvent donner lieu, après information du procureur de la République, à la prise d'empreintes digitales ou de
-photographies lorsque celle-ci constitue l'unique moyen d'établir la situation de cette personne. 
+photographies pour établir la situation de cette personne. Les empreintes digitales et photographies sont collectées en vue
+de l'établissement du droit de circuler ou de séjourner de l'étranger et ne peuvent être mémorisées et faire l'objet d'un
+traitement automatisé en application du deuxième alinéa de l'article L. 611-3 que s'il apparaît, à l'issue de la retenue, que
+l'étranger ne dispose pas d'un droit de circulation ou de séjour.
 
 L'officier de police judiciaire ou, sous le contrôle de celui-ci, un agent de police judiciaire mentionne, dans un procès-
 verbal, les motifs qui ont justifié le contrôle, ainsi que la vérification du droit de circulation ou de séjour et les
 conditions dans lesquelles la personne a été présentée devant lui, informée de ses droits et mise en mesure de les exercer.
 Il précise le jour et l'heure du début et de la fin de la retenue et la durée de celle-ci et, le cas échéant, la prise
-d'empreintes digitales ou de photographies. Il y annexe le certificat médical établi à l'issue de l'examen éventuellement
-pratiqué. 
+d'empreintes digitales ou de photographies ainsi que l'inspection visuelle ou la fouille des bagages et effets personnels et
+les dates et heures de début et de fin de ces opérations. Il y annexe le certificat médical établi à l'issue de l'examen
+éventuellement pratiqué.
 
 Ce procès-verbal est présenté à la signature de l'étranger intéressé. Celui-ci est informé de la possibilité de ne pas signer
-ledit procès-verbal. S'il refuse de le signer, mention est faite du refus et des motifs de celui-ci. 
+ledit procès-verbal. S'il refuse de le signer, mention est faite du refus et des motifs de celui-ci.
 
 Le procès-verbal est transmis au procureur de la République, copie en ayant été remise à la personne intéressée. Les mentions
 de chaque procès-verbal concernant l'identité de la personne, le jour et l'heure du début et de la fin de la retenue et la
-durée de celle-ci figurent également sur un registre spécial, tenu à cet effet dans le local de police ou de gendarmerie. 
+durée de celle-ci figurent également sur un registre spécial, tenu à cet effet dans le local de police ou de gendarmerie. Ce
+registre peut être tenu sous forme dématérialisée.
 
 Si elle n'est suivie à l'égard de l'étranger qui a été retenu d'aucune procédure d'enquête ou d'exécution adressée à
 l'autorité judiciaire ou n'a donné lieu à aucune décision administrative, la vérification du droit de circulation ou de
 séjour ne peut donner lieu à une mise en mémoire sur fichiers et le procès-verbal, ainsi que toutes les pièces se rapportant
 à la vérification sont détruits dans un délai de six mois à compter de la fin de la retenue, sous le contrôle du procureur de
-la République. 
+la République.
 
 Les prescriptions énumérées au présent article sont imposées à peine de nullité, sous réserve des dispositions de l'article
-L. 552-13. 
+L. 552-13.
 
 II. ― Lorsqu'un étranger, retenu en application de l'article 78-3 du code de procédure pénale, n'est pas en mesure de
 justifier de son droit de circuler ou de séjourner en France, le I du présent article s'applique et la durée de la retenue
-effectuée en application de ce même article 78-3 s'impute sur celle de la retenue pour vérification du droit de séjour. 
+effectuée en application de ce même article 78-3 s'impute sur celle de la retenue pour vérification du droit de séjour.
 
 III. ― S'il apparaît, au cours de la retenue de l'étranger, que celui-ci doit faire l'objet d'un placement en garde à vue
 conformément aux articles 62 et suivants du code de procédure pénale, la durée de la retenue s'impute sur celle de la garde à
 vue.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -11069,18 +11348,18 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
   - Code de procédure pénale - art. R93 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2012-1560 du 31 décembre 2012 - art. 2
+  - Loi n°2018-778 du 10 septembre 2018 - art. 35
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-13 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-13
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
   - Code de procédure pénale - art. 62
   - Code de procédure pénale - art. 78-1
   - Code de procédure pénale - art. 78-3
-  - Code des douanes - art. 67 quater (V)
+  - Code des douanes - art. 67 quater
 
 
 ###### Article L611-2
@@ -12496,18 +12775,24 @@ du 28 juillet 1951, relative au statut des réfugiés, sont appréciés dans les
 l'article 9 et au paragraphe 1 de l'article 10 de la directive 2011/95/UE du Parlement européen et du Conseil, du 13 décembre
 2011, concernant les normes relatives aux conditions que doivent remplir les ressortissants des pays tiers ou les apatrides
 pour pouvoir bénéficier d'une protection internationale, à un statut uniforme pour les réfugiés ou les personnes pouvant
-bénéficier de la protection subsidiaire, et au contenu de cette protection. 
+bénéficier de la protection subsidiaire, et au contenu de cette protection.
 
-S'agissant des motifs de persécution, les aspects liés au genre et à l'orientation sexuelle sont dûment pris en considération
-aux fins de la reconnaissance de l'appartenance à un certain groupe social ou de l'identification d'une caractéristique d'un
-tel groupe. 
+S'agissant des motifs de persécution, les aspects liés au sexe, à l'identité de genre et à l'orientation sexuelle sont dûment
+pris en considération aux fins de la reconnaissance de l'appartenance à un certain groupe social ou de l'identification d'une
+caractéristique d'un tel groupe.
 
 Pour que la qualité de réfugié soit reconnue, il doit exister un lien entre l'un des motifs de persécution et les actes de
-persécution ou l'absence de protection contre de tels actes. 
+persécution ou l'absence de protection contre de tels actes.
 
 Lorsque l'autorité compétente évalue si un demandeur craint avec raison d'être persécuté, il est indifférent que celui-ci
 possède effectivement les caractéristiques liées au motif de persécution ou que ces caractéristiques lui soient seulement
 attribuées par l'auteur des persécutions.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -12518,7 +12803,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 3
+  - Loi n°2018-778 du 10 septembre 2018 - art. 4
 
 
 ###### Article L711-3
@@ -12542,29 +12827,35 @@ _Cité par_:
 
 ###### Article L711-4
 
-L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de
-l'autorité administrative, au statut de réfugié lorsque la personne concernée relève de l'une des clauses de cessation
-prévues à la section C de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée. Pour l'application des 5 et
-6 de la même section C, le changement dans les circonstances ayant justifié la reconnaissance de la qualité de réfugié doit
-être suffisamment significatif et durable pour que les craintes du réfugié d'être persécuté ne puissent plus être considérées
-comme fondées. 
+L'Office français de protection des réfugiés et apatrides met fin, de sa propre initiative ou à la demande de l'autorité
+administrative, au statut de réfugié lorsque la personne concernée relève de l'une des clauses de cessation prévues à la
+section C de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée. Pour l'application des 5 et 6 de la même
+section C, le changement dans les circonstances ayant justifié la reconnaissance de la qualité de réfugié doit être
+suffisamment significatif et durable pour que les craintes du réfugié d'être persécuté ne puissent plus être considérées
+comme fondées.
 
-L'office peut également mettre fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au
-statut de réfugié lorsque : 
+L'office met également fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au statut de
+réfugié lorsque :
 
 1° Le réfugié aurait dû être exclu du statut de réfugié en application des sections D, E ou F de l'article 1er de la
-convention de Genève, du 28 juillet 1951, précitée ; 
+convention de Genève, du 28 juillet 1951, précitée ;
 
-2° La décision de reconnaissance de la qualité de réfugié a résulté d'une fraude ; 
+2° La décision de reconnaissance de la qualité de réfugié a résulté d'une fraude ;
 
 3° Le réfugié doit, compte tenu de circonstances intervenues après la reconnaissance de cette qualité, en être exclu en
 application des sections D, E ou F de l'article 1er de la convention de Genève, du 28 juillet 1951, précitée.
 
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 3
+  - Loi n°2018-778 du 10 septembre 2018 - art. 5
 
 _Cité par_:
 
@@ -12597,19 +12888,28 @@ _Cite_:
 
 ###### Article L711-6
 
-Le statut de réfugié peut être refusé ou il peut être mis fin à ce statut lorsque : 
+Le statut de réfugié est refusé ou il est mis fin à ce statut lorsque :
 
 1° Il y a des raisons sérieuses de considérer que la présence en France de la personne concernée constitue une menace grave
-pour la sûreté de l'Etat ; 
+pour la sûreté de l'Etat ;
 
-2° La personne concernée a été condamnée en dernier ressort en France soit pour un crime, soit pour un délit constituant un
-acte de terrorisme ou puni de dix ans d'emprisonnement, et sa présence constitue une menace grave pour la société.
+2° La personne concernée a été condamnée en dernier ressort en France, dans un Etat membre de l'Union européenne ou dans un
+Etat tiers figurant sur la liste, fixée par décret en Conseil d'Etat, des Etats dont la France reconnaît les législations et
+juridictions pénales au vu de l'application du droit dans le cadre d'un régime démocratique et des circonstances politiques
+générales soit pour un crime, soit pour un délit constituant un acte de terrorisme ou puni de dix ans d'emprisonnement, et sa
+présence constitue une menace grave pour la société française.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 3
+  - Loi n°2018-778 du 10 septembre 2018 - art. 5
 
 _Cité par_:
 
@@ -12677,10 +12977,16 @@ l'Etat.
 Les a à c s'appliquent aux personnes qui sont les instigatrices, les auteurs ou les complices des crimes ou des agissements
 mentionnés à ces mêmes a à c ou qui y sont personnellement impliquées.
 
-La protection subsidiaire peut être refusée à une personne s'il existe des raisons sérieuses de penser, d'une part, qu'elle a
+La protection subsidiaire est refusée à une personne s'il existe des raisons sérieuses de penser, d'une part, qu'elle a
 commis, avant son entrée en France, un ou plusieurs crimes qui ne relèvent pas du champ d'application des a à d et qui
 seraient passibles d'une peine de prison s'ils avaient été commis en France et, d'autre part, qu'elle n'a quitté son pays
 d'origine que dans le but d'échapper à des sanctions résultant de ces crimes.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière.
 
 **Liens relatifs à cet article**
 
@@ -12697,11 +13003,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 4
+  - Loi n°2018-778 du 10 septembre 2018 - art. 5
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L712-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L712-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L713-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L722-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
@@ -12716,23 +13022,29 @@ _Cité par_:
 
 ###### Article L712-3
 
-L'Office français de protection des réfugiés et apatrides peut mettre fin, de sa propre initiative ou à la demande de
-l'autorité administrative, au bénéfice de la protection subsidiaire lorsque les circonstances ayant justifié l'octroi de
-cette protection ont cessé d'exister ou ont connu un changement suffisamment significatif et durable pour que celle-ci ne
-soit plus requise. 
+L'Office français de protection des réfugiés et apatrides met fin, de sa propre initiative ou à la demande de l'autorité
+administrative, au bénéfice de la protection subsidiaire lorsque les circonstances ayant justifié l'octroi de cette
+protection ont cessé d'exister ou ont connu un changement suffisamment significatif et durable pour que celle-ci ne soit plus
+requise.
 
 Par dérogation au premier alinéa, la protection subsidiaire est maintenue lorsque son bénéficiaire justifie de raisons
-impérieuses tenant à des atteintes graves antérieures pour refuser de se réclamer de la protection de son pays. 
+impérieuses tenant à des atteintes graves antérieures pour refuser de se réclamer de la protection de son pays.
 
-L'office peut également mettre fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au
-bénéfice de la protection subsidiaire lorsque : 
+L'office met également fin à tout moment, de sa propre initiative ou à la demande de l'autorité administrative, au bénéfice
+de la protection subsidiaire lorsque :
 
-1° Son bénéficiaire aurait dû être exclu de cette protection pour l'un des motifs prévus à l'article L. 712-2 ; 
+1° Son bénéficiaire aurait dû être exclu de cette protection pour l'un des motifs prévus à l'article L. 712-2 ;
 
-2° La décision d'octroi de cette protection a résulté d'une fraude ; 
+2° La décision d'octroi de cette protection a résulté d'une fraude ;
 
 3° Son bénéficiaire doit, à raison de faits commis après l'octroi de la protection, en être exclu pour l'un des motifs prévus
 au même article L. 712-2.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière.
 
 **Liens relatifs à cet article**
 
@@ -12749,20 +13061,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 4
+  - Loi n°2018-778 du 10 septembre 2018 - art. 5
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L314-7-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L712-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L723-5 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L724-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R712-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du  - art. R722-6 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L712-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L712-2 (VD)
 
 
 ###### Article L712-4
@@ -12900,13 +13212,20 @@ civile ou d'une information criminelle ou correctionnelle, y compris lorsque cel
 nature à faire suspecter qu'une personne qui demande l'asile ou le statut d'apatride ou qui s'est vu reconnaître le statut de
 réfugié, le bénéfice de la protection subsidiaire ou le statut d'apatride relève de l'une des clauses d'exclusion mentionnées
 aux articles L. 711-3 et L. 712-2 du présent code ou à l'article 1er de la convention de New York, du 28 septembre 1954,
-relative au statut des apatrides.
+relative au statut des apatrides ou d'un refus ou d'une fin de protection en application de l'article L. 711-6 du présent
+code.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 5
+  - Loi n°2018-778 du 10 septembre 2018 - art. 5
 
 _Cite_:
 
@@ -13098,10 +13417,10 @@ de mise en oeuvre des dispositions relatives à l'octroi du statut de réfugié 
 
 Un pays est considéré comme un pays d'origine sûr lorsque, sur la base de la situation légale, de l'application du droit dans
 le cadre d'un régime démocratique et des circonstances politiques générales, il peut être démontré que, d'une manière
-générale et uniformément pour les hommes comme pour les femmes, il n'y est jamais recouru à la persécution, ni à la torture,
-ni à des peines ou traitements inhumains ou dégradants et qu'il n'y a pas de menace en raison d'une violence qui peut
-s'étendre à des personnes sans considération de leur situation personnelle dans des situations de conflit armé international
-ou interne.
+générale et uniformément pour les hommes comme pour les femmes, quelle que soit leur orientation sexuelle, il n'y est jamais
+recouru à la persécution, ni à la torture, ni à des peines ou traitements inhumains ou dégradants et qu'il n'y a pas de
+menace en raison d'une violence qui peut s'étendre à des personnes sans considération de leur situation personnelle dans des
+situations de conflit armé international ou interne.
 
 Le conseil d'administration fixe la liste des pays considérés comme des pays d'origine sûrs, dans les conditions prévues à
 l'article 37 et à l'annexe I de la directive 2013/32/UE du Parlement européen et du Conseil, du 26 juin 2013, relative à des
@@ -13131,9 +13450,9 @@ du président du conseil d'administration est prépondérante.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 722-1 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -13159,7 +13478,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-699 du 3 août 2018 - art. 75
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 
 ###### Article L722-2
@@ -13321,26 +13640,26 @@ _Modifié par_:
 
 ###### Article L723-2
 
-I. - L'office statue en procédure accélérée lorsque : 
+I. - L'office statue en procédure accélérée lorsque :
 
-1° Le demandeur provient d'un pays considéré comme un pays d'origine sûr en application de l'article L. 722-1 ; 
+1° Le demandeur provient d'un pays considéré comme un pays d'origine sûr en application de l'article L. 722-1 ;
 
-2° Le demandeur a présenté une demande de réexamen qui n'est pas irrecevable. 
+2° Le demandeur a présenté une demande de réexamen qui n'est pas irrecevable.
 
-II. - L'office peut, de sa propre initiative, statuer en procédure accélérée lorsque : 
+II. - L'office peut, de sa propre initiative, statuer en procédure accélérée lorsque :
 
 1° Le demandeur a présenté de faux documents d'identité ou de voyage, fourni de fausses indications ou dissimulé des
 informations ou des documents concernant son identité, sa nationalité ou les modalités de son entrée en France afin de
-l'induire en erreur ou a présenté plusieurs demandes d'asile sous des identités différentes ; 
+l'induire en erreur ou a présenté plusieurs demandes d'asile sous des identités différentes ;
 
 2° Le demandeur n'a soulevé à l'appui de sa demande que des questions sans pertinence au regard de la demande d'asile qu'il
-formule ; 
+formule ;
 
 3° Le demandeur a fait à l'office des déclarations manifestement incohérentes et contradictoires, manifestement fausses ou
-peu plausibles qui contredisent des informations vérifiées relatives au pays d'origine. 
+peu plausibles qui contredisent des informations vérifiées relatives au pays d'origine.
 
 III. - L'office statue également en procédure accélérée lorsque l'autorité administrative chargée de l'enregistrement de la
-demande d'asile constate que : 
+demande d'asile constate que :
 
 1° Le demandeur refuse de se conformer à l'obligation de donner ses empreintes digitales conformément au règlement (UE) n°
 603/2013 du Parlement européen et du Conseil, du 26 juin 2013, relatif à la création d'Eurodac pour la comparaison des
@@ -13349,29 +13668,30 @@ de détermination de l'Etat membre responsable de l'examen d'une demande de prot
 Etats membres par un ressortissant de pays tiers ou un apatride et relatif aux demandes de comparaison avec les données
 d'Eurodac présentées par les autorités répressives des Etats membres et Europol à des fins répressives, et modifiant le
 règlement (UE) n° 1077/2011 portant création d'une agence européenne pour la gestion opérationnelle des systèmes
-d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice ; 
+d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice ;
 
 2° Lors de l'enregistrement de sa demande, le demandeur présente de faux documents d'identité ou de voyage, fournit de
 fausses indications ou dissimule des informations ou des documents concernant son identité, sa nationalité ou les modalités
 de son entrée en France afin d'induire en erreur l'autorité administrative ou a présenté plusieurs demandes d'asile sous des
-identités différentes ; 
+identités différentes ;
 
 3° Sans motif légitime, le demandeur qui est entré irrégulièrement en France ou s'y est maintenu irrégulièrement n'a pas
-présenté sa demande d'asile dans le délai de cent vingt jours à compter de son entrée en France ; 
+présenté sa demande d'asile dans le délai de quatre-vingt-dix jours à compter de son entrée en France ;
 
-4° Le demandeur ne présente une demande d'asile qu'en vue de faire échec à une mesure d'éloignement ; 
+4° Le demandeur ne présente une demande d'asile qu'en vue de faire échec à une mesure d'éloignement ;
 
 5° La présence en France du demandeur constitue une menace grave pour l'ordre public, la sécurité publique ou la sûreté de
-l'Etat. 
+l'Etat.
 
 IV. - La procédure ne peut être mise en œuvre à l'égard de mineurs non accompagnés que dans les cas prévus au I et au 5° du
-III du présent article. 
+III du présent article.
 
 V. - Dans tous les cas, l'office procède à un examen individuel de chaque demande dans le respect des garanties procédurales
-prévues au présent chapitre. Il peut décider de ne pas statuer en procédure accélérée lorsque cela lui paraît nécessaire pour
-assurer un examen approprié de la demande, en particulier si le demandeur provenant d'un pays inscrit sur la liste mentionnée
-au cinquième alinéa de l'article L. 722-1 invoque des raisons sérieuses de penser que son pays d'origine ne peut pas être
-considéré comme sûr en raison de sa situation personnelle et au regard des motifs de sa demande. 
+prévues au présent chapitre. Il peut décider de ne pas statuer en procédure accélérée, sauf si le demandeur est dans la
+situation mentionnée au 5° du III du présent article, lorsque cela lui paraît nécessaire pour assurer un examen approprié de
+la demande, en particulier si le demandeur provenant d'un pays inscrit sur la liste mentionnée au cinquième alinéa de
+l'article L. 722-1 invoque des raisons sérieuses de penser que son pays d'origine ne peut pas être considéré comme sûr en
+raison de sa situation personnelle et au regard des motifs de sa demande.
 
 VI. - La décision de l'office mentionnée au II, celle de l'autorité administrative mentionnée au III ou le refus de l'office
 de ne pas statuer en procédure accélérée prévu au V ne peut pas faire l'objet, devant les juridictions administratives de
@@ -13380,11 +13700,11 @@ nationale du droit d'asile à l'encontre de la décision de l'office.
 
 **Nota:**
 
-Conformément à l'article 71, III de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une date
-fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
-
-Le a du 2° du I de l'article 6 s'appliquent aux demandeurs d'asile entrés sur le territoire après cette date et le b du 2° du
-I de l'article 6 sont applicables aux demandes déposées postérieurement à cette dernière.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandeurs d'asile entrés
+sur le territoire après cette date en ce qui concerne les dispositions du 3° du III de l'article L. 723-2 telles qu'elles
+résultent du a du 2° du I de l'article 6 de ladite loi, et aux demandes déposées postérieurement à celle-ci en ce qui
+concerne les dispositions du V de cet article résultant du b du 2° du I du même article 6.
 
 **Liens relatifs à cet article**
 
@@ -13428,11 +13748,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-1
+  - Code de l'entrée et du séjour des étrangers et ... - art. L722-1 (VD)
 
 
 ###### Article L723-3
@@ -13605,53 +13925,63 @@ _Cite_:
 
 ###### Article L723-6
 
-L'office convoque le demandeur à un entretien personnel. Il peut s'en dispenser s'il apparaît que : 
+L'office convoque, par tout moyen garantissant la confidentialité et la réception personnelle par le demandeur, le demandeur
+à un entretien personnel. Il peut s'en dispenser s'il apparaît que :
 
-1° L'office s'apprête à prendre une décision reconnaissant la qualité de réfugié à partir des éléments en sa possession ; 
+1° L'office s'apprête à prendre une décision reconnaissant la qualité de réfugié à partir des éléments en sa possession ;
 
-2° Des raisons médicales, durables et indépendantes de la volonté de l'intéressé interdisent de procéder à l'entretien. 
+2° Des raisons médicales, durables et indépendantes de la volonté de l'intéressé interdisent de procéder à l'entretien.
 
 Chaque demandeur majeur est entendu individuellement, hors de la présence des membres de sa famille. L'office peut entendre
 individuellement un demandeur mineur, dans les mêmes conditions, s'il estime raisonnable de penser qu'il aurait pu subir des
-persécutions ou des atteintes graves dont les membres de la famille n'auraient pas connaissance. 
+persécutions ou des atteintes graves dont les membres de la famille n'auraient pas connaissance.
 
 L'office peut procéder à un entretien complémentaire en présence des membres de la famille s'il l'estime nécessaire à
-l'examen approprié de la demande. 
+l'examen approprié de la demande.
 
 Le demandeur se présente à l'entretien et répond personnellement aux questions qui lui sont posées par l'agent de l'office.
-Il est entendu dans la langue de son choix, sauf s'il existe une autre langue dont il a une connaissance suffisante. 
+Il est entendu, dans les conditions prévues à l'article L. 741-2-1, dans la langue de son choix ou dans une autre langue dont
+il a une connaissance suffisante.
 
 Si le demandeur en fait la demande et si cette dernière apparaît manifestement fondée par la difficulté pour le demandeur
 d'exposer l'ensemble des motifs de sa demande d'asile, notamment ceux liés à des violences à caractère sexuel, l'entretien
 est mené, dans la mesure du possible, par un agent de l'office du sexe de son choix et en présence d'un interprète du sexe de
-son choix. 
+son choix.
 
 Le demandeur peut se présenter à l'entretien accompagné soit d'un avocat, soit d'un représentant d'une association de défense
 des droits de l'homme, d'une association de défense des droits des étrangers ou des demandeurs d'asile, d'une association de
-défense des droits des femmes ou des enfants ou d'une association de lutte contre les persécutions fondées sur le sexe ou
-l'orientation sexuelle. Les conditions d'habilitation des associations et les modalités d'agrément de leurs représentants par
-l'office sont fixées par décret en Conseil d'Etat ; peuvent seules être habilitées les associations indépendantes à l'égard
-des autorités des pays d'origine des demandeurs d'asile et apportant une aide à tous les demandeurs. L'avocat ou le
-représentant de l'association ne peut intervenir qu'à l'issue de l'entretien pour formuler des observations. 
+défense des droits des femmes ou des enfants ou d'une association de lutte contre les persécutions fondées sur l'identité de
+genre ou l'orientation sexuelle. Les conditions d'habilitation des associations et les modalités d'agrément de leurs
+représentants par l'office sont fixées par décret en Conseil d'Etat ; peuvent seules être habilitées les associations
+indépendantes à l'égard des autorités des pays d'origine des demandeurs d'asile et apportant une aide à tous les demandeurs.
+L'avocat ou le représentant de l'association ne peut intervenir qu'à l'issue de l'entretien pour formuler des observations.
 
-L'absence d'un avocat ou d'un représentant d'une association n'empêche pas l'office de mener un entretien avec le demandeur. 
+Lorsque cela est justifié pour le bon déroulement de l'entretien, le demandeur d'asile en situation de handicap peut, à sa
+demande et sur autorisation du directeur général de l'Office français de protection des réfugiés et apatrides, être
+accompagné par le professionnel de santé qui le suit habituellement ou par le représentant d'une association d'aide aux
+personnes en situation de handicap.
+
+L'absence d'un avocat ou d'un représentant d'une association n'empêche pas l'office de mener un entretien avec le demandeur.
 
 Sans préjudice de l'article L. 723-13, l'absence sans motif légitime du demandeur, dûment convoqué à un entretien, ne fait
-pas obstacle à ce que l'office statue sur sa demande. 
+pas obstacle à ce que l'office statue sur sa demande.
 
 Sans préjudice des nécessités tenant aux besoins d'une action contentieuse, la personne qui accompagne le demandeur à un
-entretien ne peut en divulguer le contenu. 
+entretien ne peut en divulguer le contenu.
 
-Les modalités d'organisation de l'entretien sont définies par le directeur général de l'office. 
+Les modalités d'organisation de l'entretien sont définies par le directeur général de l'office.
 
 Un décret en Conseil d'Etat fixe les cas et les conditions dans lesquels l'entretien peut se dérouler par un moyen de
 communication audiovisuelle pour des raisons tenant à l'éloignement géographique ou à la situation particulière du demandeur.
 
 **Nota:**
 
-Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-6 du code de l'entrée et du séjour
-des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter du 20 juillet 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière en ce qui concerne les dispositions des premier et sixième alinéa de l'article L. 723-6 tel
+qu'il résulte des a et b du 3° du I de l'article 6 de ladite loi.
+
+.
 
 **Liens relatifs à cet article**
 
@@ -13664,13 +13994,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L724-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R556-13 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L723-13 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-13
 
 
 ###### Article L723-7
@@ -13727,16 +14057,20 @@ _Cite_:
 
 ###### Article L723-8
 
-L'office notifie par écrit sa décision au demandeur d'asile. Toute décision de rejet est motivée en fait et en droit et
-précise les voies et délais de recours.
+L'office notifie par écrit sa décision au demandeur d'asile, par tout moyen garantissant la confidentialité et sa réception
+personnelle par le demandeur. Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de
+recours. Aucune décision ne peut naître du silence gardé par l'office.
 
-Aucune décision ne peut naître du silence gardé par l'office.
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 _Anciens textes_:
 
@@ -13793,29 +14127,29 @@ _Cite_:
 ###### Article L723-11
 
 L'office peut prendre une décision d'irrecevabilité écrite et motivée, sans vérifier si les conditions d'octroi de l'asile
-sont réunies, dans les cas suivants : 
+sont réunies, dans les cas suivants :
 
-1° Lorsque le demandeur bénéficie d'une protection effective au titre de l'asile dans un Etat membre de l'Union européenne ; 
+1° Lorsque le demandeur bénéficie d'une protection effective au titre de l'asile dans un Etat membre de l'Union européenne ;
 
 2° Lorsque le demandeur bénéficie du statut de réfugié et d'une protection effective dans un Etat tiers et y est
-effectivement réadmissible ; 
+effectivement réadmissible ;
 
 3° En cas de demande de réexamen lorsque, à l'issue d'un examen préliminaire effectué selon la procédure définie à l'article
-L. 723-16, il apparaît que cette demande ne répond pas aux conditions prévues au même article. 
+L. 723-16, il apparaît que cette demande ne répond pas aux conditions prévues au même article.
 
-La notification de la décision d'irrecevabilité au demandeur d'asile précise les voies et délais de recours. 
+La notification de la décision d'irrecevabilité au demandeur d'asile est effectuée par écrit, par tout moyen garantissant la
+confidentialité et sa réception personnelle par le demandeur, et précise les voies et délais de recours.
 
 Lors de l'entretien personnel prévu à l'article L. 723-6, le demandeur est mis à même de présenter ses observations sur
-l'application du motif d'irrecevabilité mentionné aux 1° ou 2° du présent article à sa situation personnelle. 
+l'application du motif d'irrecevabilité mentionné aux 1° ou 2° du présent article à sa situation personnelle.
 
 L'office conserve la faculté d'examiner la demande présentée par un étranger persécuté en raison de son action en faveur de
 la liberté ou qui sollicite la protection pour un autre motif.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-11 du code de l'entrée et du
-séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
-présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -13829,14 +14163,14 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-12 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-4-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L723-16 (V)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-6
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-6 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-16
 
 
 ##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande<a id=127></a>
@@ -13868,32 +14202,36 @@ _Cité par_:
 
 ###### Article L723-13
 
-L'office peut prendre une décision de clôture d'examen d'une demande dans les cas suivants : 
+L'office peut prendre une décision de clôture d'examen d'une demande dans les cas suivants :
 
-1° Le demandeur, sans motif légitime, n'a pas introduit sa demande à l'office dans les délais prévus par décret en Conseil
-d'Etat et courant à compter de la remise de son attestation de demande d'asile ou ne s'est pas présenté à l'entretien à
-l'office ; 
+1° Le demandeur, sans motif légitime, a introduit sa demande à l'office en ne respectant pas les délais prévus par décret en
+Conseil d'Etat et courant à compter de la remise de son attestation de demande d'asile ou ne s'est pas présenté à l'entretien
+à l'office ;
 
 2° Le demandeur refuse, de manière délibérée et caractérisée, de fournir des informations essentielles à l'examen de sa
-demande en application de l'article L. 723-4 ; 
+demande en application de l'article L. 723-4 ;
 
 3° Le demandeur n'a pas informé l'office, dans un délai raisonnable, de son lieu de résidence ou de son adresse et ne peut
-être contacté aux fins d'examen de sa demande d'asile ; 
+être contacté aux fins d'examen de sa demande d'asile ;
 
-L'office notifie par écrit sa décision motivée en fait et en droit au demandeur d'asile. Cette notification précise les voies
-et délais de recours.
+Par exception à l'article L. 723-1, lorsque l'étranger, sans motif légitime, n'a pas introduit sa demande, l'office prend une
+décision de clôture.
+
+L'office notifie par écrit sa décision au demandeur, par tout moyen garantissant la confidentialité et sa réception
+personnelle par le demandeur. Cette décision est motivée en fait et en droit et précise les voies et délais de recours.
+
+Dans le cas prévu au 3° du présent article, la décision de clôture est réputée notifiée à la date de la décision.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 723-13 du code de l'entrée et du
-séjour des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile
-présentées à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 _Cité par_:
 
@@ -14065,14 +14403,19 @@ _Cite_:
 ###### Article L724-3
 
 La décision de l'Office français de protection des réfugiés et apatrides mettant fin au statut de réfugié ou au bénéfice de
-la protection subsidiaire est notifiée par écrit à la personne concernée. Elle est motivée en fait et en droit et précise les
-voies et délais de recours.
+la protection subsidiaire est notifiée par écrit à la personne concernée, par tout moyen garantissant la confidentialité et
+sa réception personnelle par le demandeur. Elle est motivée en fait et en droit et précise les voies et délais de recours.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 12
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 
 ### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=130></a>
@@ -14113,11 +14456,20 @@ Conseil d'Etat.
 La Cour nationale du droit d'asile statue en formation collégiale, dans un délai de cinq mois à compter de sa saisine.
 Toutefois, sans préjudice de l'application de l'article L. 733-2, lorsque la décision de l'office a été prise en application
 des articles L. 723-2 ou L. 723-11, le président de la Cour nationale du droit d'asile ou le président de formation de
-jugement qu'il désigne à cette fin statue dans un délai de cinq semaines à compter de sa saisine. De sa propre initiative ou
-à la demande du requérant, le président de la cour ou le président de formation de jugement désigné à cette fin peut, à tout
-moment de la procédure, renvoyer à la formation collégiale la demande s'il estime que celle-ci ne relève pas de l'un des cas
-prévus aux articles L. 723-2 et L. 723-11 ou qu'elle soulève une difficulté sérieuse. La cour statue alors dans les
-conditions prévues à la première phrase du présent alinéa.
+jugement qu'il désigne à cette fin statue dans un délai de cinq semaines à compter de sa saisine. Il en est de même lorsque
+l'office prend une décision mettant fin au statut de réfugié en application de l'article L. 711-6 ou au bénéfice de la
+protection subsidiaire en application des 1° ou 3° de l'article L. 712-3 pour le motif prévu au d de l'article L. 712-2. De
+sa propre initiative ou à la demande du requérant, le président de la cour ou le président de formation de jugement désigné à
+cette fin peut, à tout moment de la procédure, renvoyer à la formation collégiale la demande s'il estime que celle-ci ne
+relève pas de l'un des cas prévus aux articles L. 723-2 et L. 723-11 ou qu'elle soulève une difficulté sérieuse. La cour
+statue alors dans les conditions prévues à la première phrase du présent alinéa.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+dernière en ce qui concerne les dispositions de la troisième phrase du second alinéa de l'article L. 731-2 tel qu'il résulte
+des dispositions du a du 1° du I de l'article 8 de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -14127,10 +14479,15 @@ _Anciens textes_:
   - Loi n°52-893 du 25 juillet 1952 - art. 5 (M)
   - Loi n°52-893 du 25 juillet 1952 - art. 5 (Ab)
 
+_Codifié par_:
+
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
 _Cité par_:
 
   - Loi n°2015-925 du 29 juillet 2015 - art. 35 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L723-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L723-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L732-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L733-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L751-2 (V)
@@ -14274,19 +14631,28 @@ Les intéressés peuvent présenter leurs explications à la Cour nationale du d
 et d'un interprète.
 
 Afin d'assurer une bonne administration de la justice et de faciliter la possibilité ouverte aux intéressés de présenter
-leurs explications à la cour, le président de cette juridiction peut prévoir que la salle d'audience de la cour est reliée,
-en direct, par un moyen de communication audiovisuelle qui garantit la confidentialité de la transmission avec une salle
-d'audience spécialement aménagée à cet effet ouverte au public et située dans des locaux relevant du ministère de la justice
-plus aisément accessibles par le demandeur, dans des conditions respectant les droits de l'intéressé prévus par le premier
-alinéa. Une copie de l'intégralité du dossier est mise à sa disposition. Si l'intéressé est assisté d'un conseil, ce dernier
-est physiquement présent auprès de lui. Ces opérations donnent lieu à l'établissement d'un procès-verbal dans chacune des
-salles d'audience ou à un enregistrement audiovisuel ou sonore. Le requérant qui, séjournant en France métropolitaine, refuse
-d'être entendu par un moyen de communication audiovisuelle est convoqué, à sa demande, dans les locaux de la cour. 
+leurs explications à la cour, et sous réserve que les conditions prévues au présent alinéa soient remplies, le président de
+cette juridiction peut prévoir que la salle d'audience de la cour est reliée, en direct, par un moyen de communication
+audiovisuelle qui garantit la confidentialité et la qualité de la transmission avec une salle d'audience spécialement
+aménagée à cet effet ouverte au public et située dans des locaux relevant du ministère de la justice plus aisément
+accessibles par le demandeur, dans des conditions respectant les droits de l'intéressé prévus par le premier alinéa. Une
+copie de l'intégralité du dossier est mise à sa disposition. Si l'intéressé est assisté d'un conseil, ce dernier est
+physiquement présent auprès de lui. L'interprète mis à disposition du demandeur est présent dans la salle d'audience où ce
+dernier se trouve. En cas de difficulté pour obtenir le concours d'un interprète qualifié présent physiquement auprès du
+demandeur, l'audience ne se tient qu'après que la cour s'est assurée de la présence, dans la salle où elle siège, d'un tel
+interprète tout au long de son déroulement. Ces opérations donnent lieu à l'établissement d'un procès-verbal dans chacune des
+salles d'audience ou à un enregistrement audiovisuel ou sonore.
 
 Aux mêmes fins, le président de cette juridiction peut également prévoir la tenue d'audiences foraines au siège d'une
-juridiction administrative ou judiciaire, après accord du président de la juridiction concernée. 
+juridiction administrative ou judiciaire, après accord du président de la juridiction concernée.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -14315,7 +14681,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 17
+  - Loi n°2018-778 du 10 septembre 2018 - art. 8
 
 
 ###### Article L733-1-1
@@ -14436,16 +14802,29 @@ lorsqu'elle juge que l'office a pris cette décision sans procéder à un examen
 en dehors des cas prévus par la loi, d'un entretien personnel avec le demandeur et qu'elle n'est pas en mesure de prendre
 immédiatement une décision positive sur la demande de protection au vu des éléments établis devant elle.
 
+Il en va de même lorsque la cour estime que le requérant a été dans l'impossibilité de se faire comprendre lors de
+l'entretien, faute d'avoir pu bénéficier du concours d'un interprète dans la langue qu'il a indiquée dans sa demande d'asile
+ou dans une autre langue dont il a une connaissance suffisante, et que ce défaut d'interprétariat est imputable à l'office.
+Le requérant ne peut se prévaloir de ce défaut d'interprétariat que dans le délai de recours et doit indiquer la langue dans
+laquelle il souhaite être entendu en audience. Si la cour ne peut désigner un interprète dans la langue demandée, l'intéressé
+est entendu dans une langue dont il est raisonnable de penser qu'il la comprend.
+
 Sans préjudice du deuxième alinéa, le requérant ne peut utilement se prévaloir de l'enregistrement sonore de son entretien
 personnel qu'à l'appui d'une contestation présentée dans le délai de recours et portant sur une erreur de traduction ou un
 contresens, identifié de façon précise dans la transcription de l'entretien et de nature à exercer une influence déterminante
 sur l'appréciation du besoin de protection.
 
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 17
+  - Loi n°2018-778 du 10 septembre 2018 - art. 10
 
 
 ### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=134></a>
@@ -14462,6 +14841,12 @@ Etats membres par un ressortissant de pays tiers ou un apatride, ou en applicati
 le même règlement, dans des conditions fixées par décret en Conseil d'Etat. Tout demandeur reçoit, dans une langue qu'il
 comprend ou dont il est raisonnable de supposer qu'il la comprend, une information sur ses droits et obligations en
 application dudit règlement, dans les conditions prévues à son article 4.
+
+Lorsque la demande d'asile est présentée par un étranger qui se trouve en France accompagné de ses enfants mineurs, la
+demande est regardée comme présentée en son nom et en celui de ses enfants. Lorsqu'il est statué sur la demande de chacun des
+parents, la décision accordant la protection la plus étendue est réputée prise également au bénéfice des enfants. Cette
+décision n'est pas opposable aux enfants qui établissent que la personne qui a présenté la demande n'était pas en droit de le
+faire.
 
 L'enregistrement a lieu au plus tard trois jours ouvrés après la présentation de la demande à l'autorité administrative
 compétente, sans condition préalable de domiciliation. Toutefois, ce délai peut être porté à dix jours ouvrés lorsqu'un
@@ -14486,11 +14871,9 @@ Cette attestation n'est pas délivrée à l'étranger qui demande l'asile à la 
 
 **Nota:**
 
-Conformément aux II et III de l'article 35 de la loi n° 2015-925 du 29 juillet 2015, ces dispositions, dans leur rédaction
-résultant de la présente loi, s'appliquent aux demandes d'asile présentées à compter du lendemain de la publication de ladite
-loi, en tant qu'elles prévoient que l'enregistrement de la demande d'asile intervient dans un délai de trois jours ouvrés à
-compter de sa présentation et s'appliquent aux demandes d'asile présentées à compter d'une date fixée par décret en Conseil
-d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -14531,12 +14914,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 2
+  - Loi n°2018-778 du 10 septembre 2018 - art. 10
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-2 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
 
 
 ###### Article L741-2
@@ -14578,6 +14961,30 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et du  - art. L762-1 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L763-1 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. L764-1 (V)
+
+
+###### Article L741-2-1
+
+Lors de l'enregistrement de sa demande d'asile, l'étranger est informé des langues dans lesquelles il peut être entendu lors
+de l'entretien personnel mené par l'Office français de protection des réfugiés et apatrides en application de l'article L.
+723-6. Il indique celle dans laquelle il préfère être entendu. Il est informé que ce choix lui est opposable pendant toute la
+durée d'examen de sa demande, y compris en cas de recours devant la Cour nationale du droit d'asile, et que, à défaut de
+choix de sa part ou dans le cas où sa demande ne peut être satisfaite, il peut être entendu dans une langue dont il a une
+connaissance suffisante. Le présent article ne fait pas obstacle à ce que, à tout instant, l'étranger puisse à sa demande
+être entendu en français. La contestation du choix de la langue de procédure ne peut intervenir qu'à l'occasion du recours
+devant la Cour nationale du droit d'asile contre la décision de l'office, dans les conditions fixées à l'article L. 733-5.
+Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à l'article 71 III de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur le
+1er janvier 2019 et sont applicables aux demandes déposées postérieurement à cette dernière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 10
 
 
 ###### Article L741-3
@@ -14896,7 +15303,7 @@ _Cite_:
 
 ###### Article L742-4
 
-I. - L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article L. 742-3 peut, dans le délai de sept
+I.-L'étranger qui a fait l'objet d'une décision de transfert mentionnée à l'article L. 742-3 peut, dans le délai de quinze
 jours à compter de la notification de cette décision, en demander l'annulation au président du tribunal administratif.
 
 Le président ou le magistrat qu'il désigne à cette fin parmi les membres de sa juridiction ou les magistrats honoraires
@@ -14916,22 +15323,24 @@ Toutefois, si, en cours d'instance, l'étranger est placé en rétention en appl
 assigné à résidence en application de l'article L. 561-2, il est statué selon la procédure et dans le délai prévus au II du
 présent article.
 
-II. - Lorsqu'une décision de placement en rétention prise en application de l'article L. 551-1 ou d'assignation à résidence
-prise en application de l'article L. 561-2 est notifiée avec la décision de transfert ou lorsque celle-ci est notifiée alors
-que l'étranger fait déjà l'objet d'une telle décision de placement en rétention ou d'assignation à résidence, l'étranger
-peut, dans les quarante-huit heures suivant leur notification, demander au président du tribunal administratif l'annulation
-de la décision de transfert et de la décision d'assignation à résidence.
+II.- Lorsqu'une décision de placement en rétention prise en application de l'article L. 551-1 est notifiée avec la décision
+de transfert, l'étranger peut contester la décision de transfert dans les conditions et délais prévus au III de l'article L.
+512-1. Il est statué selon les conditions et délais prévus au dernier alinéa du même III sur le recours formé contre une
+décision de transfert par un étranger qui fait l'objet, en cours d'instance, d'une décision de placement en rétention.
 
-Il est statué sur ce recours selon la procédure et dans le délai prévus au III de l'article L. 512-1.
-
-Il est également statué selon la même procédure et dans le même délai sur le recours formé contre une décision de transfert
-par un étranger qui fait l'objet, en cours d'instance, d'une décision de placement en rétention ou d'assignation à résidence.
-Dans ce cas, le délai de soixante-douze heures pour statuer court à compter de la notification par l'administration au
-tribunal de la décision de placement en rétention ou d'assignation à résidence.
+Lorsqu'une décision d'assignation à résidence prise en application de l'article L. 561-2 est notifiée avec la décision de
+transfert, l'étranger peut, dans les quarante-huit heures suivant leur notification, demander au président du tribunal
+administratif l'annulation de la décision de transfert et de la décision d'assignation à résidence. Le président du tribunal
+administratif statue dans un délai de quatre-vingt-seize heures à compter de l'expiration du délai de recours, dans les
+conditions prévues au III de l'article L. 512-1. Il est statué selon les conditions et dans les délais prévus au dernier
+alinéa du même III sur le recours formé contre une décision de transfert par un étranger qui fait l'objet, en cours
+d'instance, d'une décision d'assignation à résidence.
 
 **Nota:**
 
-
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -14958,13 +15367,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-187 du 20 mars 2018 - art. 3
+  - Loi n°2018-778 du 10 septembre 2018 - art. 11
+  - Loi n°2018-778 du 10 septembre 2018 - art. 62
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L512-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L551-1 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
   - Code de justice administrative - art. L222-2-1
 
@@ -15131,32 +15541,39 @@ Par dérogation à l'article L. 743-1, sous réserve du respect des stipulations
 statut des réfugiés, signée à Genève le 28 juillet 1951, et de l'article 3 de la convention européenne de sauvegarde des
 droits de l'homme et des libertés fondamentales, adoptée à Rome le 4 novembre 1950, le droit de se maintenir sur le
 territoire français prend fin et l'attestation de demande d'asile peut être refusée, retirée ou son renouvellement refusé
-lorsque : 
+lorsque :
 
 1° L'Office français de protection des réfugiés et apatrides a pris une décision d'irrecevabilité en application des 1° ou 2°
 de l'article L. 723-11 ; 
 
-2° Le demandeur a informé l'office du retrait de sa demande d'asile en application de l'article L. 723-12 ; 
+2° Le demandeur a informé l'office du retrait de sa demande d'asile en application de l'article L. 723-12 ;
 
 3° L'office a pris une décision de clôture en application de l'article L. 723-13. L'étranger qui obtient la réouverture de
-son dossier en application de l'article L. 723-14 bénéficie à nouveau du droit de se maintenir sur le territoire français ; 
+son dossier en application de l'article L. 723-14 bénéficie à nouveau du droit de se maintenir sur le territoire français ;
 
 4° L'étranger n'a introduit une première demande de réexamen, qui a fait l'objet d'une décision d'irrecevabilité par l'office
-en application du 3° de l'article L. 723-11, qu'en vue de faire échec à une mesure d'éloignement ; 
+en application du 3° de l'article L. 723-11, qu'en vue de faire échec à une mesure d'éloignement ;
 
-5° L'étranger présente une nouvelle demande de réexamen après le rejet définitif d'une première demande de réexamen ; 
+4° bis Sans préjudice du 4° du présent article, l'office a pris une décision d'irrecevabilité en application du 3° de
+l'article L. 723-11 ;
+
+5° L'étranger présente une nouvelle demande de réexamen après le rejet définitif d'une première demande de réexamen ;
 
 6° L'étranger fait l'objet d'une décision définitive d'extradition vers un Etat autre que son pays d'origine ou d'une
 décision de remise sur le fondement d'un mandat d'arrêt européen ou d'une demande de remise par une cour pénale
-internationale. 
+internationale ;
+
+7° L'office a pris une décision de rejet dans les cas prévus au I et au 5° du III de l'article L. 723-2 ;
+
+8° L'office a pris une décision de rejet ou d'irrecevabilité dans les conditions prévues à l'article L. 571-4.
 
 Les conditions de renouvellement et de retrait de l'attestation de demande d'asile sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-2 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -15167,7 +15584,7 @@ _Cité par_:
   - Ordonnance n°2002-388 du 20 mars 2002 - art. 48 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L511-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L741-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L743-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L743-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L762-1 (V)
@@ -15178,17 +15595,17 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-6 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R743-1 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2018-778 du 10 septembre 2018 - art. 12
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L743-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-11
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-12
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-13
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-14
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-1
 
 
 ###### Article L743-3
@@ -15199,17 +15616,26 @@ qui ne peut être autorisé à demeurer sur le territoire à un autre titre doit
 faire l'objet d'une mesure d'éloignement prévue au titre Ier du livre V et, le cas échéant, des pénalités prévues au chapitre
 Ier du titre II du livre VI.
 
+Dans le cas où le droit de se maintenir sur le territoire a pris fin en application des 4° bis ou 7° de l'article L. 743-2,
+l'étranger peut demander au président du tribunal administratif ou au magistrat désigné statuant sur le recours formé en
+application de l'article L. 512-1 contre l'obligation de quitter le territoire français de suspendre l'exécution de la mesure
+d'éloignement jusqu'à l'expiration du délai de recours devant la Cour nationale du droit d'asile ou, si celle-ci est saisie,
+soit jusqu'à la date de la lecture en audience publique de la décision de la cour, soit, s'il est statué par ordonnance,
+jusqu'à la date de la notification de celle-ci. Le président du tribunal administratif ou le magistrat désigné à cette fin
+fait droit à la demande de l'étranger lorsque celui-ci présente des éléments sérieux de nature à justifier, au titre de sa
+demande d'asile, son maintien sur le territoire durant l'examen de son recours par la cour.
+
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-3 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2018-778 du 10 septembre 2018 - art. 12
 
 _Cité par_:
 
@@ -15227,24 +15653,42 @@ _Cite_:
 
 ###### Article L743-4
 
-Sans préjudice des articles L. 556-1 et L. 743-2, lorsque l'étranger sollicitant l'enregistrement d'une demande d'asile a
+Sans préjudice des articles L. 556-1 et L. 571-4, lorsque l'étranger sollicitant l'enregistrement d'une demande d'asile a
 fait l'objet, préalablement à la présentation de sa demande, d'une mesure d'éloignement prise en application du livre V,
 celle-ci, qui n'est pas abrogée par la délivrance de l'attestation prévue à l'article L. 741-1, ne peut être mise à exécution
-avant la notification de la décision de l'office, lorsqu'il s'agit d'une décision de rejet, d'irrecevabilité ou de clôture,
-ou, si un recours est formé devant la Cour nationale du droit d'asile contre une décision de rejet, avant la notification de
-la décision de la cour.
+tant que l'étranger bénéficie du droit de se maintenir sur le territoire français dans les conditions prévues aux articles L.
+743-1 et L. 743-2.
+
+Dans le cas où le droit de se maintenir sur le territoire français a pris fin en application des 4° bis ou 7° de l'article L.
+743-2, l'étranger qui fait l'objet, postérieurement à la décision de rejet de l'Office français de protection des réfugiés et
+apatrides, d'une assignation à résidence ou d'un placement en rétention administrative dans les conditions prévues au livre
+V, en vue de l'exécution d'une obligation de quitter le territoire français notifiée antérieurement à la décision de l'office
+et qui n'est plus susceptible d'un recours devant la juridiction administrative, peut, dans un délai de quarante-huit heures
+à compter de la notification de la décision prononçant son placement en rétention administrative ou son assignation à
+résidence, demander au président du tribunal administratif de suspendre l'exécution de la mesure d'éloignement jusqu'à
+l'expiration du délai de recours devant la Cour nationale du droit d'asile ou, si celle-ci est saisie, soit jusqu'à la date
+de la lecture en audience publique de la décision de la cour, soit, s'il est statué par ordonnance, jusqu'à la date de
+notification de celle-ci. La mesure d'éloignement ne peut être mise à exécution pendant ce délai de quarante-huit heures ou,
+en cas de saisine du président du tribunal administratif, avant que ce dernier ou le magistrat qu'il désigne à cette fin
+parmi les membres de sa juridiction ou les magistrats honoraires inscrits sur la liste mentionnée à l'article L. 222-2-1 du
+code de justice administrative ait statué. Le président du tribunal administratif ou le magistrat désigné à cette fin statue
+dans les conditions prévues au III de l'article L. 512-1 du présent code. Il fait droit à la demande de l'étranger lorsque
+celui-ci présente des éléments sérieux de nature à justifier, au titre de sa demande d'asile, son maintien sur le territoire
+durant l'examen de son recours par la cour.
+
+La suspension de l'exécution de la mesure d'éloignement met fin à l'assignation à résidence ou à la rétention administrative
+de l'étranger, sauf lorsque l'office a pris une décision de rejet dans le cas prévu au 5° du III de l'article L. 723-2.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du deuxième alinéa du présent article. Il précise les modalités
+de prise en compte de la vulnérabilité du demandeur d'asile et, le cas échéant, de ses besoins particuliers.
 
 **Nota:**
 
-Conformément à l'article 35 III de la loi n° 2015-925 du 29 juillet 2015, l'article L. 743-4 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
 
 _Cité par_:
 
@@ -15253,9 +15697,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L764-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 12
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L556-1
+  - Code de l'entrée et du séjour des étrangers et ... - art. L556-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L741-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
 
@@ -15270,22 +15718,21 @@ Les conditions matérielles d'accueil du demandeur d'asile, au sens de la direct
 Conseil, du 26 juin 2013, établissant des normes pour l'accueil des personnes demandant la protection internationale, sont
 proposées à chaque demandeur d'asile par l'Office français de l'immigration et de l'intégration après l'enregistrement de la
 demande d'asile par l'autorité administrative compétente, en application du présent chapitre. Les conditions matérielles
-d'accueil comprennent les prestations et l'allocation prévues au présent chapitre. 
+d'accueil comprennent les prestations et l'allocation prévues au présent chapitre.
 
 L'office peut déléguer à des personnes morales, par convention, la possibilité d'assurer certaines prestations d'accueil,
-d'information et d'accompagnement social et administratif des demandeurs d'asile pendant la période d'instruction de leur
-demande. 
+d'information et d'accompagnement social, juridique et administratif des demandeurs d'asile pendant la période d'instruction
+de leur demande.
 
-Le demandeur d'asile qui ne dispose ni d'un hébergement, au sens du 1° de l'article L. 744-3, ni d'un domicile stable
-bénéficie du droit d'élire domicile auprès d'une personne morale conventionnée à cet effet pour chaque département, dans des
-conditions fixées par décret en Conseil d'Etat.
+Le demandeur d'asile qui ne dispose ni d'un hébergement, au sens du 1° de l'article L. 744-3, ni d'un domicile stable élit
+domicile auprès d'une personne morale conventionnée à cet effet pour chaque département, dans des conditions fixées par
+décret en Conseil d'Etat.
 
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-1 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
-demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
-novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette date.
 
 **Liens relatifs à cet article**
 
@@ -15297,7 +15744,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D744-17 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. D744-39 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L744-7 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L744-9 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-9 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R743-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-1 (VD)
@@ -15305,9 +15752,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-47 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 _Cite_:
 
@@ -15316,26 +15763,47 @@ _Cite_:
 
 ###### Article L744-2
 
-Le schéma national d'accueil des demandeurs d'asile fixe la répartition des places d'hébergement destinées aux demandeurs
-d'asile sur le territoire national. Il est arrêté par le ministre chargé de l'asile, après avis des ministres chargés du
-logement et des affaires sociales. Il est transmis au Parlement.
+I. - Le schéma national d'accueil des demandeurs d'asile et d'intégration des réfugiés fixe la part des demandeurs d'asile
+accueillis dans chaque région ainsi que la répartition des lieux d'hébergement qui leur sont destinés. Il est arrêté par le
+ministre chargé de l'asile, après avis des ministres chargés du logement et des affaires sociales. Il est transmis au
+Parlement.
 
-Un schéma régional est établi par le représentant de l'Etat dans la région, après avis du comité régional de l'habitat et de
-l'hébergement concerné et en conformité avec le schéma national d'accueil des demandeurs d'asile. Il fixe les orientations en
-matière de répartition des lieux d'hébergement pour demandeurs d'asile sur le territoire de la région et présente le
-dispositif régional prévu pour l'enregistrement des demandes ainsi que le suivi et l'accompagnement des demandeurs d'asile.
-Il fixe également la répartition des lieux d'hébergement provisoire offrant des prestations d'accueil, d'information et
-d'accompagnement social, juridique et administratif dont peuvent bénéficier, jusqu'à la remise de leur attestation de demande
-d'asile, les étrangers ne disposant pas de domicile stable. Il tient compte du plan départemental d'action pour le logement
-et l'hébergement des personnes défavorisées et est annexé à ce dernier, en application du troisième alinéa de l'article 2 de
-la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement.
+Un schéma régional est établi par le représentant de l'Etat dans la région, après avis d'une commission de concertation
+composée de représentants des collectivités territoriales, des services départementaux de l'éducation nationale, de
+gestionnaires de lieux d'hébergement pour demandeurs d'asile et d'associations de défense des droits des demandeurs d'asile
+et en conformité avec le schéma national d'accueil des demandeurs d'asile. Il fixe les orientations en matière de répartition
+des lieux d'hébergement pour demandeurs d'asile et réfugiés sur le territoire de la région, présente le dispositif régional
+prévu pour l'enregistrement des demandes d'asile ainsi que le suivi et l'accompagnement des demandeurs d'asile et définit les
+actions en faveur de l'intégration des réfugiés. Il fixe également la répartition des lieux d'hébergement provisoire offrant
+des prestations d'accueil, d'information et d'accompagnement social, juridique et administratif dont peuvent bénéficier,
+jusqu'à la remise de leur attestation de demande d'asile, les étrangers ne disposant pas de domicile stable. Il tient compte
+du plan départemental d'action pour le logement et l'hébergement des personnes défavorisées et est annexé à ce dernier, en
+application du troisième alinéa de l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au
+logement.
 
 Sans préjudice de la participation financière demandée aux demandeurs d'asile en fonction de leurs ressources, les frais
 d'accueil et d'hébergement dans les lieux d'hébergement destinés aux demandeurs d'asile sont pris en charge par l'Etat.
 
+II. - Lorsque la part des demandeurs d'asile résidant dans une région excède la part fixée pour cette région par le schéma
+national d'accueil des demandeurs d'asile et les capacités d'accueil de cette région, le demandeur d'asile peut être orienté
+vers une autre région, où il est tenu de résider le temps de l'examen de sa demande d'asile.
+
+L'Office français de l'immigration et de l'intégration détermine la région de résidence en fonction de la part des demandeurs
+d'asile accueillis dans chaque région en application du schéma national et en tenant compte des besoins et de la situation
+personnelle et familiale du demandeur au regard de l'évaluation prévue à l'article L. 744-6 et de l'existence de structures à
+même de prendre en charge de façon spécifique les victimes de la traite des êtres humains ou les cas de graves violences
+physiques ou sexuelles.
+
+Sauf en cas de motif impérieux ou de convocation par les autorités ou les tribunaux, le demandeur qui souhaite quitter
+temporairement sa région de résidence sollicite une autorisation auprès de l'office, qui rend sa décision dans les meilleurs
+délais, en tenant compte de la situation personnelle et familiale du demandeur.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent II.
+
 **Nota:**
 
-
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -15361,36 +15829,42 @@ _Modifié par_:
 Les décisions d'admission dans un lieu d'hébergement pour demandeurs d'asile, de sortie de ce lieu et de changement de lieu
 sont prises par l'Office français de l'immigration et de l'intégration, après consultation du directeur du lieu
 d'hébergement, sur la base du schéma national d'accueil des demandeurs d'asile et, le cas échéant, du schéma régional prévus
-à l'article L. 744-2 et en tenant compte de la situation du demandeur. 
+à l'article L. 744-2 et en tenant compte de la situation du demandeur.
 
-Sont des lieux d'hébergement pour demandeurs d'asile : 
+Sont des lieux d'hébergement pour demandeurs d'asile :
 
 1° Les centres d'accueil pour demandeurs d'asile mentionnés à l'article L. 348-1 du code de l'action sociale et des
-familles ; 
+familles ;
 
 2° Toute structure bénéficiant de financements du ministère chargé de l'asile pour l'accueil de demandeurs d'asile et soumise
-à déclaration, au sens de l'article L. 322-1 du même code. 
+à déclaration, au sens de l'article L. 322-1 du même code.
 
 Les demandeurs d'asile accueillis dans les lieux d'hébergement mentionnés aux 1° et 2° du présent article bénéficient d'un
-accompagnement social et administratif. 
+accompagnement social et administratif.
 
 Le représentant de l'Etat dans le département peut s'opposer pour des motifs d'ordre public à la décision d'admission d'un
 demandeur d'asile dans un lieu d'hébergement. Dans ce cas, l'office est tenu de prendre une nouvelle décision d'admission.
 L'office s'assure de la présence dans les lieux d'hébergement des personnes qui y ont été orientées pour la durée de la
 procédure.
 
+Les normes minimales en matière d'accompagnement social et administratif dans ces lieux d'hébergement sont définies par
+décret en Conseil d'Etat. Ce décret vise à assurer une uniformisation progressive des conditions de prise en charge dans ces
+structures.
+
+Un étranger qui ne dispose pas d'un hébergement stable et qui manifeste le souhait de déposer une demande d'asile peut être
+admis dans un des lieux d'hébergement mentionnés au 2° avant l'enregistrement de sa demande d'asile. Les décisions
+d'admission et de sortie sont prises par l'office en tenant compte de la situation personnelle et familiale de l'étranger.
+
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-3 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
-demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
-novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
+Conformément au II de l'article 13 de la loi n° 2018-778 du 10 septembre 2018, le décret prévu à l'article L. 744-3 dans sa
+rédaction résultant du 3° du I du même article, est pris dans un délai de six mois à compter de la promulgation de ladite
+loi.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-925 du 29 juillet 2015 - art. 23
 
 _Cité par_:
 
@@ -15402,7 +15876,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D744-35 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L744-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L744-4 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L744-5 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-5 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L761-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R742-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-1 (VD)
@@ -15412,6 +15886,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-6 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-8 (VD)
   - Code général des impôts, CGI. - art. 278-0 bis (V)
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 _Cite_:
 
@@ -15464,35 +15942,38 @@ _Cité par_:
 ###### Article L744-5
 
 Les lieux d'hébergement mentionnés à l'article L. 744-3 accueillent les demandeurs d'asile pendant la durée d'instruction de
-leur demande d'asile ou jusqu'à leur transfert effectif vers un autre Etat européen. Cette mission prend fin à l'expiration
-du délai de recours contre la décision de l'Office français de protection des réfugiés et apatrides ou à la date de la
-notification de la décision de la Cour nationale du droit d'asile ou à la date du transfert effectif vers un autre Etat, si
-sa demande relève de la compétence de cet Etat. 
+leur demande d'asile ou jusqu'à leur transfert effectif vers un autre Etat européen. Cette mission prend fin au terme du mois
+au cours duquel le droit du demandeur de se maintenir sur le territoire français dans les conditions prévues aux articles L.
+743-1 et L. 743-2 a pris fin ou à la date du transfert effectif vers un autre Etat, si sa demande relève de la compétence de
+cet Etat.
 
 Les personnes morales qui assurent la gestion du lieu d'hébergement peuvent exiger le versement d'une caution, dans des
 conditions définies par arrêté. Le montant de la caution est restitué à la sortie du lieu d'hébergement, déduit le cas
-échéant des sommes dues par le bénéficiaire au titre de son hébergement. 
+échéant des sommes dues par le bénéficiaire au titre de son hébergement.
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles les personnes s'étant vu reconnaître la qualité de
 réfugié ou accorder le bénéfice de la protection subsidiaire et les personnes ayant fait l'objet d'une décision de rejet
 définitive peuvent être maintenues dans un lieu d'hébergement mentionné au même article L. 744-3 à titre exceptionnel et
-temporaire. 
+temporaire.
 
 Lorsque, après une décision de rejet définitive, le délai de maintien dans un lieu d'hébergement mentionné audit article L.
-744-3 prend fin, l'autorité administrative compétente peut, après mise en demeure restée infructueuse, demander en justice
-qu'il soit enjoint à cet occupant sans titre d'évacuer ce lieu. 
+744-3 prend fin, l'autorité administrative compétente ou le gestionnaire du lieu d'hébergement peuvent demander en justice,
+après mise en demeure restée infructueuse, qu'il soit enjoint à cet occupant sans titre d'évacuer ce lieu.
 
 Le quatrième alinéa du présent article est applicable aux personnes qui ont un comportement violent ou commettent des
-manquements graves au règlement du lieu d'hébergement. 
+manquements graves au règlement du lieu d'hébergement.
 
 La demande est portée devant le président du tribunal administratif, qui statue sur le fondement de l'article L. 521-3 du
 code de justice administrative et dont l'ordonnance est immédiatement exécutoire.
 
+**Nota:**
+
+Conformément à l'article 71 III de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019. Elles sont applicables, en ce qui concerne
+les dispositions du premier alinéa de l'article L. 744-3 tel qu'il résulte des dispositions du a du 4° du I de l'article 13
+de ladite loi, aux demandes déposées postérieurement à cette date.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-925 du 29 juillet 2015 - art. 23
 
 _Cité par_:
 
@@ -15500,9 +15981,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-11 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-12 (VD)
 
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
+
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-3
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-3 (VD)
   - Code de justice administrative - art. L521-3
 
 
@@ -15515,28 +16000,33 @@ procéder, dans un délai raisonnable et après un entretien personnel avec le d
 vulnérabilité de ce dernier afin de déterminer, le cas échéant, ses besoins particuliers en matière d'accueil. Ces besoins
 particuliers sont également pris en compte s'ils deviennent manifestes à une étape ultérieure de la procédure d'asile. Dans
 la mise en œuvre des droits des demandeurs d'asile et pendant toute la période d'instruction de leur demande, il est tenu
-compte de la situation spécifique des personnes vulnérables. 
+compte de la situation spécifique des personnes vulnérables.
 
 L'évaluation de la vulnérabilité vise, en particulier, à identifier les mineurs, les mineurs non accompagnés, les personnes
 en situation de handicap, les personnes âgées, les femmes enceintes, les parents isolés accompagnés d'enfants mineurs, les
 victimes de la traite des êtres humains, les personnes atteintes de maladies graves, les personnes souffrant de troubles
 mentaux et les personnes qui ont subi des tortures, des viols ou d'autres formes graves de violence psychologique, physique
-ou sexuelle, telles que des mutilations sexuelles féminines. 
+ou sexuelle, telles que des mutilations sexuelles féminines.
 
 L'évaluation de la vulnérabilité du demandeur est effectuée par des agents de l'Office français de l'immigration et de
-l'intégration ayant reçu une formation spécifique à cette fin. 
+l'intégration ayant reçu une formation spécifique à cette fin.
 
 Lors de l'entretien, le demandeur est informé de sa possibilité de bénéficier de l'examen de santé gratuit prévu à l'article
-L. 321-3 du code de la sécurité sociale. 
+L. 321-3 du code de la sécurité sociale.
 
 Les informations attestant d'une situation particulière de vulnérabilité sont transmises, après accord du demandeur d'asile,
 par l'Office français de l'immigration et de l'intégration à l'Office français de protection des réfugiés et apatrides.
 L'évaluation de la vulnérabilité par l'Office français de l'immigration et de l'intégration ne préjuge pas de l'appréciation
 par l'Office français de protection des réfugiés et apatrides de la vulnérabilité du demandeur en application de l'article L.
-723-3 ou du bien-fondé de sa demande. 
+723-3 ou du bien-fondé de sa demande.
+
+Le service intégré d'accueil et d'orientation mentionné à l'article L. 345-2 du code de l'action sociale et des familles
+communique mensuellement à l'Office français de l'immigration et de l'intégration la liste des personnes hébergées en
+application de l'article L. 345-2-2 du même code ayant présenté une demande d'asile ainsi que la liste des personnes ayant
+obtenu la qualité de réfugié ou le bénéfice de la protection subsidiaire.
 
 Ces informations peuvent faire l'objet d'un traitement automatisé, dans les conditions fixées par la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Ce décret est pris après avis de la
 Commission nationale de l'informatique et des libertés en tant qu'il précise les modalités de transmission à l'Office
@@ -15547,9 +16037,8 @@ lesquelles les personnes intéressées peuvent exercer leur droit d'accès.
 
 **Nota:**
 
-Conformément à l'article 35 I de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-6 du code de l'entrée et du séjour
-des étrangers et du droit d'asile, dans sa rédaction résultant de la présente loi, s'applique aux demandes d'asile présentées
-à compter du 20 juillet 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -15570,27 +16059,34 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-14 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 
 ##### Section 3 : Orientation des demandeurs<a id=141></a>
 
 ###### Article L744-7
 
-Le bénéfice des conditions matérielles d'accueil, définies à l'article L. 348-1 du code de l'action sociale et des familles
-et à l'article L. 744-1 du présent code, est subordonné à l'acceptation par le demandeur d'asile de l'hébergement proposé,
-déterminé en tenant compte de ses besoins, de sa situation au regard de l'évaluation prévue à l'article L. 744-6 et des
-capacités d'hébergement disponibles. 
+Le bénéfice des conditions matérielles d'accueil prévues à l'article L. 744-1 est subordonné :
+
+1° A l'acceptation par le demandeur de la proposition d'hébergement ou, le cas échéant, de la région d'orientation déterminée
+en application de l'article L. 744-2. Ces propositions tiennent compte des besoins, de la situation personnelle et familiale
+de chaque demandeur au regard de l'évaluation prévue à l'article L. 744-6, des capacités d'hébergement disponibles et de la
+part des demandeurs d'asile accueillis dans chaque région ;
+
+2° Au respect des exigences des autorités chargées de l'asile, notamment en se rendant aux entretiens, en se présentant aux
+autorités et en fournissant les informations utiles afin de faciliter l'instruction des demandes.
 
 Le demandeur est préalablement informé, dans une langue qu'il comprend ou dont il est raisonnable de penser qu'il la
-comprend, des conséquences de l'acceptation ou du refus de l'hébergement proposé. 
+comprend, que le fait de refuser ou de quitter le lieu d'hébergement proposé ou la région d'orientation mentionnés au 1° du
+présent article ainsi que le non-respect des exigences des autorités chargées de l'asile prévues au 2° entraîne de plein
+droit le refus ou, le cas échéant, le retrait du bénéfice des conditions matérielles d'accueil.
 
 Sans préjudice de l'article L. 345-2-2 du code de l'action sociale et des familles, en cas de refus ou d'abandon de
 l'hébergement proposé en application du premier alinéa du présent article, le demandeur d'asile ne peut être hébergé dans un
 établissement mentionné au 8° du I de l'article L. 312-1 du même code et à l'article L. 322-1 dudit code ou bénéficier de
-l'application de l'article L. 300-1 du code de la construction et de l'habitation. 
+l'application de l'article L. 300-1 du code de la construction et de l'habitation.
 
 Après avis de la Commission nationale de l'informatique et des libertés, un décret en Conseil d'Etat détermine les
 informations qui doivent être fournies par l'Office français de l'immigration et de l'intégration au service intégré
@@ -15598,10 +16094,9 @@ d'accueil et d'orientation pour la mise en œuvre du troisième alinéa du prés
 
 **Nota:**
 
-Conformément à l'article 35 V de la loi n° 2015-925 du 29 juillet 2015, l'article L. 744-7 du code de l'entrée et du séjour
-des étrangers et du droit d'asile dans sa rédaction résultant de la présente loi, s'applique aux demandeurs d'asile dont la
-demande a été enregistrée à compter d'une date fixée par décret en Conseil d'Etat, qui ne peut être postérieure au 1er
-novembre 2015.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -15614,33 +16109,31 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L744-8 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 23
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-6 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
-  - Code de l'action sociale et des familles - art. L312-1 (V)
+  - Code de l'action sociale et des familles - art. L312-1
   - Code de l'action sociale et des familles - art. L322-1
   - Code de l'action sociale et des familles - art. L345-2-2
-  - Code de l'action sociale et des familles - art. L348-1 (VD)
+  - Code de l'action sociale et des familles - art. L348-1
   - Code de la construction et de l'habitation. - art. L300-1
 
 
 ###### Article L744-8
 
-Le bénéfice des conditions matérielles d'accueil peut être :
+Outre les cas, mentionnés à l'article L. 744-7, dans lesquels il est immédiatement mis fin de plein droit au bénéfice des
+conditions matérielles d'accueil, le bénéfice de celles-ci peut être :
 
-1° Suspendu si, sans motif légitime, le demandeur d'asile a abandonné son lieu d'hébergement déterminé en application de
-l'article L. 744-7, n'a pas respecté l'obligation de se présenter aux autorités, n'a pas répondu aux demandes d'informations
-ou ne s'est pas rendu aux entretiens personnels concernant la procédure d'asile ;
+1° Retiré si le demandeur d'asile a dissimulé ses ressources financières, a fourni des informations mensongères relatives à
+sa situation familiale ou a présenté plusieurs demandes d'asile sous des identités différentes, ou en cas de comportement
+violent ou de manquement grave au règlement du lieu d'hébergement ;
 
-2° Retiré si le demandeur d'asile a dissimulé ses ressources financières ou a fourni des informations mensongères relatives à
-sa situation familiale ou en cas de comportement violent ou de manquement grave au règlement du lieu d'hébergement ;
-
-3° Refusé si le demandeur présente une demande de réexamen de sa demande d'asile ou s'il n'a pas sollicité l'asile, sans
+2° Refusé si le demandeur présente une demande de réexamen de sa demande d'asile ou s'il n'a pas sollicité l'asile, sans
 motif légitime, dans le délai prévu au 3° du III de l'article L. 723-2.
 
 L'étranger, présent sur le territoire français, peut introduire une action en paiement dans un délai de deux ans à compter de
@@ -15653,9 +16146,9 @@ observations écrites selon des modalités définies par décret.
 
 **Nota:**
 
-Conformément aux dispositions du I de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, le cinquième alinéa de
-l'article L. 744-8 tel qu'il résulte du e du 7° du I de l'article 13 de ladite loi, s'applique aux demandes déposées
-postérieurement à la date de publication de celle-ci.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019. Elles s'appliquent aux décisions prises
+après cette date.
 
 **Liens relatifs à cet article**
 
@@ -15663,14 +16156,14 @@ _Modifié par_:
 
   - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-7 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
+
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R744-9 (VD)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-7
 
 
 ##### Section 4 : Allocation pour demandeur d'asile<a id=142></a>
@@ -15678,18 +16171,14 @@ _Cite_:
 ###### Article L744-9
 
 Le demandeur d'asile qui a accepté les conditions matérielles d'accueil proposées en application de l'article L. 744-1
-bénéficie d'une allocation pour demandeur d'asile s'il satisfait à des conditions d'âge et de ressources. L'Office français
-de l'immigration et de l'intégration ordonne son versement dans l'attente de la décision définitive lui accordant ou lui
-refusant une protection au titre de l'asile ou jusqu'à son transfert effectif vers un autre Etat responsable de l'examen de
-sa demande d'asile.
+bénéficie d'une allocation pour demandeur d'asile s'il satisfait à des conditions d'âge et de ressources, dont le versement
+est ordonné par l'Office français de l'immigration et de l'intégration.
 
-Le versement de l'allocation prend fin au terme du mois au cours duquel est expiré le délai de recours contre la décision de
-l'Office français de protection des réfugiés et apatrides, a été notifiée la décision de rejet de la Cour nationale du droit
-d'asile ou a pris fin le droit du demandeur à se maintenir sur le territoire français dans les conditions prévues à l'article
-L. 743-2. Pour les personnes qui obtiennent la qualité de réfugié prévue à l'article L. 711-1 ou le bénéfice de la protection
-subsidiaire prévue à l'article L. 712-1, le bénéfice de l'allocation prend fin au terme du mois qui suit celui de la
-notification de la décision. Son montant est revalorisé le 1er avril de chaque année par application du coefficient mentionné
-à l'article L. 161-25 du code de la sécurité sociale.
+Le versement de l'allocation prend fin au terme du mois au cours duquel le droit du demandeur de se maintenir sur le
+territoire français dans les conditions prévues aux articles L. 743-1 et L. 743-2 a pris fin ou à la date du transfert
+effectif vers un autre Etat si sa demande relève de la compétence de cet Etat. Pour les personnes qui obtiennent la qualité
+de réfugié prévue à l'article L. 711-1 ou le bénéfice de la protection subsidiaire prévue à l'article L. 712-1, le bénéfice
+de l'allocation prend fin au terme du mois qui suit celui de la notification de la décision.
 
 L'allocation pour demandeur d'asile est incessible et insaisissable. Pour son remboursement, en cas de versement indu,
 l'Office français de l'immigration et de l'intégration peut procéder à des retenues sur les échéances à venir dues à quelque
@@ -15712,7 +16201,9 @@ calcul et de versement pour tenir compte de la situation particulière des dépa
 
 **Nota:**
 
-
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
 
 **Liens relatifs à cet article**
 
@@ -15739,12 +16230,63 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 147
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-1
+  - Code de l'entrée et du séjour des étrangers et ... - art. L744-1 (VD)
   - Code de la sécurité sociale. - art. L161-25
+
+
+###### Article L744-9-1 
+
+I. - Lorsque le droit au maintien de l'étranger a pris fin en application du 4° bis ou du 7° de l'article L. 743-2 et qu'une
+obligation de quitter le territoire français a été prise à son encontre, l'autorité administrative peut, aux fins du
+traitement rapide et du suivi efficace de sa demande d'asile, l'assigner à résidence selon les modalités prévues aux trois
+derniers alinéas de l'article L. 561-1, pour une durée de quarante-cinq jours renouvelable une fois. Il ne peut être placé en
+rétention que lorsque cela est nécessaire pour déterminer les éléments sur lesquels se fonde sa demande, notamment pour
+prévenir le risque mentionné au 3° du II de l'article L. 511-1 ou lorsque la protection de la sécurité nationale ou de
+l'ordre public l'exige.
+
+Lorsque le juge administratif saisi d'une demande de suspension d'exécution de la mesure d'éloignement en application des
+articles L. 743-3 et L. 743-4 fait droit à cette demande, il est mis fin à l'assignation à résidence ou à la rétention de
+l'étranger, sauf lorsque l'Office français de protection des réfugiés et apatrides a pris une décision de rejet et que la
+demande d'asile de l'intéressé relève du 5° du III de l'article L. 723-2.
+
+L'assignation à résidence ou le placement en rétention s'effectue dans les conditions prévues au livre V. Lorsque ces
+décisions sont prises en application du premier alinéa du présent I, la procédure contentieuse se déroule selon les modalités
+prévues au III de l'article L. 512-1.
+
+II. - Lorsque le droit au maintien de l'étranger a pris fin en application du 4° bis ou du 7° de l'article L. 743-2, le
+bénéfice des conditions matérielles d'accueil prend fin :
+
+1° Lorsque l'étranger n'a pas formé de recours contre l'obligation de quitter le territoire français prise en application du
+6° du I de l'article L. 511-1, au terme du mois au cours duquel a expiré le délai de recours ;
+
+2° Lorsque le juge administratif a rejeté le recours formé par l'étranger contre l'obligation de quitter le territoire
+français prise en application du 6° du I de l'article L. 511-1 ou si le juge administratif, saisi d'une demande de suspension
+d'exécution de la mesure d'éloignement en application des articles L. 743-3 et L. 743-4, n'a pas fait droit à cette demande,
+au terme du mois au cours duquel la décision du juge a été notifiée ;
+
+3° Dans les autres cas, au terme du mois au cours duquel a expiré le délai de recours contre la décision de l'office ou, si
+un recours a été formé, au terme du mois au cours duquel la décision de la Cour nationale du droit d'asile a été lue en
+audience publique ou notifiée s'il est statué par ordonnance.
+
+Un décret définit les conditions dans lesquelles, lorsque le droit au maintien de l'étranger a pris fin en application du 4°
+bis ou du 7° de l'article L. 743-2 ou lorsque l'étranger se voit notifier une décision de transfert prise en application de
+l'article L. 742-3, l'allocation prévue à l'article L. 744-9 peut être adaptée ou remplacée par des aides matérielles.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après
+cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 13 (V)
 
 
 ###### Article L744-10
@@ -15894,35 +16436,59 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
 
 
+###### Article L751-3
+
+Dans l'attente de la fixation définitive de son état civil par l'Office français de protection des réfugiés et apatrides, le
+réfugié ou le bénéficiaire de la protection subsidiaire peut solliciter le bénéfice des droits qui lui sont ouverts en
+application du code du travail, du code de la sécurité sociale, du code de l'action sociale et des familles ou du code de la
+construction et de l'habitation, sur la base de la composition familiale prise en compte dans le cadre de la procédure
+d'asile prévue au titre IV du présent livre.
+
+Un décret fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 14
+
+
 #### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=146></a>
 
 ###### Article L752-1
 
 I.-Sauf si sa présence constitue une menace pour l'ordre public, le ressortissant étranger qui s'est vu reconnaître la
 qualité de réfugié ou qui a obtenu le bénéfice de la protection subsidiaire peut demander à bénéficier de son droit à être
-rejoint, au titre de la réunification familiale : 
+rejoint, au titre de la réunification familiale :
 
 1° Par son conjoint ou le partenaire avec lequel il est lié par une union civile, âgé d'au moins dix-huit ans, si le mariage
-ou l'union civile est antérieur à la date d'introduction de sa demande d'asile ; 
+ou l'union civile est antérieur à la date d'introduction de sa demande d'asile ;
 
 2° Par son concubin, âgé d'au moins dix-huit ans, avec lequel il avait, avant la date d'introduction de sa demande d'asile,
-une vie commune suffisamment stable et continue ; 
+une vie commune suffisamment stable et continue ;
 
-3° Par les enfants non mariés du couple, âgés au plus de dix-neuf ans. 
+3° Par les enfants non mariés du couple, âgés au plus de dix-neuf ans.
 
 Si le réfugié ou le bénéficiaire de la protection subsidiaire est un mineur non marié, il peut demander à bénéficier de son
-droit à être rejoint par ses ascendants directs au premier degré. 
+droit à être rejoint par ses ascendants directs au premier degré, accompagnés le cas échéant par leurs enfants mineurs non
+mariés dont ils ont la charge effective.
 
-L'âge des enfants est apprécié à la date à laquelle la demande de réunification familiale a été introduite. 
+L'âge des enfants est apprécié à la date à laquelle la demande de réunification familiale a été introduite.
 
-II.-Les articles L. 411-2 à L. 411-4 et le premier alinéa de l'article L. 411-7 sont applicables. 
+II.-Les articles L. 411-2 à L. 411-4 et le premier alinéa de l'article L. 411-7 sont applicables.
 
 La réunification familiale n'est pas soumise à des conditions de durée préalable de séjour régulier, de ressources ou de
-logement. 
+logement.
 
 Les membres de la famille d'un réfugié ou d'un bénéficiaire de la protection subsidiaire sollicitent, pour entrer en France,
 un visa d'entrée pour un séjour d'une durée supérieure à trois mois auprès des autorités diplomatiques et consulaires, qui
-statuent sur cette demande dans les meilleurs délais. 
+statuent sur cette demande dans les meilleurs délais.
 
 Pour l'application du troisième alinéa du présent II, ils produisent les actes de l'état civil justifiant de leur identité et
 des liens familiaux avec le réfugié ou le bénéficiaire de la protection subsidiaire. En l'absence d'acte de l'état civil ou
@@ -15930,14 +16496,20 @@ en cas de doute sur leur authenticité, les éléments de possession d'état dé
 documents établis ou authentifiés par l'Office français de protection des réfugiés et apatrides, sur le fondement de
 l'article L. 721-3 du présent code, peuvent permettre de justifier de la situation de famille et de l'identité des
 demandeurs. Les éléments de possession d'état font foi jusqu'à preuve du contraire. Les documents établis par l'office font
-foi jusqu'à inscription de faux. 
+foi jusqu'à inscription de faux.
 
-La réunification familiale ne peut être refusée que si le demandeur ne se conforme pas aux principes essentiels qui,
-conformément aux lois de la République, régissent la vie familiale en France, pays d'accueil. 
+La réunification familiale ne peut être refusée que si le demandeur ou le bénéficiaire ne se conforme pas aux principes
+essentiels qui, conformément aux lois de la République, régissent la vie familiale en France, pays d'accueil.
 
 Est exclu de la réunification familiale un membre de la famille dont la présence en France constituerait une menace pour
 l'ordre public ou lorsqu'il est établi qu'il est instigateur, auteur ou complice des persécutions et atteintes graves qui ont
 justifié l'octroi d'une protection au titre de l'asile.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
+postérieurement à cette dernière.
 
 **Liens relatifs à cet article**
 
@@ -15960,9 +16532,9 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L812-5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R752-1 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 29
+  - Loi n°2018-778 du 10 septembre 2018 - art. 3
 
 _Cite_:
 
@@ -15999,24 +16571,28 @@ _Cité par_:
 Lorsqu'une protection au titre de l'asile a été octroyée à une mineure invoquant un risque de mutilation sexuelle, l'Office
 français de protection des réfugiés et apatrides, tant que ce risque existe et tant que l'intéressée est mineure, lui demande
 de se soumettre à un examen médical visant à constater l'absence de mutilation. L'office transmet au procureur de la
-République tout refus de se soumettre à cet examen ou tout constat de mutilation. 
+République tout refus de se soumettre à cet examen ou tout constat de mutilation.
+
+Le certificat médical, dûment renseigné, est transmis à l'office sans délai par le médecin qui l'a rédigé. Une copie du
+certificat est remise en main propre aux parents ou représentants légaux.
 
 Aucun constat de mutilation sexuelle ne peut entraîner, à lui seul, la cessation de la protection accordée à la mineure au
 titre de l'asile. Il ne peut être mis fin à ladite protection à la demande des parents ou des titulaires de l'autorité
-parentale tant que le risque de mutilation sexuelle existe. 
+parentale tant que le risque de mutilation sexuelle existe.
 
 L'office doit observer un délai minimal de trois ans entre deux examens, sauf s'il existe des motifs réels et sérieux de
-penser qu'une mutilation sexuelle a effectivement été pratiquée ou pourrait être pratiquée. 
+penser qu'une mutilation sexuelle a effectivement été pratiquée ou pourrait être pratiquée.
 
 Un arrêté conjoint des ministres chargés de l'asile et de la santé, pris après avis du directeur général de l'office, définit
 les modalités d'application du présent article et, en particulier, les catégories de médecins qui peuvent pratiquer l'examen
 mentionné au premier alinéa.
 
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2015-925 du 29 juillet 2015 - art. 29
 
 _Cité par_:
 
@@ -16025,6 +16601,10 @@ _Cité par_:
   - Arrêté du 23 août 2017 - art. 3 (V)
   - Arrêté du 23 août 2017 - art. 5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R723-10 (VD)
+
+_Modifié par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 3
 
 
 #### Chapitre III : Documents de voyage<a id=147></a>
@@ -16726,22 +17306,31 @@ _Cite_:
 
 ###### Article L767-1
 
-Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion : 
+I. - Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion :
 
-1° Le 1° du III de l'article L. 723-2 n'est pas applicable ; 
+1° Le 1° du III de l'article L. 723-2 n'est pas applicable ;
 
-2° Au premier alinéa de l'article L. 741-1, les mots : " et procède à la détermination de l'Etat responsable en application
-du règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
+2° Au premier alinéa de l'article L. 741-1, les mots : "et procède à la détermination de l'Etat responsable en application du
+règlement (UE) n° 604/2013 du Parlement européen et du Conseil, du 26 juin 2013, établissant les critères et mécanismes de
 détermination de l'Etat membre responsable de l'examen d'une demande de protection internationale introduite dans l'un des
-Etats membres par un ressortissant de pays tiers ou un apatride " ne sont pas applicables ; 
+Etats membres par un ressortissant de pays tiers ou un apatride" ne sont pas applicables ;
 
 3° Le chapitre II du titre IV n'est pas applicable.
 
+II.-Pour l'application du 3° du III de l'article L. 723-2 en Guyane, le mot : “quatre-vingt-dix” est remplacé par le mot :
+“soixante”.
+
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux demandeurs d'asile entrés sur
+le territoire après cette date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 32
+  - Loi n°2018-778 du 10 septembre 2018 - art. 68
 
 _Cite_:
 
@@ -17034,16 +17623,22 @@ _Cite_:
 
 ###### Article L812-3
 
-L'Office français de protection des réfugiés et apatrides notifie par écrit sa décision au demandeur du statut d'apatride.
-Toute décision de rejet est motivée en fait et en droit et précise les voies et délais de recours. 
+L'Office français de protection des réfugiés et apatrides notifie par écrit sa décision au demandeur du statut d'apatride,
+par tout moyen garantissant la confidentialité et sa réception personnelle par le demandeur. Toute décision de rejet est
+motivée en fait et en droit et précise les voies et délais de recours.
 
 Aucune décision sur une demande de statut d'apatride ne peut naître du silence gardé par l'office.
 
+**Nota:**
+
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 6
+  - Loi n°2018-778 du 10 septembre 2018 - art. 6
 
 
 ###### Article L812-4
@@ -17288,71 +17883,75 @@ _Modifié par_:
 
 ###### Article L832-1
 
-Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes : 
+Les dispositions du présent code sont applicables à Mayotte sous réserve des adaptations suivantes :
 
-1° (Abrogé) 
+1° (Abrogé)
 
-2° (Abrogé) 
+2° (Abrogé)
 
-3° (Abrogé) 
+3° (Abrogé)
 
-4° (Abrogé) 
+4° (Abrogé)
 
-4° bis (Abrogé) 
+4° bis (Abrogé)
 
-4° ter (Abrogé) 
+4° ter (Abrogé)
 
-5° (Abrogé) 
+5° (Abrogé)
 
-6° (Abrogé) 
+6° (Abrogé)
 
-7° (Abrogé) 
+7° (Abrogé)
 
-8° (Abrogé) 
+8° (Abrogé)
 
-9° (Abrogé) 
+9° (Abrogé)
 
-10° (Abrogé) 
+10° (Abrogé)
 
-11° (Abrogé) 
+11° (Abrogé)
 
 12° Aux articles L. 313-4-1 et L. 313-11-1, la référence à l'article L. 815-1 du code de la sécurité sociale est remplacée
-par la référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
+par la référence à l'article 28 de l'ordonnance n° 2002-411 du 27 mars 2002 ;
 
 13° A l'article L. 411-5, la référence à l'article L. 821-1 du code de la sécurité sociale est remplacée par la référence à
-l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 ; 
+l'article 35 de l'ordonnance n° 2002-411 du 27 mars 2002 ;
 
 14° Aux articles L. 222-6, L. 552-9 et L. 552-10, la référence à la " cour d'appel " est remplacée par la référence à la "
-chambre d'appel de Mamoudzou " ; 
+chambre d'appel de Mamoudzou " ;
 
 15° La formation linguistique mentionnée au 2° de l'article L. 311-9 et le niveau relatif à la connaissance de la langue
 française mentionné à l'article L. 314-2 font l'objet, dans des conditions fixées par décret en Conseil d'Etat, d'une mise en
-œuvre progressive ; (1) 
+œuvre progressive ;
 
 16° La carte de séjour prévue au 11° de l'article L. 313-11 est délivrée, après avis médical, selon une procédure définie par
 décret en Conseil d'Etat. Ce décret précise les conditions dans lesquelles le collège médical, qui comprend un médecin de
 l'Office français de l'immigration et de l'intégration exerçant dans le département, peut délibérer au moyen d'une conférence
-téléphonique ou audiovisuelle ; 
+téléphonique ou audiovisuelle ;
 
-17° (Abrogé) 
+17° (Abrogé)
 
 18° A la seconde phrase du premier alinéa du III de l'article L. 512-1, au premier alinéa de l'article L. 551-1, à la
 première phrase de l'article L. 552-1, à l'article L. 552-3, au premier alinéa de l'article L. 552-7 et à la dernière phrase
-du premier alinéa de l'article L. 555-1, les mots : “ quarante-huit heures ” sont remplacés par les mots : “ cinq jours ” ; 
+du premier alinéa de l'article L. 555-1, les mots : “ quarante-huit heures ” sont remplacés par les mots : “ cinq jours ” ;
+
+18° bis A la deuxième phrase du premier alinéa de l'article L. 552-1, le mot : “ quarante-huit ” est remplacé par le mot : “
+vingt-quatre ” ;
 
 19° Aux premier, deuxième et troisième alinéas de l'article L. 552-7, les mots : “ vingt-huit jours ” sont remplacés par les
 mots : “ vingt-cinq jours ”.
 
 **Nota:**
 
-(1) Conformément à l'article 67 IV de la loi n° 2016-274 du 7 mars 2016, les dispositions du 15° de l'article L832-1 entrent
-en vigueur à Mayotte le 1er janvier 2018.
+Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions entrent en vigueur à une
+date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et s'appliquent aux décisions prises après cette
+date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 17
+  - Loi n°2018-778 du 10 septembre 2018 - art. 68
 
 _Cite_:
 
