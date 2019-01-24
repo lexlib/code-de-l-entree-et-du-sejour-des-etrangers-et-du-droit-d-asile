@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-01-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -415,9 +415,9 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#272)
             - [Sous-section 7 : Question prioritaire de constitutionnalité (art. R*733-34-1 à R*733-34-8)](#411)
             - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#412)
           - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#413)
-      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1 à R744-52)](#414)
-        - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1 à R741-7)](#415)
-        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R*742-1 à R742-5)](#416)
+      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1-1 à R744-52)](#414)
+        - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1-1 à R741-7)](#415)
+        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R742-1 à R742-5)](#416)
         - [Chapitre III : Droit au maintien sur le territoire français (art. R743-1 à R743-5)](#417)
         - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à R744-52)](#418)
           - [Section 1 : Dispositif national d'accueil (art. R744-1 à R744-13-4)](#419)
@@ -425,50 +425,46 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#272)
             - [Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile (art. R744-5 à R744-13)](#421)
             - [Sous-section 3 : Orientation directive (art. R744-13-1 à R744-13-4)](#422)
           - [Section 2 : Evaluation des besoins (art. R744-14)](#423)
-          - [Section 3 : Allocation pour demandeur d'asile (art. D744-17 à D744-44)](#424)
+          - [Section 3 : Conditions matérielles d'accueil (art. D744-17 à D744-44)](#424)
             - [Sous-section 1 : Conditions d'attribution (art. D744-17 à D744-30)](#425)
-            - [Sous-section 2 : Gestion et versement (art.  à D744-30)](#426)
+            - [Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile (art. D744-31 à D744-40)](#426)
             - [Sous-section 3 : Communication d'informations (art. D744-41 à D744-44)](#427)
-          - [Section 3 : Conditions matérielles d'accueil (art.  à D744-40)](#428)
-            - [Sous-section 1 : Conditions d'attribution (art.  à D744-44)](#429)
-            - [Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile (art. D744-31 à D744-40)](#430)
-            - [Sous-section 3 : Communication d'informations (art.  à D744-40)](#431)
-          - [Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile (art. R744-45 à R744-52)](#432)
-      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. D751-1 à R754-1)](#433)
-        - [Chapitre Ier : Information et accès aux droits (art. D751-1)](#434)
-        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#435)
-        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#436)
-        - [Chapitre IV : Dispositions diverses (art. R754-1)](#437)
-      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#438)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#439)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R* 762-2 à R762-1)](#440)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. R* 763-2 à R763-1)](#441)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R* 764-2 à R764-1)](#442)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#443)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-4)](#444)
-        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#445)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#446)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#447)
-        - [Chapitre unique (art. R811-1 à R811-16)](#448)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#449)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#450)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#451)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#452)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#453)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#454)
-      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#455)
-        - [Chapitre unique (art. R812-1 à R812-7)](#456)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#457)
-      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#458)
-        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#459)
-        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#460)
-        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#461)
-  - [Annexes (art. Annexe 6.3 à Annexe 7-2)](#462)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#463)
-    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#464)
-    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#465)
-    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#466)
-    - [Annexe 7-2 (mentionnée à l'article R744-46) (art. Annexe 7-2)](#467)
+          - [Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile (art. R744-45 à R744-52)](#428)
+      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. D751-1 à R754-1)](#429)
+        - [Chapitre Ier : Information et accès aux droits (art. D751-1)](#430)
+        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#431)
+        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#432)
+        - [Chapitre IV : Dispositions diverses (art. R754-1)](#433)
+      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#434)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#435)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R762-1 à R762-2)](#436)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. R763-1 à R763-2)](#437)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R764-1 à R764-2)](#438)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#439)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-5)](#440)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#441)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#442)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#443)
+        - [Chapitre unique (art. R811-1 à R811-16)](#444)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#445)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#446)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#447)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#448)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#449)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#450)
+      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#451)
+        - [Chapitre unique (art. R812-1 à R812-7)](#452)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#453)
+      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#454)
+        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#455)
+        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#456)
+        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#457)
+  - [Annexes (art. Annexe 6.3 à Annexe 7-2)](#458)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#459)
+    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#460)
+    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#461)
+    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#462)
+    - [Annexe 7-2 (mentionnée à l'article R744-46) (art. Annexe 7-2)](#463)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -36739,17 +36735,49 @@ _Cite_:
 
 #### Chapitre Ier : Enregistrement de la demande d'asile<a id=415></a>
 
-###### Article R*741-1
+###### Article R*741-1-1
 
-I.-Lorsqu'un étranger, se trouvant à l'intérieur du territoire français, demande à bénéficier de l'asile, l'enregistrement de
-sa demande relève du préfet de département et, à Paris, du préfet de police. 
-
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
-département et, à Paris, au préfet de police pour exercer cette mission dans plusieurs départements. 
-
-II.-Par dérogation aux dispositions du I du présent article, lorsqu'un étranger, placé en rétention administrative, demande à
+Par dérogation aux dispositions de l'article R. 741-1, lorsqu'un étranger, placé en rétention administrative, demande à
 bénéficier de l'asile, l'enregistrement de sa demande relève du préfet qui a ordonné le placement en rétention administrative
 de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 3
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R* 766-3 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R741-1 (V)
+
+
+###### Article R*741-4-1
+
+En application de l'article L. 231-5 du code des relations entre le public et l'administration, le silence gardé par
+l'administration sur les demandes formées sur le fondement de l'article R. 741-4 vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 5
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
+  - Code des relations entre le public et l'administration - art. L231-5
+
+
+###### Article R741-1
+
+Sans préjudice du second alinéa de l'article 11-1 du décret n° 2004-374 du 29 avril 2004, lorsqu'un étranger, se trouvant à
+l'intérieur du territoire français, demande à bénéficier de l'asile, l'enregistrement de sa demande relève du préfet de
+département et, à Paris, du préfet de police.
 
 **Liens relatifs à cet article**
 
@@ -36758,13 +36786,14 @@ _Cité par_:
   - Décret n°2004-374 du 29 avril 2004 - art. 11-1 (M)
   - Décret n°2015-614 du 4 juin 2015 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R* 766-3 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R*741-1-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-2 (V)
 
 _Modifié par_:
 
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 1
+  - Décret n°2019-38 du 23 janvier 2019 - art. 3
 
 
 ###### Article R741-2
@@ -36980,19 +37009,19 @@ _Cite_:
 
 #### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=416></a>
 
-###### Article R*742-1
+###### Article R742-1
 
-L'autorité compétente pour procéder à la détermination de l'Etat responsable de l'examen d'une demande d'asile, assigner à
-résidence un demandeur d'asile en application de l'article L. 742-2 et prendre une décision de transfert en application de
-l'article L. 742-3 est le préfet de département et, à Paris, le préfet de police. 
+Sans préjudice du second alinéa de l'article 11-1 du décret n° 2004-374 du 29 avril 2004, l'autorité compétente pour
+renouveler l'attestation de demande d'asile en application de l'article L. 742-1, procéder à la détermination de l'Etat
+responsable de l'examen d'une demande d'asile, assigner à résidence un demandeur d'asile en application du 1° bis du I de
+l'article L. 561-2 et prendre une décision de transfert en application de l'article L. 742-3 est le préfet de département et,
+à Paris, le préfet de police. 
 
 La même autorité est compétente pour faire conduire l'étranger assigné à résidence en vue d'assurer sa présentation aux
 convocations de l'autorité administrative et aux entretiens prévus dans le cadre de la procédure de détermination de l'Etat
 responsable de la demande d'asile et pour saisir le juge des libertés et de la détention aux fins de requérir les services de
-police ou les unités de gendarmerie en application des quatrième et cinquième alinéas de l'article L. 742-2.
-
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'asile peut donner compétence à un préfet de
-département et, à Paris, au préfet de police pour exercer ces missions dans plusieurs départements.
+police ou les unités de gendarmerie en application du II de l'article L. 561-2 et des deuxième et troisième alinéas de
+l'article L. 742-2.
 
 **Liens relatifs à cet article**
 
@@ -37024,10 +37053,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 17
+  - Décret n°2019-38 du 23 janvier 2019 - art. 4
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-3
 
@@ -37866,7 +37897,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
 
 
-##### Section 3 : Allocation pour demandeur d'asile<a id=424></a>
+##### Section 3 : Conditions matérielles d'accueil<a id=424></a>
 
 ##### Sous-section 1 : Conditions d'attribution<a id=425></a>
 
@@ -38158,89 +38189,7 @@ _Créé par_:
   - Décret n°2015-1329 du 21 octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Gestion et versement<a id=426></a>
-
-##### Sous-section 3 : Communication d'informations<a id=427></a>
-
-###### Article D744-41
-
-L'Office français de l'immigration et de l'intégration communique, mensuellement, à l'Agence de services et de paiement :
-
-1° La liste nominative des personnes bénéficiaires de l'allocation ;
-
-2° Les éléments propres à identifier les allocataires : sexe, nom, prénom, date de naissance, adresse associée au dossier le
-cas échéant, ainsi que les numéros de dossier attribués aux allocataires dans le traitement automatisé de l'Office français
-de l'immigration et de l'intégration ayant pour objet d'assurer la gestion et le pilotage du dispositif des centres d'accueil
-des demandeurs d'asile et dans l'application de gestion des dossiers des ressortissants étrangers en France ;
-
-3° Le montant de l'allocation à verser et le numéro de carte de retrait ou, le cas échéant les coordonnées bancaires des
-allocataires.
-
-Chaque transmission d'informations de l'Office français de l'immigration et de l'intégration à l'Agence de services et de
-paiement donne lieu à un flux de retour vers l'office, pour confirmer la bonne intégration des données. Une fois les fonds et
-l'ordre d'alimentation reçus de l'office, l'Agence de services et de paiement réalise soit le virement des fonds sur les
-comptes bancaires des bénéficiaires, soit l'ordre d'alimentation des cartes de retrait délivrées aux allocataires par
-l'office.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. D744-33 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
-
-
-###### Article D744-42
-
-L'Office français de protection des réfugiés et apatrides communique, sans délai, à l'Office français de l'immigration et de
-l'intégration les informations suivantes : la date d'introduction de la demande d'asile, la procédure suivie, la date de la
-décision de clôture ou d'irrecevabilité, la date et le sens de la décision définitive prise par l'Office français de
-protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile ainsi que la date de sa
-notification.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-430 du 29 mars 2017 - art. 4
-
-
-###### Article D744-43
-
-Le préfet transmet sans délai à l'Office français de l'immigration et de l'intégration les informations relatives à la durée
-de validité des attestations de demande d'asile ainsi que l'état d'avancement des procédures de détermination de l'Etat
-responsable de l'examen de la demande d'asile et de transfert, en particulier les dates de fuite ou de transfert effectif des
-intéressés.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
-
-
-###### Article D744-44
-
-La direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi indique
-mensuellement à l'Office français de l'immigration et de l'intégration les bénéficiaires de l'allocation disposant d'un
-contrat de travail.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
-
-
-##### Section 3 : Conditions matérielles d'accueil<a id=428></a>
-
-##### Sous-section 1 : Conditions d'attribution<a id=429></a>
-
-##### Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile<a id=430></a>
+##### Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile<a id=426></a>
 
 ###### Article D744-31
 
@@ -38494,9 +38443,83 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
 
 
-##### Sous-section 3 : Communication d'informations<a id=431></a>
+##### Sous-section 3 : Communication d'informations<a id=427></a>
 
-##### Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile<a id=432></a>
+###### Article D744-41
+
+L'Office français de l'immigration et de l'intégration communique, mensuellement, à l'Agence de services et de paiement :
+
+1° La liste nominative des personnes bénéficiaires de l'allocation ;
+
+2° Les éléments propres à identifier les allocataires : sexe, nom, prénom, date de naissance, adresse associée au dossier le
+cas échéant, ainsi que les numéros de dossier attribués aux allocataires dans le traitement automatisé de l'Office français
+de l'immigration et de l'intégration ayant pour objet d'assurer la gestion et le pilotage du dispositif des centres d'accueil
+des demandeurs d'asile et dans l'application de gestion des dossiers des ressortissants étrangers en France ;
+
+3° Le montant de l'allocation à verser et le numéro de carte de retrait ou, le cas échéant les coordonnées bancaires des
+allocataires.
+
+Chaque transmission d'informations de l'Office français de l'immigration et de l'intégration à l'Agence de services et de
+paiement donne lieu à un flux de retour vers l'office, pour confirmer la bonne intégration des données. Une fois les fonds et
+l'ordre d'alimentation reçus de l'office, l'Agence de services et de paiement réalise soit le virement des fonds sur les
+comptes bancaires des bénéficiaires, soit l'ordre d'alimentation des cartes de retrait délivrées aux allocataires par
+l'office.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. D744-33 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R744-48 (V)
+
+
+###### Article D744-42
+
+L'Office français de protection des réfugiés et apatrides communique, sans délai, à l'Office français de l'immigration et de
+l'intégration les informations suivantes : la date d'introduction de la demande d'asile, la procédure suivie, la date de la
+décision de clôture ou d'irrecevabilité, la date et le sens de la décision définitive prise par l'Office français de
+protection des réfugiés et apatrides ou la Cour nationale du droit d'asile sur la demande d'asile ainsi que la date de sa
+notification.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-430 du 29 mars 2017 - art. 4
+
+
+###### Article D744-43
+
+Le préfet transmet sans délai à l'Office français de l'immigration et de l'intégration les informations relatives à la durée
+de validité des attestations de demande d'asile ainsi que l'état d'avancement des procédures de détermination de l'Etat
+responsable de l'examen de la demande d'asile et de transfert, en particulier les dates de fuite ou de transfert effectif des
+intéressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+###### Article D744-44
+
+La direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi indique
+mensuellement à l'Office français de l'immigration et de l'intégration les bénéficiaires de l'allocation disposant d'un
+contrat de travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1329 du 21 octobre 2015 - art. 1
+
+
+##### Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile<a id=428></a>
 
 ###### Article R744-45
 
@@ -38725,9 +38748,9 @@ _Créé par_:
   - Décret n°2017-665 du 27 avril 2017 - art. 1
 
 
-### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=433></a>
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=429></a>
 
-#### Chapitre Ier : Information et accès aux droits<a id=434></a>
+#### Chapitre Ier : Information et accès aux droits<a id=430></a>
 
 ###### Article D751-1
 
@@ -38766,7 +38789,7 @@ _Cite_:
   - titre IV du livre VII du code de l'entrée et du séjour des étrangers et du droit d'asile
 
 
-#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=435></a>
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=431></a>
 
 ###### Article R752-1
 
@@ -38837,7 +38860,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-#### Chapitre III : Documents de voyage<a id=436></a>
+#### Chapitre III : Documents de voyage<a id=432></a>
 
 ###### Article R753-1
 
@@ -38952,7 +38975,7 @@ _Créé par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 
-#### Chapitre IV : Dispositions diverses<a id=437></a>
+#### Chapitre IV : Dispositions diverses<a id=433></a>
 
 ###### Article R754-1
 
@@ -38968,9 +38991,9 @@ _Créé par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 20
 
 
-### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=438></a>
+### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=434></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=439></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=435></a>
 
 ###### Article D761-3
 
@@ -38983,30 +39006,9 @@ _Créé par_:
   - Décret n°2015-1329 du 21 octobre 2015 - art. 4
 
 
-###### Article R*761-2
-
-L'article R. * 742-1 n'est pas applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2019-38 du 23 janvier 2019 - art. 6
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
-
-
 ###### Article R761-1
 
-Pour l'application du présent livre à Mayotte : 
-
-1° Les articles R. 742-2 à R. 742-5 ne sont pas applicables.
+Les articles R. 742-1 à R. 742-5 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -39016,36 +39018,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 39
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=440></a>
-
-###### Article R* 762-2
-
-Le premier alinéa du I de l'article R. * 741-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du
-décret n° 2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande
-d'asile et pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
-
-Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérieur du territoire français" sont remplacés par
-les mots : "dans les îles Wallis et Futuna" et les mots : "préfet du département" sont remplacés par les mots :
-"administrateur supérieur des îles Wallis et Futuna".
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2010-687 du 24 juin 2010
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
-
-_Modifié par_:
-
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
-
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=436></a>
 
 ###### Article R762-1
 
@@ -39215,29 +39195,28 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R753-2
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=441></a>
+###### Article R762-2
 
-###### Article R* 763-2
+L'article R. 741-1 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret 2019-38 du 23 janvier
+2019. 
 
-Le premier alinéa du I de l'article R. * 741-1 est applicable en Polynésie française dans sa rédaction résultant du décret n°
-2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et
-pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
-
-Pour son application en Polynésie française, les mots : " à l'intérieur du territoire français " sont remplacés par les
-mots : " en Polynésie française " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de
-la République en Polynésie française ".
+Pour son application dans les îles Wallis et Futuna, les mots : " à l'intérieur du territoire français " sont remplacés par
+les mots : " dans les îles Wallis et Futuna " et les mots : " préfet du département " sont remplacés par les mots : "
+administrateur supérieur des îles Wallis et Futuna ".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2015-1177 du 24 septembre 2015
+  - Décret n°2019-38 du 23 janvier 2019
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
 
 _Modifié par_:
 
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
+
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=437></a>
 
 ###### Article R763-1
 
@@ -39403,29 +39382,28 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R753-2
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=442></a>
+###### Article R763-2
 
-###### Article R* 764-2
+L'article R. 741-1 est applicable en Polynésie française dans sa rédaction résultant du décret n° 2019-38 du 23 janvier
+2019. 
 
-Le premier alinéa du I de l'article R. * 741-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n°
-2015-1177 du 24 septembre 2015 relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et
-pour procéder à la détermination de l'Etat responsable de l'examen de cette demande. 
-
-Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du territoire français " sont remplacés par les mots :
-" en Nouvelle-Calédonie " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la
-République en Nouvelle-Calédonie ".
+Pour son application en Polynésie française, les mots : " à l'intérieur du territoire français " sont remplacés par les
+mots : " en Polynésie française " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de
+la République en Polynésie française ".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2015-1177 du 24 septembre 2015
+  - Décret n°2019-38 du 23 janvier 2019
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
 
 _Modifié par_:
 
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
+
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=438></a>
 
 ###### Article R764-1
 
@@ -39593,7 +39571,27 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R753-2
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=443></a>
+###### Article R764-2
+
+L'article R. 741-1 est applicable en Nouvelle-Calédonie dans sa rédaction résultant du décret n° 2019-38 du 23 janvier 2019. 
+
+Pour son application en Nouvelle-Calédonie, les mots : " à l'intérieur du territoire français " sont remplacés par les mots :
+" en Nouvelle-Calédonie " et les mots : " préfet du département " sont remplacés par les mots : " haut-commissaire de la
+République en Nouvelle-Calédonie ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2019-38 du 23 janvier 2019
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
+
+_Modifié par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
+
+
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=439></a>
 
 ###### Article R765-1
 
@@ -39636,7 +39634,7 @@ _Modifié par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=444></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=440></a>
 
 ###### Article D766-1-1
 
@@ -39690,10 +39688,8 @@ _Cite_:
 
 ###### Article R* 766-3
 
-Le présent livre, à l'exception du second alinéa du I et du II de l'article R. * 741-1 et de l'article R. * 742-1, est
-applicable à Saint-Barthélemy et à Saint-Martin dans sa rédaction résultant du décret n° 2015-1177 du 24 septembre 2015
-relatif à la compétence du préfet pour statuer sur l'enregistrement de la demande d'asile et pour procéder à la détermination
-de l'Etat responsable de l'examen de cette demande. 
+Le présent livre, à l'exception de l'article R. * 741-1-1 est applicable à Saint-Barthélemy et à Saint-Martin dans sa
+rédaction résultant du décret n° 2019-38 du 23 janvier 2019. 
 
 Pour son application à Saint-Barthélemy et à Saint-Martin, les mots : " à l'intérieur du territoire français " sont remplacés
 par les mots : " sur le territoire de Saint-Barthélemy " ou " sur le territoire de Saint-Martin " et les mots : " préfet de
@@ -39705,29 +39701,14 @@ _Cité par_:
 
   - Décret n°2009-906 du 24 juillet 2009 - art. 1-1 (VD)
 
+_Cite_:
+
+  - Décret n°2019-38 du 23 janvier 2019
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*741-1-1
+
 _Modifié par_:
 
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
-
-
-###### Article R*766-5
-
-L'article R. * 742-1 n'est pas applicable à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
 
 ###### Article R766-1
@@ -39813,7 +39794,22 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R741-4
 
 
-#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=445></a>
+###### Article R766-5
+
+L'article R. 742-1 n'est pas applicable à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-38 du 23 janvier 2019 - art. 6
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
+
+
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=441></a>
 
 ###### Article D767-3
 
@@ -39832,17 +39828,13 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. D744-26
 
 
-###### Article R*767-2
+###### Article R767-1
 
-L'article R. * 742-1 n'est pas applicable à la Guadeloupe, en Guyane, à la Martinique et à La Réunion.
+Les articles R. 742-1 à R. 742-5 ne sont pas applicables en Guadeloupe, en Guyane, en Martinique et à La Réunion.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2015-1177 du 24 septembre 2015 - art. 3
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
@@ -39851,30 +39843,13 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-###### Article R767-1
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=442></a>
 
-Pour l'application du présent livre en Guadeloupe, en Guyane, en Martinique et à La Réunion : 
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=443></a>
 
-1° Les articles R. 742-2 à R. 742-5 ne sont pas applicables.
+#### Chapitre unique<a id=444></a>
 
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 39
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-2
-
-
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=446></a>
-
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=447></a>
-
-#### Chapitre unique<a id=448></a>
-
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=449></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=445></a>
 
 ###### Article R811-1
 
@@ -39999,9 +39974,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=450></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=446></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=451></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=447></a>
 
 ###### Article R811-5
 
@@ -40109,7 +40084,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=452></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=448></a>
 
 ###### Article R811-10
 
@@ -40177,7 +40152,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=453></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=449></a>
 
 ###### Article R811-13
 
@@ -40231,7 +40206,7 @@ _Modifié par_:
   - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=454></a>
+##### Section 3 : Dispositions diverses<a id=450></a>
 
 ###### Article R811-15
 
@@ -40287,9 +40262,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=455></a>
+### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=451></a>
 
-#### Chapitre unique<a id=456></a>
+#### Chapitre unique<a id=452></a>
 
 ###### Article R812-1
 
@@ -40431,7 +40406,7 @@ _Modifié par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 22 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=457></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=453></a>
 
 ###### Article R821-1
 
@@ -40449,9 +40424,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=458></a>
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=454></a>
 
-#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=459></a>
+#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=455></a>
 
 ###### Article R831-1
 
@@ -40473,7 +40448,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
 
 
-#### Chapitre II : Mayotte<a id=460></a>
+#### Chapitre II : Mayotte<a id=456></a>
 
 ###### Article R832-1
 
@@ -40629,7 +40604,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
 
 
-#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=461></a>
+#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=457></a>
 
 ###### Article R833-1
 
@@ -40685,9 +40660,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-75 (V)
 
 
-# Annexes<a id=462></a>
+# Annexes<a id=458></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=463></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=459></a>
 
 ###### Article Annexe 6.3
 
@@ -40775,7 +40750,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=464></a>
+## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=460></a>
 
 ###### Article Annexe 6-4
 
@@ -41169,7 +41144,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
 
 
-## Annexe 6-8 mentionnée à l'article R. 611-36<a id=465></a>
+## Annexe 6-8 mentionnée à l'article R. 611-36<a id=461></a>
 
 ###### Article Annexe 6-8
 
@@ -41250,7 +41225,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
 
 
-## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=466></a>
+## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=462></a>
 
 ###### Article Annexe 7-1
 
@@ -41467,7 +41442,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D744-26 (V)
 
 
-## Annexe 7-2 (mentionnée à l'article R744-46)<a id=467></a>
+## Annexe 7-2 (mentionnée à l'article R744-46)<a id=463></a>
 
 ###### Article Annexe 7-2
 
