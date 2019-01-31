@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-01-25
+Version Consolidée au 2019-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -11691,6 +11691,44 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-8 (V)
   - Code de l'entrée et du séjour des étrangers et du  - art. R611-11 (M)
   - Code de la sécurité intérieure - art. L222-1 (V)
+
+
+###### Article L611-6-1
+
+Afin de mieux garantir la protection de l'enfance et de lutter contre l'entrée et le séjour irréguliers des étrangers en
+France, les empreintes digitales ainsi qu'une photographie des ressortissants étrangers se déclarant mineurs privés
+temporairement ou définitivement de la protection de leur famille peuvent être relevées, mémorisées et faire l'objet d'un
+traitement automatisé dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+Le traitement de données ne comporte pas de dispositif de reconnaissance faciale à partir de la photographie.
+
+Les données peuvent être relevées dès que la personne se déclare mineure. La conservation des données des personnes reconnues
+mineures est limitée à la durée strictement nécessaire à leur prise en charge et à leur orientation, en tenant compte de leur
+situation personnelle.
+
+Un décret en Conseil d'Etat, pris après avis publié et motivé de la Commission nationale de l'informatique et des libertés,
+fixe les modalités d'application du présent article. Il précise la durée de conservation des données enregistrées et les
+conditions de leur mise à jour, les catégories de personnes pouvant y accéder ou en être destinataires ainsi que les
+modalités d'exercice des droits des personnes concernées.
+
+**Nota:**
+
+Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
+à une date fixée par décret en Conseil d'Etat, et au plus tard le 1er mars 2019.
+
+Conformément à l'article 6 du décret n° 2019-57 du 30 janvier 2019, les dispositions issues de l'article 51 de la loi n°
+2018-778 du 10 septembre 2018 entrent en vigueur le lendemain de la publication dudit décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-778 du 10 septembre 2018 - art. 51
+
+_Cité par_:
+
+  - Décret n°2019-57 du 30 janvier 2019 (V)
 
 
 ###### Article L611-7
@@ -32477,28 +32515,30 @@ _Cite_:
 ###### Article R611-1
 
 Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé AGDREF2 (Application de gestion
-des dossiers des ressortissants étrangers en France), relevant du ministre chargé de l'immigration. 
+des dossiers des ressortissants étrangers en France), relevant du ministre chargé de l'immigration.
 
 Ce traitement a pour finalités de garantir le droit au séjour des ressortissants étrangers en situation régulière et de
-lutter contre l'entrée et le séjour irréguliers en France des ressortissants étrangers et, à cet effet : 
+lutter contre l'entrée et le séjour irréguliers en France des ressortissants étrangers et, à cet effet :
 
 1° De permettre aux services centraux et locaux du ministère dont relève le traitement d'assurer l'instruction des demandes
 et la fabrication des titres de séjour des ressortissants étrangers, de leurs titres de voyage et des documents de
-circulation délivrés aux ressortissants étrangers, ainsi que la gestion de leurs dossiers respectifs ; 
+circulation délivrés aux ressortissants étrangers, ainsi que la gestion de leurs dossiers respectifs ;
 
 2° De mieux coordonner l'action des services chargés de mettre en œuvre des procédures intéressant les ressortissants
-étrangers ; 
+étrangers ;
 
 3° D'améliorer les conditions de vérification de l'authenticité des titres de séjour et celles de l'identité des étrangers en
-situation irrégulière ; 
+situation irrégulière ;
 
-4° De permettre la gestion des différentes étapes de la procédure applicable aux mesures d'éloignement ; 
+4° De permettre la gestion des différentes étapes de la procédure applicable aux mesures d'éloignement ;
 
 5° D'établir des statistiques en matière de séjour et d'éloignement des ressortissants étrangers.
 
-6°  D'aider à déterminer et de permettre de vérifier l'identité d'un  étranger qui présente une demande d'asile en
-Guadeloupe, en Guyane, en  Martinique, à Mayotte, à La Réunion, à Saint-Martin, à Saint-Barthélemy  et à Saint-Pierre-et-
-Miquelon. 
+6° D'aider à déterminer et de permettre de vérifier l'identité d'un étranger qui présente une demande d'asile en Guadeloupe,
+en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Martin, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon.
+
+6° bis D'aider à déterminer et de permettre de vérifier l'identité d'un étranger qui se déclare mineur et privé
+temporairement ou définitivement de la protection de sa famille.
 
 Le traitement peut être consulté et mis en relation avec d'autres traitements concernant les procédures intéressant les
 ressortissants étrangers.
@@ -32528,7 +32568,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 32
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 
 ##### Sous-section 2 : Données enregistrées dans le traitement<a id=363></a>
@@ -32601,9 +32641,10 @@ direction des libertés publiques et des affaires juridiques, délégation gén�
 (direction des Français à l'étranger et de l'administration consulaire), du budget (direction générale des douanes et droits
 indirects), individuellement désignés et spécialement habilités par le directeur ou le chef de service dont ils relèvent ; 
 
-2° Les agents chargés de l'application de la réglementation des étrangers, ainsi que de celle relative à l'accès à la
-nationalité française, dans les préfectures et les sous-préfectures, individuellement désignés et spécialement habilités par
-le préfet et, à Paris, par le préfet de police ; 
+2° Les agents chargés de l'application de la réglementation des étrangers, y compris dans le cadre de la procédure
+d'évaluation prévue par l'article R. 221-11 du code de l'action sociale et des familles, ainsi que de celle relative à
+l'accès à la nationalité française, dans les préfectures et les sous-préfectures, individuellement désignés et spécialement
+habilités par le préfet et, à Paris, par le préfet de police ; 
 
 3° Les agents des missions diplomatiques et des postes consulaires chargés des visas, individuellement désignés et
 spécialement habilités par le chef de la mission ou par le chef de poste dont ils relèvent ; 
@@ -32635,7 +32676,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-47 du 21 janvier 2014 - art. 2
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 _Cite_:
 
@@ -32643,6 +32684,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R321-22
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
+  - Code de l'action sociale et des familles - art. R221-11
 
 
 ##### Sous-section 4 : Accès aux données en consultation<a id=365></a>
@@ -32651,11 +32693,11 @@ _Cite_:
 
 Pour les besoins exclusifs des missions énumérées ci-après, peuvent consulter les données pertinentes enregistrées dans le
 traitement automatisé prévu à l'article R. 611-1 et dans le composant électronique prévu aux articles R. 311-13-1 et R.
-321-22, à l'exclusion des images numérisées des empreintes digitales :
+321-22, à l'exclusion des images numérisées des empreintes digitales : 
 
 1° Au titre de la délivrance des autorisations de travail, les agents des directions régionales des entreprises, de la
 concurrence, de la consommation, du travail et de l'emploi individuellement désignés et spécialement habilités par le
-directeur régional ;
+directeur régional ; 
 
 2° Au titre de la lutte contre le travail illégal, et notamment de l'interdiction de l'emploi d'étrangers sans titre de
 travail prévue à l'article L. 8251-1 du code du travail, et en application de l'article L. 8271-19 du même code, les
@@ -32665,15 +32707,15 @@ consommation, du travail et de l'emploi, ainsi qu'en application de l'article L.
 agents de police judiciaire de la police nationale et de la gendarmerie nationale, et les agents des douanes,
 individuellement désignés et spécialement habilités respectivement par le directeur général de la police nationale, le
 directeur général de la gendarmerie nationale et le directeur régional des douanes ou, le cas échéant, le directeur général
-des douanes et droits indirects ;
+des douanes et droits indirects ; 
 
 3° Au titre de l'accueil des étrangers, de l'intégration, de l'aide au retour et en matière de contribution spéciale et de
 contribution forfaitaire représentative des frais de réacheminement, les agents de l'Office français de l'immigration et de
-l'intégration, individuellement désignés et spécialement habilités par leur directeur général ;
+l'intégration, individuellement désignés et spécialement habilités par leur directeur général ; 
 
 4° Au titre du traitement des demandes d'asile ou du statut d'apatride et de la protection des réfugiés, les agents de
 l'Office français de protection des réfugiés et apatrides, individuellement désignés et spécialement habilités par leur
-directeur général ;
+directeur général ; 
 
 5° Au titre de la lutte contre la fraude documentaire, les personnels de la mission " délivrance sécurisée des titres " au
 sein du secrétariat général du ministère de l'intérieur, individuellement désignés et spécialement habilités par le
@@ -32683,26 +32725,26 @@ l'Institut national de police scientifique, de l'identité judiciaire de la poli
 criminelle de la gendarmerie nationale et les personnels du bureau de la fraude documentaire de la direction centrale de la
 police aux frontières, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la
 police nationale et le directeur général de la gendarmerie nationale ou par les personnels appartenant à la catégorie A ou
-ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et auxquels ils ont donné délégation ;
+ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et auxquels ils ont donné délégation ; 
 
-6° Aux seules fins de l'accomplissement des vérifications prévues ci-après :
+6° Aux seules fins de l'accomplissement des vérifications prévues ci-après : 
 
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le
 versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités
 respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la
 condition de régularité de leur situation en France prévue par les articles L. 115-6, 
-L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1 , L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
-l'article L. 262-4 du code de l'action sociale et des familles ;
+L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
+l'article L. 262-4 du code de l'action sociale et des familles ; 
 
 b) Pôle emploi, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, la validité des titres
 de séjour et de travail des étrangers tant pour leur inscription que pour leur maintien sur la liste des demandeurs
-d'emploi ;
+d'emploi ; 
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le
 préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de
-conduire ;
+conduire ; 
 
-7° Au titre :
+7° Au titre : 
 
 a) Du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du
 titre de séjour, dans les conditions prévues aux articles L. 611-1 et L. 611-1-1 du présent code et aux articles 78-2 et 78-3
@@ -32715,28 +32757,28 @@ judiciaire, individuellement désignés et spécialement habilités, respectivem
 nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le
 rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des
 douanes ou, le cas échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article
-28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ;
+28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ; 
 
 b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les officiers de police judiciaire de la police ou de
 la gendarmerie nationales et, sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire individuellement
-désignés et spécialement habilités par leur supérieur hiérarchique ;
+désignés et spécialement habilités par leur supérieur hiérarchique ; 
 
 b bis) Des procédures confiées par l'autorité judiciaire, d'une part, pour les infractions prévues à l'article 28-1 du code
 de procédure pénale, les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement
 désignés et spécialement habilités par le magistrat délégué aux missions judiciaires de la douane ou, le cas échéant, par le
 directeur général des douanes et droits indirects, et, d'autre part, pour les infractions prévues à l'article 28-2 du même
 code, les agents des services fiscaux habilités à effectuer des missions de police judiciaire, individuellement désignés et
-spécialement habilités par les magistrats mentionnés à cet article.
+spécialement habilités par les magistrats mentionnés à cet article. 
 
 c) De la lutte contre l'aide à l'entrée et au séjour irréguliers, les officiers de police judiciaire de l'Office central pour
 la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre et des brigades mobiles de recherche de la
 direction centrale de la police aux frontières, ainsi que les officiers de police judiciaire des sections de recherche de la
 gendarmerie nationale, individuellement désignés et spécialement habilités, respectivement, par le directeur central de la
-police aux frontières et le directeur général de la gendarmerie nationale ;
+police aux frontières et le directeur général de la gendarmerie nationale ; 
 
 8° Au titre des avis rendus dans les procédures de déchéance de la nationalité ou de demande de naturalisation, les
 personnels de la direction des libertés publiques et des affaires juridiques individuellement désignés et spécialement
-habilités par leur directeur ;
+habilités par leur directeur ; 
 
 9° Dans les conditions fixées par l'article L. 222-1 du code de la sécurité intérieure :
 
@@ -32746,30 +32788,34 @@ individuellement désignés et spécialement habilités par le directeur génér
 
 - les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
 individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
-prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ;
+prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ; 
 
 10° A des fins exclusives d'établissement de statistiques pour la consultation d'éléments anonymisés obtenus à partir du
-traitement automatisé :
+traitement automatisé : 
 
-a) Les agents de l'Institut national d'études démographiques, individuellement désignés par leur directeur ;
+a) Les agents de l'Institut national d'études démographiques, individuellement désignés par leur directeur ; 
 
 b) Les agents de l'Institut national de la statistique et des études économiques et des services statistiques ministériels,
 dans le respect de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret
-en matière de statistiques.
+en matière de statistiques. 
 
 11° Au titre de la délivrance des agréments des exploitants individuels et des dirigeants et gérants de personne morale ou de
 la délivrance des autorisations d'exercice des employés exerçant des activités privées de sécurité, les agents du Conseil
 national des activités privées de sécurité, individuellement désignés par son directeur et spécialement habilités par le
-préfet.
+préfet. 
+
+12° Pour les besoins exclusifs de l'évaluation prévue par l'article R. 221-11 du code de l'action sociale et des familles,
+les agents chargés de la mise en œuvre de la protection de l'enfance, individuellement désignés et spécialement habilités par
+le président du conseil départemental.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°51-711 du 7 juin 1951 - art. 7 bis
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (M)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
   - Code de procédure pénale - art. 20
   - Code de procédure pénale - art. 28-1
   - Code de procédure pénale - art. 28-2
@@ -32788,6 +32834,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L512-2
   - Code de la sécurité sociale. - art. L831-1
   - Code de l'action sociale et des familles - art. L262-4
+  - Code de l'action sociale et des familles - art. R221-11
   - Code de la sécurité intérieure - art. L222-1
   - Code de la sécurité intérieure - art. R222-1
 
@@ -32801,7 +32848,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1335 du 28 décembre 2018 - art. 8
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 
 ###### Article R611-6
@@ -32868,41 +32915,45 @@ _Créé par_:
 ###### Article R611-7-1
 
 Les données à caractère personnel sont classées, au sein du traitement AGDREF2, dans des dossiers électroniques. Il ne peut y
-avoir qu'un seul dossier pour un même étranger. 
+avoir qu'un seul dossier pour un même étranger.
 
 Tout dossier qui n'a fait l'objet d'aucune mise à jour dans un délai de cinq ans à compter de l'enregistrement des premières
-données qu'il contient est effacé, sauf dans les cas suivants : 
+données qu'il contient est effacé, sauf dans les cas suivants :
 
 1° Le dossier qui contient des données relatives à un titre de séjour ou un document de voyage est effacé lorsque après
-l'expiration du document il s'est écoulé un délai de cinq ans sans que le dossier ait fait l'objet d'aucune mise à jour ; 
+l'expiration du document il s'est écoulé un délai de cinq ans sans que le dossier ait fait l'objet d'aucune mise à jour ;
 
 2° Le dossier d'un étranger qui contient des données relatives à un arrêté d'expulsion ou à une peine d'interdiction
 définitive du territoire est effacé au terme d'un délai de trente ans après la saisie de la mesure ou de la peine dans le
-traitement si le dossier n'a fait l'objet d'aucune mise à jour durant les cinq dernières années ; 
+traitement si le dossier n'a fait l'objet d'aucune mise à jour durant les cinq dernières années ;
 
 3° Le dossier d'un étranger qui contient des données relatives à une peine d'interdiction du territoire à temps prononcée à
 l'encontre de cet étranger est effacé au terme d'un délai de cinq ans à compter de la caducité de la peine si le dossier n'a
-fait l'objet d'aucune mise à jour durant cette période ; 
+fait l'objet d'aucune mise à jour durant cette période ;
 
 4° Le dossier d'un étranger qui contient des données relatives à une interdiction de retour sur le territoire français est
 effacé au terme d'un délai de cinq ans à compter de l'expiration du délai de validité de l'interdiction, si le dossier n'a
-fait l'objet d'aucune mise à jour durant cette période. 
+fait l'objet d'aucune mise à jour durant cette période.
 
 Les mises à jour mentionnées au présent article s'entendent de celles qui sont consécutives à une demande de l'intéressé ou à
-une modification significative de sa situation. 
+une modification significative de sa situation.
+
+Les données relatives aux personnes ayant fait l'objet d'une mesure d'assistance éducative, prononcée par l'autorité
+judiciaire saisie par l'intéressé, sont effacées dès la notification au préfet de département et, à Paris, au préfet de
+police de la date de cette mesure d'assistance éducative.
 
 Les données relatives aux personnes ayant acquis la nationalité française sont effacées au terme d'un délai d'un an à compter
 du décret de naturalisation ou au terme d'un délai de six mois après la date d'enregistrement en cas de déclaration de
-nationalité. 
+nationalité.
 
 Les données relatives à l'éloignement sont, en cas de délivrance d'une carte de séjour, effacées sans délai dès la délivrance
-de la carte de séjour. 
+de la carte de séjour.
 
 Les nom, prénom et adresse de la personne qui héberge un étranger assigné à résidence sont effacés sans délai après la fin de
-l'assignation à résidence. 
+l'assignation à résidence.
 
 Les données résultant de l'interrogation du volet B2 du casier judiciaire mentionnées au 7° du B de la section 1 de l'annexe
-6-4 sont conservées pendant une période de trois ans à compter de la date de leur enregistrement dans le traitement AGDREF2. 
+6-4 sont conservées pendant une période de trois ans à compter de la date de leur enregistrement dans le traitement AGDREF2.
 
 Les consultations font l'objet d'un enregistrement comprenant l'identification du consultant, la date et l'heure de la
 consultation. Les informations relatives aux consultations sont conservées dans le traitement pendant une durée de trois ans.
@@ -32911,11 +32962,11 @@ consultation. Les informations relatives aux consultations sont conservées dans
 
 _Modifié par_:
 
-  - Décret n°2012-42 du 12 janvier 2012 - art. 1
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6-4 (M)
 
 
 ##### Sous-section 6 : Droits d'accès, de rectification et d'opposition<a id=367></a>
@@ -32980,7 +33031,7 @@ _Créé par_:
 ###### Article R611-8
 
 Est autorisée la création, sur le fondement de l'article L. 611-6, d'un traitement automatisé de données à caractère
-personnel dénommé VISABIO, relevant du ministère des affaires étrangères et du ministère chargé de l'immigration. 
+personnel dénommé VISABIO, relevant du ministère des affaires étrangères et du ministère chargé de l'immigration.
 
 Ce traitement a pour finalité :
 
@@ -32990,37 +33041,40 @@ irréguliers des étrangers en France, en prévenant les fraudes documentaires e
 - de permettre l'instruction des demandes de visas en procédant notamment à l'échange d'informations, d'une part, avec des
 autorités nationales, d'autre part, avec les autorités des Etats Schengen au travers du système d'information sur les visas
 (VIS) pour les données biométriques se rapportant aux visas pour un séjour d'une durée inférieure à trois mois délivrés par
-les autorités françaises. 
+les autorités françaises.
 
-Il vise : 
+Il vise :
 
 1° A améliorer les conditions de délivrance des visas en permettant de déceler les demandes présentées par la même personne
-sous plusieurs identités ; 
+sous plusieurs identités ;
 
 2° A améliorer la vérification de l'authenticité des visas ainsi que de l'identité de leurs détenteurs aux points de contrôle
 français aux frontières extérieures des Etats parties à la convention signée à Schengen le 19 juin 1990 et aux frontières des
-territoires non européens de la République française ; 
+territoires non européens de la République française ;
 
 3° A faciliter, sur le territoire national, les vérifications d'identité opérées, en application de l'article 78-3 du code de
-procédure pénale, par les services de la police et de la gendarmerie nationales ; 
+procédure pénale, par les services de la police et de la gendarmerie nationales ;
 
 4° A faciliter la vérification par les services mentionnés au 3° de l'authenticité des visas et de la régularité du séjour ;
 
-5° A faciliter l'identification des étrangers en situation irrégulière en vue de leur éloignement.
+5° A faciliter l'identification des étrangers en situation irrégulière en vue de leur éloignement ;
+
+6° A faciliter la détermination et la vérification de l'identité d'un étranger qui se déclare mineur privé temporairement ou
+définitivement de la protection de sa famille.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2013-147 du 18 février 2013 - art. 2
 
 _Cité par_:
 
   - Décret n°2019-57 du 30 janvier 2019 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. Annexe 6.3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-12 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-15 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 _Cite_:
 
@@ -33120,47 +33174,52 @@ _Cite_:
 ###### Article R611-12
 
 I.-Les destinataires des données à caractère personnel enregistrées dans le traitement automatisé prévu à l'article R. 611-8
-sont : 
+sont :
 
 1° Les agents du ministère des affaires étrangères et du ministère chargé de l'immigration participant à l'instruction des
-demandes de visa, individuellement désignés et spécialement habilités par le ministre dont ils relèvent ; 
+demandes de visa, individuellement désignés et spécialement habilités par le ministre dont ils relèvent ;
 
-2° Les agents des préfectures et ceux chargés de l'application de la réglementation relative à la délivrance des titres de
-séjour, au traitement des demandes d'asile et à la préparation et à la mise en œuvre des mesures d'éloignement
-individuellement désignés et spécialement habilités par le préfet ; 
+2° Les agents des préfectures, y compris dans le cadre de la procédure d'évaluation prévue par l'article R. 221-11 du code de
+l'action sociale et des familles, et ceux chargés de l'application de la réglementation relative à la délivrance des titres
+de séjour, au traitement des demandes d'asile et à la préparation et à la mise en œuvre des mesures d'éloignement
+individuellement désignés et spécialement habilités par le préfet ;
 
 3° Les agents chargés du contrôle aux frontières de la police et de la gendarmerie nationales et des douanes,
-individuellement désignés et spécialement habilités par le chef de service dont ils relèvent ; 
+individuellement désignés et spécialement habilités par le chef de service dont ils relèvent ;
 
 3° bis Les agents du ministère de l'intérieur, individuellement désignés et spécialement habilités par le chef du service de
-police nationale ou par le commandant du groupement de gendarmerie, chargés de l'éloignement des étrangers ; 
+police nationale ou par le commandant du groupement de gendarmerie, chargés de l'éloignement des étrangers ;
 
 4° Les officiers de police judiciaire des services de la police et de la gendarmerie nationales, individuellement désignés et
 spécialement habilités par le préfet de police, le directeur de la sécurité publique, le directeur départemental de la police
 aux frontières ou le commandant du groupement de gendarmerie concernés, ainsi que les officiers de police judiciaire relevant
 de la direction centrale de la police judiciaire, de la direction centrale de la police aux frontières ou de la direction
 générale de la gendarmerie nationale, pour des missions de vérification d'identité prévues par l'article 78-3 du code de
-procédure pénale ; 
+procédure pénale ;
 
 5° Les agents des douanes dans les conditions prévues à l'article 67 quater du code des douanes, individuellement désignés et
 spécialement habilités par le directeur régional des douanes ou, le cas échéant, le directeur général des douanes et droits
-indirects ; 
+indirects ;
 
 6° Pour les besoins de la procédure d'attestation visée au treizième alinéa de l'article R. 311-3, les agents de l'Office
 français de l'immigration et de l'intégration, individuellement désignés et spécialement habilités par le directeur général
-de l'office, chargés des procédures d'admission au séjour. 
+de l'office, chargés des procédures d'admission au séjour ;
+
+7° Pour les besoins exclusifs de l'évaluation prévue par l'article R. 221-11 du code de l'action sociale et des familles, les
+agents chargés de la mise en œuvre de la protection de l'enfance, individuellement désignés et spécialement habilités par le
+président du conseil départemental.
 
 II.-Pour des missions de contrôle de l'authenticité des visas et de régularité du séjour, les officiers de police judiciaire
 et, sur l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire des services de la police et de la
 gendarmerie nationales individuellement désignés et spécialement habilités dans les conditions prévues au 4° du I peuvent
-accéder aux données à caractère personnel enregistrées dans le traitement automatisé. 
+accéder aux données à caractère personnel enregistrées dans le traitement automatisé.
 
 III.-Peuvent également accéder aux données à caractère personnel enregistrées dans le traitement automatisé, dans les
-conditions fixées à l'article L. 222-1 du code de la sécurité intérieure : 
+conditions fixées à l'article L. 222-1 du code de la sécurité intérieure :
 
 1° Les agents des services de la police nationale et les militaires des unités de la gendarmerie nationale chargés des
 missions de prévention et de répression des actes de terrorisme, individuellement désignés et spécialement habilités
-respectivement par le directeur général dont ils relèvent ; 
+respectivement par le directeur général dont ils relèvent ;
 
 2° Les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
 individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
@@ -33175,15 +33234,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1641 du 26 décembre 2014 - art. 7
+  - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-8 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
   - Code de procédure pénale - art. 78-3
-  - Code de la sécurité intérieure - art. L222-1 (V)
-  - Code de la sécurité intérieure - art. R222-1 (V)
+  - Code de l'action sociale et des familles - art. R221-11
+  - Code de la sécurité intérieure - art. L222-1
+  - Code de la sécurité intérieure - art. R222-1
 
 
 ###### Article R611-13
@@ -40510,7 +40570,7 @@ A. - Données générales
 6° Etat civil de l'enfant étranger mineur dont les parents font l'objet d'une mesure d'éloignement ;
 
 6° bis Etat civil et filiation de l'enfant français mineur dont les parents sollicitent un titre de séjour en qualité de
-parent d'enfant français. 
+parent d'enfant français.
 
 7° Etat civil et adresse du garant ;
 
@@ -40612,7 +40672,7 @@ date, sens et date de notification de la décision ; date et résultat du réexa
 demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 12° Pour les interdictions de circulation sur le territoire français, date de la décision, dates de début et de fin de la
-période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
+période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
@@ -40718,9 +40778,31 @@ des droits de chancellerie) ;
 11° Nécessité d'une surveillance particulière au regard de l'ordre public ou de la protection de l'individu concerné ;
 volonté manifeste ou exprimée de l'étranger de faire obstacle à son éloignement (O/N).
 
+D. - Données relatives aux ressortissants étrangers se déclarant mineurs et privés temporairement ou définitivement de la
+protection de leur famille et évalués majeurs par le président du conseil départemental en application des dispositions des
+articles L. 221-2-2 et R. 221-11 du code de l'action sociale et des familles :
+
+a) Commune de rattachement de l'intéressé ou adresse de l'organisme d'accueil auprès duquel celui-ci est domicilié ;
+
+b) Conseil départemental chargé de l'évaluation ;
+
+c) Date et conditions d'entrée en France ;
+
+d) Numéro de procédure attribué par le traitement AEM et numéro de procédure du service de l'aide sociale à l'enfance ;
+
+e) Date de la fin de l'évaluation par le président du conseil départemental ;
+
+f) Résultat de cette décision, notamment l'indication de la majorité ;
+
+g) Existence d'une saisine de l'autorité judiciaire par une personne évaluée majeure et date de la mesure d'assistance
+éducative lorsqu'une telle mesure est prononcée ;
+
+h) Date de la notification au préfet de département et, à Paris, au préfet de police de la date de la fin de l'évaluation par
+le président du conseil départemental ou de la saisine par le président de l'autorité judiciaire.
+
 Section 2
 
-Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation 
+Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation
 
 A. - Mentions figurant sur le titre de séjour
 
@@ -40730,7 +40812,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage 
+B. - Mentions figurant sur les titres de voyage
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -40752,7 +40834,7 @@ a) Titre de voyage pour réfugié (TVR) :
 
 9° Pays d'origine de l'intéressé ;
 
-10° Pays exclus ; 
+10° Pays exclus ;
 
 11° Autorité de délivrance ;
 
@@ -40771,9 +40853,9 @@ c) Titre d'identité et de voyage (TIV) :
 
 Les données mentionnées sont celles figurant au a.
 
-C. - Mentions figurant sur les documents de circulation 
+C. - Mentions figurant sur les documents de circulation
 
-a) Documents de circulation et titres d'identité républicains délivrés aux mineurs 
+a) Documents de circulation et titres d'identité républicains délivrés aux mineurs
 
 Au recto :
 
@@ -40808,9 +40890,9 @@ Au verso :
 3° Signature du titulaire si, au jour de la demande, celui-ci est âgé de sept ans au moins ou signature de la personne qui a
 demandé le document si, au jour de la demande, le titulaire est âgé de moins de sept ans.
 
-b) Carte de frontalier : 
+b) Carte de frontalier :
 
-Au recto : 
+Au recto :
 
 1° Catégorie de document : carte de frontalier ;
 
@@ -40831,7 +40913,7 @@ de l'Oyapock " ;
 
 9° Signature du titulaire.
 
-Au verso : 
+Au verso :
 
 1° Date et lieu de naissance ;
 
@@ -40854,7 +40936,7 @@ B. - Données contenues dans le composant du titre de voyage d'une durée de val
 
 Images numérisées de sa photographie et de deux empreintes digitales.
 
-C. - Données contenues dans le composant électronique de la carte de frontalier 
+C. - Données contenues dans le composant électronique de la carte de frontalier
 
 Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de
 frontalier) ainsi que les images numérisées de deux empreintes digitales.
@@ -40867,8 +40949,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 19
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 41
+  - Décret n°2019-57 du 30 janvier 2019 - art. 4
 
 _Cité par_:
 
@@ -40877,8 +40958,13 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L221-2-2
+  - Code de l'action sociale et des familles - art. R221-11
 
 
 ## Annexe 6-8 mentionnée à l'article R. 611-36<a id=461></a>
