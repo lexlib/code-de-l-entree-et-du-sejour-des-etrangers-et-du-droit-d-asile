@@ -19,7 +19,7 @@ A. - Données générales
 6° Etat civil de l'enfant étranger mineur dont les parents font l'objet d'une mesure d'éloignement ;
 
 6° bis Etat civil et filiation de l'enfant français mineur dont les parents sollicitent un titre de séjour en qualité de
-parent d'enfant français. 
+parent d'enfant français.
 
 7° Etat civil et adresse du garant ;
 
@@ -121,7 +121,7 @@ date, sens et date de notification de la décision ; date et résultat du réexa
 demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 12° Pour les interdictions de circulation sur le territoire français, date de la décision, dates de début et de fin de la
-période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
+période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
@@ -227,9 +227,31 @@ des droits de chancellerie) ;
 11° Nécessité d'une surveillance particulière au regard de l'ordre public ou de la protection de l'individu concerné ;
 volonté manifeste ou exprimée de l'étranger de faire obstacle à son éloignement (O/N).
 
+D. - Données relatives aux ressortissants étrangers se déclarant mineurs et privés temporairement ou définitivement de la
+protection de leur famille et évalués majeurs par le président du conseil départemental en application des dispositions des
+articles L. 221-2-2 et R. 221-11 du code de l'action sociale et des familles :
+
+a) Commune de rattachement de l'intéressé ou adresse de l'organisme d'accueil auprès duquel celui-ci est domicilié ;
+
+b) Conseil départemental chargé de l'évaluation ;
+
+c) Date et conditions d'entrée en France ;
+
+d) Numéro de procédure attribué par le traitement AEM et numéro de procédure du service de l'aide sociale à l'enfance ;
+
+e) Date de la fin de l'évaluation par le président du conseil départemental ;
+
+f) Résultat de cette décision, notamment l'indication de la majorité ;
+
+g) Existence d'une saisine de l'autorité judiciaire par une personne évaluée majeure et date de la mesure d'assistance
+éducative lorsqu'une telle mesure est prononcée ;
+
+h) Date de la notification au préfet de département et, à Paris, au préfet de police de la date de la fin de l'évaluation par
+le président du conseil départemental ou de la saisine par le président de l'autorité judiciaire.
+
 Section 2
 
-Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation 
+Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation
 
 A. - Mentions figurant sur le titre de séjour
 
@@ -239,7 +261,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage 
+B. - Mentions figurant sur les titres de voyage
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -261,7 +283,7 @@ a) Titre de voyage pour réfugié (TVR) :
 
 9° Pays d'origine de l'intéressé ;
 
-10° Pays exclus ; 
+10° Pays exclus ;
 
 11° Autorité de délivrance ;
 
@@ -280,9 +302,9 @@ c) Titre d'identité et de voyage (TIV) :
 
 Les données mentionnées sont celles figurant au a.
 
-C. - Mentions figurant sur les documents de circulation 
+C. - Mentions figurant sur les documents de circulation
 
-a) Documents de circulation et titres d'identité républicains délivrés aux mineurs 
+a) Documents de circulation et titres d'identité républicains délivrés aux mineurs
 
 Au recto :
 
@@ -317,9 +339,9 @@ Au verso :
 3° Signature du titulaire si, au jour de la demande, celui-ci est âgé de sept ans au moins ou signature de la personne qui a
 demandé le document si, au jour de la demande, le titulaire est âgé de moins de sept ans.
 
-b) Carte de frontalier : 
+b) Carte de frontalier :
 
-Au recto : 
+Au recto :
 
 1° Catégorie de document : carte de frontalier ;
 
@@ -340,7 +362,7 @@ de l'Oyapock " ;
 
 9° Signature du titulaire.
 
-Au verso : 
+Au verso :
 
 1° Date et lieu de naissance ;
 
@@ -363,7 +385,7 @@ B. - Données contenues dans le composant du titre de voyage d'une durée de val
 
 Images numérisées de sa photographie et de deux empreintes digitales.
 
-C. - Données contenues dans le composant électronique de la carte de frontalier 
+C. - Données contenues dans le composant électronique de la carte de frontalier
 
 Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de
 frontalier) ainsi que les images numérisées de deux empreintes digitales.
@@ -376,8 +398,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 19
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 41
+  - Décret n°2019-57 du 30 janvier 2019 - art. 4
 
 _Cité par_:
 
@@ -387,5 +408,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L221-2-2
+  - Code de l'action sociale et des familles - art. R221-11
