@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-02-01
+Version Consolidée au 2019-02-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -371,100 +371,102 @@ coopérant avec les autorités judiciaires (art. R316-1 à R316-5-1)](#272)
             - [Sous-section 6 : Droits d'accès, de rectification et d'opposition (art. R611-7-2 à R611-7-4)](#367)
           - [Section 2 : Traitement automatisé de données à caractère personnel relatives aux étrangers sollicitant la délivrance d'un visa (art. R611-8 à R611-15)](#368)
           - [Section 3 : Du fichier automatisé des empreintes digitales (art. R611-16)](#369)
-          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#370)
-          - [Section 6 : Droit de communication (art. R611-41-1 à R611-41-2)](#371)
-          - [Section 7 : Dispositions diverses (art. R611-41-3 à R611-43)](#372)
-      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#373)
-        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#374)
-        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-20)](#375)
-          - [Section 1 : Amendes aux entreprises débarquant un étranger dépourvu des documents visés à l'article L. 625-1 (art. R*625-2 à R625-16)](#376)
-            - [Sous-section 1 : Procédure (art. R*625-2 à R625-4)](#377)
-            - [Sous-section 2 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#378)
-          - [Section 2 : Amende aux entreprises n'ayant pas respecté leurs obligations liées au réacheminement d'un étrange (art. R625-17 à R625-20)](#379)
-        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#380)
-    - [LIVRE VII : LE DROIT D'ASILE (art. R711-1 à R767-1)](#381)
-      - [TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE (art. R711-1 à R712-1)](#382)
-        - [Chapitre Ier : La qualité de réfugié (art. R711-1 à R711-2)](#383)
-        - [Chapitre II : La protection subsidiaire (art. R712-1)](#384)
-      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-22)](#385)
-        - [Chapitre Ier : Missions (art. R721-1)](#386)
-        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#387)
-          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#388)
-          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#389)
-          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#390)
-        - [Chapitre III : Examen des demandes d'asile (art. R723-1 à R723-22)](#391)
-          - [Section 1 : Garanties procédurales et obligations du demandeur (art. R723-1 à R723-10)](#392)
-            - [Sous-section 1 : Introduction de la demande (art. R723-1)](#393)
-            - [Sous-section 2 : Délais d'examen (art. R723-2 à R723-4)](#394)
-            - [Sous-section 3 : Entretien personnel (art. R723-5 à R723-9)](#395)
-            - [Sous-section 4 : Examen médical (art. R723-10)](#396)
-          - [Section 2 : Demandes irrecevables (art. R723-11 à R723-12)](#397)
-          - [Section 3 : Retrait d'une demande et clôture d'examen d'une demande (art. R723-13 à R723-14)](#398)
-          - [Section 4 : Demandes de réexamen (art. R723-15 à R723-17)](#399)
-          - [Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides (art. R723-18 à R723-22)](#400)
-      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-41)](#401)
-        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#402)
-        - [Chapitre III : Examen des recours (art. R733-2 à R733-41)](#403)
-          - [Section 1 : Dispositions générales (art. R733-2 à R733-4-1)](#404)
-          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-5 à R733-37)](#405)
-            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#406)
-            - [Sous-section 3 : Instruction (art. R733-10 à R733-16)](#407)
-            - [Sous-section 4 : Audience (art. R733-17 à R733-27)](#408)
-            - [Sous-section 5 : Jugement (art. R733-28 à R733-33)](#409)
-            - [Sous-section 6 : Demande d'avis au Conseil d'Etat (art. R733-34)](#410)
-            - [Sous-section 7 : Question prioritaire de constitutionnalité (art. R*733-34-1 à R*733-34-8)](#411)
-            - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#412)
-          - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#413)
-      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1-1 à R744-52)](#414)
-        - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1-1 à R741-7)](#415)
-        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R742-1 à R742-5)](#416)
-        - [Chapitre III : Droit au maintien sur le territoire français (art. R743-1 à R743-5)](#417)
-        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à R744-52)](#418)
-          - [Section 1 : Dispositif national d'accueil (art. R744-1 à R744-13-4)](#419)
-            - [Sous-section 1 : Domiciliation des demandeurs d'asile (art. R744-1 à R744-4-1)](#420)
-            - [Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile (art. R744-5 à R744-13)](#421)
-            - [Sous-section 3 : Orientation directive (art. R744-13-1 à R744-13-4)](#422)
-          - [Section 2 : Evaluation des besoins (art. R744-14)](#423)
-          - [Section 3 : Conditions matérielles d'accueil (art. D744-17 à D744-44)](#424)
-            - [Sous-section 1 : Conditions d'attribution (art. D744-17 à D744-30)](#425)
-            - [Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile (art. D744-31 à D744-40)](#426)
-            - [Sous-section 3 : Communication d'informations (art. D744-41 à D744-44)](#427)
-          - [Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile (art. R744-45 à R744-52)](#428)
-      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. D751-1 à R754-1)](#429)
-        - [Chapitre Ier : Information et accès aux droits (art. D751-1)](#430)
-        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#431)
-        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#432)
-        - [Chapitre IV : Dispositions diverses (art. R754-1)](#433)
-      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#434)
-        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#435)
-        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R762-1 à R762-2)](#436)
-        - [Chapitre III : Dispositions applicables en Polynésie française (art. R763-1 à R763-2)](#437)
-        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R764-1 à R764-2)](#438)
-        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#439)
-        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-5)](#440)
-        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#441)
-    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#442)
-      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#443)
-        - [Chapitre unique (art. R811-1 à R811-16)](#444)
-          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#445)
-          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#446)
-            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#447)
-            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#448)
-            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#449)
-          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#450)
-      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#451)
-        - [Chapitre unique (art. R812-1 à R812-7)](#452)
-      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#453)
-      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#454)
-        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#455)
-        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#456)
-        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#457)
-  - [Annexes (art. Annexe 6.3 à Annexe 7-2)](#458)
-    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#459)
-    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#460)
-    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#461)
-    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#462)
-    - [Annexe 7-2 (mentionnée à l'article R744-46) (art. Annexe 7-2)](#463)
+          - [Section 4 : Traitement automatisé de données à caractère personnel dénommé “Gestion de l'éloignement” (art. R611-17 à R611-22)](#370)
+          - [Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration (art. R611-35 à R611-41)](#371)
+          - [Section 6 : Droit de communication (art. R611-41-1 à R611-41-2)](#372)
+          - [Section 7 : Dispositions diverses (art. R611-41-3 à R611-43)](#373)
+      - [TITRE II : SANCTIONS (art. R621-1 à R626-4)](#374)
+        - [Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille (art. R621-1 à R621-3)](#375)
+        - [Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport (art. R*625-2 à R625-20)](#376)
+          - [Section 1 : Amendes aux entreprises débarquant un étranger dépourvu des documents visés à l'article L. 625-1 (art. R*625-2 à R625-16)](#377)
+            - [Sous-section 1 : Procédure (art. R*625-2 à R625-4)](#378)
+            - [Sous-section 2 : Consignation d'une somme par l'entreprise de transport (art. R625-13 à R625-16)](#379)
+          - [Section 2 : Amende aux entreprises n'ayant pas respecté leurs obligations liées au réacheminement d'un étrange (art. R625-17 à R625-20)](#380)
+        - [Chapitre VI : Dispositions diverses (art. R626-1 à R626-4)](#381)
+    - [LIVRE VII : LE DROIT D'ASILE (art. R711-1 à R767-1)](#382)
+      - [TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE (art. R711-1 à R712-1)](#383)
+        - [Chapitre Ier : La qualité de réfugié (art. R711-1 à R711-2)](#384)
+        - [Chapitre II : La protection subsidiaire (art. R712-1)](#385)
+      - [TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES (art. R721-1 à R723-22)](#386)
+        - [Chapitre Ier : Missions (art. R721-1)](#387)
+        - [Chapitre II : Organisation (art. R722-1 à R722-9)](#388)
+          - [Section 1 : Le conseil d'administration de l'office (art. R722-1 à R722-3)](#389)
+          - [Section 2 : Le directeur général de l'office (art. R722-4 à R722-6)](#390)
+          - [Section 4 : Opérations comptables et financières (art. R722-8 à R722-9)](#391)
+        - [Chapitre III : Examen des demandes d'asile (art. R723-1 à R723-22)](#392)
+          - [Section 1 : Garanties procédurales et obligations du demandeur (art. R723-1 à R723-10)](#393)
+            - [Sous-section 1 : Introduction de la demande (art. R723-1)](#394)
+            - [Sous-section 2 : Délais d'examen (art. R723-2 à R723-4)](#395)
+            - [Sous-section 3 : Entretien personnel (art. R723-5 à R723-9)](#396)
+            - [Sous-section 4 : Examen médical (art. R723-10)](#397)
+          - [Section 2 : Demandes irrecevables (art. R723-11 à R723-12)](#398)
+          - [Section 3 : Retrait d'une demande et clôture d'examen d'une demande (art. R723-13 à R723-14)](#399)
+          - [Section 4 : Demandes de réexamen (art. R723-15 à R723-17)](#400)
+          - [Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides (art. R723-18 à R723-22)](#401)
+      - [TITRE III : LA COUR NATIONALE DU DROIT D'ASILE (art. R732-1 à R733-41)](#402)
+        - [Chapitre II : Organisation (art. R732-1 à R732-8)](#403)
+        - [Chapitre III : Examen des recours (art. R733-2 à R733-41)](#404)
+          - [Section 1 : Dispositions générales (art. R733-2 à R733-4-1)](#405)
+          - [Section 2 : Recours formés contre les décisions en matière d'asile (art. R733-5 à R733-37)](#406)
+            - [Sous-section 2 : Présentation des recours (art. R733-5 à R733-9)](#407)
+            - [Sous-section 3 : Instruction (art. R733-10 à R733-16)](#408)
+            - [Sous-section 4 : Audience (art. R733-17 à R733-27)](#409)
+            - [Sous-section 5 : Jugement (art. R733-28 à R733-33)](#410)
+            - [Sous-section 6 : Demande d'avis au Conseil d'Etat (art. R733-34)](#411)
+            - [Sous-section 7 : Question prioritaire de constitutionnalité (art. R*733-34-1 à R*733-34-8)](#412)
+            - [Sous-section 8 : Voies de recours (art. R733-35 à R733-37)](#413)
+          - [Section 3 : Procédure d'avis de l'article L. 731-3 (art. R733-38 à R733-41)](#414)
+      - [TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE (art. R*741-1-1 à R744-52)](#415)
+        - [Chapitre Ier : Enregistrement de la demande d'asile (art. R*741-1-1 à R741-7)](#416)
+        - [Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile (art. R742-1 à R742-5)](#417)
+        - [Chapitre III : Droit au maintien sur le territoire français (art. R743-1 à R743-5)](#418)
+        - [Chapitre IV : Conditions d'accueil des demandeurs d'asile (art. R744-1 à R744-52)](#419)
+          - [Section 1 : Dispositif national d'accueil (art. R744-1 à R744-13-4)](#420)
+            - [Sous-section 1 : Domiciliation des demandeurs d'asile (art. R744-1 à R744-4-1)](#421)
+            - [Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile (art. R744-5 à R744-13)](#422)
+            - [Sous-section 3 : Orientation directive (art. R744-13-1 à R744-13-4)](#423)
+          - [Section 2 : Evaluation des besoins (art. R744-14)](#424)
+          - [Section 3 : Conditions matérielles d'accueil (art. D744-17 à D744-44)](#425)
+            - [Sous-section 1 : Conditions d'attribution (art. D744-17 à D744-30)](#426)
+            - [Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile (art. D744-31 à D744-40)](#427)
+            - [Sous-section 3 : Communication d'informations (art. D744-41 à D744-44)](#428)
+          - [Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile (art. R744-45 à R744-52)](#429)
+      - [TITRE V : CONTENU DE LA PROTECTION ACCORDÉE (art. D751-1 à R754-1)](#430)
+        - [Chapitre Ier : Information et accès aux droits (art. D751-1)](#431)
+        - [Chapitre II : Réunification familiale et intérêt supérieur de l'enfant (art. R752-1 à R752-3)](#432)
+        - [Chapitre III : Documents de voyage (art. R753-1 à R753-7)](#433)
+        - [Chapitre IV : Dispositions diverses (art. R754-1)](#434)
+      - [TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER (art. D761-3 à R767-1)](#435)
+        - [Chapitre Ier : Dispositions applicables à Mayotte (art. D761-3 à R761-1)](#436)
+        - [Chapitre II : Dispositions applicables dans les îles Wallis et Futuna (art. R762-1 à R762-2)](#437)
+        - [Chapitre III : Dispositions applicables en Polynésie française (art. R763-1 à R763-2)](#438)
+        - [Chapitre IV : Dispositions applicables en Nouvelle-Calédonie (art. R764-1 à R764-2)](#439)
+        - [Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises (art. R765-1)](#440)
+        - [Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon (art. D766-1-1 à R766-5)](#441)
+        - [Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion (art. D767-3 à R767-1)](#442)
+    - [LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES (art. R811-1 à R833-1)](#443)
+      - [TITRE Ier : LA PROTECTION TEMPORAIRE (art. R811-1 à R811-16)](#444)
+        - [Chapitre unique (art. R811-1 à R811-16)](#445)
+          - [Section 1 : Le séjour des bénéficiaires de la protection temporaire. (art. R811-1 à R811-4)](#446)
+          - [Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille (art. R811-5 à R811-14)](#447)
+            - [Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille (art. R811-5 à R811-9)](#448)
+            - [Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne (art. R811-10 à R811-12)](#449)
+            - [Sous-section 3 : La coopération en vue du transfert (art. R811-13 à R811-14)](#450)
+          - [Section 3 : Dispositions diverses (art. R811-15 à R811-16)](#451)
+      - [TITRE Ier BIS : LE STATUT D'APATRIDE (art. R812-1 à R812-7)](#452)
+        - [Chapitre unique (art. R812-1 à R812-7)](#453)
+      - [TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE (art. R821-1)](#454)
+      - [TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER (art. R831-1 à R833-1)](#455)
+        - [Chapitre Ier : Saint-Pierre-et-Miquelon (art. R831-1)](#456)
+        - [Chapitre II : Mayotte (art. R832-1 à R832-2)](#457)
+        - [Chapitre III : Saint-Barthélemy et Saint-Martin (art. R833-1)](#458)
+  - [Annexes (art. Annexe 6.3 à Annexe 7-2)](#459)
+    - [Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8 (art. Annexe 6.3)](#460)
+    - [Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES (art. Annexe 6-4)](#461)
+    - [Annexe 6.5 mentionnée à l'article R 611-18 DONNÉES À CARACTÈRE PERSONNEL ET INFORMATIONS SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT GESTEL (art. Annexe 6.5)](#462)
+    - [Annexe 6-8 mentionnée à l'article R. 611-36 (art. Annexe 6-8)](#463)
+    - [Annexe  7-1 (mentionnée à l'article D. 744-26) (art. Annexe 7-1)](#464)
+    - [Annexe 7-2 (mentionnée à l'article R744-46) (art. Annexe 7-2)](#465)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS<a id=2></a>
@@ -33327,7 +33329,201 @@ _Modifié par_:
   - Décret n°2015-1580 du 2 décembre 2015 - art. 14
 
 
-##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=370></a>
+##### Section 4 : Traitement automatisé de données à caractère personnel dénommé “Gestion de l'éloignement”<a id=370></a>
+
+###### Article R611-17
+
+Le ministre de l'intérieur (direction générale de la police nationale) est autorisé à mettre en œuvre un traitement
+automatisé de données à caractère personnel dénommé “Gestion de l'éloignement” (GESTEL) ayant pour finalités :
+
+1° D'assurer la gestion de la mise en œuvre opérationnelle, matérielle et logistique des mesures d'éloignement, au sein de la
+direction centrale de la police aux frontières ;
+
+2° D'améliorer l'exécution des mesures d'éloignement par la dématérialisation des échanges d'informations externes et
+internes ;
+
+3° De garantir le suivi des procédures d'éloignement et d'en faciliter le contrôle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+
+###### Article R611-18
+
+Les données à caractère personnel et informations enregistrées dans le traitement sont énumérées à l'annexe 6-5.
+
+Le traitement ne comporte pas de dispositif de reconnaissance faciale à partir de l'image numérisée de la photographie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-19 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-22 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. R611-25 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
+  - article 5 du règlement (CE) n°562
+
+
+###### Article R611-19
+
+I. - Peuvent accéder, à raison de leurs attributions et dans la limite du besoin d'en connaître, à tout ou partie des données
+à caractère personnel et informations mentionnées en annexe, les agents de la direction centrale de la police aux frontières,
+des préfectures de département et de la préfecture de police, individuellement désignés et habilités par le directeur central
+de la police aux frontières ou, le cas échéant, par les agents qu'il désigne.
+
+II. - Peuvent être destinataires des données et informations mentionnées en annexe, à raison de leurs attributions et dans la
+limite du besoin d'en connaître :
+
+1° Pour permettre l'exercice de sa mission de contrôle de l'exécution des mesures d'éloignement, le Contrôleur général des
+lieux de privation de liberté ;
+
+2° Pour l'organisation des opérations d'éloignement et l'information des services chargés de leur exécution :
+
+a) Les agents et militaires de la direction générale de la gendarmerie nationale ;
+
+b) Les agents de la direction générale de la police nationale ;
+
+c) Les agents de la direction générale des douanes et droits indirects ;
+
+d) Les agents de la direction générale des étrangers en France ;
+
+3° Pour faciliter la mise en œuvre des opérations d'éloignement :
+
+a) Le prestataire voyagiste agréé par le ministère de l'intérieur, pour les seules données relatives au numéro de dossier, à
+l'état civil du ressortissant étranger faisant l'objet de la mesure d'éloignement, à sa situation administrative, à la
+requête relative à la demande d'éloignement et à l'escorte, à l'exception du numéro AGDREF et de la photographie ;
+
+b) Les autorités du pays de transit ou de destination chargées d'autoriser ou de faciliter un éloignement, pour les seules
+données relatives à l'état civil du ressortissant étranger faisant l'objet de la mesure d'éloignement, à l'escorte, aux
+itinéraires empruntés et aux réservations hôtelières, à l'exception du numéro AGDREF et de la photographie ;
+
+c) Les compagnies aériennes ou maritimes assurant la prise en charge de l'éloignement, pour les seules données relatives à
+l'état civil du ressortissant étranger faisant l'objet de la mesure d'éloignement, aux documents d'identité et à l'escorte, à
+l'exception du numéro AGDREF et de la photographie.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+_Cité par_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-20 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-21 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'entrée et du séjour des étrangers et du  - art. R611-26 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-18
+
+
+###### Article R611-20
+
+Les données à caractère personnel et informations mentionnées en annexe sont conservées :
+
+- pendant une durée de deux ans à compter de la date de leur enregistrement pour permettre l'exécution de la mesure
+d'éloignement ;
+
+- pendant une durée de six mois après la date d'exécution effective de la mesure d'éloignement.
+
+A l'issue de ces délais, ces données à caractère personnel et informations sont conservées pendant une durée de six ans et
+uniquement accessibles aux agents relevant de la cellule opérationnelle de l'éloignement de la direction centrale de la
+police aux frontières.
+
+Les données à caractère personnel et informations relatives aux personnes dont la mesure d'éloignement a été annulée, abrogée
+ou retirée sont effacées du traitement par la direction centrale de la police aux frontières dès qu'elle en a connaissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-18 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-3
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-19
+
+
+###### Article R611-21
+
+Les opérations de création, mise à jour, suppression et consultation font l'objet d'un enregistrement comprenant
+l'identifiant de l'auteur, la date, l'heure et l'objet de l'opération. Les informations relatives à ces opérations sont
+conservées pendant six ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2006-64 du 23 janvier 2006 - art. 33
+  - Loi n°2006-64 du 23 janvier 2006 - art. 9
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-19 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile.
+
+_Cité par_:
+
+  - Décret n°2008-1456 du 30 décembre 2008 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+
+###### Article R611-22
+
+I. - Afin de garantir la sécurité publique, le droit d'opposition prévu à l'article 21 du règlement (UE) 2016/679 du 27 avril
+2016 relatif à la protection des personnes physiques à l'égard des traitements des données à caractère personnel et à la
+libre circulation de ces données, et abrogeant la directive 95/46/CE et à l'article 38 de la loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés ne s'applique pas au présent traitement.
+
+II. - Les droits d'information, d'accès, de rectification, d'effacement et à la limitation prévus aux articles 14 à 18 du
+règlement (UE) 2016/679 du 27 avril 2016 précité s'exercent auprès de la direction générale de la police nationale.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 38
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+
+##### Section 5 : Traitement automatisé de données à caractère personnel relatives aux étrangers bénéficiaires du dispositif d'aide au retour géré par l'Office français de l'immigration et de l'intégration<a id=371></a>
 
 ###### Article R611-35
 
@@ -33487,7 +33683,7 @@ _Créé par_:
   - Décret n°2009-1310 du 26 octobre 2009 - art. 1
 
 
-##### Section 6 : Droit de communication<a id=371></a>
+##### Section 6 : Droit de communication<a id=372></a>
 
 ###### Article R611-41-1
 
@@ -33561,7 +33757,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
 
 
-##### Section 7 : Dispositions diverses<a id=372></a>
+##### Section 7 : Dispositions diverses<a id=373></a>
 
 ###### Article R611-41-3
 
@@ -33641,9 +33837,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-9
 
 
-### TITRE II : SANCTIONS<a id=373></a>
+### TITRE II : SANCTIONS<a id=374></a>
 
-#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=374></a>
+#### Chapitre Ier : Méconnaissance des obligations incombant aux citoyens de l'Union européenne, aux ressortissants des autres Etats parties à l'accord sur l'Espace économique européen, aux ressortissants de la Confédération suisse ainsi qu'aux membres de leur famille<a id=375></a>
 
 ###### Article R621-1
 
@@ -33710,11 +33906,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R122-2 (V)
 
 
-#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=375></a>
+#### Chapitre V : Méconnaissance des obligations incombant aux entreprises de transport<a id=376></a>
 
-##### Section 1 : Amendes aux entreprises débarquant un étranger dépourvu des documents visés à l'article L. 625-1<a id=376></a>
+##### Section 1 : Amendes aux entreprises débarquant un étranger dépourvu des documents visés à l'article L. 625-1<a id=377></a>
 
-##### Sous-section 1 : Procédure<a id=377></a>
+##### Sous-section 1 : Procédure<a id=378></a>
 
 ###### Article R*625-2
 
@@ -33833,7 +34029,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-3 (V)
 
 
-##### Sous-section 2 : Consignation d'une somme par l'entreprise de transport<a id=378></a>
+##### Sous-section 2 : Consignation d'une somme par l'entreprise de transport<a id=379></a>
 
 ###### Article R625-13
 
@@ -33906,7 +34102,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R625-13 (V)
 
 
-##### Section 2 : Amende aux entreprises n'ayant pas respecté leurs obligations liées au réacheminement d'un étrange<a id=379></a>
+##### Section 2 : Amende aux entreprises n'ayant pas respecté leurs obligations liées au réacheminement d'un étrange<a id=380></a>
 
 ###### Article R625-17
 
@@ -33995,7 +34191,7 @@ _Créé par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 36
 
 
-#### Chapitre VI : Dispositions diverses<a id=380></a>
+#### Chapitre VI : Dispositions diverses<a id=381></a>
 
 ###### Article R626-1
 
@@ -34092,11 +34288,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R321-1 à R321-5
 
 
-## LIVRE VII : LE DROIT D'ASILE<a id=381></a>
+## LIVRE VII : LE DROIT D'ASILE<a id=382></a>
 
-### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE<a id=382></a>
+### TITRE Ier : LES CONDITIONS D'OCTROI DE L'ASILE<a id=383></a>
 
-#### Chapitre Ier : La qualité de réfugié<a id=383></a>
+#### Chapitre Ier : La qualité de réfugié<a id=384></a>
 
 ###### Article R711-1
 
@@ -34133,7 +34329,7 @@ _Créé par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 12
 
 
-#### Chapitre II : La protection subsidiaire<a id=384></a>
+#### Chapitre II : La protection subsidiaire<a id=385></a>
 
 ###### Article R712-1
 
@@ -34159,9 +34355,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-3
 
 
-### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=385></a>
+### TITRE II : L'OFFICE FRANCAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES<a id=386></a>
 
-#### Chapitre Ier : Missions<a id=386></a>
+#### Chapitre Ier : Missions<a id=387></a>
 
 ###### Article R721-1
 
@@ -34175,9 +34371,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-#### Chapitre II : Organisation<a id=387></a>
+#### Chapitre II : Organisation<a id=388></a>
 
-##### Section 1 : Le conseil d'administration de l'office<a id=388></a>
+##### Section 1 : Le conseil d'administration de l'office<a id=389></a>
 
 ###### Article R722-1
 
@@ -34334,7 +34530,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R722-2
 
 
-##### Section 2 : Le directeur général de l'office<a id=389></a>
+##### Section 2 : Le directeur général de l'office<a id=390></a>
 
 ###### Article R722-4
 
@@ -34435,7 +34631,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L812-2
 
 
-##### Section 4 : Opérations comptables et financières<a id=390></a>
+##### Section 4 : Opérations comptables et financières<a id=391></a>
 
 ###### Article R722-8
 
@@ -34485,11 +34681,11 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L722-5
 
 
-#### Chapitre III : Examen des demandes d'asile<a id=391></a>
+#### Chapitre III : Examen des demandes d'asile<a id=392></a>
 
-##### Section 1 : Garanties procédurales et obligations du demandeur<a id=392></a>
+##### Section 1 : Garanties procédurales et obligations du demandeur<a id=393></a>
 
-##### Sous-section 1 : Introduction de la demande<a id=393></a>
+##### Sous-section 1 : Introduction de la demande<a id=394></a>
 
 ###### Article R723-1
 
@@ -34538,7 +34734,7 @@ _Modifié par_:
   - Décret n°2016-1457 du 28 octobre 2016 - art. 37
 
 
-##### Sous-section 2 : Délais d'examen<a id=394></a>
+##### Sous-section 2 : Délais d'examen<a id=395></a>
 
 ###### Article R723-2
 
@@ -34634,7 +34830,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-##### Sous-section 3 : Entretien personnel<a id=395></a>
+##### Sous-section 3 : Entretien personnel<a id=396></a>
 
 ###### Article R723-5
 
@@ -34798,7 +34994,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R812-2 (VD)
 
 
-##### Sous-section 4 : Examen médical<a id=396></a>
+##### Sous-section 4 : Examen médical<a id=397></a>
 
 ###### Article R723-10
 
@@ -34820,7 +35016,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-3
 
 
-##### Section 2 : Demandes irrecevables<a id=397></a>
+##### Section 2 : Demandes irrecevables<a id=398></a>
 
 ###### Article R723-11
 
@@ -34863,7 +35059,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-11
 
 
-##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande<a id=398></a>
+##### Section 3 : Retrait d'une demande et clôture d'examen d'une demande<a id=399></a>
 
 ###### Article R723-13
 
@@ -34908,7 +35104,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-14
 
 
-##### Section 4 : Demandes de réexamen<a id=399></a>
+##### Section 4 : Demandes de réexamen<a id=400></a>
 
 ###### Article R723-15
 
@@ -34966,7 +35162,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-##### Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides<a id=400></a>
+##### Section 5 : Décisions du directeur général de l'Office français de protection des réfugiés et apatrides<a id=401></a>
 
 ###### Article R723-18
 
@@ -35102,9 +35298,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L723-9
 
 
-### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=401></a>
+### TITRE III : LA COUR NATIONALE DU DROIT D'ASILE<a id=402></a>
 
-#### Chapitre II : Organisation<a id=402></a>
+#### Chapitre II : Organisation<a id=403></a>
 
 ###### Article R732-1
 
@@ -35299,9 +35495,9 @@ _Cite_:
   - Code de justice administrative - art. R121-13
 
 
-#### Chapitre III : Examen des recours<a id=403></a>
+#### Chapitre III : Examen des recours<a id=404></a>
 
-##### Section 1 : Dispositions générales<a id=404></a>
+##### Section 1 : Dispositions générales<a id=405></a>
 
 ###### Article R733-2
 
@@ -35398,9 +35594,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-2
 
 
-##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=405></a>
+##### Section 2 : Recours formés contre les décisions en matière d'asile<a id=406></a>
 
-##### Sous-section 2 : Présentation des recours<a id=406></a>
+##### Sous-section 2 : Présentation des recours<a id=407></a>
 
 ###### Article R733-5
 
@@ -35554,7 +35750,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R742-3 (V)
 
 
-##### Sous-section 3 : Instruction<a id=407></a>
+##### Sous-section 3 : Instruction<a id=408></a>
 
 ###### Article R733-10
 
@@ -35775,7 +35971,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L712-2
 
 
-##### Sous-section 4 : Audience<a id=408></a>
+##### Sous-section 4 : Audience<a id=409></a>
 
 ###### Article R733-17
 
@@ -36111,7 +36307,7 @@ _Créé par_:
   - Décret n°2013-751 du 16 août 2013 - art. 1
 
 
-##### Sous-section 5 : Jugement<a id=409></a>
+##### Sous-section 5 : Jugement<a id=410></a>
 
 ###### Article R733-28
 
@@ -36248,7 +36444,7 @@ _Créé par_:
   - Décret n°2013-751 du 16 août 2013 - art. 1
 
 
-##### Sous-section 6 : Demande d'avis au Conseil d'Etat<a id=410></a>
+##### Sous-section 6 : Demande d'avis au Conseil d'Etat<a id=411></a>
 
 ###### Article R733-34
 
@@ -36276,7 +36472,7 @@ _Cite_:
   - Code de justice administrative - art. R113-2
 
 
-##### Sous-section 7 : Question prioritaire de constitutionnalité<a id=411></a>
+##### Sous-section 7 : Question prioritaire de constitutionnalité<a id=412></a>
 
 ###### Article R*733-34-1
 
@@ -36414,7 +36610,7 @@ _Créé par_:
   - Décret n°2016-463 du 14 avril 2016 - art. 1
 
 
-##### Sous-section 8 : Voies de recours<a id=412></a>
+##### Sous-section 8 : Voies de recours<a id=413></a>
 
 ###### Article R733-35
 
@@ -36475,7 +36671,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R733-7 (V)
 
 
-##### Section 3 : Procédure d'avis de l'article L. 731-3<a id=413></a>
+##### Section 3 : Procédure d'avis de l'article L. 731-3<a id=414></a>
 
 ###### Article R733-38
 
@@ -36581,9 +36777,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L731-3
 
 
-### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=414></a>
+### TITRE IV : ACCES A LA PROCEDURE ET CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE<a id=415></a>
 
-#### Chapitre Ier : Enregistrement de la demande d'asile<a id=415></a>
+#### Chapitre Ier : Enregistrement de la demande d'asile<a id=416></a>
 
 ###### Article R*741-1-1
 
@@ -36857,7 +37053,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-13
 
 
-#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=416></a>
+#### Chapitre II : Procédure de détermination de l'Etat responsable de l'examen de la demande d'asile<a id=417></a>
 
 ###### Article R742-1
 
@@ -37035,7 +37231,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R561-7
 
 
-#### Chapitre III : Droit au maintien sur le territoire français<a id=417></a>
+#### Chapitre III : Droit au maintien sur le territoire français<a id=418></a>
 
 ###### Article R743-1
 
@@ -37199,11 +37395,11 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-#### Chapitre IV : Conditions d'accueil des demandeurs d'asile<a id=418></a>
+#### Chapitre IV : Conditions d'accueil des demandeurs d'asile<a id=419></a>
 
-##### Section 1 : Dispositif national d'accueil<a id=419></a>
+##### Section 1 : Dispositif national d'accueil<a id=420></a>
 
-##### Sous-section 1 : Domiciliation des demandeurs d'asile<a id=420></a>
+##### Sous-section 1 : Domiciliation des demandeurs d'asile<a id=421></a>
 
 ###### Article R744-1
 
@@ -37343,7 +37539,7 @@ _Créé par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 17
 
 
-##### Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile<a id=421></a>
+##### Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile<a id=422></a>
 
 ###### Article R744-5
 
@@ -37613,7 +37809,7 @@ _Créé par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 20
 
 
-##### Sous-section 3 : Orientation directive<a id=422></a>
+##### Sous-section 3 : Orientation directive<a id=423></a>
 
 ###### Article R744-13-1
 
@@ -37686,7 +37882,7 @@ _Créé par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 19
 
 
-##### Section 2 : Evaluation des besoins<a id=423></a>
+##### Section 2 : Evaluation des besoins<a id=424></a>
 
 ###### Article R744-14
 
@@ -37715,9 +37911,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-6
 
 
-##### Section 3 : Conditions matérielles d'accueil<a id=424></a>
+##### Section 3 : Conditions matérielles d'accueil<a id=425></a>
 
-##### Sous-section 1 : Conditions d'attribution<a id=425></a>
+##### Sous-section 1 : Conditions d'attribution<a id=426></a>
 
 ###### Article D744-17
 
@@ -38007,7 +38203,7 @@ _Créé par_:
   - Décret n°2015-1329 du 21 octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile<a id=426></a>
+##### Sous-section 2 : Gestion des conditions matérielles d'accueil et versement de l'allocation pour demandeur d'asile<a id=427></a>
 
 ###### Article D744-31
 
@@ -38240,7 +38436,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L744-9
 
 
-##### Sous-section 3 : Communication d'informations<a id=427></a>
+##### Sous-section 3 : Communication d'informations<a id=428></a>
 
 ###### Article D744-41
 
@@ -38316,7 +38512,7 @@ _Créé par_:
   - Décret n°2015-1329 du 21 octobre 2015 - art. 1
 
 
-##### Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile<a id=428></a>
+##### Section 4 : Application de gestion du dispositif national d'accueil des demandeurs d'asile<a id=429></a>
 
 ###### Article R744-45
 
@@ -38545,9 +38741,9 @@ _Créé par_:
   - Décret n°2017-665 du 27 avril 2017 - art. 1
 
 
-### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=429></a>
+### TITRE V : CONTENU DE LA PROTECTION ACCORDÉE<a id=430></a>
 
-#### Chapitre Ier : Information et accès aux droits<a id=430></a>
+#### Chapitre Ier : Information et accès aux droits<a id=431></a>
 
 ###### Article D751-1
 
@@ -38586,7 +38782,7 @@ _Cite_:
   - titre IV du livre VII du code de l'entrée et du séjour des étrangers et du droit d'asile
 
 
-#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=431></a>
+#### Chapitre II : Réunification familiale et intérêt supérieur de l'enfant<a id=432></a>
 
 ###### Article R752-1
 
@@ -38657,7 +38853,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
 
 
-#### Chapitre III : Documents de voyage<a id=432></a>
+#### Chapitre III : Documents de voyage<a id=433></a>
 
 ###### Article R753-1
 
@@ -38772,7 +38968,7 @@ _Créé par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 21
 
 
-#### Chapitre IV : Dispositions diverses<a id=433></a>
+#### Chapitre IV : Dispositions diverses<a id=434></a>
 
 ###### Article R754-1
 
@@ -38788,9 +38984,9 @@ _Créé par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 20
 
 
-### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=434></a>
+### TITRE VI : DISPOSITIONS RELATIVES AUX OUTRE-MER<a id=435></a>
 
-#### Chapitre Ier : Dispositions applicables à Mayotte<a id=435></a>
+#### Chapitre Ier : Dispositions applicables à Mayotte<a id=436></a>
 
 ###### Article D761-3
 
@@ -38822,7 +39018,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=436></a>
+#### Chapitre II : Dispositions applicables dans les îles Wallis et Futuna<a id=437></a>
 
 ###### Article R762-1
 
@@ -39013,7 +39209,7 @@ _Modifié par_:
   - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
 
-#### Chapitre III : Dispositions applicables en Polynésie française<a id=437></a>
+#### Chapitre III : Dispositions applicables en Polynésie française<a id=438></a>
 
 ###### Article R763-1
 
@@ -39200,7 +39396,7 @@ _Modifié par_:
   - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
 
-#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=438></a>
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie<a id=439></a>
 
 ###### Article R764-1
 
@@ -39388,7 +39584,7 @@ _Modifié par_:
   - Décret n°2019-38 du 23 janvier 2019 - art. 6
 
 
-#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=439></a>
+#### Chapitre V : Dispositions applicables dans les Terres australes et antarctiques françaises<a id=440></a>
 
 ###### Article R765-1
 
@@ -39431,7 +39627,7 @@ _Modifié par_:
   - Décret n°2015-1166 du 21 septembre 2015 - art. 22
 
 
-#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=440></a>
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon<a id=441></a>
 
 ###### Article D766-1-1
 
@@ -39606,7 +39802,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=441></a>
+#### Chapitre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion<a id=442></a>
 
 ###### Article D767-3
 
@@ -39640,13 +39836,13 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R742-1
 
 
-## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=442></a>
+## LIVRE VIII : DISPOSITIONS COMMUNES ET DISPOSITIONS DIVERSES<a id=443></a>
 
-### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=443></a>
+### TITRE Ier : LA PROTECTION TEMPORAIRE<a id=444></a>
 
-#### Chapitre unique<a id=444></a>
+#### Chapitre unique<a id=445></a>
 
-##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=445></a>
+##### Section 1 : Le séjour des bénéficiaires de la protection temporaire.<a id=446></a>
 
 ###### Article R811-1
 
@@ -39771,9 +39967,9 @@ _Cite_:
   - Code du travail - art. R341-7 (Ab)
 
 
-##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=446></a>
+##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille<a id=447></a>
 
-##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=447></a>
+##### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille<a id=448></a>
 
 ###### Article R811-5
 
@@ -39881,7 +40077,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile R811-5 à R811-8, R811-2, R811-3, R811-6
 
 
-##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=448></a>
+##### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne<a id=449></a>
 
 ###### Article R811-10
 
@@ -39949,7 +40145,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-2 (V)
 
 
-##### Sous-section 3 : La coopération en vue du transfert<a id=449></a>
+##### Sous-section 3 : La coopération en vue du transfert<a id=450></a>
 
 ###### Article R811-13
 
@@ -40003,7 +40199,7 @@ _Modifié par_:
   - Arrêté du 8 décembre 2011 - art. 17 (V)
 
 
-##### Section 3 : Dispositions diverses<a id=450></a>
+##### Section 3 : Dispositions diverses<a id=451></a>
 
 ###### Article R811-15
 
@@ -40059,9 +40255,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du  - art. R811-8 (V)
 
 
-### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=451></a>
+### TITRE Ier BIS : LE STATUT D'APATRIDE<a id=452></a>
 
-#### Chapitre unique<a id=452></a>
+#### Chapitre unique<a id=453></a>
 
 ###### Article R812-1
 
@@ -40203,7 +40399,7 @@ _Modifié par_:
   - Décret n°2018-1159 du 14 décembre 2018 - art. 22 (V)
 
 
-### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=453></a>
+### TITRE II : DISPOSITIONS RELATIVES AU TRANSPORT DE PERSONNES RETENUES EN CENTRES DE RÉTENTION OU MAINTENUES EN ZONES D'ATTENTE<a id=454></a>
 
 ###### Article R821-1
 
@@ -40221,9 +40417,9 @@ _Codifié par_:
   - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
 
 
-### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=454></a>
+### TITRE III : DISPOSITIONS APPLICABLES OUTRE-MER<a id=455></a>
 
-#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=455></a>
+#### Chapitre Ier : Saint-Pierre-et-Miquelon<a id=456></a>
 
 ###### Article R831-1
 
@@ -40245,7 +40441,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
 
 
-#### Chapitre II : Mayotte<a id=456></a>
+#### Chapitre II : Mayotte<a id=457></a>
 
 ###### Article R832-1
 
@@ -40401,7 +40597,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L832-2 (V)
 
 
-#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=457></a>
+#### Chapitre III : Saint-Barthélemy et Saint-Martin<a id=458></a>
 
 ###### Article R833-1
 
@@ -40457,9 +40653,9 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-75 (V)
 
 
-# Annexes<a id=458></a>
+# Annexes<a id=459></a>
 
-## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=459></a>
+## Annexe 6.3 mentionnée à l'article R. 611-9 LISTE DES DONNÉES À CARACTÈRE PERSONNEL COMMUNIQUÉES AUTOMATIQUEMENT PAR LE TRAITEMENT AUTOMATISÉ DE DONNÉES À CARACTÈRE PERSONNEL DÉNOMMÉ RÉSEAU MONDIAL VISAS 2 (RMV 2), ENREGISTRÉES DANS LE TRAITEMENT AUTOMATISÉ PRÉVU À L'ARTICLE R. 611-8<a id=460></a>
 
 ###### Article Annexe 6.3
 
@@ -40547,7 +40743,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-8
 
 
-## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=460></a>
+## Annexe 6-4 mentionnée à l'article R. 611-3 CATÉGORIES DE DONNÉES À CARACTÈRE PERSONNEL SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS L'APPLICATION DE GESTION DES DOSSIERS DE RESSORTISSANTS ÉTRANGERS EN FRANCE DÉNOMMÉE "AGDREF2". ― MENTIONS FIGURANT SUR LES DOCUMENTS. ― DONNÉES CONTENUES DANS LES COMPOSANTS ÉLECTRONIQUES<a id=461></a>
 
 ###### Article Annexe 6-4
 
@@ -40967,7 +41163,153 @@ _Cite_:
   - Code de l'action sociale et des familles - art. R221-11
 
 
-## Annexe 6-8 mentionnée à l'article R. 611-36<a id=461></a>
+## Annexe 6.5 mentionnée à l'article R 611-18 DONNÉES À CARACTÈRE PERSONNEL ET INFORMATIONS SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT GESTEL<a id=462></a>
+
+###### Article Annexe 6.5
+
+I. - Données concernant le service à l'origine de la demande d'éloignement :
+
+1° Préfecture ;
+
+2° Dossier suivi par (nom de l'agent, service de la préfecture ou service de la police aux frontières en charge de la
+demande) ;
+
+3° Coordonnées (téléphone, télécopie, adresse de messagerie) ;
+
+4° Numéro de dossier ;
+
+5° Date et heure de saisine ;
+
+6° Dossier signalé ;
+
+7° Délai de transmission du plan de voyage ;
+
+8° Nature de la demande (saisine initiale, modification, annulation) ;
+
+9° Transmission du plan de voyage ;
+
+10° Conduite à tenir en cas de refus d'embarquement.
+
+II. - Données concernant l'état-civil du ressortissant étranger faisant l'objet de la mesure d'éloignement :
+
+1° Numéro AGDREF ;
+
+2° Nom ;
+
+3° Nom marital ;
+
+4° Prénom(s) ;
+
+5° Nationalité ;
+
+6° Photographie ;
+
+7° Alias éventuels ;
+
+8° Date et lieu de naissance ;
+
+9° Sexe ;
+
+10° Nom(s), prénom(s) et date de naissance des enfants mineurs accompagnants.
+
+III. - Données concernant la situation administrative du ressortissant étranger faisant l'objet de la mesure d'éloignement :
+
+1° Décisions administratives :
+
+a) Obligation de quitter le territoire français (OQTF) avec ou sans interdiction de retour ;
+
+b) Réadmission Dublin ou Schengen ;
+
+c) Interdiction du territoire français (ITF) temporaire ou définitive ;
+
+d) Arrêté ministériel d'expulsion (AME) ;
+
+e) Arrêté préfectoral d'expulsion (APE) ;
+
+f) Interdiction administrative du territoire (IAT).
+
+2° Situation du ressortissant étranger :
+
+a) En rétention (lieu, dates et heures de début et de fin de rétention, calcul automatique des échéances) ;
+
+b) En établissement pénitentiaire (nom de l'établissement, libération conditionnelle, date de levée d'écrou) ;
+
+c) Assigné à résidence et nature de la mesure ;
+
+d) Libre.
+
+3° Document d'identité :
+
+a) Nature du document (passeport, carte nationale d'identité, laissez-passer consulaire en cours ou obtenu, laissez-passer
+européen, titre de séjour) ;
+
+b) Date de validité ;
+
+c) Numéro d'enregistrement.
+
+IV. - Données concernant la requête relative à la demande d'éloignement :
+
+1° Destination (pays et ville) ;
+
+2° Vecteur souhaité pour le transport (voie aérienne, voie maritime, voie ferroviaire, voie routière, voie terrestre, moyen
+aérien dédié, sans préférence) ;
+
+3° Aéroport et ville de départ souhaités ;
+
+4° Possibilité d'éloignement (durée) ;
+
+5° Date sollicitée.
+
+V. - Renseignements complémentaires :
+
+1° Escorte (utilité et type d'escorte) ;
+
+2° Accompagnants : nom(s), prénom(s), matricule, grade, date de naissance, numéro de téléphone et service d'appartenance ;
+
+3° Refus antérieurs d'embarquement.
+
+VI. - Concernant les itinéraires empruntés et les réservations hôtelières :
+
+1° Nom du transporteur ;
+
+2° Numéro du vol, du navire ou du train ;
+
+3° Jour et heure de départ et d'arrivée ;
+
+4° Aéroport, port ou gare de départ et d'arrivée ;
+
+5° Nom de l'hôtel, adresse, jour d'arrivée et de départ.
+
+VII. - Documents numérisés relatifs à la personne concernée par la mesure d'éloignement :
+
+1° Fiche pénale ;
+
+2° Accord de réadmission ;
+
+3° Rapport d'incident ;
+
+4° Main courante ;
+
+5° Documents d'identité ;
+
+6° Certificats médicaux de compatibilité de l'état de santé avec l'éloignement ;
+
+7° Bon de commande ;
+
+8° Attestation de service fait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-81 du 6 février 2019 - art. 1
+
+
+## Annexe 6-8 mentionnée à l'article R. 611-36<a id=463></a>
 
 ###### Article Annexe 6-8
 
@@ -41048,7 +41390,7 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-35
 
 
-## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=462></a>
+## Annexe  7-1 (mentionnée à l'article D. 744-26)<a id=464></a>
 
 ###### Article Annexe 7-1
 
@@ -41265,7 +41607,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. D744-26 (V)
 
 
-## Annexe 7-2 (mentionnée à l'article R744-46)<a id=463></a>
+## Annexe 7-2 (mentionnée à l'article R744-46)<a id=465></a>
 
 ###### Article Annexe 7-2
 
