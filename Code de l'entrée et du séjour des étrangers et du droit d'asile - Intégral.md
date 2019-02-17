@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-02-09
+Version Consolidée au 2019-02-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -22337,86 +22337,79 @@ _Cité par_:
 
 ###### Article R311-3
 
-Sont dispensés de souscrire une demande de carte de séjour : 
+Sont dispensés de souscrire une demande de carte de séjour :
 
 1° Les membres des missions diplomatiques et consulaires accrédités en France, leur conjoint, leurs ascendants et leurs
-enfants mineurs ou non mariés vivant sous leur toit ; 
+enfants mineurs ou non mariés vivant sous leur toit ;
 
 2° Les étrangers séjournant en France pendant une durée maximale de trois mois sous le couvert de leur document de voyage
-revêtu, le cas échéant, d'un visa ; 
+revêtu, le cas échéant, d'un visa ;
 
 3° Les étrangers séjournant en France sous couvert d'un visa d'une durée supérieure à trois mois et inférieure ou égale à
-douze mois comportant la mention " dispense temporaire de carte de séjour ", pendant la durée de validité de ce visa ; 
+douze mois comportant la mention " dispense temporaire de carte de séjour ", pendant la durée de validité de ce visa ;
 
 3° bis Les étrangers séjournant en France sous couvert d'un visa dispensant de titre de séjour, d'une durée maximale de douze
-mois et portant la mention " vacances-travail " ; 
+mois et portant la mention " vacances-travail " ;
 
 4° Les étrangers, conjoints de ressortissants français, séjournant en France sous couvert d'un visa pour un séjour d'une
 durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du troisième alinéa
-de l'article L. 211-2-1, pendant un an ; 
+de l'article L. 211-2-1, pendant un an ;
 
 5° Les étrangers mentionnés à l'article L. 313-6 séjournant en France sous couvert d'un visa pour un séjour d'une durée
 supérieure à trois mois et au plus égale à un an et portant la mention " visiteur ", pendant la durée de validité de ce
-visa ; 
+visa ;
 
 6° Les étrangers mentionnés à l'article L. 313-7 séjournant en France sous couvert d'un visa pour un séjour d'une durée
 supérieure à trois mois et au plus égale à un an et portant la mention " étudiant ", pendant la durée de validité de ce
-visa ; 
+visa ;
 
 7° Les étrangers mentionnés au 1° de l'article L. 313-10 séjournant en France pour l'exercice d'une activité salariée sous
 contrat de travail à durée indéterminée sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus
-égale à un an et portant la mention " salarié ", pendant la durée de validité de ce visa ; 
+égale à un an et portant la mention " salarié ", pendant la durée de validité de ce visa ;
 
 8° Les étrangers mentionnés au 2° du même article séjournant en France pour l'exercice d'une activité salariée sous contrat
 de travail à durée déterminée ou dans les cas prévus aux articles L. 1262-1 et L. 1262-2 du code du travail sous couvert d'un
 visa pour un séjour d'une durée supérieure à trois mois et équivalente à la durée de l'emploi et portant la mention "
-travailleur temporaire ", pendant la durée de validité de ce visa ; 
+travailleur temporaire ", pendant la durée de validité de ce visa ;
 
 9° Les étrangers mentionnés aux articles L. 313-20 et L. 313-21 séjournant en France sous couvert d'un visa pour un séjour
 d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " passeport talent ", pendant la durée de
-validité de ce visa ; 
+validité de ce visa ;
 
 10° Les étrangers mentionnés à l'article L. 313-7-1 séjournant en France sous couvert d'un visa pour un séjour d'une durée
 supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ", pendant la durée de validité de ce
-visa ; 
+visa ;
 
 11° Les étrangers, conjoints de ressortissants étrangers, séjournant en France sous couvert d'un visa pour un séjour d'une
 durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du 1° de l'article L.
-313-11, pendant un an ; 
+313-11, pendant un an ;
 
 12° Les étrangers mentionnés au I de l'article L. 313-7-2 séjournant en France sous couvert d'un visa pour un séjour d'une
 durée supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ICT " ou, le cas échéant, "
-stagiaire ICT (famille) " ; 
+stagiaire ICT (famille) " ;
 
 13° Les étrangers mentionnés aux I et II de l'article L. 313-24 séjournant en France sous couvert d'un visa pour un séjour
 d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " salarié détaché ICT " ou, le cas
-échéant, " salarié détaché ICT (famille) " ; 
+échéant, " salarié détaché ICT (famille) " ;
 
 14° Les étrangers mentionnés au 3° de l'article L. 313-10 séjournant en France sous couvert d'un visa pour un séjour d'une
-durée supérieure à trois mois et au plus égale à un an et portant la mention " entrepreneur/ profession libérale. 
+durée supérieure à trois mois et au plus égale à un an et portant la mention " entrepreneur/ profession libérale.
 
-Les visas mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 12°, 13° et 14° permettent à leur titulaire de séjourner en France
-au-delà d'une période de trois mois et dans les limites de durée susmentionnées, à la condition que l'intéressé, dans un
-délai de trois mois à compter de la date de son entrée en France, ait présenté à l'Office français de l'immigration et de
-l'intégration les documents justifiant de son état civil et de sa nationalité et les indications relatives à son domicile en
-France ainsi qu'une photographie tête nue et se soit fait délivrer le certificat médical mentionné au 3° de l'article R.
-313-1 lorsqu'il est soumis à cette obligation.
+Les visas mentionnés aux 4° à 14° permettent à leur titulaire de séjourner en France au-delà d'une période de trois mois et
+dans les limites de durée susmentionnées, à la condition que l'intéressé, dans un délai de trois mois à compter de la date de
+son entrée en France, déclare notamment la date de son entrée en France et le domicile qui y est le sien, au moyen d'un
+téléservice, dans les conditions prévues par arrêté du ministre chargé de l'immigration.
 
-L'Office français de l'immigration et de l'intégration atteste de l'accomplissement de ces formalités selon des modalités
-fixées par arrêté ministériel. La délivrance d'un titre de séjour par le préfet du département de résidence de l'étranger
-autorisé à séjourner en France sous couvert d'un titre de voyage revêtu du visa requis pour un séjour d'une durée supérieure
-à trois mois et au plus égale à un an est subordonnée à la présentation de l'attestation remise par l'Office français de
-l'immigration et de l'intégration. 
-
-A Mayotte, la condition tenant aux formalités accomplies auprès de l'Office français de l'immigration et de l'intégration en
-vertu de l'alinéa précédent n'est pas exigible. 
+Cet arrêté précise les modalités d'utilisation de ce téléservice accessible par internet.
 
 Les étrangers mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10°, 11°, 13° et 14° qui souhaitent se maintenir en France au-delà des
 limites de durée susmentionnées sollicitent une carte de séjour temporaire ou une carte de séjour pluriannuelle dans le
-courant des deux derniers mois précédant l'expiration de leur visa. La demande est instruite conformément aux articles R.
-313-4-1 et R. 313-36 et selon les cas, aux articles R. 313-37 et R. 313-38, ainsi qu'aux sections 4 et 5 du chapitre III du
-titre Ier du livre III du même code. A l'échéance de ce délai, il est fait application des dispositions prévues au deuxième
-alinéa du 4° de l'article R. 311-2. 
+courant des deux derniers mois précédant l'expiration de leur visa. L'étranger doit en outre justifier qu'il a accompli les
+formalités prévues au dix-septième alinéa et, lors de la remise de la carte de séjour, qu'il s'est fait délivrer le
+certificat médical mentionné au 3° de l'article R. 313-1 s'il était soumis à cette obligation. La demande est instruite
+conformément aux articles R. 313-4-1 et R. 313-36 et selon les cas, aux articles R. 313-37 et R. 313-38, ainsi qu'aux
+sections 4 et 5 du chapitre III du titre Ier du livre III du même code. A l'échéance de ce délai, il est fait application des
+dispositions prévues au deuxième alinéa du 4° de l'article R. 311-2.
 
 Lorsqu'un étranger est autorisé à séjourner en France sous couvert d'un titre de voyage revêtu du visa requis pour un séjour
 d'une durée supérieure à trois mois et au plus égale à un an, ce visa peut être abrogé par le préfet du département où
@@ -22428,7 +22421,9 @@ visa.
 
 **Nota:**
 
-
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, les dispositions du présent décret entrent en vigueur
+à une date fixée par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février
+2019 a fixé cette date au 18 février 2019.
 
 **Liens relatifs à cet article**
 
@@ -22443,7 +22438,7 @@ _Cité par_:
   - Arrêté du 13 février 2019 - art. 1 (V)
   - Arrêté du 29 mai 2019 - art. 2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. D311-3-3 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R212-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R212-1 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-19 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-3-1 (V)
@@ -22461,22 +22456,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 3
+  - Décret n°2018-1130 du 11 décembre 2018 - art. 4
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-24 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-7-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R311-2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-4-1 (V)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L211-2-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-24
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-6
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-1
-  - Code du travail - art. L1262-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-2
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-4-1
+  - Code du travail - art. L1262-1
 
 
 ###### Article R311-3-1
@@ -32755,16 +32750,27 @@ situation irrégulière ;
 
 4° De permettre la gestion des différentes étapes de la procédure applicable aux mesures d'éloignement ;
 
-5° D'établir des statistiques en matière de séjour et d'éloignement des ressortissants étrangers.
+5° D'établir des statistiques en matière de séjour et d'éloignement des ressortissants étrangers ;
 
 6° D'aider à déterminer et de permettre de vérifier l'identité d'un étranger qui présente une demande d'asile en Guadeloupe,
-en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Martin, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon.
+en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Martin, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon ;
 
 6° bis D'aider à déterminer et de permettre de vérifier l'identité d'un étranger qui se déclare mineur et privé
-temporairement ou définitivement de la protection de sa famille.
+temporairement ou définitivement de la protection de sa famille ;
+
+7° De permettre au ressortissant étranger titulaire d'un visa de long séjour mentionné aux 4° à 14° de l'article R. 311-3 de
+procéder par voie électronique aux formalités prévues au même article et permettant de conférer au titulaire de ce visa les
+droits attachés à une carte de séjour.
 
 Le traitement peut être consulté et mis en relation avec d'autres traitements concernant les procédures intéressant les
 ressortissants étrangers.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée
+par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019.
+
+L'arrêté du 13 février 2019 a fixé cette date au 18 février 2019.
 
 **Liens relatifs à cet article**
 
@@ -32792,7 +32798,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-57 du 30 janvier 2019 - art. 3
+  - Décret n°2018-1130 du 11 décembre 2018 - art. 1
 
 
 ##### Sous-section 2 : Données enregistrées dans le traitement<a id=363></a>
@@ -32917,11 +32923,11 @@ _Cite_:
 
 Pour les besoins exclusifs des missions énumérées ci-après, peuvent consulter les données pertinentes enregistrées dans le
 traitement automatisé prévu à l'article R. 611-1 et dans le composant électronique prévu aux articles R. 311-13-1 et R.
-321-22, à l'exclusion des images numérisées des empreintes digitales : 
+321-22, à l'exclusion des images numérisées des empreintes digitales :
 
 1° Au titre de la délivrance des autorisations de travail, les agents des directions régionales des entreprises, de la
 concurrence, de la consommation, du travail et de l'emploi individuellement désignés et spécialement habilités par le
-directeur régional ; 
+directeur régional ;
 
 2° Au titre de la lutte contre le travail illégal, et notamment de l'interdiction de l'emploi d'étrangers sans titre de
 travail prévue à l'article L. 8251-1 du code du travail, et en application de l'article L. 8271-19 du même code, les
@@ -32931,15 +32937,15 @@ consommation, du travail et de l'emploi, ainsi qu'en application de l'article L.
 agents de police judiciaire de la police nationale et de la gendarmerie nationale, et les agents des douanes,
 individuellement désignés et spécialement habilités respectivement par le directeur général de la police nationale, le
 directeur général de la gendarmerie nationale et le directeur régional des douanes ou, le cas échéant, le directeur général
-des douanes et droits indirects ; 
+des douanes et droits indirects ;
 
 3° Au titre de l'accueil des étrangers, de l'intégration, de l'aide au retour et en matière de contribution spéciale et de
 contribution forfaitaire représentative des frais de réacheminement, les agents de l'Office français de l'immigration et de
-l'intégration, individuellement désignés et spécialement habilités par leur directeur général ; 
+l'intégration, individuellement désignés et spécialement habilités par leur directeur général ;
 
 4° Au titre du traitement des demandes d'asile ou du statut d'apatride et de la protection des réfugiés, les agents de
 l'Office français de protection des réfugiés et apatrides, individuellement désignés et spécialement habilités par leur
-directeur général ; 
+directeur général ;
 
 5° Au titre de la lutte contre la fraude documentaire, les personnels de la mission " délivrance sécurisée des titres " au
 sein du secrétariat général du ministère de l'intérieur, individuellement désignés et spécialement habilités par le
@@ -32949,26 +32955,26 @@ l'Institut national de police scientifique, de l'identité judiciaire de la poli
 criminelle de la gendarmerie nationale et les personnels du bureau de la fraude documentaire de la direction centrale de la
 police aux frontières, individuellement désignés et spécialement habilités, respectivement, par le directeur général de la
 police nationale et le directeur général de la gendarmerie nationale ou par les personnels appartenant à la catégorie A ou
-ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et auxquels ils ont donné délégation ; 
+ayant le rang d'officier sur lesquels ces directeurs généraux ont autorité et auxquels ils ont donné délégation ;
 
-6° Aux seules fins de l'accomplissement des vérifications prévues ci-après : 
+6° Aux seules fins de l'accomplissement des vérifications prévues ci-après :
 
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le
 versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités
 respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la
 condition de régularité de leur situation en France prévue par les articles L. 115-6, 
-L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
-l'article L. 262-4 du code de l'action sociale et des familles ; 
+L. 114-10-2, L. 161-16-1, L. 161-18-1, L. 161-25-1 , L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par
+l'article L. 262-4 du code de l'action sociale et des familles ;
 
 b) Pôle emploi, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, la validité des titres
 de séjour et de travail des étrangers tant pour leur inscription que pour leur maintien sur la liste des demandeurs
-d'emploi ; 
+d'emploi ;
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le
 préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de
-conduire ; 
+conduire ;
 
-7° Au titre : 
+7° Au titre :
 
 a) Du contrôle et de la vérification de l'identité des personnes et de la vérification de la validité et de l'authenticité du
 titre de séjour, dans les conditions prévues aux articles L. 611-1 et L. 611-1-1 du présent code et aux articles 78-2 et 78-3
@@ -32981,28 +32987,28 @@ judiciaire, individuellement désignés et spécialement habilités, respectivem
 nationale, le directeur général de la gendarmerie nationale, ou par les personnels appartenant à la catégorie A ou ayant le
 rang d'officier sur lesquels ces directeurs ont autorité et auxquels ils ont donné délégation, le directeur régional des
 douanes ou, le cas échéant, le directeur général des douanes et droits indirects et par le magistrat mentionné à l'article
-28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ; 
+28-2 du code de procédure pénale ou par le magistrat délégué aux missions judiciaires de la douane ;
 
 b) Des enquêtes ou des procédures confiées par l'autorité judiciaire, les officiers de police judiciaire de la police ou de
 la gendarmerie nationales et, sous l'ordre et la responsabilité de ceux-ci, les agents de police judiciaire individuellement
-désignés et spécialement habilités par leur supérieur hiérarchique ; 
+désignés et spécialement habilités par leur supérieur hiérarchique ;
 
 b bis) Des procédures confiées par l'autorité judiciaire, d'une part, pour les infractions prévues à l'article 28-1 du code
 de procédure pénale, les agents des douanes habilités à effectuer des missions de police judiciaire, individuellement
 désignés et spécialement habilités par le magistrat délégué aux missions judiciaires de la douane ou, le cas échéant, par le
 directeur général des douanes et droits indirects, et, d'autre part, pour les infractions prévues à l'article 28-2 du même
 code, les agents des services fiscaux habilités à effectuer des missions de police judiciaire, individuellement désignés et
-spécialement habilités par les magistrats mentionnés à cet article. 
+spécialement habilités par les magistrats mentionnés à cet article.
 
 c) De la lutte contre l'aide à l'entrée et au séjour irréguliers, les officiers de police judiciaire de l'Office central pour
 la répression de l'immigration irrégulière et de l'emploi d'étrangers sans titre et des brigades mobiles de recherche de la
 direction centrale de la police aux frontières, ainsi que les officiers de police judiciaire des sections de recherche de la
 gendarmerie nationale, individuellement désignés et spécialement habilités, respectivement, par le directeur central de la
-police aux frontières et le directeur général de la gendarmerie nationale ; 
+police aux frontières et le directeur général de la gendarmerie nationale ;
 
 8° Au titre des avis rendus dans les procédures de déchéance de la nationalité ou de demande de naturalisation, les
 personnels de la direction des libertés publiques et des affaires juridiques individuellement désignés et spécialement
-habilités par leur directeur ; 
+habilités par leur directeur ;
 
 9° Dans les conditions fixées par l'article L. 222-1 du code de la sécurité intérieure :
 
@@ -33012,34 +33018,46 @@ individuellement désignés et spécialement habilités par le directeur génér
 
 - les agents des services spécialisés du renseignement mentionnés à l'article R. 222-1 du code de la sécurité intérieure,
 individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
-prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ; 
+prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme ;
 
 10° A des fins exclusives d'établissement de statistiques pour la consultation d'éléments anonymisés obtenus à partir du
-traitement automatisé : 
+traitement automatisé :
 
-a) Les agents de l'Institut national d'études démographiques, individuellement désignés par leur directeur ; 
+a) Les agents de l'Institut national d'études démographiques, individuellement désignés par leur directeur ;
 
 b) Les agents de l'Institut national de la statistique et des études économiques et des services statistiques ministériels,
 dans le respect de l'article 7 bis de la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret
-en matière de statistiques. 
+en matière de statistiques.
 
 11° Au titre de la délivrance des agréments des exploitants individuels et des dirigeants et gérants de personne morale ou de
 la délivrance des autorisations d'exercice des employés exerçant des activités privées de sécurité, les agents du Conseil
 national des activités privées de sécurité, individuellement désignés par son directeur et spécialement habilités par le
-préfet. 
+préfet ;
 
 12° Pour les besoins exclusifs de l'évaluation prévue par l'article R. 221-11 du code de l'action sociale et des familles,
 les agents chargés de la mise en œuvre de la protection de l'enfance, individuellement désignés et spécialement habilités par
-le président du conseil départemental.
+le président du conseil départemental ;
+
+12° Aux seules fins d'obtenir confirmation de l'acquittement des taxes dont il est redevable et de l'accomplissement des
+formalités prévues au dix-septième alinéa de l'article R. 311-3, le ressortissant étranger concerné par cette procédure.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée
+par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette
+date au 18 février 2019.
+
+Le décret n° 2018-1130 du 11 décembre 2018 article 2 a inséré un 12° à l'article R. 611-5. Un second 12° a également été
+inséré par l'article 3 du décret n° 2019-57 du 30 janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°51-711 du 7 juin 1951 - art. 7 bis
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-1 (M)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-13-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R611-1
   - Code de procédure pénale - art. 20
   - Code de procédure pénale - art. 28-1
   - Code de procédure pénale - art. 28-2
@@ -33058,7 +33076,6 @@ _Cite_:
   - Code de la sécurité sociale. - art. L512-2
   - Code de la sécurité sociale. - art. L831-1
   - Code de l'action sociale et des familles - art. L262-4
-  - Code de l'action sociale et des familles - art. R221-11
   - Code de la sécurité intérieure - art. L222-1
   - Code de la sécurité intérieure - art. R222-1
 
@@ -33072,6 +33089,8 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Décret n°2018-1130 du 11 décembre 2018 - art. 2
+  - Décret n°2018-1335 du 28 décembre 2018 - art. 8
   - Décret n°2019-57 du 30 janvier 2019 - art. 3
 
 
@@ -41036,13 +41055,15 @@ _Cite_:
 
 Section 1
 
-Catégories de données à caractère personnel susceptibles d'être enregistrées
+Catégories de données à caractère personnel et informations susceptibles d'être enregistrées
 
 A. - Données générales
 
 1° Etat civil de l'étranger ; nationalité ;
 
 2° Numéro AGDREF2 et autres numéros de dossiers administratifs ;
+
+2° bis Mot de passe choisi par l'usager ;
 
 3° Pour les titulaires d'un titre de voyage : taille, couleur des yeux ;
 
@@ -41117,7 +41138,13 @@ droit d'asile ;
 transfert, de rapprochement familial ou de réadmission des bénéficiaires de la protection temporaire à l'intérieur de l'Union
 européenne et état-civil des membres de famille ;
 
-13° Références de la procédure d'accès à la nationalité française.
+13° Références de la procédure d'accès à la nationalité française ;
+
+14° Montant et date de paiement des taxes dont l'étranger est redevable ;
+
+15° Identifiant unique du timbre dématérialisé ;
+
+16° Numéro de réservation lié à l'achat du timbre dématérialisé.
 
 C. - Données relatives à la procédure d'éloignement
 
@@ -41424,6 +41451,12 @@ C. - Données contenues dans le composant électronique de la carte de frontalie
 Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de
 frontalier) ainsi que les images numérisées de deux empreintes digitales.
 
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée
+par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019. L'arrêté du 13 février 2019 a fixé cette
+date au 18 février 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -41432,6 +41465,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Décret n°2018-1130 du 11 décembre 2018 - art. 3
   - Décret n°2019-57 du 30 janvier 2019 - art. 4
 
 _Cité par_:
@@ -41442,13 +41476,8 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-6 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R611-7-1 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R753-1 (V)
-
-_Cite_:
-
-  - Code de l'action sociale et des familles - art. L221-2-2
-  - Code de l'action sociale et des familles - art. R221-11
 
 
 ## Annexe 6.5 mentionnée à l'article R 611-18 DONNÉES À CARACTÈRE PERSONNEL ET INFORMATIONS SUSCEPTIBLES D'ÊTRE ENREGISTRÉES DANS LE TRAITEMENT GESTEL<a id=462></a>
