@@ -2,13 +2,15 @@
 
 Section 1
 
-Catégories de données à caractère personnel susceptibles d'être enregistrées
+Catégories de données à caractère personnel et informations susceptibles d'être enregistrées
 
 A. - Données générales
 
 1° Etat civil de l'étranger ; nationalité ;
 
 2° Numéro AGDREF2 et autres numéros de dossiers administratifs ;
+
+2° bis Mot de passe choisi par l'usager ;
 
 3° Pour les titulaires d'un titre de voyage : taille, couleur des yeux ;
 
@@ -19,7 +21,7 @@ A. - Données générales
 6° Etat civil de l'enfant étranger mineur dont les parents font l'objet d'une mesure d'éloignement ;
 
 6° bis Etat civil et filiation de l'enfant français mineur dont les parents sollicitent un titre de séjour en qualité de
-parent d'enfant français. 
+parent d'enfant français.
 
 7° Etat civil et adresse du garant ;
 
@@ -83,7 +85,13 @@ droit d'asile ;
 transfert, de rapprochement familial ou de réadmission des bénéficiaires de la protection temporaire à l'intérieur de l'Union
 européenne et état-civil des membres de famille ;
 
-13° Références de la procédure d'accès à la nationalité française.
+13° Références de la procédure d'accès à la nationalité française ;
+
+14° Montant et date de paiement des taxes dont l'étranger est redevable ;
+
+15° Identifiant unique du timbre dématérialisé ;
+
+16° Numéro de réservation lié à l'achat du timbre dématérialisé.
 
 C. - Données relatives à la procédure d'éloignement
 
@@ -121,7 +129,7 @@ date, sens et date de notification de la décision ; date et résultat du réexa
 demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 12° Pour les interdictions de circulation sur le territoire français, date de la décision, dates de début et de fin de la
-période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse. 
+période d'interdiction, date de demande d'abrogation, date d'abrogation, date d'annulation contentieuse.
 
 b) Données relatives aux procédures juridictionnelles mises en œuvre dans le cadre de l'éloignement :
 
@@ -229,7 +237,7 @@ volonté manifeste ou exprimée de l'étranger de faire obstacle à son éloigne
 
 Section 2
 
-Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation 
+Mentions figurant sur le titre de séjour ou de voyage ou le document de circulation
 
 A. - Mentions figurant sur le titre de séjour
 
@@ -239,7 +247,7 @@ travail, la date de délivrance, la signature du titulaire, la photographie d'id
 
 Au verso : la date de naissance, le lieu de naissance, la nationalité, le sexe, l'adresse.
 
-B. - Mentions figurant sur les titres de voyage 
+B. - Mentions figurant sur les titres de voyage
 
 a) Titre de voyage pour réfugié (TVR) :
 
@@ -261,7 +269,7 @@ a) Titre de voyage pour réfugié (TVR) :
 
 9° Pays d'origine de l'intéressé ;
 
-10° Pays exclus ; 
+10° Pays exclus ;
 
 11° Autorité de délivrance ;
 
@@ -280,9 +288,9 @@ c) Titre d'identité et de voyage (TIV) :
 
 Les données mentionnées sont celles figurant au a.
 
-C. - Mentions figurant sur les documents de circulation 
+C. - Mentions figurant sur les documents de circulation
 
-a) Documents de circulation et titres d'identité républicains délivrés aux mineurs 
+a) Documents de circulation et titres d'identité républicains délivrés aux mineurs
 
 Au recto :
 
@@ -317,9 +325,9 @@ Au verso :
 3° Signature du titulaire si, au jour de la demande, celui-ci est âgé de sept ans au moins ou signature de la personne qui a
 demandé le document si, au jour de la demande, le titulaire est âgé de moins de sept ans.
 
-b) Carte de frontalier : 
+b) Carte de frontalier :
 
-Au recto : 
+Au recto :
 
 1° Catégorie de document : carte de frontalier ;
 
@@ -340,7 +348,7 @@ de l'Oyapock " ;
 
 9° Signature du titulaire.
 
-Au verso : 
+Au verso :
 
 1° Date et lieu de naissance ;
 
@@ -363,10 +371,15 @@ B. - Données contenues dans le composant du titre de voyage d'une durée de val
 
 Images numérisées de sa photographie et de deux empreintes digitales.
 
-C. - Données contenues dans le composant électronique de la carte de frontalier 
+C. - Données contenues dans le composant électronique de la carte de frontalier
 
 Les données sont celles figurant au b du C de la section 2 de la présente annexe (mentions figurant sur la carte de
 frontalier) ainsi que les images numérisées de deux empreintes digitales.
+
+**Nota:**
+
+Conformément à l'article 7 du décret n° 2018-1130 du 11 décembre 2018, ces dispositions entrent en vigueur à une date fixée
+par arrêté du ministre chargé de l'immigration et, au plus tard, le 1er mars 2019.
 
 **Liens relatifs à cet article**
 
@@ -376,8 +389,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 19
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 41
+  - Décret n°2018-1130 du 11 décembre 2018 - art. 3
 
 _Cité par_:
 
