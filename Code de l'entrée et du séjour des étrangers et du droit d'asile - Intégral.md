@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-03-02
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -15325,6 +15325,9 @@ permanents ayant au moins six mois d'expérience en formation collégiale à la 
 
 La durée du mandat des membres de la Cour nationale du droit d'asile est fixée par décret en Conseil d'Etat.
 
+Les présidents de formation de jugement nommés sur le fondement du 1° du présent article ne peuvent exercer leurs fonctions
+au-delà de l'âge de soixante-quinze ans.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -15349,7 +15352,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 9
+  - Loi n°2019-222 du 23 mars 2019 - art. 35
 
 _Cite_:
 
