@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-03-01
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -12223,44 +12223,44 @@ mentionnées aux 1° à 8° du présent article transmettent à l'autorité admi
 l'instruction d'une première demande de titre ou d'une demande de renouvellement de titre ou dans le cadre des contrôles
 prévus à l'article L. 313-5-1, les documents et les informations nécessaires au contrôle de la sincérité et de l'exactitude
 des déclarations souscrites ou au contrôle de l'authenticité des pièces produites en vue de l'attribution d'un droit au
-séjour ou de sa vérification. 
+séjour ou de sa vérification.
 
 Ce droit de communication s'exerce sur demande de l'autorité administrative compétente, de manière ponctuelle et à titre
-gratuit, quel que soit le support utilisé pour la conservation des documents, auprès : 
+gratuit, quel que soit le support utilisé pour la conservation des documents, auprès :
 
-1° Des autorités dépositaires des actes d'état civil ; 
+1° Des autorités dépositaires des actes d'état civil ;
 
-2° Des administrations chargées du travail et de l'emploi ; 
+2° Des administrations chargées du travail et de l'emploi ;
 
-3° Des organismes de sécurité sociale et de l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
+3° Des organismes de sécurité sociale et de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
-4° Des établissements scolaires et des établissements d'enseignement supérieur ; 
+4° Des établissements scolaires et des établissements d'enseignement supérieur ;
 
-5° Des fournisseurs d'énergie et des services de communications électroniques ; 
+5° Des fournisseurs d'énergie et des services de communications électroniques ;
 
-6° Des établissements de santé publics et privés ; 
+6° Des établissements de santé publics et privés ;
 
-7° Des établissements bancaires et des organismes financiers ; 
+7° Des établissements bancaires et des organismes financiers ;
 
-8° Des greffes des tribunaux de commerce. 
+8° Des greffes des tribunaux de commerce.
 
 Pour l'application du 5° du présent article, le droit de communication ne peut porter sur les données techniques définies à
-l'article L. 34-1 du code des postes et des communications électroniques. 
+l'article L. 34-1 du code des postes et des communications électroniques.
 
 L'autorité administrative compétente est tenue d'informer la personne dont elle s'apprête à retirer la carte de séjour sur le
 fondement d'informations ou de documents recueillis auprès des autorités ou des personnes privées mentionnées aux 1° à 8° du
 présent article de la teneur et de l'origine des informations et documents ainsi obtenus. Elle communique une copie des
-documents susmentionnés à l'intéressé s'il en fait la demande. 
+documents susmentionnés à l'intéressé s'il en fait la demande.
 
-La conservation des données personnelles contenues dans les documents et les informations transmis en application du présent
-article ne peut excéder la durée cumulée du titre de séjour dont l'étranger est titulaire et, le cas échéant, de la procédure
-de renouvellement dudit titre. La durée de conservation est prolongée jusqu'à l'épuisement des voies et délais de recours
-contre les décisions administratives prononcées sur le fondement d'informations transmises en application du présent article
-et, si un recours a été déposé, jusqu'à ce que la juridiction compétente ait statué. 
+La conservation des données à caractère personnel contenues dans les documents et les informations transmis en application du
+présent article ne peut excéder la durée cumulée du titre de séjour dont l'étranger est titulaire et, le cas échéant, de la
+procédure de renouvellement dudit titre. La durée de conservation est prolongée jusqu'à l'épuisement des voies et délais de
+recours contre les décisions administratives prononcées sur le fondement d'informations transmises en application du présent
+article et, si un recours a été déposé, jusqu'à ce que la juridiction compétente ait statué.
 
 A la demande de l'étranger, les données à caractère personnel le concernant sont, selon le cas, rectifiées, complétées, mises
 à jour ou effacées si elles sont inexactes, incomplètes ou périmées ou si leur collecte, leur utilisation, leur communication
-ou leur conservation n'est pas compatible avec les finalités déterminées au premier alinéa. 
+ou leur conservation n'est pas compatible avec les finalités déterminées au premier alinéa.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
 modalités d'application du présent article. Il définit notamment la nature des documents et des informations susceptibles
@@ -12269,14 +12269,16 @@ d'être communiqués à l'autorité administrative compétente par chacune des a
 
 **Nota:**
 
-Conformément à l'article 67 II de la loi n° 2016-274 du 7 mars 2016, les présentes dispositions entrent en vigueur à compter
-d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er novembre 2016.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret modifiant le décret n° 2005-1309 du 20 octobre 2005 pris pour l'application de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de ladite ordonnance, et au
+plus tard le 1er juin 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 48
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 8
 
 _Cité par_:
 
