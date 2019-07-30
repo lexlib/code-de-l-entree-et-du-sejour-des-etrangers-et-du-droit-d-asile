@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -39561,23 +39561,10 @@ _Cite_:
 ###### Article D744-39
 
 L'offre de prise en charge faite au demandeur d'asile en application de l'article L. 744-1 fait mention de la possibilité
-pour le demandeur d'asile de se voir refuser, retirer le bénéfice des conditions matérielles d'accueil ou qu'il y soit mis
-fin dans les conditions prévues par la présente sous-section.
-
-**Nota:**
-
-Par la décision n°s 428530, 428564 du 31 juillet 2019 du Conseil d’Etat statuant au contentieux
-ECLI:FR:CECHR:2019:428530.20190731, est annulé le 14° de l’article 1
-  <sup>er</sup> du décret n° 2018-1359 du 28 décembre 2018 (NOR: INTV1833309D), remplaçant, à l’article D. 744-39 du code de
-l’entrée et du séjour des étrangers et du droit d’asile, les mots : "ou suspendre le bénéfice de l'allocation pour demandeur
-d'asile" par les mots : "le bénéfice des conditions matérielles d'accueil ou qu'il y soit mis fin".
+pour le demandeur d'asile de se voir refuser, retirer ou suspendre le bénéfice de l'allocation pour demandeur d'asile dans
+les conditions prévues par la présente sous-section.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2018-1359 du 28 décembre 2018 - art. 1
-  - Décision n°428530, 428564 du 31 juillet 2019, v. init.
 
 _Cite_:
 
