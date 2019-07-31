@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-07-31
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -35751,19 +35751,25 @@ L'établissement public est soumis aux dispositions des titres Ier et III du dé
 la gestion budgétaire et comptable publique. 
 
 Le directeur général de l'office peut créer des régies de recettes et d'avances sur avis conforme de l'agent comptable, dans
-les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
-organismes publics.
+les conditions prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances
+des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°92-681 du 20 juillet 1992
-  - Décret n°2012-1246 du 7 novembre 2012 (V)
+  - Décret n°2012-1246 du 7 novembre 2012
+  - Décret n°2019-798 du 26 juillet 2019
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 30
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Cité par_:
 
