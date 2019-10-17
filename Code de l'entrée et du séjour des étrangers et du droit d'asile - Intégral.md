@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-10-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -243,7 +243,7 @@ Version Consolidée au 2019-09-01
           - [Section 1 : Dispositions générales (art. R313-1 à R313-5)](#240)
           - [Section 2 : Les différentes catégories de cartes de séjour temporaires (art. R313-6 à R313-34-1-1)](#241)
             - [Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur" (art. R313-6)](#242)
-            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. R313-7 à R313-10)](#243)
+            - [Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant " (art. D313-7-2 à R313-10)](#243)
             - [Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires (art. R*313-10-7-1 à R313-10-10)](#244)
             - [Sous-section 3 : La carte de séjour temporaire portant la mention “recherche d'emploi ou création d'entreprise” (art. R313-11-1 à R313-11-4)](#245)
             - [Sous-section 4 : La carte de séjour temporaire portant la mention “jeune au pair” (art. R313-12)](#246)
@@ -259,7 +259,7 @@ Version Consolidée au 2019-09-01
               - [Paragraphe 2 : La carte de séjour pluriannuelle délivrée sur le fondement du 1° de l'article L. 313-20 (art. D313-45-1 à R313-46)](#256)
               - [Paragraphe 3 : La carte de séjour pluriannuelle délivrée sur le fondement du 2° de l'article L. 313-20 (art. R313-47 à R313-50)](#257)
               - [Paragraphe 4 : La carte de séjour pluriannuelle délivrée sur le fondement du 3° de l'article L. 313-20 (art. R313-51 à R313-52)](#258)
-              - [Paragraphe 5 : La carte de séjour pluriannuelle délivrée sur le fondement du 4° de l'article L. 313-20 (art. R313-53 à R313-56)](#259)
+              - [Paragraphe 5 : La carte de séjour pluriannuelle délivrée sur le fondement du 4° de l'article L. 313-20 (art. D313-54-1 à R313-56)](#259)
               - [Paragraphe 6 : La carte de séjour pluriannuelle délivrée sur le fondement du 5° de l'article L. 313-20 (art. R313-57 à R313-60)](#260)
               - [Paragraphe 7 : La carte de séjour pluriannuelle délivrée sur le fondement du 6° de l'article L. 313-20 (art. R313-61 à R313-62)](#261)
               - [Paragraphe 8 : La carte de séjour pluriannuelle délivrée sur le fondement du 7° de l'article L. 313-20 (art. R313-63 à R313-64-1)](#262)
@@ -22531,6 +22531,25 @@ _Cite_:
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
 
 
+###### Article D311-3-3
+
+La décision de l'autorité compétente sur la demande du visa prévu au 3° ter de l'article R. 311-3 est notifiée par écrit à
+l'étranger dans les meilleurs délais et au plus tard dans les quatre-vingt-dix jours à compter de la date d'introduction de
+la demande complète. Le délai au terme duquel la demande de titre de séjour fait naître la décision implicite prévue à
+l'article R. * 311-12 est de quatre-vingt-dix jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1057 du 15 octobre 2019 - art. 1
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R*311-12
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
+
+
 ###### Article R311-1
 
 Tout étranger, âgé de plus de dix-huit ans ou qui sollicite un titre de séjour en application de l'article L. 311-3, est tenu
@@ -24743,6 +24762,27 @@ _Cite_:
 
 ##### Sous-section 2 : La carte de séjour temporaire portant la mention " étudiant "<a id=243></a>
 
+###### Article D313-7-2
+
+Le ministre chargé de l'immigration informe sans délai et par écrit le premier Etat membre et l'auteur de la notification du
+refus de la mobilité prévue à l'article R. 313-7-1. 
+
+En cas de retrait du titre de séjour délivré sur le fondement de l'article L. 313-7 I. ou de l'article L. 313-27, détenu par
+un étudiant en cours de mobilité dans un autre Etat membre, le ministre chargé de l'immigration informe sans délai et par
+écrit cet autre Etat membre et l'auteur de la notification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1057 du 15 octobre 2019 - art. 2
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-27
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-7-1
+
+
 ###### Article R313-7
 
 I.-Pour l'application du I de l'article L. 313-7, l'étranger qui demande la carte de séjour portant la mention “ étudiant ”
@@ -26637,6 +26677,27 @@ _Cite_:
 
 
 ##### Paragraphe 5 : La carte de séjour pluriannuelle délivrée sur le fondement du 4° de l'article L. 313-20<a id=259></a>
+
+###### Article D313-54-1
+
+Le ministre chargé de l'immigration informe sans délai et par écrit le premier Etat membre et l'auteur de la notification du
+refus de la mobilité prévue à l'article R. 313-54. 
+
+En cas de retrait du titre de séjour délivré sur le fondement de l'article L. 313-20, détenu par un chercheur en cours de
+mobilité, en cours de mobilité dans un autre Etat membre, le ministre chargé de l'immigration informe sans délai et par écrit
+cet autre Etat membre et l'auteur de la notification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1057 du 15 octobre 2019 - art. 3
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-54
+
 
 ###### Article R313-53
 
