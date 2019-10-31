@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -26135,10 +26135,15 @@ _Cite_:
 
 L'étranger titulaire de la carte de séjour temporaire portant la mention " salarié " qui se trouve involontairement privé
 d'emploi présente tout justificatif relatif à la cessation de son emploi et, le cas échéant, à ses droits au regard des
-régimes d'indemnisation des travailleurs involontairement privés d'emploi. 
+régimes d'indemnisation des travailleurs privés d'emploi.
 
 Le préfet statue sur sa demande de renouvellement de la carte de séjour temporaire portant la mention " salarié "
 conformément aux dispositions du 1° de l'article L. 313-10.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en
+vigueur le 1er novembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -26148,11 +26153,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 9
+  - Décret n°2019-796 du 26 juillet 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-10 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-10
 
 
 ##### Section 4 : La carte de séjour pluriannuelle<a id=252></a>
@@ -26926,29 +26931,33 @@ _Cite_:
 ###### Article R313-67
 
 Pour l'application du 9° de l'article L. 313-20, l'étranger artiste ou auteur d'œuvre littéraire ou artistique, qui exerce
-une activité salariée, présente en outre à l'appui de sa demande : 
+une activité salariée, présente en outre à l'appui de sa demande :
 
 1° Le ou les contrats de travail d'une durée totale cumulée d'au moins trois mois, sur une période maximale de douze mois
 conclus avec une ou plusieurs entreprises ou établissements dont l'activité principale comporte la création ou l'exploitation
 d'œuvres de l'esprit au sens du code de la propriété intellectuelle. Les principaux éléments du contrat sont présentés dans
-un formulaire conforme au modèle fixé par arrêté du ministre chargé du travail ; 
+un formulaire conforme au modèle fixé par arrêté du ministre chargé du travail ;
 
 2° Tous justificatifs de ressources, issues principalement de son activité, pour la période de séjour envisagée, pour un
 montant au moins équivalent à 70 % du salaire minimum brut de croissance pour un emploi à temps plein par mois, permettant de
-justifier de ses moyens d'existence, à l'exclusion de l'allocation d'assurance des travailleurs involontairement privés
-d'emploi ; 
+justifier de ses moyens d'existence, à l'exclusion de l'allocation d'assurance des travailleurs privés d'emploi ;
 
 3° Les pièces justificatives fixées par arrêté du ministre chargé de l'immigration et du ministre chargé du travail.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en
+vigueur le 1er novembre 2019.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 10
+  - Décret n°2019-796 du 26 juillet 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-20 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-20
 
 
 ###### Article R313-68
@@ -27441,18 +27450,23 @@ _Cité par_:
 Lorsque l'étranger titulaire de la carte de séjour délivrée sur le fondement des 1°, 2° et 4° de l'article L. 313-20 se
 trouve involontairement privé d'emploi, il présente, outre les pièces prévues à l'article R. 313-4-1, tout justificatif
 relatif à la cessation de son emploi et, le cas échéant, à ses droits au regard des régimes d'indemnisation des travailleurs
-involontairement privés d'emploi.
+privés d'emploi.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 8 du décret n° 2019-796 du 26 juillet 2019, ces dispositions entrent en
+vigueur le 1er novembre 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 10
+  - Décret n°2019-796 du 26 juillet 2019 - art. 6
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-4-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-45 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-4-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-45
 
 
 ##### Sous-section 3 : La carte de séjour pluriannuelle portant la mention “travailleur saisonnier”<a id=274></a>
