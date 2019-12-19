@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-12-12
+Version Consolidée au 2019-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -39183,8 +39183,9 @@ de manière certaine à la date de la demande et que le bénéficiaire de ces re
 substitution.
 
 La pension alimentaire ou la prestation compensatoire fixée par une décision de justice devenue exécutoire, une convention de
-divorce par consentement mutuel prévue à l'article 229-1 du code civil, par un acte reçu en la forme authentique par un
-notaire ou par convention judiciairement homologuée est déduite des ressources de celui qui la verse.
+divorce ou de séparation de corps par consentement mutuel selon les modalités prévues à l'article 229-1 du code civil, par un
+acte reçu en la forme authentique par un notaire ou par convention judiciairement homologuée est déduite des ressources de
+celui qui la verse.
 
 **Liens relatifs à cet article**
 
@@ -39194,7 +39195,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1359 du 28 décembre 2018 - art. 1
+  - Décret n°2019-1380 du 17 décembre 2019 - art. 14
 
 _Cite_:
 
