@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2019-11-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -644,9 +644,8 @@ d'apporter un élément de preuve d'une filiation déclarée avec la mère du de
 dont l'identification est ainsi recherchée doit être préalablement et expressément recueilli. Une information appropriée
 quant à la portée et aux conséquences d'une telle mesure leur est délivrée. 
 
-Les agents diplomatiques ou consulaires saisissent sans délai le tribunal de grande instance de Nantes pour qu'il statue,
-après toutes investigations utiles et un débat contradictoire, sur la nécessité de faire procéder à une telle
-identification. 
+Les agents diplomatiques ou consulaires saisissent sans délai le   tribunal judiciaire de Nantes pour qu'il statue, après
+toutes investigations utiles et un débat contradictoire, sur la nécessité de faire procéder à une telle identification. 
 
 Si le tribunal estime la mesure d'identification nécessaire, il désigne une personne chargée de la mettre en oeuvre parmi les
 personnes habilitées dans les conditions prévues au dernier alinéa. 
@@ -666,6 +665,11 @@ s'achève au plus tard le 31 décembre 2009 ;
 
 4° Les modalités d'habilitation des personnes autorisées à procéder à ces mesures.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -674,18 +678,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
 
 _Modifié par_:
 
-  - Loi n°2007-1631 du 20 novembre 2007 - art. 13 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L411-1 (V)
-  - Code civil - art. 311-1 (V)
-  - Code civil - art. 47 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -693,6 +691,12 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R752-2 (VD)
   - Code de la santé publique - art. L1133-4 (V)
   - Code pénal - art. 226-28 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
+  - Code civil - art. 311-1
+  - Code civil - art. 47
 
 
 ###### Article L111-7
@@ -2734,30 +2738,27 @@ _Cite_:
 
 ###### Article L222-4
 
-Le juge des libertés et de la détention statue au siège du tribunal de grande instance. Toutefois, si une salle d'audience
+Le juge des libertés et de la détention statue au siège du   tribunal judiciaire. Toutefois, si une salle d'audience
 attribuée au ministère de la justice lui permettant de statuer publiquement a été spécialement aménagée sur l'emprise
-ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle.
+ferroviaire, portuaire ou aéroportuaire, il statue dans cette salle. 
 
-En cas de nécessité, le président du tribunal de grande instance peut décider de tenir une seconde audience au siège du
-tribunal de grande instance, le même jour que celle qui se tient dans la salle spécialement aménagée.
+En cas de nécessité, le président du   tribunal judiciaire peut décider de tenir une seconde audience au siège du   tribunal
+judiciaire, le même jour que celle qui se tient dans la salle spécialement aménagée. 
 
 Par décision du juge prise sur une proposition de l'autorité administrative, l'audience peut également se dérouler avec
 l'utilisation de moyens de télécommunication audiovisuelle garantissant la confidentialité de la transmission. Il est alors
-dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées.
+dressé, dans chacune des deux salles d'audience ouvertes au public, un procès-verbal des opérations effectuées. 
 
 Sous réserve de l'application de l'article 435 du code de procédure civile, le juge des libertés et de la détention statue
-publiquement.
+publiquement. 
 
 L'étranger est maintenu à disposition de la justice dans des conditions fixées par le procureur de la République pendant le
 temps strictement nécessaire à la tenue de l'audience et au prononcé de l'ordonnance.
 
 **Nota:**
 
-Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
-à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux demandes déposées
-postérieurement à cette date.
-
-Le décret n° 2018-1159 du 14 décembre 2018 en son article 23 a fixé cette date au 1er janvier 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2767,7 +2768,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 20
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cité par_:
 
@@ -9124,18 +9125,23 @@ _Cite_:
 
 ###### Article L522-1
 
-I. - Sauf en cas d'urgence absolue, l'expulsion ne peut être prononcée que dans les conditions suivantes :
+I.-Sauf en cas d'urgence absolue, l'expulsion ne peut être prononcée que dans les conditions suivantes : 
 
-1° L'étranger doit être préalablement avisé dans des conditions fixées par décret en Conseil d'Etat ;
+1° L'étranger doit être préalablement avisé dans des conditions fixées par décret en Conseil d'Etat ; 
 
 2° L'étranger est convoqué pour être entendu par une commission qui se réunit à la demande de l'autorité administrative et
-qui est composée :
+qui est composée : 
 
-a) Du président du tribunal de grande instance du chef-lieu du département, ou d'un juge délégué par lui, président ;
+a) Du président du   tribunal judiciaire du chef-lieu du département, ou d'un juge délégué par lui, président ; 
 
-b) D'un magistrat désigné par l'assemblée générale du tribunal de grande instance du chef-lieu du département ;
+b) D'un magistrat désigné par l'assemblée générale du   tribunal judiciaire du chef-lieu du département ; 
 
 c) D'un conseiller de tribunal administratif.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9167,8 +9173,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L522-2
@@ -10319,23 +10329,20 @@ _Cite_:
 
 Le juge des libertés et de la détention est saisi dans les quarante-huit heures suivant la notification du placement en
 rétention aux fins de prolongation de la rétention au delà de cette durée. Il statue dans les quarante-huit heures suivant sa
-saisine par ordonnance au siège du tribunal de grande instance dans le ressort duquel se situe le lieu de placement en
-rétention de l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si
-celui-ci, dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge
-des libertés et de la détention qu'il lui soit désigné un conseil d'office. Si une salle d'audience attribuée au ministère de
-la justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention,
-le juge statue dans cette salle.
+saisine par ordonnance au siège du   tribunal judiciaire dans le ressort duquel se situe le lieu de placement en rétention de
+l'étranger, sauf exception prévue par voie réglementaire, après audition du représentant de l'administration, si celui-ci,
+dûment convoqué, est présent, et de l'intéressé ou de son conseil, s'il en a un. L'étranger peut demander au juge des
+libertés et de la détention qu'il lui soit désigné un conseil d'office. Si une salle d'audience attribuée au ministère de la
+justice lui permettant de statuer publiquement a été spécialement aménagée à proximité immédiate de ce lieu de rétention, le
+juge statue dans cette salle. 
 
 Il informe sans délai et par tous moyens du sens de sa décision le tribunal administratif saisi, le cas échéant, par
 l'étranger d'un recours dirigé contre la mesure d'éloignement qui le vise
 
 **Nota:**
 
-Conformément au III de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
-à une date fixée par décret en Conseil d'Etat, au plus tard le 1er janvier 2019 et sont applicables aux décisions prises
-après cette date.
-
-Le décret n° 2018-1159 du 14 décembre 2018 en son article 23 a fixé cette date au 1er janvier 2019.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10349,7 +10356,7 @@ _Cité par_:
   - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
   - Décret n°91-1369 du 30 décembre 1991 - art. 7-8 (Ab)
   - Arrêté du 23 novembre 2011 - art. 2 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (VD)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L512-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-3 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-7 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L552-8 (VT)
@@ -10365,7 +10372,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 29
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 
 ###### Article L552-2
@@ -10555,24 +10562,24 @@ Quand un délai de vingt-huit jours s'est écoulé depuis l'expiration du délai
 l'article L. 551-1 et en cas d'urgence absolue ou de menace d'une particulière gravité pour l'ordre public, ou lorsque
 l'impossibilité d'exécuter la mesure d'éloignement résulte de la perte ou de la destruction des documents de voyage de
 l'intéressé, de la dissimulation par celui-ci de son identité ou de l'obstruction volontaire faite à son éloignement, le juge
-des libertés et de la détention est à nouveau saisi.
+des libertés et de la détention est à nouveau saisi. 
 
 Le juge peut également être saisi lorsque la mesure d'éloignement n'a pu être exécutée en raison du défaut de délivrance des
 documents de voyage par le consulat dont relève l'intéressé ou de l'absence de moyens de transport. Il peut également être
 saisi aux mêmes fins lorsque la délivrance des documents de voyage est intervenue trop tardivement pour procéder à
-l'exécution de la mesure d'éloignement.
+l'exécution de la mesure d'éloignement. 
 
 Le juge statue par ordonnance dans les conditions prévues aux articles L. 552-1 et L. 552-2. S'il ordonne la prolongation de
 la rétention, celle-ci court à compter de l'expiration du délai de vingt-huit jours mentionné au premier alinéa du présent
-article et pour une nouvelle période d'une durée maximale de trente jours.
+article et pour une nouvelle période d'une durée maximale de trente jours. 
 
 Par dérogation aux dispositions de l'alinéa précédent, si l'étranger a été condamné à une peine d'interdiction du territoire
 pour des actes de terrorisme prévus par le titre II du livre IV du code pénal ou si une mesure d'expulsion a été prononcée à
 son encontre pour un comportement lié à des activités à caractère terroriste pénalement constatées, le juge des libertés et
-de la détention près le tribunal de grande instance de Paris peut, dès lors qu'il existe une perspective raisonnable
-d'exécution de la mesure d'éloignement et qu'aucune décision d'assignation à résidence ne permettrait un contrôle suffisant
-de cet étranger, ordonner la prolongation de la rétention pour une durée de trente jours qui peut être renouvelée. La durée
-maximale de la rétention ne doit, dans ce cas, pas excéder cent quatre-vingts jours.
+de la détention près le   tribunal judiciaire de Paris peut, dès lors qu'il existe une perspective raisonnable d'exécution de
+la mesure d'éloignement et qu'aucune décision d'assignation à résidence ne permettrait un contrôle suffisant de cet étranger,
+ordonner la prolongation de la rétention pour une durée de trente jours qui peut être renouvelée. La durée maximale de la
+rétention ne doit, dans ce cas, pas excéder cent quatre-vingts jours. 
 
 Avant l'expiration de la durée maximale de rétention prévue aux troisième ou quatrième alinéas, le juge compétent peut, à
 titre exceptionnel, être à nouveau saisi lorsque, dans les quinze derniers jours, l'étranger a fait obstruction à l'exécution
@@ -10587,24 +10594,14 @@ dernière période de rétention pour une nouvelle période d'une durée maximal
 mentionnées à la première phrase du présent alinéa survient au cours d'une période de prolongation ordonnée en application du
 présent alinéa, le juge peut être à nouveau saisi dans les mêmes conditions. Toutefois, la rétention ne peut être prolongée
 plus de deux fois en application du présent alinéa et sa durée maximale ne peut excéder quatre-vingt-dix jours ou, par
-dérogation, deux cent-dix jours dans le cas prévu au quatrième alinéa.
+dérogation, deux cent-dix jours dans le cas prévu au quatrième alinéa. 
 
 L'article L. 552-6 est applicable.
 
 **Nota:**
 
-Par décision du Conseil constitutionnel n° 2018-770 DC du 6 septembre 2018, publiée au Journal officiel du 10 septembre 2018,
-les mots "quatre-vingt-dix jours" figurant à la dernière phrase de l'avant dernier alinéa de l'article L. 552-7 du code de
-l'entrée et du séjour des étrangers et du droit d'asile, dans sa rédaction résultant de la loi n°2018-778 du 10 septembre
-2018 pour une immigration maîtrisée, un droit d’asile effectif et une intégration réussie, sont déclarés conformes à la
-Constitution sous la réserve énoncée au paragraphe 75. Conformément à ce paragraphe, "l'autorité judiciaire conserve la
-possibilité d'interrompre à tout moment la prolongation du maintien en rétention, de sa propre initiative ou à la demande de
-l'étranger, lorsque les circonstances de droit ou de fait le justifient".
-
-Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, les présentes dispositions entrent en vigueur
-à une date fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et sont applicables aux demandes qui lui sont
-postérieures en ce qui concerne les dispositions du quatrième alinéa de l'article L. 552-7 dans leur rédaction résultant du
-10° de l'article 65 de la loi précitée.
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10624,12 +10621,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 65
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-6 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L551-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-6
 
 
 ###### Article L552-8
@@ -18934,21 +18931,26 @@ _Créé par_:
 ###### Article R111-1
 
 La liste des interprètes traducteurs prévue à l'article L. 111-9 est dressée chaque année par le procureur de la République
-dans chaque tribunal de grande instance. 
+dans chaque tribunal judiciaire. 
 
-Elle comporte en annexe les listes établies dans les autres tribunaux de grande instance du ressort de la cour d'appel. 
+Elle comporte en annexe les listes établies dans les autres   tribunaux judiciaires du ressort de la cour d'appel. 
 
-La liste et ses annexes sont tenues à la disposition du public au greffe du tribunal de grande instance.
+La liste et ses annexes sont tenues à la disposition du public au greffe du tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L111-9 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -18956,51 +18958,74 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
   - Code de procédure pénale - art. D594-11 (T)
 
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L111-9
+
 
 ###### Article R111-2
 
 Les interprètes traducteurs inscrits sur la liste des experts judiciaires de la cour d'appel prévue à l'article 2 de la loi
-n° 71-498 du 29 juin 1971 relative aux experts judiciaires sont de droit inscrits sur la liste établie pour le tribunal de
-grande instance dans le ressort duquel est situé leur domicile ou le lieu d'exercice de leur activité professionnelle, s'ils
-en font la demande.
+n° 71-498 du 29 juin 1971 relative aux experts judiciaires sont de droit inscrits sur la liste établie pour le   tribunal
+judiciaire dans le ressort duquel est situé leur domicile ou le lieu d'exercice de leur activité professionnelle, s'ils en
+font la demande.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°71-498 du 29 juin 1971 - art. 2 (V)
+  - Loi n°71-498 du 29 juin 1971 - art. 2
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-3 (VD)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-4 (VD)
   - Code de l'entrée et du séjour des étrangers et du  - art. R111-6 (V)
 
 
 ###### Article R111-3
 
 Une personne physique ne remplissant pas la condition prévue par l'article R. 111-2 ne peut être inscrite ou réinscrite sur
-la liste que si elle remplit les conditions suivantes :
+la liste que si elle remplit les conditions suivantes : 
 
-1° Exercer son activité ou être domiciliée dans le ressort du tribunal de grande instance ;
+1° Exercer son activité ou être domiciliée dans le ressort du   tribunal judiciaire ; 
 
-2° Justifier de sa compétence par le diplôme ou l'expérience acquis dans le domaine de l'interprétariat ou de la traduction ;
+2° Justifier de sa compétence par le diplôme ou l'expérience acquis dans le domaine de l'interprétariat ou de la
+traduction ; 
 
 3° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité ou aux bonnes moeurs.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-12 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-12 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-4 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-7 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-8 (V)
@@ -19008,35 +19033,45 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-2
 
 
 ###### Article R111-4
 
-Une personne morale ne remplissant pas la condition prévue par l'article R. 111-2 ne peut être inscrite sur la liste que si :
+Une personne morale ne remplissant pas la condition prévue par l'article R. 111-2 ne peut être inscrite sur la liste que
+si : 
 
-1° Son siège est situé dans le ressort du tribunal de grande instance ;
+1° Son siège est situé dans le ressort du   tribunal judiciaire ; 
 
 2° Ses préposés susceptibles d'exercer une mission d'interprétariat ou de traduction remplissent les conditions prévues aux
-2° et 3° de l'article R. 111-3 ;
+2° et 3° de l'article R. 111-3 ; 
 
 3° Ses dirigeants satisfont aux exigences posées au 3° de l'article R. 111-3.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-2 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-2 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-3
 
 _Cité par_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-7 (VD)
   - Code de l'entrée et du séjour des étrangers et du  - art. R111-6 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-7 (V)
 
 
 ###### Article R111-5
@@ -19082,16 +19117,25 @@ _Cite_:
 
 ###### Article R111-7
 
-Le procureur de la République instruit les demandes formées en application des articles R. 111-3 et R. 111-4.
+Le procureur de la République instruit les demandes formées en application des articles R. 111-3 et R. 111-4. 
 
-Après avoir recueilli l'avis du président du tribunal de grande instance, il dresse la liste au cours de la première
-quinzaine du mois de janvier de chaque année.
+Après avoir recueilli l'avis du président du   tribunal judiciaire, il dresse la liste au cours de la première quinzaine du
+mois de janvier de chaque année.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -19099,8 +19143,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-3 (V)
-  - Code de l'entrée et du séjour des étrangers et du  - art. R111-4 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-4 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R111-3
 
 
 ###### Article R111-8
@@ -19170,23 +19214,32 @@ _Cite_:
 ###### Article R111-12
 
 Lors de leur inscription initiale sur la liste ou de leur réinscription après radiation, les interprètes traducteurs inscrits
-en application des articles R. 111-3 et R. 111-4 prêtent serment devant le tribunal de grande instance du lieu d'inscription,
-selon la formule suivante : 
+en application des articles R. 111-3 et R. 111-4 prêtent serment devant le   tribunal judiciaire du lieu d'inscription, selon
+la formule suivante : 
 
 " Je jure d'exercer ma mission en mon honneur et conscience et de ne rien révéler ou utiliser de ce qui sera porté à ma
 connaissance à cette occasion. " 
 
 Pour les personnes morales, le serment est prêté par leur représentant désigné à cet effet.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-3 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-3 (VD)
 
 
 ###### Article R111-12-1
@@ -19218,9 +19271,14 @@ la représentation des mineurs maintenus en zone d'attente ou demandeurs du stat
 des articles L. 221-5 et L. 741-3. Cette liste peut, en tant que de besoin, faire l'objet de mises à jour. 
 
 La liste des administrateurs ad hoc est tenue à la disposition du public dans les locaux du secrétariat-greffe de la cour
-d'appel et des tribunaux de grande instance. 
+d'appel et des   tribunaux judiciaires. 
 
 Elle peut également être affichée dans ces locaux.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -19230,12 +19288,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-17 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R111-20 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R111-20 (M)
   - Code de l'entrée et du séjour des étrangers et ... - art. R111-23 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R221-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R741-7 (VD)
@@ -19298,12 +19356,12 @@ _Cite_:
 
 ###### Article R111-16
 
-Les demandes d'inscription sont adressées au procureur de la République près le tribunal de grande instance dans le ressort
-duquel le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du juge des
+Les demandes d'inscription sont adressées au procureur de la République près le   tribunal judiciaire dans le ressort duquel
+le candidat a sa résidence. Le procureur instruit les demandes. Il recueille l'avis du juge des tutelles, du juge des
 enfants, du juge des libertés et de la détention, du président du conseil départemental et du directeur interrégional de la
 protection judiciaire de la jeunesse. 
 
-Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du tribunal de grande instance. 
+Il transmet le dossier, pour avis de l'assemblée générale de la juridiction, au président du   tribunal judiciaire. 
 
 Le procureur de la République transmet ensuite le dossier avec l'avis de l'assemblée générale du tribunal au procureur
 général qui en saisit le premier président de la cour d'appel aux fins d'examen par l'assemblée générale de la cour. 
@@ -19313,13 +19371,14 @@ ministère public.
 
 **Nota:**
 
-
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -21807,7 +21866,7 @@ L'autorité administrative compétente pour saisir le juge des libertés et de l
 police ou les unités de gendarmerie en application du dernier alinéa de l'article L. 214-4 est le préfet de département et, à
 Paris, le préfet de police. 
 
-Le juge compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger réside. 
+Le juge compétent est celui du   tribunal judiciaire dans le ressort duquel l'étranger réside. 
 
 A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles. 
 
@@ -21818,21 +21877,26 @@ réception.
 
 L'article R. 561-7 est applicable.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 3
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L214-4 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R561-7 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R523-9 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R541-2 (V)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L214-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R561-7
 
 
 ### TITRE II : MAINTIEN EN ZONE D'ATTENTE<a id=211></a>
@@ -22079,18 +22143,27 @@ _Cite_:
 
 ###### Article R222-1
 
-Pour l'application des articles L. 222-1 et L. 222-2, le juge des libertés et de la détention compétent est celui du tribunal
-de grande instance dans le ressort duquel l'étranger est maintenu en zone d'attente.
+Pour l'application des articles L. 222-1 et L. 222-2, le juge des libertés et de la détention compétent est celui du
+tribunal judiciaire dans le ressort duquel l'étranger est maintenu en zone d'attente.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L222-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L222-1
 
 
 ###### Article R222-2
@@ -30302,7 +30375,7 @@ L'autorité administrative compétente pour saisir le juge des libertés et de l
 police ou les unités de gendarmerie en application du deuxième alinéa de l'article L. 513-5 est le préfet de département et,
 à Paris, le préfet de police. 
 
-Le juge compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger est assigné à résidence. 
+Le juge compétent est celui du   tribunal judiciaire dans le ressort duquel l'étranger est assigné à résidence. 
 
 A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles. 
 
@@ -30313,16 +30386,21 @@ réception.
 
 L'article R. 561-7 est applicable.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 13
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L513-5 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R561-7 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L513-5
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R561-7
 
 
 ### TITRE II : L'EXPULSION<a id=321></a>
@@ -30459,13 +30537,18 @@ interprète ;
 7° Informer l'intéressé qu'il peut demander l'aide juridictionnelle dans les conditions prévues par la loi n° 91-647 du 10
 juillet 1991 et le décret n° 91-1266 du 19 décembre 1991 et préciser que l'aide juridictionnelle provisoire peut lui être
 accordée par le président de la commission ; le bureau d'aide juridictionnelle territorialement compétent pour connaître de
-la demande d'aide juridictionnelle de l'étranger est celui qui est établi près le tribunal de grande instance du chef-lieu du
+la demande d'aide juridictionnelle de l'étranger est celui qui est établi près le   tribunal judiciaire du chef-lieu du
 département dans lequel siège la commission ; 
 
 8° Préciser que l'étranger ou son conseil peut demander communication du dossier au service dont la dénomination et l'adresse
 doivent être indiquées dans la convocation et présenter un mémoire en défense ; 
 
 9° Indiquer les voies de recours qui seraient ouvertes à l'étranger contre l'arrêté d'expulsion qui pourrait être pris.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -30482,7 +30565,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-533 du 24 juin 2013 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R522-6
@@ -31383,21 +31466,30 @@ _Cité par_:
 
 Dès son arrivée au lieu de rétention, chaque étranger est mis en mesure de communiquer avec toute personne de son choix, avec
 les autorités consulaires du pays dont il déclare avoir la nationalité et avec son avocat s'il en a un, ou, s'il n'en a pas,
-avec la permanence du barreau du tribunal de grande instance dans le ressort duquel se trouve le lieu de rétention. 
+avec la permanence du barreau du   tribunal judiciaire dans le ressort duquel se trouve le lieu de rétention. 
 
 Quel que soit le lieu de rétention dans lequel l'étranger est placé, un procès-verbal de la procédure de notification des
 droits en rétention est établi. Il est signé par l'intéressé, qui en reçoit un exemplaire, le fonctionnaire qui en est
 l'auteur et, le cas échéant, l'interprète. Ces références sont portées sur le registre mentionné à l'article L. 553-1.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L553-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L553-1
 
 
 #### Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention<a id=336></a>
@@ -31408,8 +31500,13 @@ _Cite_:
 
 ###### Article R552-1
 
-Pour l'application des articles L. 552-1 à L. 552-8, le juge des libertés et de la détention compétent est celui du tribunal
-de grande instance dans le ressort duquel l'étranger est maintenu en rétention ou assigné à résidence.
+Pour l'application des articles L. 552-1 à L. 552-8, le juge des libertés et de la détention compétent est celui du
+tribunal judiciaire dans le ressort duquel l'étranger est maintenu en rétention ou assigné à résidence.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31417,18 +31514,18 @@ _Codifié par_:
 
   - Décret n°2006-1378 du 14 novembre 2006
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2016-1457 du 28 octobre 2016 - art. 21
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-1 (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-10-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R552-11 (VD)
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-1
 
 
 ###### Article R552-2
@@ -31665,11 +31762,16 @@ _Cite_:
 
 ###### Article R552-11
 
-Pour la mise en oeuvre de l'article L. 552-7, les règles prévues à la section 1 du présent chapitre sont applicables.
+Pour la mise en oeuvre de l'article L. 552-7, les règles prévues à la section 1 du présent chapitre sont applicables. 
 
 Toutefois, par dérogation à l'article R. 552-1, le juge des libertés et de la détention compétent pour faire application des
-dispositions du quatrième alinéa de l'article L. 552-7 est celui du tribunal de grande instance de Paris. Il en est de même
-s'il est fait application du cinquième alinéa de l'article L. 552-7 après qu'il a été fait application du quatrième.
+dispositions du quatrième alinéa de l'article L. 552-7 est celui du   tribunal judiciaire de Paris. Il en est de même s'il
+est fait application du cinquième alinéa de l'article L. 552-7 après qu'il a été fait application du quatrième.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31679,12 +31781,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1159 du 14 décembre 2018 - art. 6
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. R552-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-7
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R552-1
 
 
 ##### Section 3 : Voies de recours<a id=341></a>
@@ -31733,10 +31835,15 @@ _Cite_:
 ###### Article R552-13
 
 A peine d'irrecevabilité, le premier président ou son délégué est saisi par une déclaration d'appel motivée transmise par
-tout moyen au greffe de la cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure.
+tout moyen au greffe de la cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure. 
 
-Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de grande instance qui lui transmet sans délai le
+Le greffier de la cour d'appel avise immédiatement le greffier du   tribunal judiciaire qui lui transmet sans délai le
 dossier.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -31746,7 +31853,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 23
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R552-14
@@ -32000,14 +32107,19 @@ _Cite_:
 Le premier président ou son délégué est saisi par une déclaration d'appel motivée transmise par tout moyen au greffe de la
 cour d'appel. La déclaration est enregistrée avec mention de la date et de l'heure. 
 
-Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de grande instance qui lui transmet sans délai le
+Le greffier de la cour d'appel avise immédiatement le greffier du   tribunal judiciaire qui lui transmet sans délai le
 dossier.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-817 du 22 août 2008 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article R552-22
@@ -33391,7 +33503,7 @@ L'autorité administrative compétente pour saisir le juge des libertés et de l
 police ou les unités de gendarmerie en application du II de l'article L. 561-2 est le préfet de département ou, à Paris, le
 préfet de police. 
 
-Le juge compétent est celui du tribunal de grande instance dans le ressort duquel l'étranger est assigné à résidence. 
+Le juge compétent est celui du   tribunal judiciaire dans le ressort duquel l'étranger est assigné à résidence. 
 
 A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles. 
 
@@ -33400,50 +33512,60 @@ La requête est transmise par tout moyen au greffe du tribunal.
 Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timbre indiquant la date et l'heure de la
 réception.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1457 du 28 octobre 2016 - art. 31
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-2
 
 
 ###### Article R561-7
 
 L'ordonnance du juge des libertés et de la détention est susceptible d'appel dans les vingt-quatre heures de sa notification,
 par l'étranger et par l'autorité administrative requérante. A peine d'irrecevabilité, la déclaration d'appel est motivée.
-Elle est enregistrée avec mention de la date et de l'heure.
+Elle est enregistrée avec mention de la date et de l'heure. 
 
-Le greffier de la cour d'appel avise immédiatement le greffier du tribunal de grande instance qui lui transmet sans délai le
-dossier.
+Le greffier de la cour d'appel avise immédiatement le greffier du   tribunal judiciaire qui lui transmet sans délai le
+dossier. 
 
 Lorsque le premier président de la cour d'appel ou son délégué envisage de faire application des dispositions de la dernière
 phrase du sixième alinéa du II de l'article L. 561-2, il recueille par tout moyen les observations des parties sur le
-caractère manifestement irrecevable de l'appel.
+caractère manifestement irrecevable de l'appel. 
 
 Sont manifestement irrecevables au sens de la dernière phrase du sixième alinéa du II de l'article L. 561-2 notamment les
-déclarations d'appel formées tardivement, hors du délai prévu, et les déclarations d'appel non motivées.
+déclarations d'appel formées tardivement, hors du délai prévu, et les déclarations d'appel non motivées. 
 
 Lorsque le premier président ne fait pas application des dispositions de la dernière phrase du sixième alinéa du II de
 l'article L. 561-2, le greffier de la cour d'appel fait connaître aux parties et au ministère public la date de l'audience au
-fond.
+fond. 
 
 L'autorité administrative requérante, l'avocat de l'étranger et l'étranger lui-même peuvent demander à être entendus à
-l'audience.
+l'audience. 
 
-Le ministère public peut faire connaître son avis.
+Le ministère public peut faire connaître son avis. 
 
 L'ordonnance est communiquée au ministère public. Elle est notifiée par tout moyen et dans les meilleurs délais à l'étranger
 et à son conseil, s'il en a un, ainsi qu'à l'autorité administrative requérante, qui en accusent réception.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 35
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -38344,23 +38466,33 @@ _Cite_:
 
 ###### Article R742-5
 
-Pour l'application du troisième alinéa de l'article L. 742-2, le juge compétent est celui du tribunal de grande instance dans
-le ressort duquel l'étranger est assigné à résidence. 
+Pour l'application du troisième alinéa de l'article L. 742-2, le juge compétent est celui du   tribunal judiciaire dans le
+ressort duquel l'étranger est assigné à résidence. 
 
-A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles.
+A peine d'irrecevabilité, la requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles. 
 
-La requête est transmise par tout moyen au greffe du tribunal.
+La requête est transmise par tout moyen au greffe du tribunal. 
 
 Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timbre indiquant la date et l'heure de la
-réception.
+réception. 
 
 L'article R. 561-7 est applicable.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1159 du 14 décembre 2018 - art. 15
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+
+_Cite_:
+
+  - Code de l'entrée et du séjour des étrangers et ... - art. R561-7 (VD)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
 
 _Cité par_:
 
@@ -38368,11 +38500,6 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R762-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R763-1 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R764-1 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L742-2
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R561-7
 
 
 #### Chapitre III : Droit au maintien sur le territoire français<a id=429></a>
