@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -23689,15 +23689,14 @@ _Cite_:
 ###### Article D311-18-2
 
 a) Tout employeur qui embauche un travailleur étranger pour un emploi temporaire d'une durée supérieure à trois mois et
-inférieure à douze mois acquitte, au profit de l'Office français de l'immigration et de l'intégration, la taxe mentionnée à
-l'article L. 311-15 selon les modalités suivantes : 
+inférieure à douze mois acquitte, la taxe mentionnée à l'article L. 311-15 selon les modalités suivantes :
 
 1. 74 euros lorsque le salaire versé à ce travailleur étranger est inférieur ou égal au montant mensuel à temps plein du
-salaire minimum de croissance ; 
+salaire minimum de croissance ;
 
 2. 210 euros lorsque le salaire versé à ce travailleur étranger est supérieur au montant mensuel à temps plein du salaire
 minimum de croissance et inférieur ou égal à une fois et demie le montant mensuel à temps plein du salaire minimum de
-croissance ; 
+croissance ;
 
 3. 300 euros lorsque le salaire versé à ce travailleur étranger est supérieur à une fois et demie le montant mensuel à temps
 plein du salaire minimum de croissance.
@@ -23709,7 +23708,7 @@ professionnels, le montant de la taxe prévue à l'article L. 311-15 est de 72 e
 
 _Modifié par_:
 
-  - Décret n°2011-2062 du 29 décembre 2011 - art. 3
+  - Décret n°2020-164 du 26 février 2020 - art. 1
 
 _Cité par_:
 
@@ -35483,11 +35482,11 @@ I. - Au vu des procès-verbaux qui lui sont transmis en application de l'article
 général de l'Office français de l'immigration et de l'intégration indique à l'employeur, par lettre recommandée avec avis de
 réception ou par tout autre moyen permettant de faire la preuve de sa date de réception par le destinataire, que les
 dispositions de l'article L. 626-1 sont susceptibles de lui être appliquées et qu'il peut présenter ses observations dans un
-délai de quinze jours. 
+délai de quinze jours.
 
 II. - A l'expiration du délai fixé, le directeur général décide, au vu des observations éventuelles de l'employeur, de
-l'application de la contribution forfaitaire prévue à l'article L. 626-1, la liquide et émet le titre de perception
-correspondant. 
+l'application de la contribution forfaitaire prévue à l'article L. 626-1. Le ministre chargé de l'immigration est l'autorité
+compétente pour la liquider et émettre le titre de perception correspondant.
 
 La créance est recouvrée par le comptable public compétent comme en matière de créances étrangères à l'impôt et au domaine.
 
@@ -35499,7 +35498,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-812 du 16 juin 2012 - art. 5
+  - Décret n°2020-163 du 26 février 2020 - art. 4
 
 _Cité par_:
 
