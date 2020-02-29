@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-02-28
+Version Consolidée au 2020-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3785,31 +3785,6 @@ _Modifié par_:
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (V)
-
-
-###### Article L311-17
-
-Le produit des taxes et des droits prévus aux articles L. 311-13, L. 311-14 et L. 311-16 du présent code, aux IV et V de
-l'article 953 et aux articles 954 et 958 du code général des impôts peut être recouvré par l'Office français de l'immigration
-et de l'intégration.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 63
-
-_Abrogé par_:
-
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 169
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 953
-  - Code général des impôts, CGI. - art. 954
-  - Code général des impôts, CGI. - art. 958
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-13
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L311-16
 
 
 ###### Article L311-18
