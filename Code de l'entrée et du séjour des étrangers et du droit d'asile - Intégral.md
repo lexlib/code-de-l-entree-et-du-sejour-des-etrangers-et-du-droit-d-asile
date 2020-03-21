@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-03-01
+Version Consolidée au 2020-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -26540,9 +26540,8 @@ critères suivants :
 1° L'entreprise est ou a été bénéficiaire au cours des cinq dernières années d'un soutien public à l'innovation figurant sur
 une liste fixée par arrêté du ministre chargé de l'économie ;
 
-2° Le capital de l'entreprise est pour partie détenu par une personne morale ou un fonds d'investissement alternatif ayant
-pour objet principal de financer ou d'investir dans des entreprises innovantes et dont les titres ne sont pas cotés. La liste
-de ces personnes morales et fonds d'investissement est fixée par arrêté du ministre chargé de l'économie ;
+2° Le capital de l'entreprise est ou a été au cours des cinq dernières années en totalité ou pour partie détenu par une
+entité d'investissement ayant pour objet principal de financer ou d'investir dans des entreprises innovantes ;
 
 3° L'entreprise est ou a été accompagnée au cours des cinq dernières années par une structure d'accompagnement dédiée aux
 entreprises innovantes.
@@ -26555,7 +26554,7 @@ l'intérieur et du ministère chargé de l'économie.
 
 **Nota:**
 
-Conformément à l’article 2 du décret n° 2019-152 du 28 février 2019, ces dispositions sont applicables à Saint-Martin et à
+Conformément à l’article 2 du décret n° 2020-283 du 20 mars 2020, ces dispositions sont applicables à Saint-Martin et à
 Saint-Barthélemy.
 
 **Liens relatifs à cet article**
@@ -26567,9 +26566,9 @@ _Cité par_:
   - Décret n°2020-283 du 20 mars 2020 (V)
   - Arrêté du 23 mars 2020 - art. 5 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2019-152 du 28 février 2019 - art. 1
+  - Décret n°2020-283 du 20 mars 2020 - art. 1
 
 
 ###### Article D313-46-1
