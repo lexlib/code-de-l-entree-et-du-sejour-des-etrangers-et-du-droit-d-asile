@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-03-24
+Version Consolidée au 2020-06-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -34403,7 +34403,11 @@ procédure pénale, par les services de la police et de la gendarmerie nationale
 5° A faciliter l'identification des étrangers en situation irrégulière en vue de leur éloignement ;
 
 6° A faciliter la détermination et la vérification de l'identité d'un étranger qui se déclare mineur privé temporairement ou
-définitivement de la protection de sa famille.
+définitivement de la protection de sa famille ;
+
+7° A permettre aux organismes de sécurité sociale de vérifier la situation au regard du droit au séjour des personnes
+sollicitant une prise en charge au titre de l'aide médicale de l'Etat prévue aux trois premiers alinéas de l'article L. 251-1
+du code de l'action sociale et des familles et des soins urgents mentionnés à l'article L. 254-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -34417,12 +34421,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-57 du 30 janvier 2019 - art. 3
+  - Décret n°2020-715 du 11 juin 2020 - art. 1
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-6
   - Code de procédure pénale - art. 78-3
+  - Code de l'action sociale et des familles - art. L251-1
 
 
 ###### Article R611-9
@@ -34568,6 +34572,11 @@ respectivement par le directeur général dont ils relèvent ;
 individuellement désignés et spécialement habilités par le directeur dont ils relèvent, pour les seuls besoins de la
 prévention des atteintes aux intérêts fondamentaux de la nation et des actes de terrorisme.
 
+IV. - A la seule fin d'effectuer les vérifications mentionnées au 7° de l'article R. 611-8, peuvent consulter les données
+relatives au nom, au prénom, à la date et au pays de naissance, à la photographie de l'étranger ainsi qu'à la délivrance d'un
+visa, à sa date, à sa durée de validité et aux documents de voyage les agents des organismes de sécurité sociale
+individuellement désignés et spécialement habilités par les directeurs de ces organismes.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -34577,55 +34586,43 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-57 du 30 janvier 2019 - art. 3
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R611-8 (M)
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R311-3
-  - Code de procédure pénale - art. 78-3
-  - Code de l'action sociale et des familles - art. R221-11
-  - Code de la sécurité intérieure - art. L222-1
-  - Code de la sécurité intérieure - art. R222-1
+  - Décret n°2020-715 du 11 juin 2020 - art. 2
 
 
 ###### Article R611-13
 
-Les droits d'accès et de rectification, prévus par les articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978, s'exercent
-auprès, du ministère des affaires étrangères (direction des Français à l'étranger et de l'administration consulaire), du
-ministère chargé de l'immigration (direction de l'immigration) ou du service où la demande de visa a été déposée. 
-
-Les services ci-dessus mentionnés, saisis de demandes tendant à l'exercice du droit de rectification, informent par écrit et
-sans frais leur auteur des éventuelles rectifications auxquelles ils ont procédé.
+Les droits d'information, d'accès, de rectification et à la limitation s'exercent auprès du ministère des affaires étrangères
+(direction des Français à l'étranger et de l'administration consulaire), du ministère chargé de l'immigration (direction de
+l'immigration) ou du service où la demande de visa a été déposée, dans les conditions prévues respectivement aux articles 13,
+15, 16 et 18 du règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du
+traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 - art. 39
-
 _Modifié par_:
 
-  - Décret n°2010-645 du 10 juin 2010 - art. 6
+  - Décret n°2020-715 du 11 juin 2020 - art. 3
 
 
 ###### Article R611-14
 
-Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 susmentionnée ne s'applique pas au présent traitement.
+Conformément à l'article 23 du règlement (UE) 2016/679 du 27 avril 2016 et afin de garantir le droit au séjour des personnes
+en situation régulière et de lutter contre l'entrée et le séjour irréguliers des étrangers, le droit d'opposition ne
+s'applique pas au présent traitement.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 38
 
 _Codifié par_:
 
-  - Décret n°2006-1378 2006-11-14 JORF 15 novembre 2006
+  - Décret n°2006-1378 du 14 novembre 2006
 
 _Modifié par_:
 
-  - Décret n°2007-1560 du 2 novembre 2007 - art. 2 () JORF 3 novembre 2007
+  - Décret n°2020-715 du 11 juin 2020 - art. 4
 
 
 ###### Article R611-15
