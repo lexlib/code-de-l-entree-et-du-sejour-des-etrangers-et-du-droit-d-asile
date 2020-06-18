@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-06-14
+Version Consolidée au 2020-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -3203,9 +3203,9 @@ _Cite_:
 
 ###### Article L311-4
 
-La détention d'une attestation de demande de délivrance ou de renouvellement d'un titre de séjour, d'une attestation de
-demande d'asile ou d'une autorisation provisoire de séjour autorise la présence de l'étranger en France sans préjuger de la
-décision définitive qui sera prise au regard de son droit au séjour. Sauf dans les cas expressément prévus par la loi ou les
+La détention d'un document provisoire délivré à l'occasion d'une demande de titre de séjour, d'une attestation de demande
+d'asile ou d'une autorisation provisoire de séjour autorise la présence de l'étranger en France sans préjuger de la décision
+définitive qui sera prise au regard de son droit au séjour. Sauf dans les cas expressément prévus par la loi ou les
 règlements, ces documents n'autorisent pas leurs titulaires à exercer une activité professionnelle.
 
 Entre la date d'expiration de la carte de séjour pluriannuelle d'une durée de quatre ans mentionnée au premier alinéa de
@@ -3249,13 +3249,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 63 (V)
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 
 ###### Article L311-5
 
-La délivrance d'une autorisation provisoire de séjour, d'un récépissé de demande de titre de séjour ou d'une attestation
-mentionnée aux articles L. 741-1, 
+La délivrance d'une autorisation provisoire de séjour, d'un document provisoire délivré à l'occasion d'une demande de titre
+de séjour ou d'une attestation mentionnée aux articles L. 741-1, 
 L. 742-1 ou L. 743-1 n'a pas pour effet de régulariser les conditions de l'entrée en France, sauf s'il s'agit d'un étranger
 qui s'est vu reconnaître la qualité de réfugié ou accorder le bénéfice de la protection subsidiaire en application du livre
 VII.
@@ -3284,7 +3284,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 _Cite_:
 
@@ -3296,20 +3296,19 @@ _Cite_:
 ###### Article L311-5-1
 
 L'étranger auquel la qualité de réfugié est reconnue par l'Office français de protection des réfugiés et apatrides ou la Cour
-nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident. 
+nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de résident.
 
-Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour,
-qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable et qui porte la mention “ reconnu réfugié
-”. 
+Dans l'attente de la délivrance de la carte de résident, l'étranger a le droit d'exercer la profession de son choix dans les
+conditions prévues à l'article L. 314-4.
 
-Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
-314-4.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'étranger est autorisé à séjourner en France dans
+l'attente de la délivrance de la carte de résident.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 _Cite_:
 
@@ -3319,19 +3318,19 @@ _Cite_:
 ###### Article L311-5-2
 
 L'étranger qui s'est vu accorder le bénéfice de la protection subsidiaire par l'Office français de protection des réfugiés et
-apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour. 
+apatrides ou la Cour nationale du droit d'asile est admis à souscrire une demande de délivrance de carte de séjour.
 
-Dans un délai de huit jours à compter de sa demande, il est mis en possession d'un récépissé de demande de titre de séjour,
-qui vaut autorisation de séjour d'une durée de validité de six mois renouvelable. 
+Dans l'attente de la délivrance de la carte de séjour mentionnée au présent article, l'étranger a le droit d'exercer la
+profession de son choix dans les conditions prévues à l'article L. 314-4.
 
-Ce récépissé confère à son titulaire le droit d'exercer la profession de son choix dans les conditions prévues à l'article L.
-314-4.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'étranger est autorisé à séjourner en France dans
+l'attente de la délivrance de cette carte de séjour.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-925 du 29 juillet 2015 - art. 21
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 _Cite_:
 
@@ -3886,10 +3885,10 @@ L'étranger est convoqué par écrit au moins quinze jours avant la date de la r
 les trois mois qui suivent sa saisine ; il peut être assisté d'un conseil ou de toute personne de son choix et être entendu
 avec l'assistance d'un interprète. L'étranger peut demander le bénéfice de l'aide juridictionnelle dans les conditions
 prévues par la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique, cette faculté étant mentionnée dans la
-convocation. L'admission provisoire à l'aide juridictionnelle peut être prononcée par le président de la commission. 
+convocation. L'admission provisoire à l'aide juridictionnelle peut être prononcée par le président de la commission.
 
-S'il ne dispose pas d'une carte de séjour temporaire ou si celle-ci est périmée, l'étranger reçoit, dès la saisine de la
-commission, un récépissé valant autorisation provisoire de séjour jusqu'à ce que l'autorité administrative ait statué.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'étranger est autorisé à séjourner en France jusqu'à ce
+que l'autorité administrative ait statué.
 
 **Liens relatifs à cet article**
 
@@ -3899,10 +3898,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°91-647 du 10 juillet 1991 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-11 (VT)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L431-3 (V)
+  - Loi n°91-647 du 10 juillet 1991
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L314-11
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L431-3
 
 _Cité par_:
 
@@ -3912,8 +3911,12 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 
 ###### Article L312-3
@@ -7740,8 +7743,8 @@ avait été délivré lui a été retiré ;
 4° Si l'étranger n'a pas demandé le renouvellement de son titre de séjour temporaire ou pluriannuel et s'est maintenu sur le
 territoire français à l'expiration de ce titre ;
 
-5° Si le récépissé de la demande de carte de séjour ou l'autorisation provisoire de séjour qui avait été délivré à l'étranger
-lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
+5° Si le document provisoire délivré à l'occasion d'une demande de titre de séjour ou l'autorisation provisoire de séjour qui
+avait été délivré à l'étranger lui a été retiré ou si le renouvellement de ces documents lui a été refusé ;
 
 6° Si la reconnaissance de la qualité de réfugié ou le bénéfice de la protection subsidiaire a été définitivement refusé à
 l'étranger ou si l'étranger ne bénéficie plus du droit de se maintenir sur le territoire français en application des articles
@@ -7781,9 +7784,9 @@ le territoire français :
 
 1° Si le comportement de l'étranger constitue une menace pour l'ordre public ;
 
-2° Si l'étranger s'est vu refuser la délivrance ou le renouvellement de son titre de séjour, de son récépissé de demande de
-carte de séjour ou de son autorisation provisoire de séjour au motif que sa demande était ou manifestement infondée ou
-frauduleuse ;
+2° Si l'étranger s'est vu refuser la délivrance ou le renouvellement de son titre de séjour, du document provisoire délivré à
+l'occasion d'une demande de titre de séjour ou de son autorisation provisoire de séjour au motif que sa demande était ou
+manifestement infondée ou frauduleuse ;
 
 3° S'il existe un risque que l'étranger se soustraie à cette obligation. Ce risque peut être regardé comme établi, sauf
 circonstance particulière, dans les cas suivants :
@@ -7795,9 +7798,9 @@ b) Si l'étranger s'est maintenu sur le territoire français au-delà de la dur�
 soumis à l'obligation du visa, à l'expiration d'un délai de trois mois à compter de son entrée en France, sans avoir
 sollicité la délivrance d'un titre de séjour ;
 
-c) Si l'étranger s'est maintenu sur le territoire français plus d'un mois après l'expiration de son titre de séjour, de son
-récépissé de demande de carte de séjour ou de son autorisation provisoire de séjour, sans en avoir demandé le
-renouvellement ;
+c) Si l'étranger s'est maintenu sur le territoire français plus d'un mois après l'expiration de son titre de séjour, du
+document provisoire délivré à l'occasion d'une demande de titre de séjour ou de son autorisation provisoire de séjour, sans
+en avoir demandé le renouvellement ;
 
 d) Si l'étranger s'est soustrait à l'exécution d'une précédente mesure d'éloignement ;
 
@@ -7939,16 +7942,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 23
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L552-4 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L561-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L121-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L552-4
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L561-1
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L743-2
-  - Code du travail - art. L5221-5 (V)
+  - Code du travail - art. L5221-5
 
 
 ###### Article L511-2
@@ -17980,7 +17983,7 @@ _Cite_:
 ###### Article L765-1
 
 L'étranger qui, arrivant ou séjournant dans les Terres australes et antarctiques françaises, demande l'admission au titre de
-l'asile est entendu par l'autorité administrative, laquelle recueille sa demande et lui en délivre récépissé.
+l'asile est entendu par l'autorité administrative, laquelle recueille sa demande.
 
 L'intéressé est ensuite invité à quitter sans délai les Terres australes et antarctiques françaises et à rejoindre La
 Réunion, où sa demande sera traitée dans les conditions prévues par le présent livre.
@@ -17989,6 +17992,9 @@ Si l'étranger n'est pas en mesure de se rendre à La Réunion par ses propres m
 l'administrateur supérieur, soit par la personne qui l'a acheminé dans le territoire, soit par un navire de la marine
 nationale, soit par un navire ou un aéronef affrété pour le compte du territoire. Dans l'attente, il est autorisé à se
 maintenir sur le territoire.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'autorité administrative autorise la présence de
+l'étranger en France pendant l'instruction de sa demande.
 
 **Liens relatifs à cet article**
 
@@ -17999,8 +18005,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2020-734 du 17 juin 2020 - art. 16
 
 _Cité par_:
 
