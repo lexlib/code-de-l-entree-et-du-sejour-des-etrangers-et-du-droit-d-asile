@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-06-19
+Version Consolidée au 2020-06-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -4402,13 +4402,9 @@ _Cite_:
 La carte de séjour temporaire accordée à l'étranger qui établit qu'il suit en France un stage dans le cadre d'une convention
 de stage visée par l'autorité administrative compétente et qu'il dispose de moyens d'existence suffisants porte la mention "
 stagiaire ". En cas de nécessité liée au déroulement du stage, et sous réserve d'une entrée régulière en France, l'autorité
-administrative peut accorder cette carte de séjour sans que la condition prévue à l'article L. 313-2 soit exigée. 
+administrative peut accorder cette carte de séjour sans que la condition prévue à l'article L. 313-2 soit exigée.
 
-L'association qui procède au placement d'un étranger désireux de venir en France en vue d'y accomplir un stage doit être
-agréée. 
-
-Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent article, et notamment les modalités
-d'agrément des associations par arrêté ministériel.
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions du présent article.
 
 **Liens relatifs à cet article**
 
@@ -4422,7 +4418,7 @@ _Cité par_:
   - Arrêté du 25 juin 2009 - art. 1 (V)
   - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. D311-18-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VT)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L311-13 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L313-17 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R311-3 (V)
@@ -4432,11 +4428,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-274 du 7 mars 2016 - art. 20
+  - Décret n°2020-748 du 18 juin 2020 - art. 1
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L313-2 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-2
 
 
 ###### Article L313-7-2
@@ -25218,28 +25214,26 @@ _Cite_:
 ###### Article R313-10-3
 
 I. ― La convention de stage est conclue entre le stagiaire, l'établissement de formation ou l'employeur établi à l'étranger
-et l'entreprise d'accueil en France ou l'organisme de formation mentionné à l'article L. 6351-1 du code du travail. Elle est
-également signée par l'association mentionnée à l'article R. 313-10-5 du présent code qui a, le cas échéant, permis sa
-conclusion. 
+et l'entreprise d'accueil en France ou l'organisme de formation mentionné à l'article L. 6351-1 du code du travail.
 
 La convention de stage comporte les clauses prévues par le décret pris pour l'application du deuxième alinéa de l'article L.
-124-1 du code de l'éducation, sauf lorsqu'une clause est manifestement sans objet. 
+124-1 du code de l'éducation, sauf lorsqu'une clause est manifestement sans objet.
 
 Dans le cas prévu au 1° de l'article R. 313-10-1, le stagiaire bénéficie d'une gratification dans les conditions prévues par
-l'article L. 124-6 du code de l'éducation. 
+l'article L. 124-6 du code de l'éducation.
 
 Dans le cas prévu au 3° de l'article R. 313-10-1, la convention de stage est conclue entre le stagiaire, l'établissement
 d'accueil, l'organisme partie à la convention de coopération internationale mentionnée à l'article L. 6134-1 du code de la
-santé publique et, s'il est différent, l'organisme qui prend en charge le remboursement des éléments de rémunération. 
+santé publique et, s'il est différent, l'organisme qui prend en charge le remboursement des éléments de rémunération.
 
 La convention de stage ne peut pas conférer au stagiaire la qualité de salarié dans l'entreprise ou dans l'établissement de
-santé qui le reçoit. 
+santé qui le reçoit.
 
 II. ― Dans le cas prévu au 1° de l'article R. 313-10-1, la durée du stage ne peut pas excéder six mois lorsqu'il relève d'une
-formation professionnelle. 
+formation professionnelle.
 
 Dans le cas prévu au 2° de l'article R. 313-10-1, la durée initiale du stage ne peut pas excéder douze mois. Le stage ne peut
-être prolongé qu'une seule fois, sans que la durée totale du stage puisse dépasser dix-huit mois. 
+être prolongé qu'une seule fois, sans que la durée totale du stage puisse dépasser dix-huit mois.
 
 Dans le cas prévu au 3° de l'article R. 313-10-1, la durée initiale du stage ne peut pas excéder six mois. Le stage peut être
 prolongé pour une durée maximale de six mois. Le ressortissant étranger peut prétendre au bénéfice de plusieurs conventions
@@ -25249,18 +25243,18 @@ de stage dont la durée totale ne peut excéder vingt-quatre mois.
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+  - Décret n°2020-748 du 18 juin 2020 - art. 2
 
 _Cité par_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-4 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-4 (V)
 
 _Cite_:
 
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-5 (Ab)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-5
-  - Code de l'éducation - art. L124-1 (V)
-  - Code de l'éducation - art. L124-6 (V)
+  - Code de l'éducation - art. L124-1
+  - Code de l'éducation - art. L124-6
   - Code du travail - art. L6351-1
   - Code de la santé publique - art. L6134-1
 
@@ -25268,24 +25262,23 @@ _Cite_:
 ###### Article R313-10-4
 
 I. ― La convention de stage est transmise au préfet par lettre recommandée avec demande d'avis de réception au moins deux
-mois avant la date de début du stage, soit par l'entreprise, l'organisme de formation ou l'établissement public de santé ou
-l'organisme de formation qui souhaite accueillir un stagiaire, soit par l'association qui a, le cas échéant, également signé
-la convention. 
+mois avant la date de début du stage par l'entreprise, l'organisme de formation ou l'établissement public de santé ou
+l'organisme de formation qui souhaite accueillir un stagiaire.
 
 Le préfet vise la convention de stage dans les trente jours suivant sa réception ; il la transmet à l'étranger et en informe
 la personne qui la lui a transmise. Il refuse de viser la convention si la réalité du projet de stage n'est pas établie, si
 la convention n'est pas conforme aux dispositions prévues par l'article R. 313-10-3 ou lorsque l'entreprise d'accueil ne
 respecte pas la législation relative au travail ou à la protection sociale ; dans ce cas, il notifie sa décision de refus à
 l'étranger et renvoie la convention à la personne qui la lui a transmise. Le silence gardé pendant trente jours par le préfet
-vaut décision de rejet. 
+vaut décision de rejet.
 
 Les délais mentionnés aux deux alinéas précédents sont ramenés à respectivement un mois et quinze jours lorsque le stage
-relève d'un programme de coopération de l'Union européenne ou intergouvernemental. 
+relève d'un programme de coopération de l'Union européenne ou intergouvernemental.
 
 II. ― En cas de prolongation de la durée du stage prévu au 2° ou au 3° de l'article R. 313-10-1, un avenant à la convention
 de stage est transmis au préfet par lettre recommandée avec demande d'avis de réception au moins quinze jours avant la date
 de fin du stage initialement prévue par l'organisme de formation ou l'entreprise d'accueil. Le silence gardé pendant quinze
-jours par le préfet vaut décision d'acceptation. 
+jours par le préfet vaut décision d'acceptation.
 
 III. ― La convention de stage, son avenant éventuel et les éléments de preuve du visa par le préfet sont présentés à toute
 demande des agents de contrôle mentionnés à l'article L. 8271-1-2 du code du travail ou dans le cadre d'une inspection visant
@@ -25295,71 +25288,17 @@ l'organisation administrative ou sanitaire d'un établissement public de santé.
 
 _Modifié par_:
 
-  - Décret n°2016-1456 du 28 octobre 2016 - art. 8
+  - Décret n°2020-748 du 18 juin 2020 - art. 2
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-1 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-3 (M)
-  - Code du travail - art. L8271-1-2 (V)
+  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-3 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-1
+  - Code du travail - art. L8271-1-2
 
 _Cité par_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. R832-1 (V)
-
-
-###### Article R313-10-5
-
-I. ― L'agrément mentionné à l'article L. 313-7-1 est délivré pour une durée de trois ans renouvelable par arrêté du ministre
-chargé de l'immigration aux associations ayant pour objet le placement d'étrangers désireux de venir en France en vue d'y
-accomplir un stage en entreprise ou d'y suivre une formation professionnelle. 
-
-L'agrément est accordé si l'association dispose d'une organisation, de moyens et de compétences professionnelles adaptés à
-l'activité de placement pour laquelle elle demande l'agrément. Une association dont un membre chargé de l'activité de
-placement a été condamné pour des faits incompatibles avec l'exercice de cette activité au cours des cinq années précédant le
-dépôt de la demande ne peut pas être agréée. 
-
-II. ― La demande d'agrément, accompagnée d'un dossier dont la composition est fixée par arrêté du ministre chargé de
-l'immigration, est adressée au ministre par lettre recommandée avec demande d'avis de réception par le représentant légal de
-l'association. La demande de renouvellement, accompagnée d'un rapport d'activité dont le contenu est fixé par arrêté du
-ministre chargé de l'immigration, est adressée dans les mêmes formes et dans un délai de quatre mois avant l'expiration de
-l'agrément. 
-
-La décision d'agrément est notifiée à l'association. Lorsque la demande de renouvellement a été régulièrement présentée, le
-silence gardé pendant deux mois par le ministre vaut décision de renouvellement de l'agrément. Le refus d'agrément ou de
-renouvellement est motivé. 
-
-L'agrément peut être retiré ou suspendu lorsque l'association ne respecte pas la réglementation relative à l'exercice de
-l'activité pour laquelle elle est agréée. 
-
-La décision portant retrait, suspension ou refus de renouvellement de l'agrément ne peut être prononcée sans que
-l'association ait été invitée à faire part de ses observations par écrit. 
-
-III. ― L'association agréée informe le ministre de toute modification de ses statuts ou de ses conditions de fonctionnement
-au regard de l'activité pour laquelle elle est agréée. Elle tient à la disposition des inspecteurs et contrôleurs du travail
-la liste des établissements d'accueil et des stagiaires concernés par cette activité. 
-
-IV. ― Le fait de se livrer à une activité de placement en entreprise d'un stagiaire mentionné à l'article R. 313-10-1 sans
-détenir l'agrément mentionné à l'article L. 313-7-1 est puni de l'amende prévue pour les contraventions de la 5e classe.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-609 du 29 mai 2009 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2020-748 du 18 juin 2020 - art. 3
-
-_Cité par_:
-
-  - Code de l'entrée et du séjour des étrangers et ... - art. R313-10-3 (V)
-
-_Cite_:
-
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L313-7-1
-  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. R313-10-1
 
 
 ###### Article R313-10-6
