@@ -1,5 +1,5 @@
 # Code de l'entrée et du séjour des étrangers et du droit d'asile  
-Version Consolidée au 2020-06-20
+Version Consolidée au 2020-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L900-1)](#1)
     - [LIVRE Ier : DISPOSITIONS GÉNÉRALES APPLICABLES AUX ÉTRANGERS ET AUX RESSORTISSANTS DE CERTAINS ÉTATS (art. L111-1 à L122-3)](#2)
@@ -5750,7 +5750,8 @@ ait été célébré depuis au moins un an et sous réserve d'une communauté de
 
 La carte délivrée en application du 1° du présent article porte la mention “ bénéficiaire de la protection subsidiaire ”. La
 carte délivrée en application des 2° à 5° porte la mention “ membre de la famille d'un bénéficiaire de la protection
-subsidiaire ”.
+subsidiaire ”. La carte délivrée en application du 3° ne peut être retirée par l'autorité administrative en application de
+l'article L. 313-5-1 lorsque la communauté de vie a été rompue en raison de violences familiales ou conjugales.
 
 Le délai pour la délivrance de la carte de séjour pluriannuelle à compter de la décision d'octroi de la protection
 subsidiaire par l'Office français de protection des réfugiés et apatrides ou la Cour nationale du droit d'asile est fixé par
@@ -5765,10 +5766,6 @@ fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliqu
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2018-778 du 10 septembre 2018 - art. 1
-
 _Cité par_:
 
   - Décret n°2019-141 du 27 février 2019 - art. 37
@@ -5780,6 +5777,10 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L512-2 (V)
   - Code du travail - art. R5221-3 (V)
   - Code du travail - art. R5221-48 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-936 du 30 juillet 2020 - art. 27
 
 
 ##### Sous-section 6 :  La carte de séjour pluriannuelle délivrée aux bénéficiaires du statut d'apatride et aux membres de leur famille<a id=50></a>
@@ -5803,7 +5804,9 @@ partenaires ;
 5° A ses ascendants directs au premier degré si l'étranger qui a obtenu le statut d'apatride est un mineur non marié.
 
 La carte délivrée en application du 1° du présent article porte la mention “ bénéficiaire du statut d'apatride ”. La carte
-délivrée en application des 2° à 5° porte la mention “ membre de la famille d'un bénéficiaire du statut d'apatride ”.
+délivrée en application des 2° à 5° porte la mention “ membre de la famille d'un bénéficiaire du statut d'apatride ”. La
+carte délivrée en application du 3° ne peut être retirée par l'autorité administrative en application de l'article L. 313-5-1
+lorsque la communauté de vie a été rompue en raison de violences familiales ou conjugales.
 
 Cette carte donne droit à l'exercice d'une activité professionnelle.
 
@@ -5814,10 +5817,6 @@ fixée par décret en Conseil d'Etat, au plus tard le 1er mars 2019 et s'appliqu
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2018-778 du 10 septembre 2018 - art. 1
-
 _Cité par_:
 
   - Décret n°2019-141 du 27 février 2019 - art. 37
@@ -5825,6 +5824,10 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. R313-75-2 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. R812-3 (V)
   - Code de la sécurité sociale. - art. L512-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-936 du 30 juillet 2020 - art. 27
 
 
 ##### Sous-section  7 : La carte de séjour pluriannuelle portant la mention “ étudiant-programme de mobilité ”<a id=51></a>
@@ -6568,6 +6571,9 @@ L'enfant visé aux 2°, 8° et 9° du présent article s'entend de l'enfant ayan
 l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité
 de cette décision lorsqu'elle a été prononcée à l'étranger.
 
+L'autorité administrative ne peut procéder au retrait de la carte délivrée en application du b du 8° lorsque la communauté de
+vie a été rompue en raison de violences familiales ou conjugales.
+
 **Nota:**
 
 Conformément au IV de l'article 71 de la loi n° 2018-778 du 10 septembre 2018, ces dispositions, telles qu'elles résultent de
@@ -6602,7 +6608,7 @@ _Cité par_:
   - Code de l'entrée et du séjour des étrangers et ... - art. L314-8 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L314-8-2 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. L321-4 (VD)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L411-4 (M)
+  - Code de l'entrée et du séjour des étrangers et ... - art. L411-4 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L511-5 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L742-6 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L812-5 (V)
@@ -6626,12 +6632,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-778 du 10 septembre 2018 - art. 2
+  - Loi n°2020-936 du 30 juillet 2020 - art. 27
 
 _Cite_:
 
-  - Code de l'entrée et du séjour des étrangers et ... - art. L752-1 (VD)
   - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L316-1
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L752-1
 
 
 ###### Article L314-12
@@ -7339,8 +7345,8 @@ _Codifié par_:
 
 ###### Article L411-4
 
-L'enfant pouvant bénéficier du regroupement familial est celui qui répond à la définition donnée au dernier alinéa de
-l'article L. 314-11. 
+L'enfant pouvant bénéficier du regroupement familial est celui qui répond à la définition donnée à l'avant-dernier alinéa de
+l'article L. 314-11.
 
 Le regroupement familial est sollicité pour l'ensemble des personnes désignées aux articles L. 411-1 à L. 411-3. Un
 regroupement partiel peut être autorisé pour des motifs tenant à l'intérêt des enfants.
@@ -7353,13 +7359,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1248 2004-11-24 JORF 25 novembre 2004
-  - Loi n°2006-911 2006-07-24 art. 120 JORF 25 juillet 2006 (Ratification)
+  - Ordonnance n°2004-1248 du 24 novembre 2004
+  - Loi n°2006-911 du 24 juillet 2006
+
+_Modifié par_:
+
+  - Loi n°2020-936 du 30 juillet 2020 - art. 27
 
 _Cite_:
 
   - Code de l'entrée et du séjour des étrangers et ... - art. L314-11 (V)
-  - Code de l'entrée et du séjour des étrangers et ... - art. L411-1 (V)
+  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L411-1
 
 
 ###### Article L411-5
